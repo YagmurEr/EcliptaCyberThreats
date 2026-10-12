@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-12T13:48:25+00:00",
+ "guncelleme": "2026-10-12T22:30:51+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -32,6 +32,14 @@
    "grup": "Genel"
   },
   {
+   "id": "ef7595ad07b8",
+   "tarih": "2026-10-12",
+   "kaynak": "SecurityWeek",
+   "baslik": "IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion",
+   "url": "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/",
+   "grup": "Genel"
+  },
+  {
    "id": "d261b6b9e669",
    "tarih": "2026-10-12",
    "kaynak": "The Hacker News",
@@ -40,11 +48,43 @@
    "grup": "Genel"
   },
   {
+   "id": "d0137ba408da",
+   "tarih": "2026-10-12",
+   "kaynak": "BleepingComputer",
+   "baslik": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
+   "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+   "grup": "Genel"
+  },
+  {
    "id": "9ce734d52cda",
    "tarih": "2026-10-12",
    "kaynak": "SecurityWeek",
    "baslik": "Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe",
    "url": "https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/",
+   "grup": "Genel"
+  },
+  {
+   "id": "8d0ac34c06d5",
+   "tarih": "2026-10-12",
+   "kaynak": "BleepingComputer",
+   "baslik": "Yandex confirms service outage as users lose access to cloud files",
+   "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+   "grup": "Genel"
+  },
+  {
+   "id": "8bf2f9414a62",
+   "tarih": "2026-10-12",
+   "kaynak": "BleepingComputer",
+   "baslik": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+   "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+   "grup": "Genel"
+  },
+  {
+   "id": "8ba9b8e7a12a",
+   "tarih": "2026-10-12",
+   "kaynak": "BleepingComputer",
+   "baslik": "Anthropic takes risky AI tests offline after models breach govt sites",
+   "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
    "grup": "Genel"
   },
   {
@@ -88,12 +128,44 @@
    "grup": "Genel"
   },
   {
+   "id": "7a7fbf93e11c",
+   "tarih": "2026-10-12",
+   "kaynak": "BleepingComputer",
+   "baslik": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+   "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+   "grup": "Genel"
+  },
+  {
+   "id": "6e33620606a0",
+   "tarih": "2026-10-12",
+   "kaynak": "The Hacker News",
+   "baslik": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+   "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+   "grup": "Genel"
+  },
+  {
+   "id": "6c920079ad82",
+   "tarih": "2026-10-12",
+   "kaynak": "Schneier on Security",
+   "baslik": "FBI Arrests Suspect in FBI-Hacking Case",
+   "url": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
+   "grup": "Genel"
+  },
+  {
    "id": "5ffff8d173ed",
    "tarih": "2026-10-12",
    "kaynak": "SecurityWeek",
    "baslik": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
    "url": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
    "grup": "WordPress"
+  },
+  {
+   "id": "5ae29bf7b51a",
+   "tarih": "2026-10-12",
+   "kaynak": "BleepingComputer",
+   "baslik": "Cyberattack shuts down refrigerators at French supermarkets",
+   "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+   "grup": "Genel"
   },
   {
    "id": "5124492cfbfb",
@@ -109,6 +181,14 @@
    "kaynak": "SecurityWeek",
    "baslik": "iRhythm Data Breach Impacts at Least 360,000 People",
    "url": "https://www.securityweek.com/irhythm-data-breach-impacts-over-360000-people/",
+   "grup": "Genel"
+  },
+  {
+   "id": "28da8c245f5d",
+   "tarih": "2026-10-12",
+   "kaynak": "BleepingComputer",
+   "baslik": "Ledger confirms spy chip implant behind wallet crypto thefts",
+   "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
    "grup": "Genel"
   },
   {
@@ -277,86 +357,6 @@
    "kaynak": "SecurityWeek",
    "baslik": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years",
    "url": "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
-   "grup": "Genel"
-  },
-  {
-   "id": "a107c9394b7b",
-   "tarih": "2026-10-09",
-   "kaynak": "BleepingComputer",
-   "baslik": "Germany arrests alleged core Qilin ransomware member after extradition",
-   "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-   "grup": "Genel"
-  },
-  {
-   "id": "83f8612997a5",
-   "tarih": "2026-10-09",
-   "kaynak": "The Hacker News",
-   "baslik": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-   "url": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-   "grup": "Genel"
-  },
-  {
-   "id": "787e17da78c4",
-   "tarih": "2026-10-09",
-   "kaynak": "BleepingComputer",
-   "baslik": "Microsoft: Outdated Windows devices will stop receiving security updates",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
-   "grup": "Genel"
-  },
-  {
-   "id": "55864660cd86",
-   "tarih": "2026-10-09",
-   "kaynak": "The Hacker News",
-   "baslik": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-   "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-   "grup": "Genel"
-  },
-  {
-   "id": "5448277fa97e",
-   "tarih": "2026-10-09",
-   "kaynak": "The Hacker News",
-   "baslik": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
-   "url": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
-   "grup": "Genel"
-  },
-  {
-   "id": "43d8a91bc2a7",
-   "tarih": "2026-10-09",
-   "kaynak": "The Hacker News",
-   "baslik": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
-   "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
-   "grup": "Genel"
-  },
-  {
-   "id": "3e81c73975d2",
-   "tarih": "2026-10-09",
-   "kaynak": "BleepingComputer",
-   "baslik": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-   "grup": "Genel"
-  },
-  {
-   "id": "32035cdf444d",
-   "tarih": "2026-10-09",
-   "kaynak": "BleepingComputer",
-   "baslik": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-   "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-   "grup": "Genel"
-  },
-  {
-   "id": "313976c42503",
-   "tarih": "2026-10-09",
-   "kaynak": "The Hacker News",
-   "baslik": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
-   "url": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
-   "grup": "Genel"
-  },
-  {
-   "id": "2ce4fb4e00ce",
-   "tarih": "2026-10-09",
-   "kaynak": "The Hacker News",
-   "baslik": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-   "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
    "grup": "Genel"
   },
   {
