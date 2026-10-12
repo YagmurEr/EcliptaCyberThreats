@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SiberGündem | Eclipta</title>
+<meta name="description" content="Fortinet, Check Point, Cisco, Juniper, Aruba, Huawei ve WordPress için aktif istismar edilen zafiyetler, EPSS önceliklendirmesi, siber güvenlik haberleri ve KVKK veri ihlali bildirimleri.">
+<meta name="theme-color" content="#0E3049">
+<meta property="og:title" content="SiberGündem | Eclipta">
+<meta property="og:description" content="Kurumsal ağ ve güvenlik ürünlerinde aktif istismar edilen zafiyetler, EPSS önceliklendirmesi ve KVKK veri ihlali bildirimleri.">
+<meta property="og:url" content="https://eclipta.tr/SiberGundem/">
+<meta property="og:image" content="https://eclipta.tr/img/og-image.png">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="canonical" href="https://eclipta.tr/SiberGundem/">
+<!--
+  ┌─────────────────────────────────────────────────────────────────┐
+  │  ENTEGRASYON NOTU                                               │
+  │  Bu dosya eclipta.tr/SiberGundem/index.html olarak kullanılır.  │
+  │  Sitenin mevcut navbar ve footer HTML'ini aşağıdaki             │
+  │  NAVBAR ve FOOTER işaretli yerlere yapıştırın.                  │
+  │  Sitenin CSS dosyasını (style.css) da <link> ile ekleyin.       │
+  └─────────────────────────────────────────────────────────────────┘
+-->
+<!-- <link rel="stylesheet" href="/css/style.css"> -->
+<style>
+html, body { margin: 0; background: #0E3049; color: #E2E8F0; }
+.kv {
+  --e-navy: #E2E8F0; --e-cyan: #00B4D8; --e-orange: #E8863A;
+  --e-bg: #0E3049; --e-card: rgba(255,255,255,0.06); --e-line: rgba(255,255,255,0.10);
+  --e-text: #E2E8F0; --e-muted: #94A3B8;
+  --e-red: #EF4444; --e-redbg: rgba(239,68,68,0.12); --e-orbg: rgba(232,134,58,0.12); --e-cybg: rgba(0,180,216,0.12);
+  --e-font: "Inter", "Segoe UI", "Helvetica Neue", Arial, system-ui, sans-serif;
+  font-family: var(--e-font); color: var(--e-text); background: var(--e-bg);
+  padding: clamp(16px, 3vw, 40px); display: flex; flex-direction: column; gap: 28px;
+  color-scheme: dark;
+}
+.kv * { box-sizing: border-box; }
+.kv .kv-wrap { max-width: 1280px; width: 100%; margin-inline: auto; display: flex; flex-direction: column; gap: 28px; }
+.kv-hero { background: linear-gradient(120deg, rgba(0,180,216,0.08) 0%, rgba(255,255,255,0.03) 55%, rgba(232,134,58,0.06) 100%); border: 1px solid var(--e-line); border-radius: 16px; padding: clamp(20px, 3vw, 36px); position: relative; overflow: hidden; }
+.kv-hero::after { content: ""; position: absolute; right: -60px; top: -60px; width: 220px; height: 220px; border-radius: 50%; background: radial-gradient(circle at 35% 35%, rgba(0,180,216,.12), rgba(0,180,216,0) 70%); }
+.kv-eyebrow { font-size: 12px; letter-spacing: .14em; font-weight: 700; color: var(--e-cyan); text-transform: uppercase; margin: 0 0 10px; }
+.kv-hero h1 { margin: 0 0 12px; font-size: clamp(24px, 3.2vw, 36px); line-height: 1.15; font-weight: 700; color: #fff; letter-spacing: -.01em; }
+.kv-hero p { margin: 0; max-width: 62rem; font-size: 16px; line-height: 1.55; color: var(--e-muted); }
+.kv-hero p b { color: #fff; font-weight: 700; }
+.kv-meta { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 18px; }
+.kv-pill { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 600; padding: 5px 10px; border-radius: 999px; background: rgba(255,255,255,0.06); border: 1px solid var(--e-line); color: var(--e-muted); }
+.kv-pill::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--e-cyan); }
+.kv-pill b { color: #fff; }
+.kv-h2 { margin: 0; font-size: 20px; font-weight: 700; color: #fff; }
+.kv-lead { margin: 4px 0 14px; font-size: 14px; color: var(--e-muted); line-height: 1.5; }
+.kv-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr)); gap: 16px; }
+.kv-grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 26rem), 1fr)); gap: 16px; }
+.kv-card { background: var(--e-card); border: 1px solid var(--e-line); border-radius: 14px; padding: 20px; position: relative; min-width: 0; box-shadow: 0 2px 12px rgba(0,0,0,0.15); backdrop-filter: blur(6px); }
+.kv-card h3 { margin: 0; font-size: 16px; font-weight: 700; color: #fff; }
+.kv-note { margin: 4px 0 14px; font-size: 13px; color: var(--e-muted); line-height: 1.45; }
+.kv-prod { border-top: 4px solid var(--gc); }
+.kv-big { font-size: 44px; font-weight: 700; line-height: 1; color: #fff; font-variant-numeric: tabular-nums; min-height: 44px; letter-spacing: -.02em; }
+.kv-bigl { font-size: 13px; color: var(--e-muted); margin-top: 6px; }
+.kv-bigl b { color: #fff; }
+.kv-sub { display: grid; grid-template-columns: auto 1fr; gap: 8px 12px; margin: 16px 0 0; padding-top: 14px; border-top: 1px dashed var(--e-line); font-size: 13px; }
+.kv-sub dt { color: var(--e-muted); }
+.kv-sub dd { margin: 0; text-align: right; font-weight: 600; color: #fff; font-variant-numeric: tabular-nums; }
+.kv .kv-hot { color: var(--e-orange); }
+.kv-tools { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 14px; }
+.kv-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.kv-chip { font: inherit; font-size: 13px; font-weight: 600; padding: 7px 14px; border-radius: 999px; border: 1px solid var(--e-line); background: transparent; color: var(--e-muted); cursor: pointer; transition: all .15s; }
+.kv-chip:hover { border-color: var(--e-cyan); color: #fff; }
+.kv-chip[aria-pressed="true"] { background: var(--e-cyan); color: #0E3049; border-color: var(--e-cyan); }
+.kv-search { font: inherit; font-size: 13px; padding: 8px 12px; border: 1px solid var(--e-line); border-radius: 10px; background: rgba(255,255,255,0.06); color: var(--e-text); margin-left: auto; min-width: 15rem; }
+.kv-search:focus { outline: 2px solid var(--e-cyan); outline-offset: 1px; }
+.kv-search::placeholder { color: var(--e-muted); }
+.kv-news { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 22rem), 1fr)); gap: 14px; min-height: 160px; }
+.kv-item { background: var(--e-card); border: 1px solid var(--e-line); border-left: 4px solid var(--gc); border-radius: 12px; padding: 16px 18px; display: flex; flex-direction: column; gap: 8px; }
+.kv-itop { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 12px; color: var(--e-muted); }
+.kv-tag { font-size: 11px; font-weight: 700; padding: 3px 8px; border-radius: 6px; letter-spacing: .02em; }
+.kv-tag.k { background: var(--e-redbg); color: var(--e-red); }
+.kv-tag.y { background: var(--e-orbg); color: #E8863A; }
+.kv-tag.g { background: var(--e-cybg); color: #00B4D8; }
+.kv-tag.c { background: rgba(255,255,255,0.08); color: #94A3B8; font-family: ui-monospace, Menlo, Consolas, monospace; font-weight: 600; }
+.kv-item a { color: #fff; font-weight: 700; font-size: 15px; line-height: 1.35; text-decoration: none; }
+.kv-item a:hover { color: var(--e-cyan); text-decoration: underline; }
+.kv-item p { margin: 0; font-size: 13.5px; line-height: 1.5; color: var(--e-muted); }
+.kv-src { font-size: 12px; font-weight: 600; color: #fff; }
+.kv-chart { min-height: 250px; }
+.kv-legend { display: flex; flex-wrap: wrap; gap: 14px; font-size: 12px; color: var(--e-muted); margin-bottom: 8px; }
+.kv-legend span::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; background: var(--sw); }
+.kv-tip { position: absolute; pointer-events: none; background: #1A3A54; border: 1px solid var(--e-line); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,.3); padding: 8px 10px; font-size: 12px; display: none; z-index: 2; white-space: nowrap; color: var(--e-text); }
+.kv-tip .t { color: var(--e-muted); margin-bottom: 3px; font-weight: 600; }
+.kv-tip i { display: inline-block; width: 9px; height: 9px; border-radius: 2px; margin-right: 6px; }
+.kv-tablebox { max-height: 34rem; overflow: auto; border: 1px solid var(--e-line); border-radius: 10px; }
+.kv-table { width: 100%; border-collapse: collapse; font-size: 13px; font-variant-numeric: tabular-nums; }
+.kv-table th { position: sticky; top: 0; background: rgba(14,48,73,0.95); text-align: left; font-weight: 700; color: #fff; padding: 10px 12px; border-bottom: 1px solid var(--e-line); cursor: pointer; white-space: nowrap; font-size: 12px; backdrop-filter: blur(4px); }
+.kv-table th[aria-sort="ascending"]::after { content: " ▲"; color: var(--e-cyan); }
+.kv-table th[aria-sort="descending"]::after { content: " ▼"; color: var(--e-cyan); }
+.kv-table td { padding: 9px 12px; border-bottom: 1px solid var(--e-line); vertical-align: top; color: var(--e-text); }
+.kv-table tbody tr:hover td { background: rgba(0,180,216,0.05); }
+.kv-table td:first-child { white-space: nowrap; font-weight: 700; color: var(--e-cyan); font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 12.5px; }
+.kv-table td.kv-r { color: var(--e-red); font-weight: 700; }
+.kv-table td a { color: #fff; text-decoration: none; }
+.kv-table td a:hover { color: var(--e-cyan); text-decoration: underline; }
+.kv-table.kv-k td:first-child { font-family: var(--e-font); font-size: 13px; white-space: normal; color: #fff; }
+.kv-kpi .kv-big { font-size: 40px; }
+.kv-hbars { display: flex; flex-direction: column; gap: 10px; min-height: 200px; }
+.kv-hrow { display: grid; grid-template-columns: minmax(8rem, 16rem) 1fr auto; gap: 10px; align-items: center; font-size: 13px; }
+.kv-hrow .l { color: var(--e-text); line-height: 1.3; }
+.kv-hrow .t { background: rgba(255,255,255,0.06); border-radius: 6px; height: 14px; overflow: hidden; }
+.kv-hrow .b { height: 100%; border-radius: 6px; background: var(--bc, var(--e-cyan)); }
+.kv-hrow .b.est { background: repeating-linear-gradient(45deg, var(--bc), var(--bc) 6px, rgba(0,0,0,.25) 6px, rgba(0,0,0,.25) 10px); }
+.kv-hrow .v { font-weight: 700; color: #fff; font-variant-numeric: tabular-nums; min-width: 3.5rem; text-align: right; }
+.kv-warn { background: rgba(232,134,58,0.1); border: 1px solid rgba(232,134,58,0.25); color: #E8863A; border-radius: 10px; padding: 10px 14px; font-size: 13px; line-height: 1.5; margin: 0 0 14px; }
+.kv-foot { font-size: 12px; color: var(--e-muted); text-align: center; line-height: 1.6; }
+.kv-foot b { color: #fff; }
+.kv-foot a { color: var(--e-cyan); }
+.kv-err { color: var(--e-muted); font-size: 13px; padding: 18px; text-align: center; }
+.kv-err::before { content: ""; display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: var(--e-red); margin-right: 6px; vertical-align: middle; }
+.kv-sk { background: linear-gradient(90deg, rgba(255,255,255,0.04) 25%, rgba(255,255,255,0.08) 50%, rgba(255,255,255,0.04) 75%); background-size: 200% 100%; animation: kvsk 1.4s infinite; border-radius: 8px; color: transparent !important; }
+@keyframes kvsk { to { background-position: -200% 0; } }
+@media (prefers-reduced-motion: reduce) { .kv-sk { animation: none; } }
+.kv-chart svg { display: block; width: 100%; height: auto; }
+.kv-auto { font-size: 11px; font-weight: 600; color: var(--e-muted); background: rgba(255,255,255,0.08); padding: 3px 8px; border-radius: 6px; }
+@media (max-width: 640px) { .kv-hide-n { display: none; } .kv-search { margin-left: 0; width: 100%; min-width: 0; } .kv-big { font-size: 36px; } }
+
+.kv-hero-sub { margin: 6px 0 0; font-size: 15px; line-height: 1.5; color: #94A3B8; max-width: 52rem; }
+</style>
+</head>
+<body>
+
+<!-- ===== NAVBAR: Sitenizin mevcut navbar HTML'ini buraya yapıştırın ===== -->
+<!--
+<nav class="navbar">
+  <a href="https://eclipta.tr/">ECLIPTA</a>
+  <a href="/hakkimizda">Hakkımızda</a>
+  <a href="/hizmetler">Hizmetler</a>
+  <a href="/cozumler">Çözümler</a>
+  <a href="/blog">Blog</a>
+  <a href="/SiberGundem" class="active">SiberGündem</a>
+</nav>
+-->
+<!-- ===== NAVBAR SONU ===== -->
+
+<noscript><p style="padding:24px;font-family:sans-serif;color:#94A3B8">Bu sayfa güncel tehdit verilerini göstermek için JavaScript kullanır.</p></noscript>
+<div class="kv"><div class="kv-wrap">
+  <header class="kv-hero" id="ozet">
+    <p class="kv-eyebrow">Eclipta · SiberGündem</p>
+    <h1>SiberGündem</h1>
+    <p class="kv-hero-sub">Ağ ve güvenlik platformlarında aktif istismar edilen zafiyetler, siber güvenlik haberleri ve KVKK veri ihlali bildirimleri</p>
+    <p id="kv-takeaway"><span class="kv-sk">Veriler yükleniyor…</span></p>
+    <div class="kv-meta" id="kv-meta"></div>
+  </header>
+
+  <section>
+    <h2 class="kv-h2" id="urunler">Ürün bazında durum</h2>
+    <p class="kv-lead">CISA KEV kataloğunda yer alan, gerçek saldırılarda kullanıldığı doğrulanmış zafiyetler. "Son 90 gün" ve "son tarihi geçen" değerleri katalog tarihine göre hesaplanır.</p>
+    <div class="kv-grid" id="kv-cards"></div>
+  </section>
+
+  <div class="kv-card">
+    <h3 id="oncelik">Öncelik sırası: istismar olasılığı en yüksek kayıtlar</h3>
+    <p class="kv-note">Son 12 ayda KEV'e eklenen izlenen marka kayıtları, EPSS skoruna göre sıralı. EPSS, bir açığın önümüzdeki 30 günde istismar girişimlerinde görülme olasılığını tahmin eder; CVSS teknik ciddiyeti gösterir.</p>
+    <div class="kv-tablebox" style="max-height:none">
+      <table class="kv-table" id="kv-otable">
+        <thead><tr><th>CVE</th><th>Marka</th><th class="kv-hide-n">Ürün</th><th>EPSS %</th><th>CVSS</th><th class="kv-hide-n">Eklenme</th><th>Durum</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+  <section>
+    <h2 class="kv-h2" id="haberler">Güncel gelişmeler</h2>
+    <p class="kv-lead">Yerli ve yabancı siber güvenlik yayınlarından derlenen haberler. Özetli haberler Eclipta tarafından Türkçe hazırlanmıştır; "Otomatik" etiketli başlıklar kaynakların RSS akışlarından gün içinde güncellenir.</p>
+    <div class="kv-tools"><div class="kv-chips" id="kv-chips"></div></div>
+    <div class="kv-news" id="kv-news"></div>
+  </section>
+
+  <section id="kvkk">
+    <h2 class="kv-h2">KVKK Veri İhlali Bildirimleri</h2>
+    <p class="kv-lead">Kişisel Verileri Koruma Kurulunun 6698 sayılı Kanun md. 12/5 kapsamında Kurum internet sitesinde ilan ettiği veri ihlali bildirimleri. Kurul, 2025/2451 sayılı kararla bildirimlerin en fazla 60 gün yayımlanmasına karar verdiğinden bu bölüm de yalnızca son iki ayı gösterir.</p>
+    <p class="kv-warn">Sayılar Kurum duyuruları ve basın derlemelerinden hazırlanmıştır. Taralı çubuklar ve "≥" işareti kesinleşmemiş (asgari) sayıları gösterir.</p>
+    <div class="kv-grid" style="margin-bottom:16px" id="kv-kkpi"></div>
+    <div class="kv-grid2" style="margin-bottom:16px">
+      <div class="kv-card"><h3>İlan günlerine göre bildirim sayısı</h3><p class="kv-note">Kurul her hafta çarşamba günü toplu ilan yapıyor</p><div class="kv-hbars" id="kv-ilan"></div></div>
+      <div class="kv-card"><h3>Saldırı tipleri</h3><p class="kv-note">Öne çıkan bildirimlerde Kurum duyurusunda belirtilen saldırı yöntemi</p><div class="kv-hbars" id="kv-tur"></div></div>
+    </div>
+    <div class="kv-card" style="margin-bottom:16px">
+      <h3>İlan günlerine göre saldırı ve veri tipleri</h3>
+      <p class="kv-note">Her ilan gününde yayımlanan bildirimlerin öne çıkan saldırı yöntemleri ve sızan veri tipleri.</p>
+      <div class="kv-tablebox" style="max-height:none">
+        <table class="kv-table kv-k" id="kv-gtable"><thead><tr><th>İlan</th><th>Bildirim</th><th>Saldırı tipleri</th><th>Sızan veri tipleri</th></tr></thead><tbody></tbody></table>
+      </div>
+    </div>
+    <div class="kv-card" style="margin-bottom:16px">
+      <h3>Sızan veri kategorileri</h3>
+      <p class="kv-note">Kurum duyurularındaki kategori adlarıyla, öne çıkan bildirimlerde her kategorinin kaç bildirimde yer aldığı.</p>
+      <div class="kv-hbars" id="kv-veri" style="min-height:160px"></div>
+      <p class="kv-note" style="margin:12px 0 0">İşlem güvenliği: parola, kullanıcı giriş bilgisi ve yönetim paneli hesapları gibi kimlik doğrulama verileri.</p>
+    </div>
+    <div class="kv-card">
+      <h3>Öne çıkan bildirimler (son iki ay)</h3>
+      <p class="kv-note">Veri sorumlusu adına tıklayarak Kurum duyurusuna veya ilgili habere ulaşabilirsiniz.</p>
+      <div class="kv-tablebox">
+        <table class="kv-table kv-k" id="kv-ktable"><thead><tr><th>Veri sorumlusu</th><th>İlan</th><th class="kv-hide-n">Sektör</th><th>Saldırı tipi</th><th>Sızan veriler</th><th class="kv-hide-n">Etkilenen</th><th class="kv-hide-n">Kurul kararı</th></tr></thead><tbody></tbody></table>
+      </div>
+    </div>
+  </section>
+
+  <div class="kv-grid2">
+    <div class="kv-card">
+      <h3>Yıllara göre yeni istismar kayıtları</h3>
+      <p class="kv-note">İzlenen markalar için KEV'e eklenen kayıt sayısı (yığılmış)</p>
+      <div class="kv-legend" id="kv-leg-y"></div>
+      <div class="kv-chart" id="kv-yearly"></div>
+      <div class="kv-tip" id="kv-tip-y"></div>
+    </div>
+    <div class="kv-card">
+      <h3>Küresel bağlam: aylık KEV eklemeleri</h3>
+      <p class="kv-note">Son 24 ay; tüm katalog ve izlenen ürünlerin payı</p>
+      <div class="kv-legend" id="kv-leg-m"></div>
+      <div class="kv-chart" id="kv-monthly"></div>
+      <div class="kv-tip" id="kv-tip-m"></div>
+    </div>
+  </div>
+
+  <div class="kv-card">
+    <h3 id="kayitlar">İzlenen ürünlerin KEV kayıtları</h3>
+    <p class="kv-note">En yeni kayıt üstte. "Son tarih", CISA'nın ABD federal kurumları için belirlediği düzeltme tarihidir; kurumunuz için öncelik göstergesi olarak okunabilir. Ürün filtresi bu tabloyu da etkiler. Başlıklara tıklayarak sıralayabilirsiniz.</p>
+    <div class="kv-tools"><input class="kv-search" id="kv-q" type="search" maxlength="80" placeholder="CVE, ürün veya zafiyet ara…" aria-label="Kayıtlarda ara"></div>
+    <div class="kv-tablebox">
+      <table class="kv-table" id="kv-table">
+        <thead><tr>
+          <th data-k="cveID">CVE</th><th data-k="grup">Grup</th><th data-k="urun">Ürün</th><th data-k="zafiyet" class="kv-hide-n">Zafiyet</th>
+          <th data-k="eklenme">Eklenme</th><th data-k="sonTarih" class="kv-hide-n">Son tarih</th><th data-k="cvss">CVSS</th><th data-k="epssYuzde">EPSS %</th><th data-k="fidye">Fidye yazılımı</th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+  <footer class="kv-foot" id="kv-foot"><b>Eclipta</b> · Gölgede kalan riskleri birlikte aydınlatalım<br>Bu sayfa kamuya açık kaynaklardan derlenen bilgilendirme amaçlı bir özettir; kurumunuza özgü risk değerlendirmesinin yerine geçmez.<br><span id="kv-kaynak"></span></footer>
+</div></div>
+<script>
+(() => {
+  'use strict';
+  // Kurulumda Claude Code bu adresi GitHub kullanıcı adınızla günceller.
+  const VERI_ADRESI = 'https://YagmurEr.github.io/EcliptaCyberThreats/data/';
+
+  const EK_RENK = { 'Türkiye': '#9F1239', 'Genel': '#64748B' };
+  const S_RENK = { 'Fidye yazılımı': '#C8372D', 'Veri işleyen sistemine yetkisiz erişim': '#E8863A', 'Üçüncü taraf yazılım kütüphanesi zafiyeti': '#B4611F', 'Sosyal mühendislik / oltalama': '#7C5CBF', 'Kendi sistemine yetkisiz erişim': '#0E3049', 'Sunucuya siber saldırı': '#1F6FB2' };
+  const V_RENK = { 'Kimlik': '#0E3049', 'İletişim': '#00B4D8', 'İşlem güvenliği': '#C8372D', 'Finans': '#E8863A', 'Lokasyon': '#2E9E6B', 'Müşteri işlem': '#7C5CBF', 'Özlük': '#1F6FB2', 'Mesleki deneyim': '#A0522D', 'Görsel ve işitsel kayıtlar': '#9F1239' };
+  const SVG_NS = 'http://www.w3.org/2000/svg';
+  const nf = new Intl.NumberFormat('tr-TR');
+  const $ = id => document.getElementById(id);
+
+  // --- yardımcılar (veri yalnızca textContent ile yazılır; innerHTML kullanılmaz) ---
+  const el = (tag, cls, txt) => { const e = document.createElement(tag); if (cls) e.className = cls; if (txt != null) e.textContent = String(txt); return e; };
+  const svg = (tag, at) => { const e = document.createElementNS(SVG_NS, tag); for (const k in at) e.setAttribute(k, at[k]); return e; };
+  const temizle = n => { while (n.firstChild) n.removeChild(n.firstChild); };
+  const guvenliUrl = u => (typeof u === 'string' && /^https:\/\/[^\s"'<>]+$/i.test(u)) ? u : null;
+  const tarihGecerli = s => typeof s === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(s);
+  const df = s => tarihGecerli(s) ? new Intl.DateTimeFormat('tr-TR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(s + 'T00:00:00Z')) : '—';
+  const dfk = s => tarihGecerli(s) ? new Intl.DateTimeFormat('tr-TR', { day: 'numeric', month: 'short', timeZone: 'UTC' }).format(new Date(s + 'T00:00:00Z')) : '—';
+  const mf = s => new Intl.DateTimeFormat('tr-TR', { month: 'short', year: '2-digit', timeZone: 'UTC' }).format(new Date(s + '-01T00:00:00Z'));
+  const ayAd = s => new Intl.DateTimeFormat('tr-TR', { month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(s + '-01T00:00:00Z'));
+  const gunEksi = (s, n) => new Date(Date.parse(s + 'T00:00:00Z') - n * 864e5).toISOString().slice(0, 10);
+  const yuzde = v => v == null ? '—' : String(v).replace('.', ',');
+  const hata = (kutu, mesaj) => { temizle(kutu); kutu.appendChild(el('div', 'kv-err', mesaj || 'Veri yüklenemedi')); };
+  const link = (metin, url) => { const u = guvenliUrl(url); const a = el(u ? 'a' : 'span', null, metin); if (u) { a.href = u; a.target = '_blank'; a.rel = 'noopener noreferrer'; } return a; };
+
+  async function getir(dosya) {
+    const r = await fetch(VERI_ADRESI + dosya, { cache: 'no-cache', credentials: 'omit', referrerPolicy: 'no-referrer' });
+    if (!r.ok) throw new Error(dosya + ': ' + r.status);
+    return r.json();
+  }
+
+  const D = { kev: null, manuel: null, oto: null, ilan: null, bildirim: null };
+  let GRUPLAR = [];
+  let secili = 'Tümü', sortK = 'eklenme', sortDir = -1;
+  const renk = ad => (GRUPLAR.find(g => g.ad === ad) || {}).renk || EK_RENK[ad] || '#94A3B8';
+
+  // --- grafik yardımcıları ---
+  function hbars(kutu, satirlar, etiket, deger, renkFn, tahmini) {
+    temizle(kutu);
+    const max = Math.max(1, ...satirlar.map(deger));
+    for (const r of satirlar) {
+      const row = el('div', 'kv-hrow');
+      row.appendChild(el('span', 'l', etiket(r)));
+      const t = el('div', 't'); const b = el('div', 'b' + (tahmini && tahmini(r) ? ' est' : ''));
+      b.style.width = Math.max(2, 100 * deger(r) / max) + '%'; b.style.setProperty('--bc', renkFn(r));
+      t.appendChild(b); row.appendChild(t);
+      row.appendChild(el('span', 'v', (tahmini && tahmini(r) ? '≥ ' : '') + nf.format(deger(r))));
+      kutu.appendChild(row);
+    }
+    if (!satirlar.length) kutu.appendChild(el('p', 'kv-note', 'Kayıt yok.'));
+  }
+
+  function sutunGrafik(kutu, ipucu, satirlar, xKey, xFmt, seriler, yigilmis) {
+    temizle(kutu);
+    const W = Math.max(300, kutu.clientWidth || 600), H = 250, mt = 8, mb = 26, mr = 4;
+    const toplam = r => yigilmis ? seriler.reduce((s, x) => s + (r[x.k] || 0), 0) : Math.max(...seriler.map(x => r[x.k] || 0));
+    const hamMax = Math.max(1, ...satirlar.map(toplam));
+    const adim = Math.pow(10, Math.floor(Math.log10(hamMax))) * (hamMax / Math.pow(10, Math.floor(Math.log10(hamMax))) > 5 ? 2 : hamMax / Math.pow(10, Math.floor(Math.log10(hamMax))) > 2 ? 1 : 0.5);
+    const tikAdim = Math.max(1, Math.ceil(adim));
+    const max = Math.ceil(hamMax / tikAdim) * tikAdim;
+    const tikler = []; for (let v = 0; v <= max; v += tikAdim) tikler.push(v);
+    const ml = 10 + 7.5 * String(nf.format(max)).length;
+    const s = svg('svg', { viewBox: `0 0 ${W} ${H}`, role: 'img', 'aria-label': 'Sütun grafiği' });
+    s.style.fontFamily = 'inherit';
+    const y = v => H - mb - (H - mb - mt) * v / max;
+    for (const v of tikler) {
+      s.appendChild(svg('line', { x1: ml, x2: W - mr, y1: y(v), y2: y(v), stroke: v === 0 ? '#C9D3DD' : '#EDF1F5' }));
+      const t = svg('text', { x: ml - 8, y: y(v), dy: '0.32em', 'text-anchor': 'end', fill: '#94A3B8', 'font-size': 12 }); t.textContent = nf.format(v); s.appendChild(t);
+    }
+    const n = satirlar.length, step = (W - mr - ml) / Math.max(1, n), bw = Math.min(30, step * 0.72);
+    const etiketW = Math.max(...satirlar.map(r => xFmt(r[xKey]).length)) * 7 + 10;
+    const her = Math.max(1, Math.ceil(etiketW / step));
+    satirlar.forEach((r, i) => {
+      const cx = ml + step * i + step / 2;
+      if ((n - 1 - i) % her === 0) { const t = svg('text', { x: cx, y: H - 7, 'text-anchor': 'middle', fill: '#94A3B8', 'font-size': 12 }); t.textContent = xFmt(r[xKey]); s.appendChild(t); }
+      if (yigilmis) {
+        let acc = 0;
+        for (const sr of seriler) { const v = r[sr.k] || 0; if (!v) continue; s.appendChild(svg('rect', { x: cx - bw / 2, width: bw, y: y(acc + v), height: Math.max(0, y(acc) - y(acc + v) - 1), fill: sr.c })); acc += v; }
+      } else {
+        for (const sr of seriler) { const v = r[sr.k] || 0; if (v > 0) s.appendChild(svg('rect', { x: cx - bw / 2, width: bw, y: y(v), height: y(0) - y(v), rx: 3, fill: sr.c })); }
+      }
+      const hit = svg('rect', { x: ml + step * i, width: step, y: mt, height: H - mb - mt, fill: 'transparent' });
+      hit.addEventListener('mousemove', ev => {
+        temizle(ipucu); ipucu.appendChild(el('div', 't', xFmt(r[xKey])));
+        for (const sr of seriler) {
+          if (yigilmis && !r[sr.k]) continue;
+          const l = el('div'); const i2 = el('i'); i2.style.background = sr.c; l.appendChild(i2); l.appendChild(document.createTextNode(sr.ad + ': ' + nf.format(r[sr.k] || 0))); ipucu.appendChild(l);
+        }
+        ipucu.style.display = 'block';
+        const kart = ipucu.parentElement.getBoundingClientRect();
+        let left = ev.clientX - kart.left + 14; if (left + ipucu.offsetWidth > kart.width - 8) left = ev.clientX - kart.left - ipucu.offsetWidth - 14;
+        ipucu.style.left = Math.max(8, left) + 'px'; ipucu.style.top = (ev.clientY - kart.top - 10) + 'px';
+      });
+      hit.addEventListener('mouseleave', () => { ipucu.style.display = 'none'; });
+      s.appendChild(hit);
+    });
+    kutu.appendChild(s);
+  }
+
+  // --- KEV türetilmiş özetler ---
+  function ozet() {
+    const k = D.kev, ref = k.katalogTarih, e90 = gunEksi(ref, 90);
+    const grupOzet = rows => ({
+      toplam: rows.length,
+      son90: rows.filter(r => r.eklenme > e90).length,
+      gecen90: rows.filter(r => r.eklenme > e90 && r.sonTarih < ref).length,
+      maxEpss: rows.reduce((m, r) => Math.max(m, r.epssYuzde || 0), 0),
+      fidye: rows.filter(r => r.fidye === 'Biliniyor').length,
+      son: rows[0] || null,
+    });
+    const o = {}; for (const g of GRUPLAR) o[g.ad] = grupOzet(k.kayitlar.filter(r => r.grup === g.ad));
+    o['Tümü'] = grupOzet(k.kayitlar);
+    return o;
+  }
+
+  function cizHero(o) {
+    const p = $('kv-takeaway'); temizle(p);
+    const t = o['Tümü'];
+    p.appendChild(document.createTextNode('Son 90 günde izlenen ürünlerde sahada istismar edildiği doğrulanan '));
+    p.appendChild(el('b', null, nf.format(t.son90)));
+    p.appendChild(document.createTextNode(' yeni zafiyet CISA KEV kataloğuna eklendi. En güncel kayıt '));
+    p.appendChild(el('b', null, t.son ? t.son.cveID : '—'));
+    p.appendChild(document.createTextNode(' (' + (t.son ? t.son.grup + ', ' + df(t.son.eklenme) : '—') + ').'));
+    const m = $('kv-meta'); temizle(m);
+    const pill = txt => m.appendChild(el('span', 'kv-pill', txt));
+    pill('CISA KEV ' + (D.kev.katalogSurum || '') + ' · ' + nf.format(D.kev.toplam) + ' kayıt');
+    pill('Son 90 günde eklenip son tarihi geçen: ' + nf.format(t.gecen90));
+    if (D.kev.epssTarih) pill('EPSS: ' + df(D.kev.epssTarih));
+    if (D.kev.guncelleme) pill('Son güncelleme: ' + new Intl.DateTimeFormat('tr-TR', { dateStyle: 'medium', timeStyle: 'short', timeZone: 'Europe/Istanbul' }).format(new Date(D.kev.guncelleme)));
+  }
+
+  function cizKartlar(o) {
+    const kutu = $('kv-cards'); temizle(kutu);
+    for (const g of GRUPLAR) {
+      const s = o[g.ad];
+      const c = el('div', 'kv-card kv-prod'); c.style.setProperty('--gc', g.renk);
+      c.appendChild(el('h3', null, g.ad)); c.appendChild(el('p', 'kv-note', g.altBaslik));
+      c.appendChild(el('div', 'kv-big', nf.format(s.toplam)));
+      c.appendChild(el('div', 'kv-bigl', s.toplam ? 'Katalogdaki toplam istismar kaydı' : 'KEV kataloğunda kayıt yok; gelişmeler haber akışından izlenir'));
+      const dl = el('dl', 'kv-sub');
+      const satir = (dt, dd, sicak) => { dl.appendChild(el('dt', null, dt)); const d = el('dd', sicak ? 'kv-hot' : null, dd); dl.appendChild(d); };
+      satir('Son 90 gün', nf.format(s.son90), s.son90 > 0);
+      satir('Son tarihi geçen (90 gün)', nf.format(s.gecen90), s.gecen90 > 0);
+      satir('En yüksek EPSS', s.maxEpss ? '%' + yuzde(s.maxEpss) : '—');
+      satir('Fidye yazılımı bağlantılı', nf.format(s.fidye));
+      satir('Son eklenen', s.son ? s.son.cveID : '—');
+      satir('Son ekleme tarihi', s.son ? df(s.son.eklenme) : '—');
+      c.appendChild(dl); kutu.appendChild(c);
+    }
+  }
+
+  function cizOncelik() {
+    const tb = $('kv-otable').tBodies[0]; temizle(tb);
+    const ref = D.kev.katalogTarih, e365 = gunEksi(ref, 365);
+    const rows = D.kev.kayitlar.filter(r => r.eklenme > e365 && r.epssYuzde != null).sort((a, b) => b.epssYuzde - a.epssYuzde).slice(0, 10);
+    for (const r of rows) {
+      const tr = tb.insertRow();
+      const hucre = (v, cls) => { const td = tr.insertCell(); td.textContent = v; if (cls) td.className = cls; return td; };
+      hucre(r.cveID); const g = hucre(r.grup); g.style.color = renk(r.grup); g.style.fontWeight = '700';
+      hucre(r.urun, 'kv-hide-n'); const e = hucre(yuzde(r.epssYuzde)); e.style.fontWeight = '700'; if (r.epssYuzde >= 10) e.classList.add('kv-r');
+      hucre(r.cvss == null ? '—' : yuzde(r.cvss)); hucre(r.eklenme, 'kv-hide-n');
+      const gec = r.sonTarih < ref; hucre(gec ? 'Son tarih geçti' : 'Süre devam ediyor', gec ? 'kv-r' : null);
+    }
+  }
+
+  function cizCipler() {
+    const kutu = $('kv-chips'); temizle(kutu);
+    for (const ad of ['Tümü', ...GRUPLAR.map(g => g.ad), 'Türkiye', 'Genel']) {
+      const b = el('button', 'kv-chip', ad); b.type = 'button'; b.setAttribute('aria-pressed', String(ad === secili));
+      b.addEventListener('click', () => { secili = ad; cizCipler(); cizHaberler(); if (D.kev) cizKevTablo(); });
+      kutu.appendChild(b);
+    }
+  }
+
+  function cizHaberler() {
+    const kutu = $('kv-news'); temizle(kutu);
+    if (!D.manuel && !D.oto) return hata(kutu, 'Haberler yüklenemedi');
+    const goruldu = new Set(); const liste = [];
+    for (const h of (D.manuel ? D.manuel.haberler : [])) { const u = guvenliUrl(h.url); if (u) goruldu.add(u); liste.push(Object.assign({ manuel: true }, h)); }
+    for (const h of (D.oto ? D.oto.haberler : [])) { const u = guvenliUrl(h.url); if (u && !goruldu.has(u)) { goruldu.add(u); liste.push(h); } }
+    const rows = liste.filter(h => tarihGecerli(h.tarih) && (secili === 'Tümü' || h.grup === secili)).sort((a, b) => b.tarih.localeCompare(a.tarih) || (b.manuel ? 1 : 0) - (a.manuel ? 1 : 0)).slice(0, 60);
+    if (!rows.length) return kutu.appendChild(el('p', 'kv-note', 'Bu filtre için kayıtlı haber yok.'));
+    for (const r of rows) {
+      const it = el('article', 'kv-item'); it.style.setProperty('--gc', renk(r.grup));
+      const ust = el('div', 'kv-itop');
+      if (r.manuel) ust.appendChild(el('span', 'kv-tag ' + (r.seviye === 'Kritik' ? 'k' : 'y'), r.seviye || 'Yüksek'));
+      else ust.appendChild(el('span', 'kv-auto', 'Otomatik'));
+      ust.appendChild(el('span', 'kv-tag ' + (r.grup === 'Türkiye' ? 'k' : 'g'), r.grup));
+      if (r.cve && r.cve !== '—') ust.appendChild(el('span', 'kv-tag c', r.cve));
+      it.appendChild(ust);
+      it.appendChild(link(r.baslik, r.url));
+      if (r.ozet) it.appendChild(el('p', null, r.ozet));
+      const alt = el('div', 'kv-itop'); alt.appendChild(el('span', 'kv-src', r.kaynak)); alt.appendChild(document.createTextNode('· ' + df(r.tarih)));
+      it.appendChild(alt); kutu.appendChild(it);
+    }
+  }
+
+  function cizKvkk() {
+    if (!D.ilan || !D.bildirim) {
+      for (const id of ['kv-kkpi', 'kv-ilan', 'kv-tur', 'kv-veri']) hata($(id), 'KVKK verisi yüklenemedi');
+      return;
+    }
+    const ilanlar = D.ilan.ilanlar.filter(r => tarihGecerli(r.tarih));
+    const pencere = [...new Set(ilanlar.map(r => r.tarih.slice(0, 7)))].sort().slice(-2);
+    const ilanP = ilanlar.filter(r => pencere.includes(r.tarih.slice(0, 7)));
+    const bildP = D.bildirim.bildirimler.filter(r => tarihGecerli(r.tarih) && pencere.includes(r.tarih.slice(0, 7)));
+
+    const kpi = $('kv-kkpi'); temizle(kpi);
+    pencere.forEach((ay, i) => {
+      const g = ilanP.filter(r => r.tarih.startsWith(ay));
+      const top = g.reduce((s, r) => s + Number(r.bildirim || 0), 0), kesin = g.every(r => r.kesin === 'Evet');
+      const c = el('div', 'kv-card kv-prod kv-kpi'); c.style.setProperty('--gc', i === pencere.length - 1 ? '#00B4D8' : '#0E3049');
+      c.appendChild(el('h3', null, ayAd(ay))); c.appendChild(el('p', 'kv-note', kesin ? 'Ay içinde ilan edilen bildirim' : 'Şu ana kadar görülen (asgari)'));
+      c.appendChild(el('div', 'kv-big', (kesin ? '' : '≥ ') + nf.format(top))); c.appendChild(el('div', 'kv-bigl', g.length + ' ilan gününde'));
+      kpi.appendChild(c);
+    });
+    const enB = bildP.filter(r => typeof r.etkilenen === 'number').sort((a, b) => b.etkilenen - a.etkilenen)[0];
+    const c3 = el('div', 'kv-card kv-prod kv-kpi'); c3.style.setProperty('--gc', '#E8863A');
+    c3.appendChild(el('h3', null, 'En büyük etkilenme')); c3.appendChild(el('p', 'kv-note', 'Listedeki bildirimler arasında'));
+    c3.appendChild(el('div', 'kv-big', enB ? new Intl.NumberFormat('tr-TR', { notation: 'compact', maximumFractionDigits: 2 }).format(enB.etkilenen) : '—'));
+    c3.appendChild(el('div', 'kv-bigl', enB ? enB.veriSorumlusu : '—')); kpi.appendChild(c3);
+
+    hbars($('kv-ilan'), ilanP.slice().sort((a, b) => a.tarih.localeCompare(b.tarih)), r => dfk(r.tarih), r => Number(r.bildirim || 0),
+      r => r.tarih.startsWith(pencere[pencere.length - 1]) ? '#00B4D8' : '#0E3049', r => r.kesin !== 'Evet');
+
+    const say = (dizi, anahtar) => { const m = new Map(); for (const x of dizi) for (const k of anahtar(x)) m.set(k, (m.get(k) || 0) + 1); return [...m].map(([ad, adet]) => ({ ad, adet })); };
+    hbars($('kv-tur'), say(bildP, r => [r.tur || 'Belirtilmedi']).sort((a, b) => b.adet - a.adet), r => r.ad, r => r.adet, r => S_RENK[r.ad] || '#64748B');
+    const belirsiz = s => s === 'Belirlenemedi' || s === 'Belirtilmedi' || !s;
+    hbars($('kv-veri'), say(bildP, r => belirsiz(r.veriKategorileri) ? ['Belirlenemedi / belirtilmedi'] : String(r.veriKategorileri).split(';').map(s => s.trim()).filter(Boolean))
+      .sort((a, b) => (a.ad.startsWith('Belirlenemedi') ? 1 : 0) - (b.ad.startsWith('Belirlenemedi') ? 1 : 0) || b.adet - a.adet), r => r.ad, r => r.adet, r => V_RENK[r.ad] || '#94A3B8');
+
+    const gb = $('kv-gtable').tBodies[0]; temizle(gb);
+    for (const r of ilanP.slice().sort((a, b) => b.tarih.localeCompare(a.tarih))) {
+      const tr = gb.insertRow();
+      const c0 = tr.insertCell(); c0.textContent = r.tarih; c0.style.whiteSpace = 'nowrap'; c0.style.fontWeight = '700';
+      const c1 = tr.insertCell(); c1.textContent = (r.kesin !== 'Evet' ? '≥ ' : '') + nf.format(Number(r.bildirim || 0)); c1.style.fontWeight = '700';
+      tr.insertCell().textContent = r.saldiriOzet || '—'; tr.insertCell().textContent = r.veriOzet || '—';
+    }
+    const kb = $('kv-ktable').tBodies[0]; temizle(kb);
+    for (const r of bildP.slice().sort((a, b) => b.tarih.localeCompare(a.tarih))) {
+      const tr = kb.insertRow();
+      tr.insertCell().appendChild(link(r.veriSorumlusu, r.url));
+      tr.insertCell().textContent = r.tarih;
+      const s = tr.insertCell(); s.textContent = r.sektor || '—'; s.className = 'kv-hide-n';
+      const t = tr.insertCell(); t.textContent = r.tur || '—'; if (r.tur === 'Fidye yazılımı') t.className = 'kv-r';
+      tr.insertCell().textContent = r.veriDetay || '—';
+      const e = tr.insertCell(); e.textContent = r.etkilenenNot || '—'; e.className = 'kv-hide-n';
+      const k = tr.insertCell(); k.textContent = r.karar || '—'; k.className = 'kv-hide-n';
+    }
+  }
+
+  function cizGrafikler() {
+    const ly = $('kv-leg-y'); temizle(ly);
+    for (const g of GRUPLAR) { const s = el('span', null, g.ad); s.style.setProperty('--sw', g.renk); ly.appendChild(s); }
+    const lm = $('kv-leg-m'); temizle(lm);
+    for (const [t, c] of [['Tüm katalog', 'rgba(148,163,184,0.3)'], ['İzlenen ürünler', '#00B4D8']]) { const s = el('span', null, t); s.style.setProperty('--sw', c); lm.appendChild(s); }
+    const yillar = [...new Set(D.kev.kayitlar.map(r => r.eklenme.slice(0, 4)))].sort();
+    const yillik = yillar.map(y => { const o = { yil: y }; for (const g of GRUPLAR) o[g.ad] = D.kev.kayitlar.filter(r => r.grup === g.ad && r.eklenme.startsWith(y)).length; return o; });
+    sutunGrafik($('kv-yearly'), $('kv-tip-y'), yillik, 'yil', s => s, GRUPLAR.map(g => ({ k: g.ad, ad: g.ad, c: g.renk })), true);
+    sutunGrafik($('kv-monthly'), $('kv-tip-m'), D.kev.aylik, 'ay', mf, [{ k: 'eklenen', ad: 'Tüm katalog', c: 'rgba(148,163,184,0.3)' }, { k: 'izlenen', ad: 'İzlenen ürünler', c: '#00B4D8' }], false);
+  }
+
+  function cizKevTablo() {
+    const tb = $('kv-table').tBodies[0]; temizle(tb);
+    for (const th of $('kv-table').tHead.rows[0].cells) th.setAttribute('aria-sort', th.dataset.k === sortK ? (sortDir > 0 ? 'ascending' : 'descending') : 'none');
+    const grup = GRUPLAR.some(g => g.ad === secili) ? secili : 'Tümü';
+    const ara = $('kv-q').value.trim().toLocaleLowerCase('tr-TR');
+    const rows = D.kev.kayitlar
+      .filter(r => grup === 'Tümü' || r.grup === grup)
+      .filter(r => !ara || [r.cveID, r.urun, r.zafiyet, r.uretici].join(' ').toLocaleLowerCase('tr-TR').includes(ara))
+      .slice().sort((a, b) => {
+        const x = a[sortK], y = b[sortK];
+        if (typeof x === 'number' || typeof y === 'number') return sortDir * ((x == null ? -1 : x) - (y == null ? -1 : y));
+        return sortDir * String(x).localeCompare(String(y), 'tr');
+      });
+    for (const r of rows) {
+      const tr = tb.insertRow();
+      for (const [k, cls] of [['cveID'], ['grup'], ['urun'], ['zafiyet', 'kv-hide-n'], ['eklenme'], ['sonTarih', 'kv-hide-n'], ['cvss'], ['epssYuzde'], ['fidye']]) {
+        const td = tr.insertCell(); const v = r[k];
+        td.textContent = v == null ? '—' : (typeof v === 'number' ? yuzde(v) : v);
+        if (cls) td.className = cls;
+        if ((k === 'fidye' && v === 'Biliniyor') || (k === 'epssYuzde' && v >= 10)) td.classList.add('kv-r');
+      }
+    }
+    if (!rows.length) { const td = tb.insertRow().insertCell(); td.colSpan = 9; td.textContent = 'Bu filtreyle eşleşen kayıt yok.'; td.style.color = '#5E6E7D'; }
+  }
+
+  function kevHata() {
+    for (const id of ['kv-cards', 'kv-yearly', 'kv-monthly']) hata($(id), 'KEV verisi yüklenemedi');
+    temizle($('kv-takeaway')); $('kv-takeaway').textContent = 'Veriler şu anda yüklenemiyor. Lütfen daha sonra tekrar deneyin.';
+  }
+
+  // --- başlatma ---
+  for (const th of $('kv-table').tHead.rows[0].cells) th.addEventListener('click', () => {
+    const k = th.dataset.k; if (sortK === k) sortDir = -sortDir; else { sortK = k; sortDir = ['eklenme', 'sonTarih', 'cvss', 'epssYuzde'].includes(k) ? -1 : 1; }
+    if (D.kev) cizKevTablo();
+  });
+  let araZaman; $('kv-q').addEventListener('input', () => { clearTimeout(araZaman); araZaman = setTimeout(() => D.kev && cizKevTablo(), 150); });
+  let boyutZaman; window.addEventListener('resize', () => { clearTimeout(boyutZaman); boyutZaman = setTimeout(() => D.kev && cizGrafikler(), 200); });
+  cizCipler();
+
+  const al = dosya => getir(dosya).catch(e => { console.warn(e); return null; });
+  Promise.all([al('kev.json'), al('haberler_manuel.json'), al('haberler_otomatik.json'), al('kvkk_ilan.json'), al('kvkk_bildirim.json')])
+    .then(([kev, manuel, oto, ilan, bildirim]) => {
+      Object.assign(D, { kev, manuel, oto, ilan, bildirim });
+      if (kev && Array.isArray(kev.kayitlar)) {
+        GRUPLAR = Array.isArray(kev.gruplar) ? kev.gruplar : [];
+        const o = ozet(); cizHero(o); cizKartlar(o); cizOncelik(); cizGrafikler(); cizKevTablo();
+      } else kevHata();
+      if (!kev || !Array.isArray(kev.kayitlar)) { hata($('kv-otable').parentElement, 'KEV verisi yüklenemedi'); hata($('kv-table').parentElement, 'KEV verisi yüklenemedi'); }
+      cizCipler(); cizHaberler(); cizKvkk();
+      const kaynak = $('kv-kaynak'); temizle(kaynak);
+      kaynak.appendChild(document.createTextNode('Kaynaklar: '));
+      kaynak.appendChild(link('CISA KEV', 'https://www.cisa.gov/known-exploited-vulnerabilities-catalog'));
+      kaynak.appendChild(document.createTextNode(' · '));
+      kaynak.appendChild(link('FIRST EPSS', 'https://www.first.org/epss/'));
+      kaynak.appendChild(document.createTextNode(' · '));
+      kaynak.appendChild(link('KVKK', 'https://www.kvkk.gov.tr/veri-ihlali-bildirimi'));
+    });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0",
+  "date": "2026-10-12",
+  "changelog": [
+    "SiberGündem: eclipta.tr koyu temasına uyarlandı, sayfa adı ve URL güncellendi, navbar/footer entegrasyon notları eklendi",
+    "İlk sürüm: CISA KEV + EPSS + CVSS, 7 marka izleme, RSS haber akışı, KVKK veri ihlali bildirimleri, Eclipta aydınlık tasarım"
+  ]
+}

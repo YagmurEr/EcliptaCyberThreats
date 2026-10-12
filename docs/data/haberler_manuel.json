@@ -1,0 +1,302 @@
+{
+ "aciklama": "Elle eklenen, Türkçe özetli haberler. 'grup' alanı izleme.json'daki grup adlarından biri, 'Türkiye' veya 'Genel' olabilir. 'seviye': Kritik veya Yüksek.",
+ "haberler": [
+  {
+   "id": "h01",
+   "tarih": "2026-10-07",
+   "grup": "Fortinet",
+   "kaynak": "Cybersecurity Dive",
+   "seviye": "Kritik",
+   "cve": "—",
+   "baslik": "FBI ve ABD Gizli Servisi: FortiBleed kampanyası sürüyor, yöneticiler cihazlarından kilitleniyor",
+   "ozet": "6 Ekim tarihli ortak uyarıya göre saldırganlar ele geçirdikleri FortiGate cihazlarında yeni yönetici hesapları açıyor, asıl hesapların parolalarını değiştiriyor ve erişimi fidye yazılımı gruplarına aracı olarak sağlıyor.",
+   "url": "https://www.cybersecuritydive.com/news/fbi-fortibleed-credential-harvesting-attacks/832366/"
+  },
+  {
+   "id": "h02",
+   "tarih": "2026-10-09",
+   "grup": "Fortinet",
+   "kaynak": "Hackread",
+   "seviye": "Kritik",
+   "cve": "—",
+   "baslik": "FortiBleed: 86 binden fazla FortiGate cihazının kimlik bilgisi ele geçirildi",
+   "ozet": "Kampanya bir sıfırıncı gün açığına değil, sızdırılmış parolalarla kimlik doldurma ve parola püskürtmeye dayanıyor. Uyarı; aktif oturumların sonlandırılmasını, parolaların sıfırlanmasını ve yönetim arayüzünün internete kapatılmasını öneriyor.",
+   "url": "https://hackread.com/fbi-fortibleed-campaign-active-fortigate-devices"
+  },
+  {
+   "id": "h03",
+   "tarih": "2026-10-02",
+   "grup": "Fortinet",
+   "kaynak": "The Hacker News",
+   "seviye": "Kritik",
+   "cve": "CVE-2026-104286",
+   "baslik": "FortiMail'de istismar edilen kritik sıfırıncı gün açığı",
+   "ozet": "CVSS 9.8 puanlı yol geçişi açığı, kimlik doğrulaması olmadan e-posta ağ geçidine dosya yazılmasına izin veriyor. CISA açığı KEV kataloğuna ekledi; bazı sürümler için yama yerine geçici önlemler öneriliyor.",
+   "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html"
+  },
+  {
+   "id": "h04",
+   "tarih": "2026-06-18",
+   "grup": "Fortinet",
+   "kaynak": "BleepingComputer",
+   "seviye": "Kritik",
+   "cve": "—",
+   "baslik": "FortiBleed sızıntısı: yaklaşık 74 bin cihazın VPN kimlik bilgileri açığa çıktı",
+   "ozet": "Açık bir sunucuda 194 ülkeden 73.932 güvenlik duvarı adresine ait kullanıcı adı ve düz metin parolalar bulundu. Etkilenen kurumların VPN ve yönetici parolalarını değiştirmesi, MFA zorunlu kılması ve günlükleri incelemesi öneriliyor.",
+   "url": "https://bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices"
+  },
+  {
+   "id": "h05",
+   "tarih": "2026-10-03",
+   "grup": "Check Point",
+   "kaynak": "Threat Frontier",
+   "seviye": "Kritik",
+   "cve": "CVE-2026-93616",
+   "baslik": "Check Point yönetim sunucuları yama öncesinde iki ay boyunca istismar edildi",
+   "ozet": "Yönetim web servisindeki kimlik doğrulama öncesi açık 23 Temmuz'dan itibaren hedefli saldırılarda kullanıldı; düzeltme 22 Eylül'de yayımlandı. Yönetim sunucusunun ele geçirilmesi bağlı tüm ağ geçitlerini dolaylı olarak riske atıyor.",
+   "url": "https://threatfrontier.com/articles/check-point-cve-2026-93616-cve-2026-85102-exploited"
+  },
+  {
+   "id": "h06",
+   "tarih": "2026-09-23",
+   "grup": "Check Point",
+   "kaynak": "BleepingComputer",
+   "seviye": "Kritik",
+   "cve": "CVE-2026-85102",
+   "baslik": "Check Point Security Gateway VPN uzaktan kod çalıştırma açığı saldırılarda kullanılıyor",
+   "ozet": "VPN sertifika işleme bileşenindeki açık 12 Eylül'den bu yana özellikle Spark müşterilerine karşı istismar ediliyor. LivePatch Take 26 veya ilgili Jumbo Hotfix sürümlerinin kurulması öneriliyor.",
+   "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/"
+  },
+  {
+   "id": "h07",
+   "tarih": "2026-09-22",
+   "grup": "Check Point",
+   "kaynak": "Kanada Siber Güvenlik Merkezi",
+   "seviye": "Kritik",
+   "cve": "CVE-2026-85102 / CVE-2026-93616",
+   "baslik": "İki Check Point açığı CISA KEV kataloğuna eklendi",
+   "ozet": "Ağ geçidi VPN açığı ile yönetim sunucusu açığı aynı gün KEV'e girdi. R81.x, R82 ve R82.10 sürümleri etkileniyor; destek süresi dolmuş sürümler için yükseltme planlanması gerekiyor.",
+   "url": "https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-902"
+  },
+  {
+   "id": "h08",
+   "tarih": "2026-09-28",
+   "grup": "WordPress",
+   "kaynak": "CrowdSec",
+   "seviye": "Kritik",
+   "cve": "CVE-2026-87902",
+   "baslik": "WordPress çekirdek açığı beş günde 30 bin IP adresinden tarandı",
+   "ozet": "4.7.0 ile 7.1.1 arasındaki tüm sürümleri etkileyen dosya dahil etme açığı yaygın biçimde yoklanıyor. Otomatik güncellemenin gerçekten çalıştığı doğrulanmalı.",
+   "url": "https://www.crowdsec.net/vulntracking-report/cve-2026-87902-wordpress-vulnerability"
+  },
+  {
+   "id": "h09",
+   "tarih": "2026-09-26",
+   "grup": "WordPress",
+   "kaynak": "Security Affairs",
+   "seviye": "Kritik",
+   "cve": "CVE-2026-87902",
+   "baslik": "CISA, WordPress çekirdek açığını KEV kataloğuna ekledi",
+   "ozet": "Saldırganlar açığı pearcmd.php üzerinden zararlı PHP dosyası yazmak için kullanıyor. WordPress 7.1.2 ve eski dallar için yayımlanan güvenlik sürümleri sorunu gideriyor.",
+   "url": "https://securityaffairs.com/?p=199790"
+  },
+  {
+   "id": "h10",
+   "tarih": "2026-09-23",
+   "grup": "WordPress",
+   "kaynak": "Security Affairs",
+   "seviye": "Yüksek",
+   "cve": "CVE-2026-87902",
+   "baslik": "WordPress 7.1.2: kimlik doğrulamasız dosya dahil etme açığı kapatıldı",
+   "ozet": "Sayfa şablonu çözümleme mantığındaki hata her kurulumda dosya dahil etmeye, belirli tema ve sunucu koşullarında ise uzaktan kod çalıştırmaya yol açabiliyor.",
+   "url": "https://securityaffairs.com/?p=199564"
+  },
+  {
+   "id": "h11",
+   "tarih": "2026-09-15",
+   "grup": "WordPress",
+   "kaynak": "BleepingComputer",
+   "seviye": "Kritik",
+   "cve": "CVE-2026-27540",
+   "baslik": "WooCommerce Wholesale Lead Capture eklentisi üzerinden arka kapı yükleniyor",
+   "ozet": "Kimlik doğrulamasız dosya yükleme açığıyla sitelere PHP web kabuğu yerleştiriliyor. Yama aylar önce çıkmış olmasına rağmen istismar sürüyor; 2.0.3.2 veya üzerine güncellenmeli.",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/"
+  },
+  {
+   "id": "h12",
+   "tarih": "2026-09-05",
+   "grup": "WordPress",
+   "kaynak": "SecurityWeek",
+   "seviye": "Kritik",
+   "cve": "CVE-2026-32475",
+   "baslik": "Elementor Pro eklentisindeki açık site ele geçirmede kullanılıyor",
+   "ozet": "Form gönderimlerindeki keyfi dosya yükleme açığı 4.2.1 ve öncesini etkiliyor. Kurulumların yaklaşık üçte ikisinin hâlâ savunmasız sürüm çalıştırdığı bildiriliyor.",
+   "url": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/"
+  },
+  {
+   "id": "h13",
+   "tarih": "2026-09-03",
+   "grup": "WordPress",
+   "kaynak": "SecurityWeek",
+   "seviye": "Yüksek",
+   "cve": "CVE-2026-19949",
+   "baslik": "All-in-One WP Migration eklentisinde 3 milyondan fazla siteyi etkileyen açık",
+   "ozet": "Arşiv geri yükleme işlevindeki ikinci derece SQL enjeksiyonu kod çalıştırmaya kadar uzanabiliyor. Henüz yaygın istismar bildirilmedi; 7.110 sürümüne güncelleme öneriliyor.",
+   "url": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/"
+  },
+  {
+   "id": "h14",
+   "tarih": "2026-10-10",
+   "grup": "Türkiye",
+   "kaynak": "Euronews Türkçe",
+   "seviye": "Yüksek",
+   "cve": "—",
+   "baslik": "YTÜ: saldırıda veri dışarı aktarımı izine rastlanmadı",
+   "ozet": "Üniversite, veri kurtarma firmasıyla yürütülen dokuz günlük çalışmada veri trafiğine rastlanmadığını açıkladı. Kesin sonuç adli bilişim incelemesinin ardından paylaşılacak; KVKK duyurusundaki rakamlarla şeffaflık tartışması sürüyor.",
+   "url": "https://tr.euronews.com/2026/10/10/yildiz-teknik-universitesi-euronews-turkceye-acikladi-siber-saldiri-krizinde-kvkk-eksik-bi"
+  },
+  {
+   "id": "h15",
+   "tarih": "2026-10-08",
+   "grup": "Türkiye",
+   "kaynak": "NTV",
+   "seviye": "Kritik",
+   "cve": "—",
+   "baslik": "Yıldız Teknik Üniversitesi'ne fidye yazılımı saldırısı",
+   "ozet": "1 Ekim'den bu yana süren erişim sorunlarının siber saldırı kaynaklı olduğu, KVKK'nın 7 Ekim duyurusuyla netleşti. Yaklaşık 140 bin öğrenci ve 4.500 personelin etkilenmiş olabileceği bildirildi.",
+   "url": "https://ntv.com.tr/turkiye/yildiz-teknik-universitesine-siber-saldiri-140-bin-ogrencinin-verileri-tehlikede-mi-1745346"
+  },
+  {
+   "id": "h16",
+   "tarih": "2026-10-01",
+   "grup": "Türkiye",
+   "kaynak": "FintekWins",
+   "seviye": "Yüksek",
+   "cve": "—",
+   "baslik": "Papara Menkul Değerler'de veri işleyen kaynaklı ihlal",
+   "ozet": "Saldırı doğrudan kurumu değil, yurt dışındaki bir veri işleyenin çalışanlarını hedef alan sosyal mühendislikle başladı. Veri işleyen ihlali kuruma iki hafta sonra bildirdi.",
+   "url": "https://www.fintekwins.com/kvkk-papara-menkulde-veri-ihlalini-duyurdu/"
+  },
+  {
+   "id": "h17",
+   "tarih": "2026-09-28",
+   "grup": "Türkiye",
+   "kaynak": "CyberArtsPro",
+   "seviye": "Yüksek",
+   "cve": "—",
+   "baslik": "KVKK'nın 16 Eylül'de ilan ettiği 28 ihlalin tamamı veri işleyen kaynaklı",
+   "ozet": "Bildirimlerin büyük kısmında ihlali veri sorumlusu değil, hizmet aldığı altyapı sağlayıcısı fark edip bildirdi. Etkilenen kişi sayısı açıklanan bildirimlerde toplam 10,8 milyonu aşıyor.",
+   "url": "https://www.cyberartspro.com/tr/kvkk-28-veri-ihlali-bildirimi-eylul-2026-veri-isleyen/"
+  },
+  {
+   "id": "h18",
+   "tarih": "2026-09-25",
+   "grup": "Türkiye",
+   "kaynak": "Marmara Dijital Medya",
+   "seviye": "Yüksek",
+   "cve": "—",
+   "baslik": "Eylül'deki e-ticaret ihlallerinin ortak noktası: altyapı sağlayıcısındaki kütüphane açığı",
+   "ozet": "İki haftada ilan edilen 44 bildirimin çoğunda üçüncü taraf bir yazılım kütüphanesindeki açık kullanıldı; müşteri iletişim bilgileri, hash'li parolalar ve mağaza yönetim paneli hesapları etkilendi.",
+   "url": "https://marmaradijitalmedya.com/blog/kvkk-eylul-2026-veri-ihlali-bildirimleri-e-ticaret-siteleri"
+  },
+  {
+   "id": "h19",
+   "tarih": "2026-10-05",
+   "grup": "Genel",
+   "kaynak": "The Hacker News",
+   "seviye": "Kritik",
+   "cve": "CVE-2026-88771 / CVE-2026-88772",
+   "baslik": "Haftalık özet: NetScaler ve FortiMail sıfırıncı günleri",
+   "ozet": "Citrix NetScaler ADC ve Gateway'de iki sıfırıncı gün açığının istismar edildiği hafta; Fortra BoKS ve cPanel/WHM açıkları da öne çıkan CVE'ler arasında yer aldı.",
+   "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html"
+  },
+  {
+   "id": "h20",
+   "tarih": "2026-10-06",
+   "grup": "Genel",
+   "kaynak": "The Hacker News",
+   "seviye": "Yüksek",
+   "cve": "—",
+   "baslik": "Realtek SDK açıkları üzerinden yayılan ClingSTUN botneti",
+   "ozet": "İnternete açık cihazlardaki yamasız açıkları kullanan zararlı, ele geçirdiği sistemleri vekil sunucuya dönüştürüyor ve komutlarını zararsız görünen STUN trafiği içinde saklıyor.",
+   "url": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html"
+  },
+  {
+   "id": "h21",
+   "tarih": "2026-10-06",
+   "grup": "Genel",
+   "kaynak": "Sherlock Forensics",
+   "seviye": "Yüksek",
+   "cve": "CVE-2026-86950",
+   "baslik": "Haftalık güvenlik özeti: Apple CoreGraphics açığı hedefli saldırılarda",
+   "ozet": "29 Eylül–6 Ekim haftasında Apple'ın hedefli saldırılarda kullanılan CoreGraphics açığını yamadığı, NetScaler ve FortiMail açıklarının da en kritik gelişmeler olduğu özetlendi.",
+   "url": "https://sherlockforensics.com/blog/2026-10-06-weekly-security-roundup.html"
+  },
+  {
+   "id": "h22",
+   "tarih": "2026-09-30",
+   "grup": "Cisco",
+   "kaynak": "BleepingComputer",
+   "seviye": "Kritik",
+   "cve": "CVE-2026-76504",
+   "baslik": "Cisco Catalyst SD-WAN Manager'da istismar edilen yeni sıfırıncı gün",
+   "ozet": "API oturum doğrulamasındaki atlatma açığı, kimlik doğrulaması olmadan yönetici yetkisiyle erişim sağlıyor ve tüm yapılandırmaları etkiliyor. Bu, 2026'da sahada istismar edilen beşinci SD-WAN sıfırıncı günü; geçici çözüm yok, güncelleme gerekiyor.",
+   "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/"
+  },
+  {
+   "id": "h23",
+   "tarih": "2026-09-17",
+   "grup": "Cisco",
+   "kaynak": "The Hacker News",
+   "seviye": "Kritik",
+   "cve": "CVE-2026-76460",
+   "baslik": "Cisco ISE'de CVSS 10 puanlı kimlik doğrulama atlatma açığı saldırılarda",
+   "ozet": "Bir API uç noktasındaki yetersiz denetim, saldırganın root yetkisiyle komut çalıştırmasına imkân veriyor. Tüm ISE yapılandırmaları etkileniyor; CISA federal kurumlara üç günlük süre verdi.",
+   "url": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html"
+  },
+  {
+   "id": "h24",
+   "tarih": "2026-09-14",
+   "grup": "Cisco",
+   "kaynak": "Greenbone",
+   "seviye": "Kritik",
+   "cve": "CVE-2026-76461",
+   "baslik": "Cisco Secure Email Gateway yama öncesinde istismar edildi",
+   "ozet": "E-posta ayrıştırma mantığındaki SQL enjeksiyonu, özel hazırlanmış bir e-postayla cihazda root yetkisiyle komut çalıştırılmasına yol açıyor. Eylül, Cisco için 97 yeni CVE ile rekor açıklama dönemi oldu.",
+   "url": "https://www.greenbone.net/en/blog/cisco-vulnerabilities-september-2026/"
+  },
+  {
+   "id": "h25",
+   "tarih": "2026-09-04",
+   "grup": "Aruba",
+   "kaynak": "PRSOL:CC",
+   "seviye": "Yüksek",
+   "cve": "CVE-2026-73749",
+   "baslik": "HPE Aruba AOS-CX anahtarlarda kimlik doğrulamasız uzaktan kod çalıştırma açığı",
+   "ozet": "Bir AOS-CX servisindeki arabellek taşmaları, özel paketlerle yükseltilmiş yetkiyle kod çalıştırılmasına izin veriyor. Aynı bültende 34 CVE kapatıldı; sahada istismar henüz bildirilmedi.",
+   "url": "https://www.prsol.cc/2026/09/04/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/"
+  },
+  {
+   "id": "h26",
+   "tarih": "2026-03-12",
+   "grup": "Aruba",
+   "kaynak": "CSA Singapur",
+   "seviye": "Yüksek",
+   "cve": "CVE-2026-23813",
+   "baslik": "Aruba AOS-CX web arayüzünde yönetici parolasını sıfırlatan açık",
+   "ozet": "Kimlik doğrulamasız saldırgan, CX serisi anahtarların web yönetim arayüzünde denetimleri atlatıp yönetici parolasını sıfırlayabiliyor. Yönetim arayüzünün internete kapatılması öneriliyor.",
+   "url": "https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-023/"
+  },
+  {
+   "id": "h27",
+   "tarih": "2026-02-27",
+   "grup": "Juniper",
+   "kaynak": "SecurityWeek",
+   "seviye": "Yüksek",
+   "cve": "CVE-2026-21902",
+   "baslik": "Juniper PTX yönlendiricilerinde root yetkili uzaktan kod çalıştırma açığı",
+   "ozet": "Junos OS Evolved 25.4 sürümlerinde yalnızca iç süreçlere açık olması gereken bir servis dışarıdan erişilebilir durumdaydı. Juniper istismar tespit etmedi; watchTowr açığın teknik analizini yayımladı.",
+   "url": "https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/"
+  }
+ ]
+}

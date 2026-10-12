@@ -1,0 +1,71 @@
+{
+ "aciklama": "KVKK ilan günleri. Her çarşamba ilanından sonra bir satır ekleyin; sayfa yalnızca son iki ayı gösterir. 'kesin': 'Evet' veya 'En az'.",
+ "ilanlar": [
+  {
+   "tarih": "2026-09-02",
+   "ay": "2026-09",
+   "bildirim": 33,
+   "kesin": "Evet",
+   "kaynak": "CyberArtsPro",
+   "url": "https://www.cyberartspro.com/tr/kvkk-28-veri-ihlali-bildirimi-eylul-2026-veri-isleyen/",
+   "not": "Kurul kararları 02.09.2026",
+   "saldiriOzet": "33 bildirimin 22'sinde veri işleyen sunucusuna yetkisiz erişim; üniversitelerde fidye yazılımı (Uşak Üniversitesi) ve sunucu saldırısı (Sakarya Teknokent)",
+   "veriOzet": "E-ticarette kimlik, iletişim ve hash'li giriş bilgileri; üniversitelerde ayrıca özlük, mesleki deneyim, görsel ve işitsel kayıtlar"
+  },
+  {
+   "tarih": "2026-09-09",
+   "ay": "2026-09",
+   "bildirim": 6,
+   "kesin": "Evet",
+   "kaynak": "Memurlar.net",
+   "url": "https://www.memurlar.net/haber/1177705/kvkk-dan-6-sirket-icin-veri-ihlali-duyurusu.html",
+   "not": "Haber 10 Eylül tarihli; ilan haftanın Kurul günü",
+   "saldiriOzet": "4 bildirimde veri işleyen sunucusuna yetkisiz erişim; sağlık sektöründe fidye yazılımı (Ada Mert Sağlık)",
+   "veriOzet": "Kimlik, iletişim, işlem güvenliği: ad, soyad, e-posta, adres, telefon, hash'li giriş bilgileri"
+  },
+  {
+   "tarih": "2026-09-16",
+   "ay": "2026-09",
+   "bildirim": 28,
+   "kesin": "Evet",
+   "kaynak": "CyberArtsPro / Marmara Dijital Medya",
+   "url": "https://marmaradijitalmedya.com/blog/kvkk-eylul-2026-veri-ihlali-bildirimleri-e-ticaret-siteleri",
+   "not": "Tamamı veri işleyen kaynaklı; Kurul kararı 2026/2039",
+   "saldiriOzet": "28 bildirimin tamamı veri işleyen kaynaklı yetkisiz erişim; 13'ünde üçüncü taraf yazılım kütüphanesi zafiyeti; fidye yazılımı yok",
+   "veriOzet": "Ad, soyad, telefon, e-posta, adres, hash'li parola, yönetim paneli hesapları"
+  },
+  {
+   "tarih": "2026-09-23",
+   "ay": "2026-09",
+   "bildirim": 16,
+   "kesin": "Evet",
+   "kaynak": "Marmara Dijital Medya",
+   "url": "https://marmaradijitalmedya.com/blog/kvkk-eylul-2026-veri-ihlali-bildirimleri-e-ticaret-siteleri",
+   "not": "Çoğu e-ticaret altyapı kütüphanesi açığı",
+   "saldiriOzet": "Çoğunluğu e-ticaret altyapısındaki yazılım kütüphanesi açığı (veri işleyen); barındırma sağlayıcısında güvenlik olayı",
+   "veriOzet": "Ad, soyad, telefon, e-posta, adres, hash'li parola; bazı bildirimlerde veriler henüz tespit edilemedi"
+  },
+  {
+   "tarih": "2026-09-30",
+   "ay": "2026-09",
+   "bildirim": 9,
+   "kesin": "Evet",
+   "kaynak": "Memurlar.net",
+   "url": "https://www.memurlar.net/haber/1179657/kvkk-9-sirketin-veri-ihlalini-yayimladi-1-milyon-kisi-etkileniyor.html",
+   "not": "Açıklanan sayılarla en az 1.033.853 kişi",
+   "saldiriOzet": "Veri işleyen sunucusuna yetkisiz erişim; finans sektöründe veri işleyen çalışanlarına oltalama (Papara Menkul)",
+   "veriOzet": "Kimlik ve iletişimin yanında pasaport, imza, adli sicil ve güvenlik soruşturması belgeleri, diploma, not dökümü, referans mektupları, fotoğraflar"
+  },
+  {
+   "tarih": "2026-10-07",
+   "ay": "2026-10",
+   "bildirim": 12,
+   "kesin": "En az",
+   "kaynak": "KVKK duyuru listesi (arama sonuçları)",
+   "url": "https://www.kvkk.gov.tr/veri-ihlali-bildirimi",
+   "not": "Arama sonuçlarında görülen en az 12 bildirim; kesin toplam doğrulanmadı",
+   "saldiriOzet": "Üniversite ve şans oyunları şirketinde fidye yazılımı; pizza zinciri ve franchise'larında sistemlere yetkisiz erişim",
+   "veriOzet": "Kimlik, iletişim, lokasyon, müşteri işlem ve finans; fidye vakalarında kategoriler henüz belirlenemedi"
+  }
+ ]
+}

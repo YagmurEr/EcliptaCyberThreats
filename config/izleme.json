@@ -1,0 +1,92 @@
+{
+  "aciklama": "İzlenen markalar. Sıra önemlidir: bir KEV kaydı ilk eşleşen gruba atanır. 'ureticiler' KEV vendorProject alanıyla birebir eşleşir; 'metin' ise üretici+ürün+zafiyet adında büyük/küçük harf duyarsız arama yapar. 'anahtarKelimeler' haber başlıklarını gruplamak için kullanılır.",
+  "gruplar": [
+    {
+      "ad": "Fortinet",
+      "renk": "#0E3049",
+      "altBaslik": "FortiGate / FortiOS ve diğer Fortinet ürünleri",
+      "ureticiler": [
+        "Fortinet"
+      ],
+      "anahtarKelimeler": [
+        "fortinet",
+        "fortigate",
+        "fortios",
+        "fortimail",
+        "fortiweb",
+        "fortimanager",
+        "forticlient",
+        "fortiproxy",
+        "fortibleed"
+      ]
+    },
+    {
+      "ad": "Check Point",
+      "renk": "#00B4D8",
+      "altBaslik": "Quantum / Security Gateway ve yönetim ürünleri",
+      "ureticiler": [
+        "Check Point"
+      ],
+      "anahtarKelimeler": [
+        "check point",
+        "checkpoint"
+      ]
+    },
+    {
+      "ad": "WordPress",
+      "renk": "#E8863A",
+      "altBaslik": "WordPress çekirdeği ve eklentileri",
+      "metin": "wordpress",
+      "anahtarKelimeler": [
+        "wordpress",
+        "woocommerce",
+        "elementor"
+      ]
+    },
+    {
+      "ad": "Cisco",
+      "renk": "#1F6FB2",
+      "altBaslik": "IOS / ASA-FTD, ISE, SD-WAN, e-posta ağ geçidi",
+      "ureticiler": [
+        "Cisco"
+      ],
+      "anahtarKelimeler": [
+        "cisco"
+      ]
+    },
+    {
+      "ad": "Aruba",
+      "renk": "#7C5CBF",
+      "altBaslik": "HPE Aruba Networking (AOS-CX, ArubaOS)",
+      "metin": "aruba",
+      "anahtarKelimeler": [
+        "aruba",
+        "aos-cx",
+        "arubaos"
+      ]
+    },
+    {
+      "ad": "Juniper",
+      "renk": "#2E9E6B",
+      "altBaslik": "Junos OS, SRX / EX / PTX serileri",
+      "ureticiler": [
+        "Juniper"
+      ],
+      "anahtarKelimeler": [
+        "juniper",
+        "junos"
+      ]
+    },
+    {
+      "ad": "Huawei",
+      "renk": "#A0522D",
+      "altBaslik": "Kurumsal ağ ve güvenlik ürünleri",
+      "ureticiler": [
+        "Huawei"
+      ],
+      "anahtarKelimeler": [
+        "huawei"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "aciklama": "Otomatik haber akışı kaynakları (RSS/Atom). Yeni kaynak eklemek için bu listeye satır ekleyin; 'aktif': false ile geçici olarak kapatabilirsiniz. Erişilemeyen kaynak iş akışını durdurmaz, yalnızca günlüğe yazılır.",
+  "genelHaberLimiti": 40,
+  "saklamaGunu": 45,
+  "kaynaklar": [
+    {
+      "ad": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/feed/",
+      "aktif": true
+    },
+    {
+      "ad": "The Hacker News",
+      "url": "https://feeds.feedburner.com/TheHackersNews",
+      "aktif": true
+    },
+    {
+      "ad": "SecurityWeek",
+      "url": "https://www.securityweek.com/feed/",
+      "aktif": true
+    },
+    {
+      "ad": "Schneier on Security",
+      "url": "https://www.schneier.com/feed/atom/",
+      "aktif": true
+    }
+  ]
+}
