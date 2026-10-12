@@ -45,5 +45,6 @@ jobs:
             echo "Değişiklik yok."
           else
             git commit -m "Veri güncellemesi $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase
             git push
           fi
