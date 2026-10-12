@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-12T13:11:34+00:00",
+ "guncelleme": "2026-10-12T13:16:31+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -86,6 +86,14 @@
    "baslik": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
    "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
    "grup": "Genel"
+  },
+  {
+   "id": "5ffff8d173ed",
+   "tarih": "2026-10-12",
+   "kaynak": "SecurityWeek",
+   "baslik": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
+   "url": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
+   "grup": "WordPress"
   },
   {
    "id": "5124492cfbfb",
