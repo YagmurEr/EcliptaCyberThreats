@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-13T09:19:45+00:00",
+ "guncelleme": "2026-10-13T10:04:33+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -45,6 +45,14 @@
    "kaynak": "The Hacker News",
    "baslik": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
    "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
+   "grup": "Genel"
+  },
+  {
+   "id": "3b4e5e79f1e2",
+   "tarih": "2026-10-13",
+   "kaynak": "SecurityWeek",
+   "baslik": "Cyberattack Prompts Ahold Delhaize to Disconnect Systems",
+   "url": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
    "grup": "Genel"
   },
   {
@@ -349,14 +357,6 @@
    "kaynak": "SecurityWeek",
    "baslik": "Google Domains Impacted by Recent ccTLD Hijacks",
    "url": "https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/",
-   "grup": "Genel"
-  },
-  {
-   "id": "d7655b04c823",
-   "tarih": "2026-10-09",
-   "kaynak": "Schneier on Security",
-   "baslik": "Friday Squid Blogging: I Caught a Squid",
-   "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
    "grup": "Genel"
   },
   {
