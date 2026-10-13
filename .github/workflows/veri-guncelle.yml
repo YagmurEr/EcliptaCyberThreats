@@ -26,6 +26,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Son değişiklikleri al
+        run: git pull --rebase
+
       - name: Bağımlılıkları kur
         run: pip install defusedxml
 
@@ -35,9 +38,6 @@ jobs:
 
       - name: Haber akışları
         run: python scripts/fetch_news.py
-
-      - name: Son değişiklikleri al
-        run: git pull --rebase
 
       - name: Değişiklikleri işle
         run: |
