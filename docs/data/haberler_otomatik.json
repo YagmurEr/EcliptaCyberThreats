@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-12T22:30:51+00:00",
+ "guncelleme": "2026-10-13T08:19:20+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -23,6 +23,14 @@
   }
  ],
  "haberler": [
+  {
+   "id": "585594f86cc8",
+   "tarih": "2026-10-13",
+   "kaynak": "The Hacker News",
+   "baslik": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
+   "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
+   "grup": "Genel"
+  },
   {
    "id": "fb25f61ae291",
    "tarih": "2026-10-12",
@@ -349,14 +357,6 @@
    "kaynak": "The Hacker News",
    "baslik": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
    "url": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
-   "grup": "Genel"
-  },
-  {
-   "id": "a1b83b422572",
-   "tarih": "2026-10-09",
-   "kaynak": "SecurityWeek",
-   "baslik": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years",
-   "url": "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
    "grup": "Genel"
   },
   {
