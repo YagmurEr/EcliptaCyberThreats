@@ -36,6 +36,9 @@ jobs:
       - name: Haber akışları
         run: python scripts/fetch_news.py
 
+      - name: Son değişiklikleri al
+        run: git pull --rebase
+
       - name: Değişiklikleri işle
         run: |
           git config user.name  "github-actions[bot]"
@@ -45,6 +48,5 @@ jobs:
             echo "Değişiklik yok."
           else
             git commit -m "Veri güncellemesi $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull --rebase
             git push
           fi
