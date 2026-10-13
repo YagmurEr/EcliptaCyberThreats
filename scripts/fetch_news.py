@@ -57,22 +57,26 @@ def akis_oku(kaynak):
     kok = ET.fromstring(ham)  # stdlib ayrıştırıcısı harici varlık (XXE) çözmez
     ogeler = []
     for it in kok.iter("item"):  # RSS 2.0
-        ogeler.append((it.findtext("title"), it.findtext("link"), it.findtext("pubDate")))
+        ogeler.append((it.findtext("title"), it.findtext("link"), it.findtext("pubDate"), it.findtext("description")))
     for it in kok.iter(ATOM + "entry"):  # Atom
         link = None
         for l in it.findall(ATOM + "link"):
             if l.get("rel", "alternate") == "alternate":
                 link = l.get("href")
-        ogeler.append((it.findtext(ATOM + "title"), link, it.findtext(ATOM + "updated") or it.findtext(ATOM + "published")))
+        ogeler.append((it.findtext(ATOM + "title"), link, it.findtext(ATOM + "updated") or it.findtext(ATOM + "published"), it.findtext(ATOM + "summary")))
     sonuc = []
-    for baslik, link, tarih in ogeler:
+    for baslik, link, tarih, ozet in ogeler:
         baslik, link, t = temiz(baslik), (link or "").strip(), tarih_coz(tarih)
         if not baslik or not link.startswith("https://") or not t:
             continue
-        sonuc.append({
+        kayit = {
             "id": hashlib.sha1(link.encode("utf-8"), usedforsecurity=False).hexdigest()[:12],
             "tarih": t.date().isoformat(), "kaynak": kaynak["ad"], "baslik": baslik, "url": link,
-        })
+        }
+        oz = temiz(ozet)
+        if oz and oz != baslik:
+            kayit["ozet"] = oz
+        sonuc.append(kayit)
     return sonuc
 
 
