@@ -2,12 +2,12 @@ name: Veri güncelle
 
 on:
   schedule:
-    - cron: "15 3 * * *"        # Her gün 06:15 (TSİ): KEV + EPSS + haberler
-    - cron: "15 9,15,21 * * *"  # Gün içinde 3 kez daha: yalnızca haberler
-  workflow_dispatch: {}          # Actions sekmesinden elle çalıştırma
+    - cron: "15 3 * * *"
+    - cron: "15 9,15,21 * * *"
+  workflow_dispatch: {}
 
 permissions:
-  contents: write                # yalnızca bu depoya veri işlemek için
+  contents: write
 
 concurrency:
   group: veri-guncelle
@@ -18,35 +18,35 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-           - uses: actions/checkout@v5
+      - uses: actions/checkout@v5
         with:
           persist-credentials: true
 
-            - uses: actions/setup-python@v6
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
-      - name: Son değişiklikleri al
+      - name: Son degisiklikleri al
         run: git pull --rebase
 
-      - name: Bağımlılıkları kur
+      - name: Bagimliliklari kur
         run: pip install defusedxml
 
       - name: KEV + EPSS + CVSS
         if: github.event_name == 'workflow_dispatch' || github.event.schedule == '15 3 * * *'
         run: python scripts/fetch_kev.py
 
-      - name: Haber akışları
+      - name: Haber akislari
         run: python scripts/fetch_news.py
 
-      - name: Değişiklikleri işle
+      - name: Degisiklikleri isle
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/data
           if git diff --cached --quiet; then
-            echo "Değişiklik yok."
+            echo "Degisiklik yok."
           else
-            git commit -m "Veri güncellemesi $(date -u +%Y-%m-%dT%H:%MZ)"
+            git commit -m "Veri guncellemesi $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
           fi
