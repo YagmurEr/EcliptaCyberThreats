@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-13T08:19:20+00:00",
+ "guncelleme": "2026-10-13T09:19:45+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -24,11 +24,43 @@
  ],
  "haberler": [
   {
+   "id": "e7916ed60e97",
+   "tarih": "2026-10-13",
+   "kaynak": "The Hacker News",
+   "baslik": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
+   "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
+   "grup": "Genel"
+  },
+  {
+   "id": "6ebfc31532ee",
+   "tarih": "2026-10-13",
+   "kaynak": "The Hacker News",
+   "baslik": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
+   "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
+   "grup": "Genel"
+  },
+  {
    "id": "585594f86cc8",
    "tarih": "2026-10-13",
    "kaynak": "The Hacker News",
    "baslik": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
    "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
+   "grup": "Genel"
+  },
+  {
+   "id": "339f93492eef",
+   "tarih": "2026-10-13",
+   "kaynak": "The Hacker News",
+   "baslik": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
+   "url": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
+   "grup": "Genel"
+  },
+  {
+   "id": "1608d9df78e7",
+   "tarih": "2026-10-13",
+   "kaynak": "SecurityWeek",
+   "baslik": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
+   "url": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
    "grup": "Genel"
   },
   {
@@ -325,38 +357,6 @@
    "kaynak": "Schneier on Security",
    "baslik": "Friday Squid Blogging: I Caught a Squid",
    "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
-   "grup": "Genel"
-  },
-  {
-   "id": "d32c756e311a",
-   "tarih": "2026-10-09",
-   "kaynak": "The Hacker News",
-   "baslik": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
-   "url": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
-   "grup": "Genel"
-  },
-  {
-   "id": "c85e183aba75",
-   "tarih": "2026-10-09",
-   "kaynak": "BleepingComputer",
-   "baslik": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-   "grup": "Genel"
-  },
-  {
-   "id": "b7ae45cc2528",
-   "tarih": "2026-10-09",
-   "kaynak": "The Hacker News",
-   "baslik": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-   "url": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-   "grup": "Genel"
-  },
-  {
-   "id": "addcfda79add",
-   "tarih": "2026-10-09",
-   "kaynak": "The Hacker News",
-   "baslik": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
-   "url": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
    "grup": "Genel"
   },
   {
