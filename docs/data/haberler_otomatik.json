@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-13T20:38:56+00:00",
+ "guncelleme": "2026-10-14T00:16:28+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -23,6 +23,15 @@
   }
  ],
  "haberler": [
+  {
+   "id": "ff21bb8aab01",
+   "tarih": "2026-10-13",
+   "kaynak": "BleepingComputer",
+   "baslik": "OpenAI engineer arrested for allegedly planting spy device in office",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+   "ozet": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+   "grup": "Genel"
+  },
   {
    "id": "fb99d329a170",
    "tarih": "2026-10-13",
@@ -159,6 +168,15 @@
    "grup": "Genel"
   },
   {
+   "id": "5d5d52d490fe",
+   "tarih": "2026-10-13",
+   "kaynak": "BleepingComputer",
+   "baslik": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+   "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+   "ozet": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "585594f86cc8",
    "tarih": "2026-10-13",
    "kaynak": "The Hacker News",
@@ -267,6 +285,15 @@
    "grup": "Genel"
   },
   {
+   "id": "1a0763123a1d",
+   "tarih": "2026-10-13",
+   "kaynak": "BleepingComputer",
+   "baslik": "Anthropic warns self-replicating AI could spread to your smart devices",
+   "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+   "ozet": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "19a292ee3783",
    "tarih": "2026-10-13",
    "kaynak": "SecurityWeek",
@@ -300,6 +327,15 @@
    "baslik": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
    "url": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
    "ozet": "Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services. The post Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "0cfb790894cf",
+   "tarih": "2026-10-13",
+   "kaynak": "SecurityWeek",
+   "baslik": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
+   "url": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+   "ozet": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
@@ -345,41 +381,6 @@
    "baslik": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
    "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
    "ozet": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine. The activity, which brings together commodity offensive tools like Cobalt",
-   "grup": "Genel"
-  },
-  {
-   "id": "d0137ba408da",
-   "tarih": "2026-10-12",
-   "kaynak": "BleepingComputer",
-   "baslik": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
-   "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
-   "ozet": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "9ce734d52cda",
-   "tarih": "2026-10-12",
-   "kaynak": "SecurityWeek",
-   "baslik": "Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe",
-   "url": "https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/",
-   "grup": "Genel"
-  },
-  {
-   "id": "8d0ac34c06d5",
-   "tarih": "2026-10-12",
-   "kaynak": "BleepingComputer",
-   "baslik": "Yandex confirms service outage as users lose access to cloud files",
-   "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-   "ozet": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "8bf2f9414a62",
-   "tarih": "2026-10-12",
-   "kaynak": "BleepingComputer",
-   "baslik": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
-   "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
-   "ozet": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
    "grup": "Genel"
   },
   {
