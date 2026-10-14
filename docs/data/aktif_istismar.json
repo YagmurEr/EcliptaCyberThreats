@@ -1,0 +1,150 @@
+{
+  "guncelleme": "2026-10-14T09:00:00Z",
+  "aciklama": "CISA KEV kataloğu dışında kalan veya KEV'e geç eklenen, izlenen markalarda aktif istismar edilen ya da PoC yayımlanan kritik zafiyetler.",
+  "kayitlar": [
+    {
+      "cveID": "CVE-2026-85097",
+      "marka": "WordPress",
+      "urun": "Bricksforge Plugin",
+      "cvss": 10.0,
+      "durum": "aktif_istismar",
+      "kevDurumu": "yok",
+      "ilkIstismar": "2026-10-07",
+      "kevTarih": null,
+      "kevBosluk": null,
+      "ozet": "Bricksforge eklentisinde kimlik doğrulama gerektirmeyen uzaktan kod yürütme (RCE). PoC yayında, aktif istismar doğrulandı.",
+      "kaynaklar": [
+        {"ad": "Patchstack", "url": "https://patchstack.com/articles/critical-vulnerability-in-bricksforge-plugin/"},
+        {"ad": "The Hacker News", "url": "https://thehackernews.com/2026/10/critical-bricksforge-wordpress-plugin.html"}
+      ]
+    },
+    {
+      "cveID": "CVE-2026-21902",
+      "marka": "Juniper",
+      "urun": "Junos OS Evolved (PTX serisi)",
+      "cvss": 9.8,
+      "durum": "poc_mevcut",
+      "kevDurumu": "yok",
+      "ilkIstismar": null,
+      "kevTarih": null,
+      "kevBosluk": null,
+      "ozet": "Junos OS Evolved PTX yönlendiricilerde kimlik doğrulamayı atlatan kritik zafiyet. watchTowr tarafından PoC yayımlandı.",
+      "kaynaklar": [
+        {"ad": "watchTowr Labs", "url": "https://labs.watchtowr.com/"},
+        {"ad": "SecurityWeek", "url": "https://www.securityweek.com/juniper-patches-critical-junos-os-evolved-vulnerability/"}
+      ]
+    },
+    {
+      "cveID": "CVE-2026-73749",
+      "marka": "Aruba",
+      "urun": "AOS-CX (HPE Aruba)",
+      "cvss": 9.8,
+      "durum": "kritik_yama",
+      "kevDurumu": "yok",
+      "ilkIstismar": null,
+      "kevTarih": null,
+      "kevBosluk": null,
+      "ozet": "HPE Aruba AOS-CX anahtarlarda uzaktan kimlik doğrulamayı atlatan kritik zafiyet. Henüz aktif istismar doğrulanmamış, ancak CVSS 9.8.",
+      "kaynaklar": [
+        {"ad": "HPE Advisory", "url": "https://support.hpe.com/"},
+        {"ad": "SecurityWeek", "url": "https://www.securityweek.com/hpe-aruba-patches-critical-vulnerability-in-aos-cx/"}
+      ]
+    },
+    {
+      "cveID": "CVE-2026-93616",
+      "marka": "Check Point",
+      "urun": "Security Gateways",
+      "cvss": 9.8,
+      "durum": "kev_bosluk",
+      "kevDurumu": "var",
+      "ilkIstismar": "2026-07-23",
+      "kevTarih": "2026-09-22",
+      "kevBosluk": 61,
+      "ozet": "Check Point Security Gateway'lerde uzaktan kod yürütme. İlk istismar Temmuz 2026'da tespit edildi, KEV'e Eylül'de eklendi — 61 gün açık.",
+      "kaynaklar": [
+        {"ad": "Check Point Advisory", "url": "https://support.checkpoint.com/"},
+        {"ad": "CISA KEV", "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"}
+      ]
+    },
+    {
+      "cveID": "CVE-2026-50751",
+      "marka": "Check Point",
+      "urun": "Quantum Gateway / CloudGuard",
+      "cvss": 9.3,
+      "durum": "kev_bosluk",
+      "kevDurumu": "var",
+      "ilkIstismar": "2026-05-07",
+      "kevTarih": "2026-06-08",
+      "kevBosluk": 32,
+      "ozet": "Check Point Quantum Gateway ve CloudGuard'da arbitrary file read zafiyeti. Mayıs'tan Haziran'a 32 günlük KEV boşluğu.",
+      "kaynaklar": [
+        {"ad": "Check Point Advisory", "url": "https://support.checkpoint.com/"},
+        {"ad": "CISA KEV", "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"}
+      ]
+    },
+    {
+      "cveID": "CVE-2026-85102",
+      "marka": "Check Point",
+      "urun": "Security Gateways",
+      "cvss": 9.8,
+      "durum": "kev_bosluk",
+      "kevDurumu": "var",
+      "ilkIstismar": "2026-09-12",
+      "kevTarih": "2026-09-22",
+      "kevBosluk": 10,
+      "ozet": "Check Point Security Gateway'lerde kritik RCE. İstismar ile KEV kaydı arasında 10 günlük boşluk.",
+      "kaynaklar": [
+        {"ad": "Check Point Advisory", "url": "https://support.checkpoint.com/"},
+        {"ad": "CISA KEV", "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"}
+      ]
+    },
+    {
+      "cveID": "CVE-2026-24858",
+      "marka": "Fortinet",
+      "urun": "FortiOS / FortiProxy",
+      "cvss": 9.8,
+      "durum": "kev_bosluk",
+      "kevDurumu": "var",
+      "ilkIstismar": "2026-01-22",
+      "kevTarih": "2026-01-28",
+      "kevBosluk": 6,
+      "ozet": "FortiOS ve FortiProxy'de kimlik doğrulamayı atlatan kritik zafiyet. Ocak 2026'da 6 günlük KEV boşluğu.",
+      "kaynaklar": [
+        {"ad": "Fortinet PSIRT", "url": "https://www.fortiguard.com/psirt"},
+        {"ad": "CISA KEV", "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"}
+      ]
+    },
+    {
+      "cveID": "CVE-2026-35616",
+      "marka": "Fortinet",
+      "urun": "FortiManager",
+      "cvss": 9.1,
+      "durum": "kev_bosluk",
+      "kevDurumu": "var",
+      "ilkIstismar": "2026-03-31",
+      "kevTarih": "2026-04-06",
+      "kevBosluk": 6,
+      "ozet": "FortiManager'da uzaktan kod yürütme. Mart sonunda istismar tespit, Nisan başında KEV'e eklendi — 6 gün.",
+      "kaynaklar": [
+        {"ad": "Fortinet PSIRT", "url": "https://www.fortiguard.com/psirt"},
+        {"ad": "CISA KEV", "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"}
+      ]
+    },
+    {
+      "cveID": "CVE-2026-104286",
+      "marka": "Fortinet",
+      "urun": "FortiManager",
+      "cvss": 9.8,
+      "durum": "kev_bosluk",
+      "kevDurumu": "var",
+      "ilkIstismar": "2026-09-25",
+      "kevTarih": "2026-10-01",
+      "kevBosluk": 6,
+      "ozet": "FortiManager'da yeni kritik RCE, Ekim başında KEV'e eklendi. Çin bağlantılı tehdit aktörleri tarafından istismar edildi.",
+      "kaynaklar": [
+        {"ad": "Fortinet PSIRT", "url": "https://www.fortiguard.com/psirt"},
+        {"ad": "Mandiant", "url": "https://www.mandiant.com/"}
+      ]
+    }
+  ]
+}
