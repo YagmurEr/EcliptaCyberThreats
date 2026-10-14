@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-14T14:29:40+00:00",
+ "guncelleme": "2026-10-14T16:59:02+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -42,6 +42,24 @@
    "grup": "Genel"
   },
   {
+   "id": "f47fa4018271",
+   "tarih": "2026-10-14",
+   "kaynak": "The Hacker News",
+   "baslik": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
+   "url": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
+   "ozet": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a mix of U.S. citizens and Chinese nationals for their roles in an IT worker consp",
+   "grup": "Genel"
+  },
+  {
+   "id": "f0efb52b806c",
+   "tarih": "2026-10-14",
+   "kaynak": "SecurityWeek",
+   "baslik": "ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw",
+   "url": "https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/",
+   "ozet": "ABB previously published an advisory warning about possible probing of a dynovaPRO vulnerability. The post ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "ef61a9283f23",
    "tarih": "2026-10-14",
    "kaynak": "The Hacker News",
@@ -57,6 +75,15 @@
    "baslik": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
    "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
    "ozet": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack in six days by directing AI agents running OpenAI's publicly available GPT-5.6 ",
+   "grup": "Genel"
+  },
+  {
+   "id": "e2e487f81c3d",
+   "tarih": "2026-10-14",
+   "kaynak": "SecurityWeek",
+   "baslik": "AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds",
+   "url": "https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/",
+   "ozet": "In Booz Allen’s isolated OT lab, AI models met every objective across eight scenarios and reached an industrial control network from a perimeter compromise in just over 16 minutes. The post AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds appeared first on Sec",
    "grup": "Genel"
   },
   {
@@ -165,6 +192,15 @@
    "baslik": "The Future of AI Cryptanalysis",
    "url": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
    "ozet": "Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers. I am more optimistic than he is. That is, I have stronger faith in the over-engineering cryptographers tend to",
+   "grup": "Genel"
+  },
+  {
+   "id": "4d5b36d13b30",
+   "tarih": "2026-10-14",
+   "kaynak": "Schneier on Security",
+   "baslik": "Upcoming Speaking Engagements",
+   "url": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
+   "ozet": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on Octob",
    "grup": "Genel"
   },
   {
@@ -408,42 +444,6 @@
    "baslik": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
    "url": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
    "ozet": "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw affects multi-tenant applications on SAP Business Technology Platform (BTP) that use the SDK, SAP's o",
-   "grup": "Genel"
-  },
-  {
-   "id": "5d5d52d490fe",
-   "tarih": "2026-10-13",
-   "kaynak": "BleepingComputer",
-   "baslik": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
-   "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
-   "ozet": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "585594f86cc8",
-   "tarih": "2026-10-13",
-   "kaynak": "The Hacker News",
-   "baslik": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
-   "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
-   "ozet": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The activity, which targets Android devices built on MediaTek platforms across several bra",
-   "grup": "Genel"
-  },
-  {
-   "id": "46e66f8ca65c",
-   "tarih": "2026-10-13",
-   "kaynak": "BleepingComputer",
-   "baslik": "The MFA Gaps Attackers are Still Exploiting",
-   "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
-   "ozet": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close these authentication gaps. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "3b4e5e79f1e2",
-   "tarih": "2026-10-13",
-   "kaynak": "SecurityWeek",
-   "baslik": "Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems",
-   "url": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
-   "ozet": "The company says it took some of its systems offline to contain a security issue within its network. The post Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
