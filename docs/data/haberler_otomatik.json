@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-14T19:20:23+00:00",
+ "guncelleme": "2026-10-14T23:54:07+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -123,6 +123,15 @@
    "grup": "Genel"
   },
   {
+   "id": "c9a3f02d710c",
+   "tarih": "2026-10-14",
+   "kaynak": "BleepingComputer",
+   "baslik": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+   "ozet": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "c8c2a8e77f0c",
    "tarih": "2026-10-14",
    "kaynak": "The Hacker News",
@@ -192,6 +201,15 @@
    "baslik": "Global takedown hits network behind 1 billion phishing messages",
    "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
    "ozet": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "8ab3c51ec371",
+   "tarih": "2026-10-14",
+   "kaynak": "BleepingComputer",
+   "baslik": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
+   "ozet": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker schemes. [...]",
    "grup": "Genel"
   },
   {
@@ -453,24 +471,6 @@
    "baslik": "AI Turns Familiar Cyberattacks Into a Race Against Time",
    "url": "https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/",
    "ozet": "IBM’s Steve Wallin talks to SecurityWeek on the effect of AI-driven attacks on enterprise defenses. The post AI Turns Familiar Cyberattacks Into a Race Against Time appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "8187d0f2ac60",
-   "tarih": "2026-10-13",
-   "kaynak": "The Hacker News",
-   "baslik": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-   "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-   "ozet": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw was in the feature that&nbsp;converts a personal a",
-   "grup": "Genel"
-  },
-  {
-   "id": "79446cd89775",
-   "tarih": "2026-10-13",
-   "kaynak": "SecurityWeek",
-   "baslik": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
-   "url": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
-   "ozet": "CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges. The post Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
