@@ -87,6 +87,45 @@
       "anahtarKelimeler": [
         "huawei"
       ]
+    },
+    {
+      "ad": "SonicWall",
+      "renk": "#D64933",
+      "altBaslik": "SonicOS, SMA ve SSL-VPN cihazları",
+      "ureticiler": [
+        "SonicWall"
+      ],
+      "anahtarKelimeler": [
+        "sonicwall",
+        "sonicos",
+        "sma100",
+        "sma1000",
+        "ssl-vpn"
+      ]
+    },
+    {
+      "ad": "Microsoft",
+      "renk": "#0078D4",
+      "altBaslik": "Windows, Exchange, Outlook, Active Directory",
+      "ureticiler": [
+        "Microsoft"
+      ],
+      "anahtarKelimeler": [
+        "microsoft",
+        "windows",
+        "exchange",
+        "outlook",
+        "active directory",
+        "azure",
+        "office 365",
+        "sharepoint",
+        "mshtml",
+        "ntlm",
+        "kerberos",
+        "entra",
+        "entra id",
+        "azure ad"
+      ]
     }
   ]
 }
