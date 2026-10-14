@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-14T13:42:38+00:00",
+ "guncelleme": "2026-10-14T14:29:40+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -23,6 +23,24 @@
   }
  ],
  "haberler": [
+  {
+   "id": "fac7cd6e29f5",
+   "tarih": "2026-10-14",
+   "kaynak": "BleepingComputer",
+   "baslik": "Microsoft fixes VPN issues caused by September Windows updates",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
+   "ozet": "Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "f6b610c18e50",
+   "tarih": "2026-10-14",
+   "kaynak": "SecurityWeek",
+   "baslik": "Harmonic Security Raises $50 Million for Workforce AI Protection",
+   "url": "https://www.securityweek.com/harmonic-security-raises-50-million-for-workforce-ai-protection/",
+   "ozet": "The cybersecurity startup plans to expand engineering and go-to-market teams in the US and UK. The post Harmonic Security Raises $50 Million for Workforce AI Protection appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
   {
    "id": "ef61a9283f23",
    "tarih": "2026-10-14",
@@ -105,6 +123,15 @@
    "grup": "Microsoft"
   },
   {
+   "id": "937c7f4fab21",
+   "tarih": "2026-10-14",
+   "kaynak": "BleepingComputer",
+   "baslik": "The Blind Spots of Agentic Pentesting and How to Close Them",
+   "url": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
+   "ozet": "AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting with exposure validation and breach simulation can help close these gaps. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "91795601b1ff",
    "tarih": "2026-10-14",
    "kaynak": "BleepingComputer",
@@ -123,6 +150,24 @@
    "grup": "Genel"
   },
   {
+   "id": "7bf6f5bbc65c",
+   "tarih": "2026-10-14",
+   "kaynak": "Schneier on Security",
+   "baslik": "Cyberattack on Connected Fridges in France",
+   "url": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
+   "ozet": "Another IoT cyberattack, this one in France: Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected. [&#8230;] Normally, supermarket freezers go through a short perio",
+   "grup": "Genel"
+  },
+  {
+   "id": "6bb19fd6562c",
+   "tarih": "2026-10-14",
+   "kaynak": "Schneier on Security",
+   "baslik": "The Future of AI Cryptanalysis",
+   "url": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
+   "ozet": "Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers. I am more optimistic than he is. That is, I have stronger faith in the over-engineering cryptographers tend to",
+   "grup": "Genel"
+  },
+  {
    "id": "3c74e6888cec",
    "tarih": "2026-10-14",
    "kaynak": "SecurityWeek",
@@ -130,6 +175,15 @@
    "url": "https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/",
    "ozet": "Critical-severity flaws could lead to authentication bypass, code execution, and sensitive authentication information leaks. The post Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products appeared first on SecurityWeek.",
    "grup": "Fortinet"
+  },
+  {
+   "id": "2ee0c0a49b5a",
+   "tarih": "2026-10-14",
+   "kaynak": "SecurityWeek",
+   "baslik": "Virtual Event Today: Zero Trust Strategies Summit",
+   "url": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
+   "ozet": "This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies. The post Virtual Event Today: Zero Trust Strategies Summit appeared first on SecurityWeek.",
+   "grup": "Genel"
   },
   {
    "id": "2cf131532cb9",
@@ -393,33 +447,6 @@
    "grup": "Genel"
   },
   {
-   "id": "3770e65c491f",
-   "tarih": "2026-10-13",
-   "kaynak": "The Hacker News",
-   "baslik": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-   "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-   "ozet": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal their credentials. \"Your configuration becomes valid",
-   "grup": "Genel"
-  },
-  {
-   "id": "36d6c42e8fe8",
-   "tarih": "2026-10-13",
-   "kaynak": "BleepingComputer",
-   "baslik": "SAP warns of maximum severity OAuth2 SSRF security flaw",
-   "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
-   "ozet": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "339f93492eef",
-   "tarih": "2026-10-13",
-   "kaynak": "The Hacker News",
-   "baslik": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-   "url": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
-   "ozet": "Two of 31 newly disclosed flaws in Progress Software's&nbsp;MarkLogic Server&nbsp;database could let an account given only some management privileges take administrator control of the server, the company says. Progress published all 31 on October 12 and scored five of them critical. Fixes have been ",
-   "grup": "Genel"
-  },
-  {
    "id": "30c48aec6fa7",
    "tarih": "2026-10-13",
    "kaynak": "BleepingComputer",
@@ -427,24 +454,6 @@
    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
    "ozet": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
    "grup": "Microsoft"
-  },
-  {
-   "id": "302530343dab",
-   "tarih": "2026-10-13",
-   "kaynak": "The Hacker News",
-   "baslik": "Product Walkthrough: Bitdefender AI Visibility and Control",
-   "url": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-   "ozet": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding&nbsp;assistant as an editor extension, and nothing shows up in the installed programs list. Someone downloads a local model runtime, a program that runs models directly on the machine i",
-   "grup": "Genel"
-  },
-  {
-   "id": "2fd581d2b9b4",
-   "tarih": "2026-10-13",
-   "kaynak": "The Hacker News",
-   "baslik": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
-   "url": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
-   "ozet": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grindr users' sensitive data to advertisers. The administrative penalty is the largest issued by the data protection watchdog, arguing the case ",
-   "grup": "Genel"
   },
   {
    "id": "21edffe12082",
