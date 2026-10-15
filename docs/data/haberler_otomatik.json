@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-15T08:15:28+00:00",
+ "guncelleme": "2026-10-15T14:08:43+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -33,12 +33,84 @@
    "grup": "Genel"
   },
   {
+   "id": "fbda5a8420dd",
+   "tarih": "2026-10-15",
+   "kaynak": "SecurityWeek",
+   "baslik": "CenterPoint Energy Data Breach Impacts 1 Million Texans",
+   "url": "https://www.securityweek.com/centerpoint-energy-data-breach-impacts-1-million-texans/",
+   "ozet": "Personal information such as names, addresses, Social Security numbers, and driver’s license numbers was compromised. The post CenterPoint Energy Data Breach Impacts 1 Million Texans appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "ce862b886d1b",
+   "tarih": "2026-10-15",
+   "kaynak": "The Hacker News",
+   "baslik": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules",
+   "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+   "ozet": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the flaw through core alone, the Drupal Security Team said in&nbsp;its advisory. Sev",
+   "grup": "Genel"
+  },
+  {
+   "id": "b5878f01eb58",
+   "tarih": "2026-10-15",
+   "kaynak": "The Hacker News",
+   "baslik": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
+   "url": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
+   "ozet": "The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to help people identify calls from unknown numbers and tackle spam or fraudulent cal",
+   "grup": "Genel"
+  },
+  {
+   "id": "b554bfcb0729",
+   "tarih": "2026-10-15",
+   "kaynak": "SecurityWeek",
+   "baslik": "Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies",
+   "url": "https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/",
+   "ozet": "The Hirudo malware combines elements of a traditional banking trojan and a full-featured RAT. The post Novel Android RAT &#8216;Hirudo&#8217; Replaces Banking Apps With Trojanized Copies appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "a713f2422da2",
+   "tarih": "2026-10-15",
+   "kaynak": "The Hacker News",
+   "baslik": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+   "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+   "ozet": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in question are CVE-2026-105133 and CVE-2026-105134, which could be chained to sidestep ",
+   "grup": "Genel"
+  },
+  {
+   "id": "a28002aabf34",
+   "tarih": "2026-10-15",
+   "kaynak": "SecurityWeek",
+   "baslik": "CikaBika Bot RAT Uses Discord for C&C",
+   "url": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
+   "ozet": "Delivered via phishing, the malware provides reconnaissance, remote execution, and data exfiltration capabilities. The post CikaBika Bot RAT Uses Discord for C&#038;C appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "9d7e0c21485d",
    "tarih": "2026-10-15",
    "kaynak": "BleepingComputer",
    "baslik": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
    "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
    "ozet": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "9bedf93cf19d",
+   "tarih": "2026-10-15",
+   "kaynak": "The Hacker News",
+   "baslik": "Why AI Confidence Is Not Validation",
+   "url": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+   "ozet": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliable ways to verify it. Without governance models and validati",
+   "grup": "Genel"
+  },
+  {
+   "id": "999e9923be39",
+   "tarih": "2026-10-15",
+   "kaynak": "The Hacker News",
+   "baslik": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+   "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+   "ozet": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026.&nbsp; The campaigns also increase operational pressure on MSSPs servin",
    "grup": "Genel"
   },
   {
@@ -51,12 +123,75 @@
    "grup": "Cisco"
   },
   {
+   "id": "80cf54be1286",
+   "tarih": "2026-10-15",
+   "kaynak": "BleepingComputer",
+   "baslik": "Microsoft: Windows Server 2022 reached end of mainstream support",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
+   "ozet": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "804b1f79c64c",
+   "tarih": "2026-10-15",
+   "kaynak": "SecurityWeek",
+   "baslik": "Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers",
+   "url": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
+   "ozet": "Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility. The post Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "7278d7ea9fdc",
+   "tarih": "2026-10-15",
+   "kaynak": "SecurityWeek",
+   "baslik": "CISO Conversations: James Robinson – Many Jobs, One Journey to Netskope CISO",
+   "url": "https://www.securityweek.com/ciso-conversations-james-robinson-many-jobs-one-journey-to-netskope-ciso/",
+   "ozet": "James Robinson never planned a cybersecurity career — seven companies and one deputy CISO role later, he leads security at Netskope. The post CISO Conversations: James Robinson – Many Jobs, One Journey to Netskope CISO appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "5d774caabf5a",
+   "tarih": "2026-10-15",
+   "kaynak": "BleepingComputer",
+   "baslik": "Is AI pentesting as good as a human pentester?",
+   "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
+   "ozet": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where AI agents can improve security testing. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "50367ee6ae87",
+   "tarih": "2026-10-15",
+   "kaynak": "The Hacker News",
+   "baslik": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+   "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+   "ozet": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and agentic workflows. In February 2025, DataStax, the parent company of Langflow, wa",
+   "grup": "Genel"
+  },
+  {
    "id": "4d5b36d13b30",
    "tarih": "2026-10-15",
    "kaynak": "Schneier on Security",
    "baslik": "Upcoming Speaking Engagements",
    "url": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
    "ozet": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET ",
+   "grup": "Genel"
+  },
+  {
+   "id": "3565d45fa972",
+   "tarih": "2026-10-15",
+   "kaynak": "BleepingComputer",
+   "baslik": "Police arrests 95 suspects in international CSAM crackdown action",
+   "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
+   "ozet": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "1d72630baefb",
+   "tarih": "2026-10-15",
+   "kaynak": "The Hacker News",
+   "baslik": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+   "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+   "ozet": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on October 8 and 9, 2026. \"This resulted from compromising the GitHub accounts of about 1,900 users. It at",
    "grup": "Genel"
   },
   {
@@ -67,6 +202,15 @@
    "url": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
    "ozet": "The company says it’s aware of limited exploitation against customers’ firewalls, and it has made IoCs available. The post Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution appeared first on SecurityWeek.",
    "grup": "Genel"
+  },
+  {
+   "id": "080d6dd1dc1f",
+   "tarih": "2026-10-15",
+   "kaynak": "BleepingComputer",
+   "baslik": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
+   "ozet": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
+   "grup": "Microsoft"
   },
   {
    "id": "fac7cd6e29f5",
@@ -339,15 +483,6 @@
    "grup": "Genel"
   },
   {
-   "id": "107051ae553a",
-   "tarih": "2026-10-14",
-   "kaynak": "SecurityWeek",
-   "baslik": "SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities",
-   "url": "https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/",
-   "ozet": "The bugs could allow attackers to invoke internal operations and execute code, completely compromising the system. The post SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
    "id": "1026a5cdf9ba",
    "tarih": "2026-10-14",
    "kaynak": "SecurityWeek",
@@ -364,123 +499,6 @@
    "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
    "ozet": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
    "grup": "Microsoft"
-  },
-  {
-   "id": "0a34dc42eff4",
-   "tarih": "2026-10-14",
-   "kaynak": "The Hacker News",
-   "baslik": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
-   "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-   "ozet": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijack the program that runs the virtual machine. The b",
-   "grup": "Genel"
-  },
-  {
-   "id": "065e262fb01e",
-   "tarih": "2026-10-14",
-   "kaynak": "The Hacker News",
-   "baslik": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
-   "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
-   "ozet": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial fraud.&nbsp; Dutch m",
-   "grup": "Genel"
-  },
-  {
-   "id": "0602ed16425a",
-   "tarih": "2026-10-14",
-   "kaynak": "BleepingComputer",
-   "baslik": "Hirudo Android malware replaces banking apps to evade security checks",
-   "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
-   "ozet": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "01ccdefefe75",
-   "tarih": "2026-10-14",
-   "kaynak": "The Hacker News",
-   "baslik": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
-   "url": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
-   "ozet": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl project fixed it on October 14 in&nbsp;curl 8.23.0. Taking over a client needs exac",
-   "grup": "Genel"
-  },
-  {
-   "id": "ff21bb8aab01",
-   "tarih": "2026-10-13",
-   "kaynak": "BleepingComputer",
-   "baslik": "OpenAI engineer arrested for allegedly planting spy device in office",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
-   "ozet": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "fb99d329a170",
-   "tarih": "2026-10-13",
-   "kaynak": "The Hacker News",
-   "baslik": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-   "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-   "ozet": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to \"act immediately.\" A fix for ",
-   "grup": "Genel"
-  },
-  {
-   "id": "fb6e12345e1c",
-   "tarih": "2026-10-13",
-   "kaynak": "SecurityWeek",
-   "baslik": "XWorm RAT Evolves Into Surveillance Platform",
-   "url": "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/",
-   "ozet": "Expanded plugin count allows the malware to monitor users’ location, stream live audio, and interact with authenticated browser sessions. The post XWorm RAT Evolves Into Surveillance Platform appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "f42a122e5dac",
-   "tarih": "2026-10-13",
-   "kaynak": "SecurityWeek",
-   "baslik": "Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns",
-   "url": "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/",
-   "ozet": "Experiments show cheap TV boxes can run capable AI models, and small models may soon be able to spread across such devices on their own. The post Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "e7916ed60e97",
-   "tarih": "2026-10-13",
-   "kaynak": "The Hacker News",
-   "baslik": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
-   "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
-   "ozet": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution. \"GitLab has remediated an issue that, under certain conditions, could have allowed an unauthenticated user to exec",
-   "grup": "Genel"
-  },
-  {
-   "id": "db0de8b1cf15",
-   "tarih": "2026-10-13",
-   "kaynak": "BleepingComputer",
-   "baslik": "UK Housing Ombudsman Service investigates 'security incident'",
-   "url": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
-   "ozet": "The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "d9ed76a64d3e",
-   "tarih": "2026-10-13",
-   "kaynak": "The Hacker News",
-   "baslik": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-   "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-   "ozet": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The frontier AI lab said small AI models could form autonomous, self-propagating worm bot",
-   "grup": "Genel"
-  },
-  {
-   "id": "cd473945c5d8",
-   "tarih": "2026-10-13",
-   "kaynak": "The Hacker News",
-   "baslik": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-   "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-   "ozet": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, attackers can move through systems faster than security teams can investigate. A",
-   "grup": "Genel"
-  },
-  {
-   "id": "cd001c5faa80",
-   "tarih": "2026-10-13",
-   "kaynak": "BleepingComputer",
-   "baslik": "Docker Hub flaw let attackers impersonate users, tamper with images",
-   "url": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
-   "ozet": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]",
-   "grup": "Genel"
   },
   {
    "id": "30c48aec6fa7",
