@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-14T23:54:07+00:00",
+ "guncelleme": "2026-10-15T08:15:28+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -24,6 +24,51 @@
  ],
  "haberler": [
   {
+   "id": "fc3053d7e094",
+   "tarih": "2026-10-15",
+   "kaynak": "The Hacker News",
+   "baslik": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+   "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+   "ozet": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. \"A remote code execution (RCE) v",
+   "grup": "Genel"
+  },
+  {
+   "id": "9d7e0c21485d",
+   "tarih": "2026-10-15",
+   "kaynak": "BleepingComputer",
+   "baslik": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
+   "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
+   "ozet": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "8bed3c35c1a5",
+   "tarih": "2026-10-15",
+   "kaynak": "SecurityWeek",
+   "baslik": "Cisco Warns of Exploited Secure Email Gateway Vulnerability",
+   "url": "https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/",
+   "ozet": "Unauthenticated, remote attackers could write arbitrary files to the operating system and execute commands with root privileges. The post Cisco Warns of Exploited Secure Email Gateway Vulnerability appeared first on SecurityWeek.",
+   "grup": "Cisco"
+  },
+  {
+   "id": "4d5b36d13b30",
+   "tarih": "2026-10-15",
+   "kaynak": "Schneier on Security",
+   "baslik": "Upcoming Speaking Engagements",
+   "url": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
+   "ozet": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET ",
+   "grup": "Genel"
+  },
+  {
+   "id": "0ec6dac33216",
+   "tarih": "2026-10-15",
+   "kaynak": "SecurityWeek",
+   "baslik": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution",
+   "url": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
+   "ozet": "The company says it’s aware of limited exploitation against customers’ firewalls, and it has made IoCs available. The post Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "fac7cd6e29f5",
    "tarih": "2026-10-14",
    "kaynak": "BleepingComputer",
@@ -47,7 +92,7 @@
    "kaynak": "The Hacker News",
    "baslik": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
    "url": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-   "ozet": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a mix of U.S. citizens and Chinese nationals for their roles in an IT worker consp",
+   "ozet": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a mix of U.S. citizens and Chinese nationals for their roles in an",
    "grup": "Genel"
   },
   {
@@ -258,15 +303,6 @@
    "grup": "Genel"
   },
   {
-   "id": "4d5b36d13b30",
-   "tarih": "2026-10-14",
-   "kaynak": "Schneier on Security",
-   "baslik": "Upcoming Speaking Engagements",
-   "url": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-   "ozet": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on Octob",
-   "grup": "Genel"
-  },
-  {
    "id": "3c74e6888cec",
    "tarih": "2026-10-14",
    "kaynak": "SecurityWeek",
@@ -444,33 +480,6 @@
    "baslik": "Docker Hub flaw let attackers impersonate users, tamper with images",
    "url": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
    "ozet": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "c63069ba1c8d",
-   "tarih": "2026-10-13",
-   "kaynak": "BleepingComputer",
-   "baslik": "Ivanti warns of Connect Secure zero-day exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
-   "ozet": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "8f63a0f3f054",
-   "tarih": "2026-10-13",
-   "kaynak": "The Hacker News",
-   "baslik": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-   "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
-   "ozet": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has issued a fix, according to&nbsp;an advisory published by SSD Secure Disclosure&nbsp;on October 12. The chain was t",
-   "grup": "Genel"
-  },
-  {
-   "id": "8986d7ba1cda",
-   "tarih": "2026-10-13",
-   "kaynak": "SecurityWeek",
-   "baslik": "AI Turns Familiar Cyberattacks Into a Race Against Time",
-   "url": "https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/",
-   "ozet": "IBM’s Steve Wallin talks to SecurityWeek on the effect of AI-driven attacks on enterprise defenses. The post AI Turns Familiar Cyberattacks Into a Race Against Time appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
