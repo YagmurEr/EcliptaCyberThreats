@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-16T13:56:01+00:00",
+ "guncelleme": "2026-10-16T18:47:08+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -42,6 +42,15 @@
    "grup": "Genel"
   },
   {
+   "id": "d269ee990910",
+   "tarih": "2026-10-16",
+   "kaynak": "BleepingComputer",
+   "baslik": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+   "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+   "ozet": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI use and block sensitive information before it reaches personal accounts. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "c426150a84ac",
    "tarih": "2026-10-16",
    "kaynak": "SecurityWeek",
@@ -69,6 +78,15 @@
    "grup": "Genel"
   },
   {
+   "id": "82bd71e8965d",
+   "tarih": "2026-10-16",
+   "kaynak": "The Hacker News",
+   "baslik": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+   "url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+   "ozet": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurrency from a third-party's wallet without authorization to com",
+   "grup": "Genel"
+  },
+  {
    "id": "7e8ace9d42e7",
    "tarih": "2026-10-16",
    "kaynak": "BleepingComputer",
@@ -76,6 +94,24 @@
    "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
    "ozet": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
    "grup": "Microsoft"
+  },
+  {
+   "id": "7ca539292393",
+   "tarih": "2026-10-16",
+   "kaynak": "The Hacker News",
+   "baslik": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+   "url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+   "ozet": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google accou",
+   "grup": "Genel"
+  },
+  {
+   "id": "7a1f49cfc715",
+   "tarih": "2026-10-16",
+   "kaynak": "SecurityWeek",
+   "baslik": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
+   "url": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
+   "ozet": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack. The post In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit appeared first on SecurityWeek",
+   "grup": "Genel"
   },
   {
    "id": "754b8af5c24d",
@@ -114,6 +150,15 @@
    "grup": "Microsoft"
   },
   {
+   "id": "50880c900177",
+   "tarih": "2026-10-16",
+   "kaynak": "BleepingComputer",
+   "baslik": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+   "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+   "ozet": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "494b44d4ddb2",
    "tarih": "2026-10-16",
    "kaynak": "BleepingComputer",
@@ -129,6 +174,24 @@
    "baslik": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
    "url": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
    "ozet": "Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report. The post OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "2f67e7ff74fc",
+   "tarih": "2026-10-16",
+   "kaynak": "The Hacker News",
+   "baslik": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+   "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+   "ozet": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and report",
+   "grup": "Genel"
+  },
+  {
+   "id": "2f6312b7767d",
+   "tarih": "2026-10-16",
+   "kaynak": "The Hacker News",
+   "baslik": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+   "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+   "ozet": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and ru",
    "grup": "Genel"
   },
   {
@@ -372,69 +435,6 @@
    "baslik": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
    "url": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
    "ozet": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through August 2026, involves four different infection chains that make use of macro-enabl",
-   "grup": "Genel"
-  },
-  {
-   "id": "5d774caabf5a",
-   "tarih": "2026-10-15",
-   "kaynak": "BleepingComputer",
-   "baslik": "Is AI pentesting as good as a human pentester?",
-   "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
-   "ozet": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where AI agents can improve security testing. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "50367ee6ae87",
-   "tarih": "2026-10-15",
-   "kaynak": "The Hacker News",
-   "baslik": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
-   "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
-   "ozet": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and agentic workflows. In February 2025, DataStax, the parent company of Langflow, wa",
-   "grup": "Genel"
-  },
-  {
-   "id": "4d5b36d13b30",
-   "tarih": "2026-10-15",
-   "kaynak": "Schneier on Security",
-   "baslik": "Upcoming Speaking Engagements",
-   "url": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-   "ozet": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET ",
-   "grup": "Genel"
-  },
-  {
-   "id": "3565d45fa972",
-   "tarih": "2026-10-15",
-   "kaynak": "BleepingComputer",
-   "baslik": "Police arrests 95 suspects in international CSAM crackdown action",
-   "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-   "ozet": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "33659e3f7808",
-   "tarih": "2026-10-15",
-   "kaynak": "SecurityWeek",
-   "baslik": "Context Is King in the Fight Against Modern Cyberattacks",
-   "url": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
-   "ozet": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "2ee0c0a49b5a",
-   "tarih": "2026-10-15",
-   "kaynak": "SecurityWeek",
-   "baslik": "Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand",
-   "url": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
-   "ozet": "This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies. The post Watch Now: Zero Trust Strategies Summit &#8211; All Sessions Available on Demand appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "222e66a51003",
-   "tarih": "2026-10-15",
-   "kaynak": "The Hacker News",
-   "baslik": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-   "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-   "ozet": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and nicknamed PwnEscape,",
    "grup": "Genel"
   },
   {
