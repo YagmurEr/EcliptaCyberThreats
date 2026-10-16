@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-16T08:07:55+00:00",
+ "guncelleme": "2026-10-16T13:56:01+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -42,6 +42,60 @@
    "grup": "Genel"
   },
   {
+   "id": "c426150a84ac",
+   "tarih": "2026-10-16",
+   "kaynak": "SecurityWeek",
+   "baslik": "F5, Juniper Networks Patch Critical Vulnerabilities",
+   "url": "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/",
+   "ozet": "Successful exploitation of some of these issues could lead to remote code execution and full device takeover. The post F5, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek.",
+   "grup": "Juniper"
+  },
+  {
+   "id": "c425a649aa9d",
+   "tarih": "2026-10-16",
+   "kaynak": "Schneier on Security",
+   "baslik": "Backdooring Open-Weight AI Models",
+   "url": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
+   "ozet": "This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it&#8217;s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it&#8217;s the most popular reason people download modified weights without v",
+   "grup": "Genel"
+  },
+  {
+   "id": "862e2db1b4e0",
+   "tarih": "2026-10-16",
+   "kaynak": "BleepingComputer",
+   "baslik": "Burger King Japan data breach exposes 11 million customer records",
+   "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+   "ozet": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "7e8ace9d42e7",
+   "tarih": "2026-10-16",
+   "kaynak": "BleepingComputer",
+   "baslik": "Microsoft: October Windows update may break Smart App Control",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
+   "ozet": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "754b8af5c24d",
+   "tarih": "2026-10-16",
+   "kaynak": "SecurityWeek",
+   "baslik": "BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts",
+   "url": "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/",
+   "ozet": "A cyber incident affecting contractor BAE Systems has knocked out the Bankruptcy Noticing Center, halting notices nationwide for a week. The post BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "61ac6bfaa7c9",
+   "tarih": "2026-10-16",
+   "kaynak": "The Hacker News",
+   "baslik": "AI Decision Models and Their Impact on AI SOC Platforms",
+   "url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+   "ozet": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own Decisions API at DevDay and opened a public beta on October 6. Cr",
+   "grup": "Genel"
+  },
+  {
    "id": "5fc8c6dd8c54",
    "tarih": "2026-10-16",
    "kaynak": "The Hacker News",
@@ -69,12 +123,30 @@
    "grup": "Genel"
   },
   {
+   "id": "3042b8d5fd6d",
+   "tarih": "2026-10-16",
+   "kaynak": "SecurityWeek",
+   "baslik": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
+   "url": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
+   "ozet": "Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report. The post OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "1fd194e19c3d",
    "tarih": "2026-10-16",
    "kaynak": "The Hacker News",
    "baslik": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
    "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
    "ozet": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS score: 9.3), is a case of",
+   "grup": "Genel"
+  },
+  {
+   "id": "196d1fbeb9fc",
+   "tarih": "2026-10-16",
+   "kaynak": "SecurityWeek",
+   "baslik": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
+   "url": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
+   "ozet": "Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts. The post Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
@@ -366,42 +438,6 @@
    "grup": "Genel"
   },
   {
-   "id": "20dc09b781c4",
-   "tarih": "2026-10-15",
-   "kaynak": "BleepingComputer",
-   "baslik": "Fake Arch Linux packages push malware with root privileges",
-   "url": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
-   "ozet": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "1d72630baefb",
-   "tarih": "2026-10-15",
-   "kaynak": "The Hacker News",
-   "baslik": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
-   "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
-   "ozet": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on October 8 and 9, 2026. \"This resulted from compromising the GitHub accounts of about 1,900 users. It at",
-   "grup": "Genel"
-  },
-  {
-   "id": "12b5084185c2",
-   "tarih": "2026-10-15",
-   "kaynak": "The Hacker News",
-   "baslik": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
-   "url": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
-   "ozet": "NGINX released&nbsp;versions 1.30.6 and 1.31.7&nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind NGINX, says could crash a worker process or possibly let an attacker run code, and each requires",
-   "grup": "Genel"
-  },
-  {
-   "id": "0ec6dac33216",
-   "tarih": "2026-10-15",
-   "kaynak": "SecurityWeek",
-   "baslik": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution",
-   "url": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
-   "ozet": "The company says it’s aware of limited exploitation against customers’ firewalls, and it has made IoCs available. The post Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
    "id": "080d6dd1dc1f",
    "tarih": "2026-10-15",
    "kaynak": "BleepingComputer",
@@ -418,24 +454,6 @@
    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
    "ozet": "Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]",
    "grup": "Microsoft"
-  },
-  {
-   "id": "f6b610c18e50",
-   "tarih": "2026-10-14",
-   "kaynak": "SecurityWeek",
-   "baslik": "Harmonic Security Raises $50 Million for Workforce AI Protection",
-   "url": "https://www.securityweek.com/harmonic-security-raises-50-million-for-workforce-ai-protection/",
-   "ozet": "The cybersecurity startup plans to expand engineering and go-to-market teams in the US and UK. The post Harmonic Security Raises $50 Million for Workforce AI Protection appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "f47fa4018271",
-   "tarih": "2026-10-14",
-   "kaynak": "The Hacker News",
-   "baslik": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
-   "url": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-   "ozet": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a mix of U.S. citizens and Chinese nationals for their roles in an",
-   "grup": "Genel"
   },
   {
    "id": "ef61a9283f23",
