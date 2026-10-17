@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-17T07:45:18+00:00",
+ "guncelleme": "2026-10-17T12:56:32+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -30,6 +30,24 @@
    "baslik": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
    "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
    "ozet": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments. ConnectWise Cl",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "2956b1e39e10",
+   "tarih": "2026-10-17",
+   "kaynak": "SecurityWeek",
+   "baslik": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
+   "url": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+   "ozet": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru&#8217;s Zero-Click Spyware Delivery Channel appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "1fae9cde44bf",
+   "tarih": "2026-10-17",
+   "kaynak": "The Hacker News",
+   "baslik": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+   "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+   "ozet": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloade",
    "grup": "Microsoft"
   },
   {
@@ -435,15 +453,6 @@
    "baslik": "Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers",
    "url": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
    "ozet": "Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility. The post Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "7278d7ea9fdc",
-   "tarih": "2026-10-15",
-   "kaynak": "SecurityWeek",
-   "baslik": "CISO Conversations: James Robinson – Many Jobs, One Journey to Netskope CISO",
-   "url": "https://www.securityweek.com/ciso-conversations-james-robinson-many-jobs-one-journey-to-netskope-ciso/",
-   "ozet": "James Robinson never planned a cybersecurity career — seven companies and one deputy CISO role later, he leads security at Netskope. The post CISO Conversations: James Robinson – Many Jobs, One Journey to Netskope CISO appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
