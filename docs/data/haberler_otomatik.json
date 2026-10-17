@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-16T23:33:01+00:00",
+ "guncelleme": "2026-10-17T07:45:18+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -23,6 +23,15 @@
   }
  ],
  "haberler": [
+  {
+   "id": "b3dabcb4d0c0",
+   "tarih": "2026-10-17",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+   "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+   "ozet": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments. ConnectWise Cl",
+   "grup": "Microsoft"
+  },
   {
    "id": "fd577205a9ba",
    "tarih": "2026-10-16",
