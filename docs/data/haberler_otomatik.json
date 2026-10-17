@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-17T12:56:32+00:00",
+ "guncelleme": "2026-10-17T17:51:39+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -31,6 +31,24 @@
    "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
    "ozet": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments. ConnectWise Cl",
    "grup": "Microsoft"
+  },
+  {
+   "id": "74a44f824ba0",
+   "tarih": "2026-10-17",
+   "kaynak": "BleepingComputer",
+   "baslik": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+   "ozet": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "43fc56afbb27",
+   "tarih": "2026-10-17",
+   "kaynak": "BleepingComputer",
+   "baslik": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+   "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+   "ozet": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+   "grup": "Genel"
   },
   {
    "id": "2956b1e39e10",
@@ -227,7 +245,7 @@
    "kaynak": "The Hacker News",
    "baslik": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
    "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-   "ozet": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and report",
+   "ozet": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reporte",
    "grup": "Genel"
   },
   {
@@ -445,15 +463,6 @@
    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
    "ozet": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
    "grup": "Microsoft"
-  },
-  {
-   "id": "804b1f79c64c",
-   "tarih": "2026-10-15",
-   "kaynak": "SecurityWeek",
-   "baslik": "Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers",
-   "url": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
-   "ozet": "Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility. The post Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "080d6dd1dc1f",
