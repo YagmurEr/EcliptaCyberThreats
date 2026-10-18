@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-18T13:14:16+00:00",
+ "guncelleme": "2026-10-18T18:04:01+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -39,6 +39,15 @@
    "baslik": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
    "url": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
    "ozet": "CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It’s a mixed bag. The post US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "74ff0a30f9fe",
+   "tarih": "2026-10-18",
+   "kaynak": "BleepingComputer",
+   "baslik": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+   "ozet": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
    "grup": "Genel"
   },
   {
@@ -444,15 +453,6 @@
    "baslik": "Why AI Confidence Is Not Validation",
    "url": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
    "ozet": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliable ways to verify it. Without governance models and validati",
-   "grup": "Genel"
-  },
-  {
-   "id": "999e9923be39",
-   "tarih": "2026-10-15",
-   "kaynak": "The Hacker News",
-   "baslik": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
-   "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
-   "ozet": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026.&nbsp; The campaigns also increase operational pressure on MSSPs servin",
    "grup": "Genel"
   },
   {
