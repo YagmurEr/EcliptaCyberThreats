@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-18T07:59:33+00:00",
+ "guncelleme": "2026-10-18T13:14:16+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -23,6 +23,24 @@
   }
  ],
  "haberler": [
+  {
+   "id": "952b3a6c7b9c",
+   "tarih": "2026-10-18",
+   "kaynak": "The Hacker News",
+   "baslik": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+   "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+   "ozet": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled identities are listed",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "7e978702ff2e",
+   "tarih": "2026-10-18",
+   "kaynak": "SecurityWeek",
+   "baslik": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
+   "url": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+   "ozet": "CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It’s a mixed bag. The post US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
   {
    "id": "b3dabcb4d0c0",
    "tarih": "2026-10-17",
@@ -435,15 +453,6 @@
    "baslik": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
    "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
    "ozet": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026.&nbsp; The campaigns also increase operational pressure on MSSPs servin",
-   "grup": "Genel"
-  },
-  {
-   "id": "986cc714fb42",
-   "tarih": "2026-10-15",
-   "kaynak": "The Hacker News",
-   "baslik": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
-   "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-   "ozet": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted login can hide the w",
    "grup": "Genel"
   },
   {
