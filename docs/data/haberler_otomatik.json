@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-18T23:07:40+00:00",
+ "guncelleme": "2026-10-19T08:48:55+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -23,6 +23,33 @@
   }
  ],
  "haberler": [
+  {
+   "id": "f519e0b522d7",
+   "tarih": "2026-10-19",
+   "kaynak": "The Hacker News",
+   "baslik": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
+   "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
+   "ozet": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser&nbsp;disclosed&nbsp;on October 16. He showed the attack working against home gateways supplie",
+   "grup": "Genel"
+  },
+  {
+   "id": "5c0bebf27f10",
+   "tarih": "2026-10-19",
+   "kaynak": "SecurityWeek",
+   "baslik": "Anthropic Acquires Confidential AI Startup Opaque Systems",
+   "url": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
+   "ozet": "Opaque Systems has developed technology that lets AI systems use sensitive data while keeping it protected by the underlying hardware. The post Anthropic Acquires Confidential AI Startup Opaque Systems appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "1de1c48ce23b",
+   "tarih": "2026-10-19",
+   "kaynak": "The Hacker News",
+   "baslik": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+   "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
+   "ozet": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional hosted service: a workspace saves its own OpenAI, Anthropic, or Google key there",
+   "grup": "Genel"
+  },
   {
    "id": "952b3a6c7b9c",
    "tarih": "2026-10-18",
@@ -426,33 +453,6 @@
    "baslik": "CikaBika Bot RAT Uses Discord for C&C",
    "url": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
    "ozet": "Delivered via phishing, the malware provides reconnaissance, remote execution, and data exfiltration capabilities. The post CikaBika Bot RAT Uses Discord for C&#038;C appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "a094aa58c0da",
-   "tarih": "2026-10-15",
-   "kaynak": "BleepingComputer",
-   "baslik": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
-   "ozet": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "9d7e0c21485d",
-   "tarih": "2026-10-15",
-   "kaynak": "BleepingComputer",
-   "baslik": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
-   "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
-   "ozet": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "9bedf93cf19d",
-   "tarih": "2026-10-15",
-   "kaynak": "The Hacker News",
-   "baslik": "Why AI Confidence Is Not Validation",
-   "url": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
-   "ozet": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliable ways to verify it. Without governance models and validati",
    "grup": "Genel"
   },
   {
