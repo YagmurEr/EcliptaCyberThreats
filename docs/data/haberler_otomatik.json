@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-19T16:26:18+00:00",
+ "guncelleme": "2026-10-20T00:17:49+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -24,12 +24,30 @@
  ],
  "haberler": [
   {
+   "id": "ff25b976bdfa",
+   "tarih": "2026-10-19",
+   "kaynak": "BleepingComputer",
+   "baslik": "Hackers hijack AOMEI update servers to secretly spread malware",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+   "ozet": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "f519e0b522d7",
    "tarih": "2026-10-19",
    "kaynak": "The Hacker News",
    "baslik": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
    "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
    "ozet": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser&nbsp;disclosed&nbsp;on October 16. He showed the attack working against home gateways supplie",
+   "grup": "Genel"
+  },
+  {
+   "id": "c8f4e94200b3",
+   "tarih": "2026-10-19",
+   "kaynak": "BleepingComputer",
+   "baslik": "OpenCode hack exposes API keys amid AI distillation attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
+   "ozet": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
    "grup": "Genel"
   },
   {
@@ -67,6 +85,15 @@
    "url": "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/",
    "ozet": "The services remain unavailable as the company continues remediation and security validation. The post ConnectWise Suspends Cloud Services in Response to Cyberattack appeared first on SecurityWeek.",
    "grup": "Genel"
+  },
+  {
+   "id": "a4cd23325612",
+   "tarih": "2026-10-19",
+   "kaynak": "BleepingComputer",
+   "baslik": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+   "url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+   "ozet": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
+   "grup": "WordPress"
   },
   {
    "id": "82c7537f544b",
@@ -114,6 +141,15 @@
    "grup": "Genel"
   },
   {
+   "id": "5a8d0413be6f",
+   "tarih": "2026-10-19",
+   "kaynak": "BleepingComputer",
+   "baslik": "Nikkei discloses third data breach in a month, 1.8M records exposed",
+   "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+   "ozet": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "59b0e474cfa7",
    "tarih": "2026-10-19",
    "kaynak": "BleepingComputer",
@@ -130,6 +166,24 @@
    "url": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
    "ozet": "Interesting research: Abstract: Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar puzzle costs as much time and compute as the first. Spec",
    "grup": "Genel"
+  },
+  {
+   "id": "561dd3f2eda5",
+   "tarih": "2026-10-19",
+   "kaynak": "SecurityWeek",
+   "baslik": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
+   "url": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
+   "ozet": "Attackers paired a genuine, signed copy of Siemens Software Center with malicious DLLs to infect Windows PCs via ClickFix lures. The post Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "4ad529ab6216",
+   "tarih": "2026-10-19",
+   "kaynak": "The Hacker News",
+   "baslik": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
+   "url": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
+   "ozet": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math said in a&nbsp;security notice&nbsp;published on October 16. An",
+   "grup": "WordPress"
   },
   {
    "id": "47f4fcfb349a",
@@ -177,12 +231,30 @@
    "grup": "Microsoft"
   },
   {
+   "id": "143bfdf19e2b",
+   "tarih": "2026-10-19",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+   "url": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+   "ozet": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher who goes by the online alias boredhackerblog, the exploitation activity involves",
+   "grup": "Genel"
+  },
+  {
    "id": "10c7257940cc",
    "tarih": "2026-10-19",
    "kaynak": "BleepingComputer",
    "baslik": "Inside the Underground Market for Know Your Client Services",
    "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
    "ozet": "Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the techniques used to create and maintain fraudulent verified accounts. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "06accfcb31a1",
+   "tarih": "2026-10-19",
+   "kaynak": "BleepingComputer",
+   "baslik": "Bullhorn takes staffing platform offline to contain cyberattack",
+   "url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+   "ozet": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
    "grup": "Genel"
   },
   {
@@ -444,60 +516,6 @@
    "baslik": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
    "url": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
    "ozet": "Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report. The post OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "2f67e7ff74fc",
-   "tarih": "2026-10-16",
-   "kaynak": "The Hacker News",
-   "baslik": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-   "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-   "ozet": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reporte",
-   "grup": "Genel"
-  },
-  {
-   "id": "2f6312b7767d",
-   "tarih": "2026-10-16",
-   "kaynak": "The Hacker News",
-   "baslik": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
-   "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
-   "ozet": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and ru",
-   "grup": "Genel"
-  },
-  {
-   "id": "1fd194e19c3d",
-   "tarih": "2026-10-16",
-   "kaynak": "The Hacker News",
-   "baslik": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-   "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-   "ozet": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS score: 9.3), is a case of",
-   "grup": "Genel"
-  },
-  {
-   "id": "196d1fbeb9fc",
-   "tarih": "2026-10-16",
-   "kaynak": "SecurityWeek",
-   "baslik": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
-   "url": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
-   "ozet": "Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts. The post Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "105239e3490a",
-   "tarih": "2026-10-16",
-   "kaynak": "SecurityWeek",
-   "baslik": "Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis",
-   "url": "https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/",
-   "ozet": "The Thoma Bravo-owned Proofpoint will acquire Varonis in an all-cash transaction and Varonis will become a private company. The post Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "fc3053d7e094",
-   "tarih": "2026-10-15",
-   "kaynak": "The Hacker News",
-   "baslik": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-   "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-   "ozet": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. \"A remote code execution (RCE) v",
    "grup": "Genel"
   },
   {
