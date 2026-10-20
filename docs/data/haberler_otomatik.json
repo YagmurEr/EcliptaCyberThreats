@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-20T19:11:59+00:00",
+ "guncelleme": "2026-10-20T23:50:48+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -93,6 +93,15 @@
    "baslik": "Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say",
    "url": "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/",
    "ozet": "Abdulrahman Alfozan’s wife and young son also left the country the day after the 35-year-old Saudi national’s arrest. The post Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "aa2f36ffa3be",
+   "tarih": "2026-10-20",
+   "kaynak": "BleepingComputer",
+   "baslik": "Zeabur shutting down after second security breach in two months",
+   "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+   "ozet": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]",
    "grup": "Genel"
   },
   {
@@ -312,6 +321,15 @@
    "grup": "Genel"
   },
   {
+   "id": "05dd90fd0f45",
+   "tarih": "2026-10-20",
+   "kaynak": "BleepingComputer",
+   "baslik": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+   "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+   "ozet": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "ff25b976bdfa",
    "tarih": "2026-10-19",
    "kaynak": "BleepingComputer",
@@ -408,24 +426,6 @@
    "baslik": "One Compromised Login Exposed Millions of California Students’ Records",
    "url": "https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/",
    "ozet": "Intruders used compromised credentials to access an ETS SFTP server, copying records of California students back to 2006. The post One Compromised Login Exposed Millions of California Students&#8217; Records appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "5c0bebf27f10",
-   "tarih": "2026-10-19",
-   "kaynak": "SecurityWeek",
-   "baslik": "Anthropic Acquires Confidential AI Startup Opaque Systems",
-   "url": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
-   "ozet": "Opaque Systems has developed technology that lets AI systems use sensitive data while keeping it protected by the underlying hardware. The post Anthropic Acquires Confidential AI Startup Opaque Systems appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "5ae38a63e473",
-   "tarih": "2026-10-19",
-   "kaynak": "The Hacker News",
-   "baslik": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
-   "url": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-   "ozet": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to-Case turn inbound customer messages into case records; it is how airlines and h",
    "grup": "Genel"
   },
   {
