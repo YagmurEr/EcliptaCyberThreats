@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-20T14:16:40+00:00",
+ "guncelleme": "2026-10-20T19:11:59+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -23,6 +23,15 @@
   }
  ],
  "haberler": [
+  {
+   "id": "f7a865abe770",
+   "tarih": "2026-10-20",
+   "kaynak": "SecurityWeek",
+   "baslik": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
+   "url": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
+   "ozet": "NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents. The post US Agencies Detail Incident Response Practices for Rogue AI Agents appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
   {
    "id": "f0509be43eab",
    "tarih": "2026-10-20",
@@ -132,6 +141,15 @@
    "grup": "Genel"
   },
   {
+   "id": "53ddecf9f5b1",
+   "tarih": "2026-10-20",
+   "kaynak": "The Hacker News",
+   "baslik": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+   "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+   "ozet": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that c",
+   "grup": "Genel"
+  },
+  {
    "id": "50e342417287",
    "tarih": "2026-10-20",
    "kaynak": "The Hacker News",
@@ -195,6 +213,15 @@
    "grup": "Genel"
   },
   {
+   "id": "4162cca6289c",
+   "tarih": "2026-10-20",
+   "kaynak": "BleepingComputer",
+   "baslik": "DHS bans DeepSeek products across US federal civilian agencies",
+   "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
+   "ozet": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "41525c1156ae",
    "tarih": "2026-10-20",
    "kaynak": "The Hacker News",
@@ -231,6 +258,24 @@
    "grup": "Genel"
   },
   {
+   "id": "2bcaf37a740b",
+   "tarih": "2026-10-20",
+   "kaynak": "BleepingComputer",
+   "baslik": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+   "ozet": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "1530955429aa",
+   "tarih": "2026-10-20",
+   "kaynak": "The Hacker News",
+   "baslik": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+   "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+   "ozet": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issu",
+   "grup": "Genel"
+  },
+  {
    "id": "13881c9b4329",
    "tarih": "2026-10-20",
    "kaynak": "The Hacker News",
@@ -240,12 +285,30 @@
    "grup": "Genel"
   },
   {
+   "id": "0dfa738d1635",
+   "tarih": "2026-10-20",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+   "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+   "ozet": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more than 1,200 sites and reached websites belong",
+   "grup": "Genel"
+  },
+  {
    "id": "0db72c8bc263",
    "tarih": "2026-10-20",
    "kaynak": "SecurityWeek",
    "baslik": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
    "url": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
    "ozet": "Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework. The post AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "0d304799e621",
+   "tarih": "2026-10-20",
+   "kaynak": "The Hacker News",
+   "baslik": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+   "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+   "ozet": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting&nbsp; PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by bad actors to ",
    "grup": "Genel"
   },
   {
@@ -366,42 +429,6 @@
    "grup": "Genel"
   },
   {
-   "id": "5a8d0413be6f",
-   "tarih": "2026-10-19",
-   "kaynak": "BleepingComputer",
-   "baslik": "Nikkei discloses third data breach in a month, 1.8M records exposed",
-   "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
-   "ozet": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "59b0e474cfa7",
-   "tarih": "2026-10-19",
-   "kaynak": "BleepingComputer",
-   "baslik": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-   "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-   "ozet": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "570936749f04",
-   "tarih": "2026-10-19",
-   "kaynak": "Schneier on Security",
-   "baslik": "Training AIs to Solve CAPTCHAs",
-   "url": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
-   "ozet": "Interesting research: Abstract: Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar puzzle costs as much time and compute as the first. Spec",
-   "grup": "Genel"
-  },
-  {
-   "id": "561dd3f2eda5",
-   "tarih": "2026-10-19",
-   "kaynak": "SecurityWeek",
-   "baslik": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
-   "url": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
-   "ozet": "Attackers paired a genuine, signed copy of Siemens Software Center with malicious DLLs to infect Windows PCs via ClickFix lures. The post Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
    "id": "4ad529ab6216",
    "tarih": "2026-10-19",
    "kaynak": "The Hacker News",
@@ -409,15 +436,6 @@
    "url": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
    "ozet": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math said in a&nbsp;security notice&nbsp;published on October 16. An",
    "grup": "WordPress"
-  },
-  {
-   "id": "47f4fcfb349a",
-   "tarih": "2026-10-19",
-   "kaynak": "The Hacker News",
-   "baslik": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-   "url": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-   "ozet": "The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguised within a fake font file. The latest evolution, detailed by OpenSourceMalware,",
-   "grup": "Genel"
   },
   {
    "id": "3e1eacecc51d",
@@ -438,15 +456,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "1de1c48ce23b",
-   "tarih": "2026-10-19",
-   "kaynak": "The Hacker News",
-   "baslik": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-   "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-   "ozet": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional hosted service: a workspace saves its own OpenAI, Anthropic, or Google key there",
-   "grup": "Genel"
-  },
-  {
    "id": "15156651e221",
    "tarih": "2026-10-19",
    "kaynak": "BleepingComputer",
@@ -454,15 +463,6 @@
    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
    "ozet": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
    "grup": "Microsoft"
-  },
-  {
-   "id": "143bfdf19e2b",
-   "tarih": "2026-10-19",
-   "kaynak": "The Hacker News",
-   "baslik": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
-   "url": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
-   "ozet": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher who goes by the online alias boredhackerblog, the exploitation activity involves",
-   "grup": "Genel"
   },
   {
    "id": "952b3a6c7b9c",
