@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-20T00:17:49+00:00",
+ "guncelleme": "2026-10-20T08:29:08+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -23,6 +23,33 @@
   }
  ],
  "haberler": [
+  {
+   "id": "6c494d43a845",
+   "tarih": "2026-10-20",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
+   "url": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
+   "ozet": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery service that employs ClickFix-style lures on bogus landi",
+   "grup": "Genel"
+  },
+  {
+   "id": "50e342417287",
+   "tarih": "2026-10-20",
+   "kaynak": "The Hacker News",
+   "baslik": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
+   "url": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
+   "ozet": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secrets. In a new court filing Sunday, prosecutors revealed that A",
+   "grup": "Genel"
+  },
+  {
+   "id": "4fd8d5a31fd8",
+   "tarih": "2026-10-20",
+   "kaynak": "The Hacker News",
+   "baslik": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+   "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+   "ozet": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL in a directory the a",
+   "grup": "Genel"
+  },
   {
    "id": "ff25b976bdfa",
    "tarih": "2026-10-19",
@@ -490,33 +517,6 @@
    "url": "https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/",
    "ozet": "In addition to RCE flaws, Microsoft fixed multiple information disclosure bugs and a security bypass issue in Office. The post Microsoft Patches Two Dozen RCE Flaws in Office appeared first on SecurityWeek.",
    "grup": "Microsoft"
-  },
-  {
-   "id": "50880c900177",
-   "tarih": "2026-10-16",
-   "kaynak": "BleepingComputer",
-   "baslik": "Targeted ads installed Candiru spyware in zero-click attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
-   "ozet": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "494b44d4ddb2",
-   "tarih": "2026-10-16",
-   "kaynak": "BleepingComputer",
-   "baslik": "BeyondTrust patches zero-day exploited in attacks since August",
-   "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
-   "ozet": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "3042b8d5fd6d",
-   "tarih": "2026-10-16",
-   "kaynak": "SecurityWeek",
-   "baslik": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
-   "url": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
-   "ozet": "Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report. The post OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "8bed3c35c1a5",
