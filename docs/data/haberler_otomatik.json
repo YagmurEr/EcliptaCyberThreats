@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-20T08:29:08+00:00",
+ "guncelleme": "2026-10-20T14:16:40+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -24,12 +24,111 @@
  ],
  "haberler": [
   {
+   "id": "f0509be43eab",
+   "tarih": "2026-10-20",
+   "kaynak": "The Hacker News",
+   "baslik": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+   "url": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
+   "ozet": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of&nbsp;eight intermediate certificate authority keys. Programs built on the new release will refuse connections to sites and services whose certificates were issued ",
+   "grup": "Genel"
+  },
+  {
+   "id": "ebff93066b7e",
+   "tarih": "2026-10-20",
+   "kaynak": "SecurityWeek",
+   "baslik": "970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach",
+   "url": "https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/",
+   "ozet": "Paradigm Healthcare Services detected an intrusion in October 2025, but it took nearly a year to start notifying affected individuals. The post 970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "df48f73ea919",
+   "tarih": "2026-10-20",
+   "kaynak": "The Hacker News",
+   "baslik": "What Security Teams Can Do To Tame Wild Code",
+   "url": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
+   "ozet": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the team’s daily routine. Across the same organization, employees",
+   "grup": "Genel"
+  },
+  {
+   "id": "d02f2b9b0912",
+   "tarih": "2026-10-20",
+   "kaynak": "SecurityWeek",
+   "baslik": "AI Platform Cairn Abused to Hack Over 100 Organizations",
+   "url": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/",
+   "ozet": "At least three threat actors have been abusing Cairn for persistent access and financial theft. The post AI Platform Cairn Abused to Hack Over 100 Organizations appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "cf21e83d251e",
+   "tarih": "2026-10-20",
+   "kaynak": "SecurityWeek",
+   "baslik": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
+   "url": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
+   "ozet": "The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days. The post Ahold Delhaize Restoring Services Disrupted by Cyberattack appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "b8cb67bf0a57",
+   "tarih": "2026-10-20",
+   "kaynak": "BleepingComputer",
+   "baslik": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
+   "url": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
+   "ozet": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "b44079bd0a64",
+   "tarih": "2026-10-20",
+   "kaynak": "SecurityWeek",
+   "baslik": "Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say",
+   "url": "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/",
+   "ozet": "Abdulrahman Alfozan’s wife and young son also left the country the day after the 35-year-old Saudi national’s arrest. The post Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "9f686724487e",
+   "tarih": "2026-10-20",
+   "kaynak": "BleepingComputer",
+   "baslik": "Ahold Delhaize: Cyberattack affects services across US and Europe",
+   "url": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
+   "ozet": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "92e407676578",
+   "tarih": "2026-10-20",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+   "url": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+   "ozet": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a build designed to steal secrets stored on the disk of any machine that runs it, th",
+   "grup": "Genel"
+  },
+  {
    "id": "6c494d43a845",
    "tarih": "2026-10-20",
    "kaynak": "The Hacker News",
    "baslik": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
    "url": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
    "ozet": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery service that employs ClickFix-style lures on bogus landi",
+   "grup": "Genel"
+  },
+  {
+   "id": "59dff61018ea",
+   "tarih": "2026-10-20",
+   "kaynak": "Schneier on Security",
+   "baslik": "Possible new Cellebrite iPhone Radio Zero-Day",
+   "url": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
+   "ozet": "Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the &#8220;advanced unlocking services&#8221; they&#8217;ve marketed for years. A press release from earlier this year confirms AU",
+   "grup": "Genel"
+  },
+  {
+   "id": "54e589c7063e",
+   "tarih": "2026-10-20",
+   "kaynak": "BleepingComputer",
+   "baslik": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
+   "url": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
+   "ozet": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, passwords, logging, and audit readiness. [...]",
    "grup": "Genel"
   },
   {
@@ -48,6 +147,105 @@
    "baslik": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
    "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
    "ozet": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL in a directory the a",
+   "grup": "Genel"
+  },
+  {
+   "id": "4f28949e9098",
+   "tarih": "2026-10-20",
+   "kaynak": "BleepingComputer",
+   "baslik": "Windows Server 2025 gets support for quick machine recovery",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
+   "ozet": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "4ee7cda6f2dc",
+   "tarih": "2026-10-20",
+   "kaynak": "BleepingComputer",
+   "baslik": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
+   "url": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
+   "ozet": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "4b4f09e00694",
+   "tarih": "2026-10-20",
+   "kaynak": "BleepingComputer",
+   "baslik": "Revolut outage disrupts online banking operations worldwide",
+   "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
+   "ozet": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "4791d60cd7f6",
+   "tarih": "2026-10-20",
+   "kaynak": "SecurityWeek",
+   "baslik": "The Key to AI Software Security Isn’t Speed, It’s Maturity",
+   "url": "https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/",
+   "ozet": "Where your developers sit on the AI adoption scale has a real impact on how you are addressing security risk. The post The Key to AI Software Security Isn’t Speed, It’s Maturity appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "467c211f344f",
+   "tarih": "2026-10-20",
+   "kaynak": "The Hacker News",
+   "baslik": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
+   "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
+   "ozet": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's own privacy policy for Europe tells users they can complain to one. The text sat",
+   "grup": "Genel"
+  },
+  {
+   "id": "41525c1156ae",
+   "tarih": "2026-10-20",
+   "kaynak": "The Hacker News",
+   "baslik": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
+   "url": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
+   "ozet": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO). The Symantec Threat Hunter Team, which is tracking the activity cluster under ",
+   "grup": "Genel"
+  },
+  {
+   "id": "382400392fa0",
+   "tarih": "2026-10-20",
+   "kaynak": "SecurityWeek",
+   "baslik": "Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring",
+   "url": "https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/",
+   "ozet": "Microsoft says companies should treat AI agents as insiders, and is adding controls that grant access per task and tighten it as an agent’s risk rises. The post Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring appeared first on SecurityWeek.",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "3493ad24d01d",
+   "tarih": "2026-10-20",
+   "kaynak": "SecurityWeek",
+   "baslik": "Hackers Steal 1.8 Million Records From Nikkei",
+   "url": "https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/",
+   "ozet": "The compromised information includes names, addresses, email addresses, phone numbers, and dates of birth. The post Hackers Steal 1.8 Million Records From Nikkei appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "2f7a0f9a2ffb",
+   "tarih": "2026-10-20",
+   "kaynak": "The Hacker News",
+   "baslik": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
+   "url": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
+   "ozet": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the&nbsp;Citizen Lab said&nbsp;on October 19. The finding came six days before Serbia's October 25 snap parliamentar",
+   "grup": "Genel"
+  },
+  {
+   "id": "13881c9b4329",
+   "tarih": "2026-10-20",
+   "kaynak": "The Hacker News",
+   "baslik": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
+   "url": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
+   "ozet": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led to unauthorized access to application identities associated",
+   "grup": "Genel"
+  },
+  {
+   "id": "0db72c8bc263",
+   "tarih": "2026-10-20",
+   "kaynak": "SecurityWeek",
+   "baslik": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
+   "url": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
+   "ozet": "Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework. The post AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
@@ -267,42 +465,6 @@
    "grup": "Genel"
   },
   {
-   "id": "10c7257940cc",
-   "tarih": "2026-10-19",
-   "kaynak": "BleepingComputer",
-   "baslik": "Inside the Underground Market for Know Your Client Services",
-   "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
-   "ozet": "Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the techniques used to create and maintain fraudulent verified accounts. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "06accfcb31a1",
-   "tarih": "2026-10-19",
-   "kaynak": "BleepingComputer",
-   "baslik": "Bullhorn takes staffing platform offline to contain cyberattack",
-   "url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-   "ozet": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "0534f1906337",
-   "tarih": "2026-10-19",
-   "kaynak": "The Hacker News",
-   "baslik": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
-   "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-   "ozet": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gemini, coding tools, and security audits. \"The tools",
-   "grup": "Genel"
-  },
-  {
-   "id": "03d3ba9d36cc",
-   "tarih": "2026-10-19",
-   "kaynak": "The Hacker News",
-   "baslik": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-   "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-   "ozet": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage may already be done. This week had plenty of that. Trusted connections became a pr",
-   "grup": "Genel"
-  },
-  {
    "id": "952b3a6c7b9c",
    "tarih": "2026-10-18",
    "kaynak": "The Hacker News",
@@ -310,24 +472,6 @@
    "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
    "ozet": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled identities are listed",
    "grup": "Microsoft"
-  },
-  {
-   "id": "7e978702ff2e",
-   "tarih": "2026-10-18",
-   "kaynak": "SecurityWeek",
-   "baslik": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
-   "url": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
-   "ozet": "CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It’s a mixed bag. The post US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "74ff0a30f9fe",
-   "tarih": "2026-10-18",
-   "kaynak": "BleepingComputer",
-   "baslik": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
-   "ozet": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
-   "grup": "Genel"
   },
   {
    "id": "b3dabcb4d0c0",
@@ -348,24 +492,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "43fc56afbb27",
-   "tarih": "2026-10-17",
-   "kaynak": "BleepingComputer",
-   "baslik": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
-   "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
-   "ozet": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "2956b1e39e10",
-   "tarih": "2026-10-17",
-   "kaynak": "SecurityWeek",
-   "baslik": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
-   "url": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
-   "ozet": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru&#8217;s Zero-Click Spyware Delivery Channel appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
    "id": "1fae9cde44bf",
    "tarih": "2026-10-17",
    "kaynak": "The Hacker News",
@@ -373,42 +499,6 @@
    "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
    "ozet": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloade",
    "grup": "Microsoft"
-  },
-  {
-   "id": "fd577205a9ba",
-   "tarih": "2026-10-16",
-   "kaynak": "Schneier on Security",
-   "baslik": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
-   "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
-   "ozet": "New research shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-   "grup": "Genel"
-  },
-  {
-   "id": "f909b9dee009",
-   "tarih": "2026-10-16",
-   "kaynak": "The Hacker News",
-   "baslik": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
-   "url": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
-   "ozet": "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In&nbsp;said in an advisory&nbsp;on October 15. The agents went beyond their assigned tasks, and none of the organizations detected the un",
-   "grup": "Genel"
-  },
-  {
-   "id": "d342f7137dd6",
-   "tarih": "2026-10-16",
-   "kaynak": "BleepingComputer",
-   "baslik": "BAE Systems cyberattack disrupts US federal court operations",
-   "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
-   "ozet": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "d269ee990910",
-   "tarih": "2026-10-16",
-   "kaynak": "BleepingComputer",
-   "baslik": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
-   "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
-   "ozet": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI use and block sensitive information before it reaches personal accounts. [...]",
-   "grup": "Genel"
   },
   {
    "id": "c426150a84ac",
@@ -420,42 +510,6 @@
    "grup": "Juniper"
   },
   {
-   "id": "c425a649aa9d",
-   "tarih": "2026-10-16",
-   "kaynak": "Schneier on Security",
-   "baslik": "Backdooring Open-Weight AI Models",
-   "url": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
-   "ozet": "This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it&#8217;s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it&#8217;s the most popular reason people download modified weights without v",
-   "grup": "Genel"
-  },
-  {
-   "id": "8dfac5c34b84",
-   "tarih": "2026-10-16",
-   "kaynak": "BleepingComputer",
-   "baslik": "Critical BlockStrap flaw lets hackers run code on Magento servers",
-   "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
-   "ozet": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "862e2db1b4e0",
-   "tarih": "2026-10-16",
-   "kaynak": "BleepingComputer",
-   "baslik": "Burger King Japan data breach exposes 11 million customer records",
-   "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
-   "ozet": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "82bd71e8965d",
-   "tarih": "2026-10-16",
-   "kaynak": "The Hacker News",
-   "baslik": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
-   "url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
-   "ozet": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurrency from a third-party's wallet without authorization to com",
-   "grup": "Genel"
-  },
-  {
    "id": "7e8ace9d42e7",
    "tarih": "2026-10-16",
    "kaynak": "BleepingComputer",
@@ -463,42 +517,6 @@
    "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
    "ozet": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
    "grup": "Microsoft"
-  },
-  {
-   "id": "7ca539292393",
-   "tarih": "2026-10-16",
-   "kaynak": "The Hacker News",
-   "baslik": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
-   "url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
-   "ozet": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google accou",
-   "grup": "Genel"
-  },
-  {
-   "id": "7a1f49cfc715",
-   "tarih": "2026-10-16",
-   "kaynak": "SecurityWeek",
-   "baslik": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
-   "url": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
-   "ozet": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack. The post In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit appeared first on SecurityWeek",
-   "grup": "Genel"
-  },
-  {
-   "id": "754b8af5c24d",
-   "tarih": "2026-10-16",
-   "kaynak": "SecurityWeek",
-   "baslik": "BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts",
-   "url": "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/",
-   "ozet": "A cyber incident affecting contractor BAE Systems has knocked out the Bankruptcy Noticing Center, halting notices nationwide for a week. The post BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "61ac6bfaa7c9",
-   "tarih": "2026-10-16",
-   "kaynak": "The Hacker News",
-   "baslik": "AI Decision Models and Their Impact on AI SOC Platforms",
-   "url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
-   "ozet": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own Decisions API at DevDay and opened a public beta on October 6. Cr",
-   "grup": "Genel"
   },
   {
    "id": "5fc8c6dd8c54",
