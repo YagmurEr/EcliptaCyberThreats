@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-20T23:50:48+00:00",
+ "guncelleme": "2026-10-21T08:31:47+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -23,6 +23,87 @@
   }
  ],
  "haberler": [
+  {
+   "id": "f6fe2f9557b7",
+   "tarih": "2026-10-21",
+   "kaynak": "The Hacker News",
+   "baslik": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+   "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that's collectively called Plex2Shell. The vulnerabilities are listed below - CVE-20",
+   "grup": "Genel"
+  },
+  {
+   "id": "f543d8c6a881",
+   "tarih": "2026-10-21",
+   "kaynak": "SecurityWeek",
+   "baslik": "Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI",
+   "url": "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/",
+   "ozet": "Researchers say the developer’s account was compromised in March with a GlassWorm-linked loader. The post Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "bd60f0eb51aa",
+   "tarih": "2026-10-21",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
+   "url": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+   "ozet": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dubbed Partisan Zmiy, which is also known as the Cyber Partisan",
+   "grup": "Genel"
+  },
+  {
+   "id": "b374ef599927",
+   "tarih": "2026-10-21",
+   "kaynak": "SecurityWeek",
+   "baslik": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
+   "url": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
+   "ozet": "The first phase will cover up to 500 utilities, which will get free security tools, equipment, deployment help and training. The post Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "856618cc054b",
+   "tarih": "2026-10-21",
+   "kaynak": "SecurityWeek",
+   "baslik": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
+   "url": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/",
+   "ozet": "Tracked as CVE-2026-109618 and CVE-2026-109619, the bugs could potentially lead to unauthenticated remote code execution. The post PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "7a020fdc3830",
+   "tarih": "2026-10-21",
+   "kaynak": "BleepingComputer",
+   "baslik": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+   "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+   "ozet": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "705a2aee0bf3",
+   "tarih": "2026-10-21",
+   "kaynak": "The Hacker News",
+   "baslik": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+   "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+   "ozet": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vuln",
+   "grup": "Genel"
+  },
+  {
+   "id": "17efaa05bd14",
+   "tarih": "2026-10-21",
+   "kaynak": "The Hacker News",
+   "baslik": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+   "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+   "ozet": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's largest, said in a&nbsp;stock-exchange filing&nbsp;dated October 21 ",
+   "grup": "Genel"
+  },
+  {
+   "id": "0f04a6f0fbac",
+   "tarih": "2026-10-21",
+   "kaynak": "BleepingComputer",
+   "baslik": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+   "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+   "ozet": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
+   "grup": "WordPress"
+  },
   {
    "id": "f7a865abe770",
    "tarih": "2026-10-20",
@@ -330,33 +411,6 @@
    "grup": "Genel"
   },
   {
-   "id": "ff25b976bdfa",
-   "tarih": "2026-10-19",
-   "kaynak": "BleepingComputer",
-   "baslik": "Hackers hijack AOMEI update servers to secretly spread malware",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
-   "ozet": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "f519e0b522d7",
-   "tarih": "2026-10-19",
-   "kaynak": "The Hacker News",
-   "baslik": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-   "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-   "ozet": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser&nbsp;disclosed&nbsp;on October 16. He showed the attack working against home gateways supplie",
-   "grup": "Genel"
-  },
-  {
-   "id": "c8f4e94200b3",
-   "tarih": "2026-10-19",
-   "kaynak": "BleepingComputer",
-   "baslik": "OpenCode hack exposes API keys amid AI distillation attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-   "ozet": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
-   "grup": "Genel"
-  },
-  {
    "id": "c513afb9763b",
    "tarih": "2026-10-19",
    "kaynak": "SecurityWeek",
@@ -364,33 +418,6 @@
    "url": "https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/",
    "ozet": "Hackers injected malware into Rank Math PRO version 3.0.123 packages distributed between October 15 and October 16. The post Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack appeared first on SecurityWeek.",
    "grup": "WordPress"
-  },
-  {
-   "id": "c2afa7723501",
-   "tarih": "2026-10-19",
-   "kaynak": "SecurityWeek",
-   "baslik": "Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw",
-   "url": "https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/",
-   "ozet": "Critical flaws impact the Entity List and Field UI modules, and exploit paths exist with contributed modules. The post Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "bcca2fd24d4b",
-   "tarih": "2026-10-19",
-   "kaynak": "SecurityWeek",
-   "baslik": "Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure",
-   "url": "https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/",
-   "ozet": "Threat actors have been observed delivering cryptocurrency miners and proxy software. The post Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "acf12ad31aac",
-   "tarih": "2026-10-19",
-   "kaynak": "SecurityWeek",
-   "baslik": "ConnectWise Suspends Cloud Services in Response to Cyberattack",
-   "url": "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/",
-   "ozet": "The services remain unavailable as the company continues remediation and security validation. The post ConnectWise Suspends Cloud Services in Response to Cyberattack appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "a4cd23325612",
@@ -402,15 +429,6 @@
    "grup": "WordPress"
   },
   {
-   "id": "82c7537f544b",
-   "tarih": "2026-10-19",
-   "kaynak": "SecurityWeek",
-   "baslik": "MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks",
-   "url": "https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/",
-   "ozet": "Defenders get 15 new detection strategies, six for Enterprise and nine for ICS, backed by 38 analytics. The post MITRE ATT&#038;CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
    "id": "6e689f58716d",
    "tarih": "2026-10-19",
    "kaynak": "BleepingComputer",
@@ -418,15 +436,6 @@
    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
    "ozet": "Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]",
    "grup": "Microsoft"
-  },
-  {
-   "id": "6e3176643ea9",
-   "tarih": "2026-10-19",
-   "kaynak": "SecurityWeek",
-   "baslik": "One Compromised Login Exposed Millions of California Students’ Records",
-   "url": "https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/",
-   "ozet": "Intruders used compromised credentials to access an ETS SFTP server, copying records of California students back to 2006. The post One Compromised Login Exposed Millions of California Students&#8217; Records appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "4ad529ab6216",
