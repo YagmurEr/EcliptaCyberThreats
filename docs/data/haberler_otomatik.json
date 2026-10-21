@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-21T19:17:11+00:00",
+ "guncelleme": "2026-10-21T23:59:19+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -78,6 +78,15 @@
    "grup": "Genel"
   },
   {
+   "id": "e9fd60a700e2",
+   "tarih": "2026-10-21",
+   "kaynak": "BleepingComputer",
+   "baslik": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+   "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+   "ozet": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "c7a020f274e0",
    "tarih": "2026-10-21",
    "kaynak": "The Hacker News",
@@ -129,6 +138,15 @@
    "baslik": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
    "url": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
    "ozet": "The first phase will cover up to 500 utilities, which will get free security tools, equipment, deployment help and training. The post Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "a9726704f0fa",
+   "tarih": "2026-10-21",
+   "kaynak": "The Hacker News",
+   "baslik": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+   "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+   "ozet": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier: the October 12 update co",
    "grup": "Genel"
   },
   {
@@ -192,6 +210,15 @@
    "baslik": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
    "url": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/",
    "ozet": "Tracked as CVE-2026-109618 and CVE-2026-109619, the bugs could potentially lead to unauthenticated remote code execution. The post PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "832124389031",
+   "tarih": "2026-10-21",
+   "kaynak": "BleepingComputer",
+   "baslik": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+   "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+   "ozet": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
    "grup": "Genel"
   },
   {
@@ -294,6 +321,15 @@
    "grup": "Genel"
   },
   {
+   "id": "3371acd3dcb3",
+   "tarih": "2026-10-21",
+   "kaynak": "BleepingComputer",
+   "baslik": "Lazarus hackers use post-quantum cryptography for malware delivery",
+   "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+   "ozet": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "2cd8b2bd53ed",
    "tarih": "2026-10-21",
    "kaynak": "The Hacker News",
@@ -381,42 +417,6 @@
    "baslik": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
    "url": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
    "ozet": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of&nbsp;eight intermediate certificate authority keys. Programs built on the new release will refuse connections to sites and services whose certificates were issued ",
-   "grup": "Genel"
-  },
-  {
-   "id": "ebff93066b7e",
-   "tarih": "2026-10-20",
-   "kaynak": "SecurityWeek",
-   "baslik": "970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach",
-   "url": "https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/",
-   "ozet": "Paradigm Healthcare Services detected an intrusion in October 2025, but it took nearly a year to start notifying affected individuals. The post 970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "df48f73ea919",
-   "tarih": "2026-10-20",
-   "kaynak": "The Hacker News",
-   "baslik": "What Security Teams Can Do To Tame Wild Code",
-   "url": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-   "ozet": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the team’s daily routine. Across the same organization, employees",
-   "grup": "Genel"
-  },
-  {
-   "id": "d02f2b9b0912",
-   "tarih": "2026-10-20",
-   "kaynak": "SecurityWeek",
-   "baslik": "AI Platform Cairn Abused to Hack Over 100 Organizations",
-   "url": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/",
-   "ozet": "At least three threat actors have been abusing Cairn for persistent access and financial theft. The post AI Platform Cairn Abused to Hack Over 100 Organizations appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "cf21e83d251e",
-   "tarih": "2026-10-20",
-   "kaynak": "SecurityWeek",
-   "baslik": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
-   "url": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
-   "ozet": "The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days. The post Ahold Delhaize Restoring Services Disrupted by Cyberattack appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
