@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-21T14:28:04+00:00",
+ "guncelleme": "2026-10-21T19:17:11+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -39,6 +39,15 @@
    "baslik": "Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI",
    "url": "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/",
    "ozet": "Researchers say the developer’s account was compromised in March with a GlassWorm-linked loader. The post Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "f5335e20393b",
+   "tarih": "2026-10-21",
+   "kaynak": "The Hacker News",
+   "baslik": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+   "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+   "ozet": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docke",
    "grup": "Genel"
   },
   {
@@ -141,6 +150,15 @@
    "grup": "Genel"
   },
   {
+   "id": "a45dacf80c10",
+   "tarih": "2026-10-21",
+   "kaynak": "SecurityWeek",
+   "baslik": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
+   "url": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
+   "ozet": "Deceptive prompts lure AI agents into decoys and dead ends, cutting attack success by up to 91% in tests and raising the cost of a successful attack 23-fold. The post ‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "9fa3f970853e",
    "tarih": "2026-10-21",
    "kaynak": "SecurityWeek",
@@ -213,6 +231,15 @@
    "grup": "Genel"
   },
   {
+   "id": "71f0485320c6",
+   "tarih": "2026-10-21",
+   "kaynak": "BleepingComputer",
+   "baslik": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "71ae2abe1296",
    "tarih": "2026-10-21",
    "kaynak": "SecurityWeek",
@@ -228,6 +255,60 @@
    "baslik": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
    "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
    "ozet": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vuln",
+   "grup": "Genel"
+  },
+  {
+   "id": "67c1ab51681c",
+   "tarih": "2026-10-21",
+   "kaynak": "SecurityWeek",
+   "baslik": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
+   "url": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
+   "ozet": "Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents. The post High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7 appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "661e0d2a54c9",
+   "tarih": "2026-10-21",
+   "kaynak": "SecurityWeek",
+   "baslik": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
+   "url": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
+   "ozet": "Several cybersecurity companies saw exploitation attempts of CVE-2026-109618 and CVE-2026-109619 before PHP released the patches. The post PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "6478f5844cef",
+   "tarih": "2026-10-21",
+   "kaynak": "The Hacker News",
+   "baslik": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+   "url": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+   "ozet": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only updating fully protects a server. The flaws, together called PHP2",
+   "grup": "Genel"
+  },
+  {
+   "id": "6397dd9bb23f",
+   "tarih": "2026-10-21",
+   "kaynak": "SecurityWeek",
+   "baslik": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
+   "url": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
+   "ozet": "Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis. The post Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "2cd8b2bd53ed",
+   "tarih": "2026-10-21",
+   "kaynak": "The Hacker News",
+   "baslik": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+   "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+   "ozet": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Ast",
+   "grup": "Genel"
+  },
+  {
+   "id": "288893f63679",
+   "tarih": "2026-10-21",
+   "kaynak": "BleepingComputer",
+   "baslik": "OpenAI agents disabled safety monitoring, one lied about it",
+   "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+   "ozet": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
    "grup": "Genel"
   },
   {
@@ -336,87 +417,6 @@
    "baslik": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
    "url": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
    "ozet": "The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days. The post Ahold Delhaize Restoring Services Disrupted by Cyberattack appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "b8cb67bf0a57",
-   "tarih": "2026-10-20",
-   "kaynak": "BleepingComputer",
-   "baslik": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
-   "url": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
-   "ozet": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "b44079bd0a64",
-   "tarih": "2026-10-20",
-   "kaynak": "SecurityWeek",
-   "baslik": "Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say",
-   "url": "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/",
-   "ozet": "Abdulrahman Alfozan’s wife and young son also left the country the day after the 35-year-old Saudi national’s arrest. The post Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "aa2f36ffa3be",
-   "tarih": "2026-10-20",
-   "kaynak": "BleepingComputer",
-   "baslik": "Zeabur shutting down after second security breach in two months",
-   "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-   "ozet": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "9f686724487e",
-   "tarih": "2026-10-20",
-   "kaynak": "BleepingComputer",
-   "baslik": "Ahold Delhaize: Cyberattack affects services across US and Europe",
-   "url": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
-   "ozet": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "92e407676578",
-   "tarih": "2026-10-20",
-   "kaynak": "The Hacker News",
-   "baslik": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
-   "url": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
-   "ozet": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a build designed to steal secrets stored on the disk of any machine that runs it, th",
-   "grup": "Genel"
-  },
-  {
-   "id": "6c494d43a845",
-   "tarih": "2026-10-20",
-   "kaynak": "The Hacker News",
-   "baslik": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
-   "url": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
-   "ozet": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery service that employs ClickFix-style lures on bogus landi",
-   "grup": "Genel"
-  },
-  {
-   "id": "59dff61018ea",
-   "tarih": "2026-10-20",
-   "kaynak": "Schneier on Security",
-   "baslik": "Possible new Cellebrite iPhone Radio Zero-Day",
-   "url": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
-   "ozet": "Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the &#8220;advanced unlocking services&#8221; they&#8217;ve marketed for years. A press release from earlier this year confirms AU",
-   "grup": "Genel"
-  },
-  {
-   "id": "54e589c7063e",
-   "tarih": "2026-10-20",
-   "kaynak": "BleepingComputer",
-   "baslik": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
-   "url": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
-   "ozet": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, passwords, logging, and audit readiness. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "53ddecf9f5b1",
-   "tarih": "2026-10-20",
-   "kaynak": "The Hacker News",
-   "baslik": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-   "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-   "ozet": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that c",
    "grup": "Genel"
   },
   {
