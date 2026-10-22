@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-22T08:34:13+00:00",
+ "guncelleme": "2026-10-22T14:29:42+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -24,6 +24,33 @@
  ],
  "haberler": [
   {
+   "id": "eff3ebf7d52f",
+   "tarih": "2026-10-22",
+   "kaynak": "The Hacker News",
+   "baslik": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+   "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+   "ozet": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacker can force the",
+   "grup": "Genel"
+  },
+  {
+   "id": "ec99b1cdf496",
+   "tarih": "2026-10-22",
+   "kaynak": "SecurityWeek",
+   "baslik": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities",
+   "url": "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/",
+   "ozet": "Vendors are checking their products for PHP2Shell, security firms are shipping detections, and governments are urging immediate patching. The post Tech and Security Companies Respond to PHP2Shell Vulnerabilities appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "eb08dcb4a958",
+   "tarih": "2026-10-22",
+   "kaynak": "SecurityWeek",
+   "baslik": "Splunk, SolarWinds Release Fresh Security Updates",
+   "url": "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
+   "ozet": "Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information. The post Splunk, SolarWinds Release Fresh Security Updates appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "df0211e45e19",
    "tarih": "2026-10-22",
    "kaynak": "BleepingComputer",
@@ -42,6 +69,51 @@
    "grup": "Genel"
   },
   {
+   "id": "d76b50dba162",
+   "tarih": "2026-10-22",
+   "kaynak": "The Hacker News",
+   "baslik": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+   "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+   "ozet": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach with that little over",
+   "grup": "Genel"
+  },
+  {
+   "id": "c78f9791369d",
+   "tarih": "2026-10-22",
+   "kaynak": "BleepingComputer",
+   "baslik": "Amazon says PHP2Shell exploitation began 4 days before patches",
+   "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+   "ozet": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "c145f24074c2",
+   "tarih": "2026-10-22",
+   "kaynak": "The Hacker News",
+   "baslik": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+   "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+   "ozet": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the c",
+   "grup": "Genel"
+  },
+  {
+   "id": "ab875104cf16",
+   "tarih": "2026-10-22",
+   "kaynak": "Schneier on Security",
+   "baslik": "New Serious PHP Vulnerabilities Released and Patched",
+   "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
+   "ozet": "PHP maintainers have released two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations serving web requ",
+   "grup": "Genel"
+  },
+  {
+   "id": "a9227db3dd33",
+   "tarih": "2026-10-22",
+   "kaynak": "The Hacker News",
+   "baslik": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+   "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+   "ozet": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline was compromised to push 1.107.0 to the Docker Hub r",
+   "grup": "Genel"
+  },
+  {
    "id": "a5298e0f95bc",
    "tarih": "2026-10-22",
    "kaynak": "SecurityWeek",
@@ -57,6 +129,96 @@
    "baslik": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
    "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
    "ozet": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source i",
+   "grup": "Genel"
+  },
+  {
+   "id": "92b876190d73",
+   "tarih": "2026-10-22",
+   "kaynak": "BleepingComputer",
+   "baslik": "Machine speed attacks require machine speed detection and response",
+   "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+   "ozet": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical.",
+   "grup": "Genel"
+  },
+  {
+   "id": "76b18c2dc5a9",
+   "tarih": "2026-10-22",
+   "kaynak": "The Hacker News",
+   "baslik": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+   "url": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+   "ozet": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment variables, and, in so",
+   "grup": "Genel"
+  },
+  {
+   "id": "6a8ba679d4e1",
+   "tarih": "2026-10-22",
+   "kaynak": "SecurityWeek",
+   "baslik": "Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform",
+   "url": "https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/",
+   "ozet": "The Amsterdam-based company plans to use the funding for research and development and commercial expansion in Europe and the Middle East. The post Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "3d29fe5d9f89",
+   "tarih": "2026-10-22",
+   "kaynak": "The Hacker News",
+   "baslik": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+   "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+   "ozet": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches. \"The exploit atte",
+   "grup": "Genel"
+  },
+  {
+   "id": "34f12a1f7c34",
+   "tarih": "2026-10-22",
+   "kaynak": "SecurityWeek",
+   "baslik": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
+   "url": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
+   "ozet": "Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks. The post Cisco Patches 34 Vulnerabilities Across Multiple Products appeared first on SecurityWeek.",
+   "grup": "Cisco"
+  },
+  {
+   "id": "2bd447638fb1",
+   "tarih": "2026-10-22",
+   "kaynak": "SecurityWeek",
+   "baslik": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
+   "url": "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
+   "ozet": "Affecting the open source calling library RingRTC, the bug prevented calls from ending properly. The post Signal Vulnerability Lets Malicious Callers Block Hang-Ups appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "29143f2ae20d",
+   "tarih": "2026-10-22",
+   "kaynak": "The Hacker News",
+   "baslik": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+   "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+   "ozet": "Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacker could ru",
+   "grup": "Genel"
+  },
+  {
+   "id": "1d3516a0d0a6",
+   "tarih": "2026-10-22",
+   "kaynak": "The Hacker News",
+   "baslik": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+   "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+   "ozet": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the developer's own access.",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "0f812922fb34",
+   "tarih": "2026-10-22",
+   "kaynak": "BleepingComputer",
+   "baslik": "GitLab warns of new max severity code execution vulnerability",
+   "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+   "ozet": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "01e27be4feb4",
+   "tarih": "2026-10-22",
+   "kaynak": "SecurityWeek",
+   "baslik": "PHP2Shell Exploitation Started Days Before Patches",
+   "url": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
+   "ozet": "Initial attempts were observed on October 17, and mass activity began shortly after patches were released. The post PHP2Shell Exploitation Started Days Before Patches appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
@@ -249,15 +411,6 @@
    "grup": "Genel"
   },
   {
-   "id": "832124389031",
-   "tarih": "2026-10-21",
-   "kaynak": "BleepingComputer",
-   "baslik": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-   "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-   "ozet": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
-   "grup": "Genel"
-  },
-  {
    "id": "7f88afbf76a3",
    "tarih": "2026-10-21",
    "kaynak": "The Hacker News",
@@ -267,15 +420,6 @@
    "grup": "WordPress"
   },
   {
-   "id": "7a020fdc3830",
-   "tarih": "2026-10-21",
-   "kaynak": "BleepingComputer",
-   "baslik": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
-   "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
-   "ozet": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites. [...]",
-   "grup": "Genel"
-  },
-  {
    "id": "73d154fe3b9b",
    "tarih": "2026-10-21",
    "kaynak": "BleepingComputer",
@@ -283,132 +427,6 @@
    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
    "ozet": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
    "grup": "Microsoft"
-  },
-  {
-   "id": "724c2add33ae",
-   "tarih": "2026-10-21",
-   "kaynak": "SecurityWeek",
-   "baslik": "Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor",
-   "url": "https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/",
-   "ozet": "Tasked with writing an application for a US defense contractor, the model made the code 19% more likely to be hackable. The post Chinese AI Model Writes More Hackable Code When Told It&#8217;s for US Contractor appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "71f0485320c6",
-   "tarih": "2026-10-21",
-   "kaynak": "BleepingComputer",
-   "baslik": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-   "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "71ae2abe1296",
-   "tarih": "2026-10-21",
-   "kaynak": "SecurityWeek",
-   "baslik": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
-   "url": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
-   "ozet": "Asymptote Labs raises $5.5M seed led by Tower Research Ventures to commercialize its Beacon AI agent runtime security platform. The post Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "705a2aee0bf3",
-   "tarih": "2026-10-21",
-   "kaynak": "The Hacker News",
-   "baslik": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-   "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-   "ozet": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vuln",
-   "grup": "Genel"
-  },
-  {
-   "id": "67c1ab51681c",
-   "tarih": "2026-10-21",
-   "kaynak": "SecurityWeek",
-   "baslik": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
-   "url": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
-   "ozet": "Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents. The post High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7 appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "661e0d2a54c9",
-   "tarih": "2026-10-21",
-   "kaynak": "SecurityWeek",
-   "baslik": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
-   "url": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
-   "ozet": "Several cybersecurity companies saw exploitation attempts of CVE-2026-109618 and CVE-2026-109619 before PHP released the patches. The post PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "6478f5844cef",
-   "tarih": "2026-10-21",
-   "kaynak": "The Hacker News",
-   "baslik": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-   "url": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-   "ozet": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only updating fully protects a server. The flaws, together called PHP2",
-   "grup": "Genel"
-  },
-  {
-   "id": "6397dd9bb23f",
-   "tarih": "2026-10-21",
-   "kaynak": "SecurityWeek",
-   "baslik": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
-   "url": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
-   "ozet": "Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis. The post Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "3371acd3dcb3",
-   "tarih": "2026-10-21",
-   "kaynak": "BleepingComputer",
-   "baslik": "Lazarus hackers use post-quantum cryptography for malware delivery",
-   "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-   "ozet": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "2cd8b2bd53ed",
-   "tarih": "2026-10-21",
-   "kaynak": "The Hacker News",
-   "baslik": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
-   "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-   "ozet": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, ",
-   "grup": "Genel"
-  },
-  {
-   "id": "288893f63679",
-   "tarih": "2026-10-21",
-   "kaynak": "BleepingComputer",
-   "baslik": "OpenAI agents disabled safety monitoring, one lied about it",
-   "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
-   "ozet": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "2616dfa7252a",
-   "tarih": "2026-10-21",
-   "kaynak": "SecurityWeek",
-   "baslik": "OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor",
-   "url": "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/",
-   "ozet": "In two internal incidents, agents read routine coding instructions as permission to weaken monitoring, and one gave a false answer about it. The post OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "190252fca79a",
-   "tarih": "2026-10-21",
-   "kaynak": "BleepingComputer",
-   "baslik": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-   "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-   "ozet": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "17efaa05bd14",
-   "tarih": "2026-10-21",
-   "kaynak": "The Hacker News",
-   "baslik": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
-   "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
-   "ozet": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's largest, said in a&nbsp;stock-exchange filing&nbsp;dated October 21 ",
-   "grup": "Genel"
   },
   {
    "id": "0f04a6f0fbac",
