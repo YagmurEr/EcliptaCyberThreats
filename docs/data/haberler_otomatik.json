@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-21T23:59:19+00:00",
+ "guncelleme": "2026-10-22T08:34:13+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -23,6 +23,42 @@
   }
  ],
  "haberler": [
+  {
+   "id": "df0211e45e19",
+   "tarih": "2026-10-22",
+   "kaynak": "BleepingComputer",
+   "baslik": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+   "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+   "ozet": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "dd2c177462a4",
+   "tarih": "2026-10-22",
+   "kaynak": "SecurityWeek",
+   "baslik": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook",
+   "url": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
+   "ozet": "The $25 billion award far exceeds a $5 billion fine the Federal Trade Commission levied against Facebook in 2019. The post Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "a5298e0f95bc",
+   "tarih": "2026-10-22",
+   "kaynak": "SecurityWeek",
+   "baslik": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
+   "url": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
+   "ozet": "Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches. The post Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "9b69347cfd29",
+   "tarih": "2026-10-22",
+   "kaynak": "The Hacker News",
+   "baslik": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+   "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+   "ozet": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source i",
+   "grup": "Genel"
+  },
   {
    "id": "f6fe2f9557b7",
    "tarih": "2026-10-21",
@@ -335,7 +371,7 @@
    "kaynak": "The Hacker News",
    "baslik": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
    "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-   "ozet": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Ast",
+   "ozet": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, ",
    "grup": "Genel"
   },
   {
@@ -382,42 +418,6 @@
    "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
    "ozet": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
    "grup": "WordPress"
-  },
-  {
-   "id": "0c6fe061465a",
-   "tarih": "2026-10-21",
-   "kaynak": "The Hacker News",
-   "baslik": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
-   "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
-   "ozet": "U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services \"developed using DeepSeek implementations,\" under a Department of Homeland Security order. They may also no longer buy information technology produc",
-   "grup": "Genel"
-  },
-  {
-   "id": "00d9c6c07315",
-   "tarih": "2026-10-21",
-   "kaynak": "The Hacker News",
-   "baslik": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-   "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-   "ozet": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit relays are the last hop in a Tor circuit, where traffic leaves the network for its destination. Only a password login to ",
-   "grup": "Genel"
-  },
-  {
-   "id": "f7a865abe770",
-   "tarih": "2026-10-20",
-   "kaynak": "SecurityWeek",
-   "baslik": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
-   "url": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
-   "ozet": "NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents. The post US Agencies Detail Incident Response Practices for Rogue AI Agents appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "f0509be43eab",
-   "tarih": "2026-10-20",
-   "kaynak": "The Hacker News",
-   "baslik": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-   "url": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-   "ozet": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of&nbsp;eight intermediate certificate authority keys. Programs built on the new release will refuse connections to sites and services whose certificates were issued ",
-   "grup": "Genel"
   },
   {
    "id": "4f28949e9098",
