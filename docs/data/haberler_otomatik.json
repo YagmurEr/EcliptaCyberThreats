@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-22T19:12:17+00:00",
+ "guncelleme": "2026-10-22T23:58:20+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -195,6 +195,15 @@
    "grup": "Genel"
   },
   {
+   "id": "6af5f5a84e31",
+   "tarih": "2026-10-22",
+   "kaynak": "BleepingComputer",
+   "baslik": "Railway warns devs to rotate secrets after potential breach",
+   "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+   "ozet": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "6a8ba679d4e1",
    "tarih": "2026-10-22",
    "kaynak": "SecurityWeek",
@@ -249,6 +258,15 @@
    "grup": "Genel"
   },
   {
+   "id": "23872cb1986e",
+   "tarih": "2026-10-22",
+   "kaynak": "The Hacker News",
+   "baslik": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+   "url": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+   "ozet": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advisory&nbsp;on October 22. The flaw lets anyone who can log in to the orchestrator, even with a read-o",
+   "grup": "Genel"
+  },
+  {
    "id": "1d3516a0d0a6",
    "tarih": "2026-10-22",
    "kaynak": "The Hacker News",
@@ -256,6 +274,15 @@
    "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
    "ozet": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the developer's own access.",
    "grup": "Microsoft"
+  },
+  {
+   "id": "177124c993da",
+   "tarih": "2026-10-22",
+   "kaynak": "BleepingComputer",
+   "baslik": "Capcom confirms data breach affecting 11.7 million accounts",
+   "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+   "ozet": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
+   "grup": "Genel"
   },
   {
    "id": "0f812922fb34",
@@ -282,6 +309,15 @@
    "baslik": "PHP2Shell Exploitation Started Days Before Patches",
    "url": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
    "ozet": "Initial attempts were observed on October 17, and mass activity began shortly after patches were released. The post PHP2Shell Exploitation Started Days Before Patches appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "0151e8522bf7",
+   "tarih": "2026-10-22",
+   "kaynak": "BleepingComputer",
+   "baslik": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+   "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+   "ozet": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
    "grup": "Genel"
   },
   {
@@ -382,42 +418,6 @@
    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
    "ozet": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
    "grup": "Microsoft"
-  },
-  {
-   "id": "b81260804ad3",
-   "tarih": "2026-10-21",
-   "kaynak": "The Hacker News",
-   "baslik": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-   "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-   "ozet": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral signals email filters have relied on for years are fad",
-   "grup": "Genel"
-  },
-  {
-   "id": "b374ef599927",
-   "tarih": "2026-10-21",
-   "kaynak": "SecurityWeek",
-   "baslik": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
-   "url": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
-   "ozet": "The first phase will cover up to 500 utilities, which will get free security tools, equipment, deployment help and training. The post Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "a9726704f0fa",
-   "tarih": "2026-10-21",
-   "kaynak": "The Hacker News",
-   "baslik": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-   "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-   "ozet": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier: the October 12 update co",
-   "grup": "Genel"
-  },
-  {
-   "id": "a9327fc12a2b",
-   "tarih": "2026-10-21",
-   "kaynak": "SecurityWeek",
-   "baslik": "China Defends DeepSeek After US Ban of Its AI From Government Systems",
-   "url": "https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/",
-   "ozet": "The DHS said agencies should remove DeepSeek products as well as third-party products and services developed using DeepSeek from their IT systems. The post China Defends DeepSeek After US Ban of Its AI From Government Systems appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "7f88afbf76a3",
