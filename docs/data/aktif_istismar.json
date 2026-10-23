@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-10-14T09:00:00Z",
+  "guncelleme": "2026-10-23T10:00:00Z",
   "aciklama": "CISA KEV kataloğu dışında kalan veya KEV'e geç eklenen, izlenen markalarda aktif istismar edilen ya da PoC yayımlanan kritik zafiyetler.",
   "kayitlar": [
     {
@@ -144,6 +144,74 @@
       "kaynaklar": [
         {"ad": "Fortinet PSIRT", "url": "https://www.fortiguard.com/psirt"},
         {"ad": "Mandiant", "url": "https://www.mandiant.com/"}
+      ]
+    },
+    {
+      "cveID": "CVE-2026-109618",
+      "marka": "PHP",
+      "urun": "PHP Core (5.4 – 8.5)",
+      "cvss": 9.2,
+      "durum": "aktif_istismar",
+      "kevDurumu": "yok",
+      "ilkIstismar": "2026-10-21",
+      "kevTarih": null,
+      "kevBosluk": null,
+      "ozet": "PHP2Shell: PHP çekirdeğinde out-of-memory hatası üzerinden uzaktan kod yürütme (RCE). PHP 5.4'ten 8.5'e kadar tüm sürümler etkileniyor. 21 Ekim 2026'da yama yayınlandı, aynı gün aktif istismar tespit edildi.",
+      "kaynaklar": [
+        {"ad": "watchTowr Labs", "url": "https://labs.watchtowr.com/"},
+        {"ad": "The Hacker News", "url": "https://thehackernews.com/2026/10/php2shell-critical-php-rce.html"},
+        {"ad": "BleepingComputer", "url": "https://www.bleepingcomputer.com/news/security/php2shell-rce-vulnerability-exploited-in-the-wild/"}
+      ]
+    },
+    {
+      "cveID": "CVE-2026-109619",
+      "marka": "PHP",
+      "urun": "PHP Core (5.4 – 8.5)",
+      "cvss": 9.2,
+      "durum": "aktif_istismar",
+      "kevDurumu": "yok",
+      "ilkIstismar": "2026-10-21",
+      "kevTarih": null,
+      "kevBosluk": null,
+      "ozet": "PHP2Shell: PHP oturum yükleme ilerleme mekanizmasında kritik RCE zafiyeti. CVE-2026-109618 ile birlikte istismar ediliyor. Yamalı sürümler: 8.5.12, 8.4.27, 8.3.36, 8.2.35.",
+      "kaynaklar": [
+        {"ad": "watchTowr Labs", "url": "https://labs.watchtowr.com/"},
+        {"ad": "Patchstack", "url": "https://patchstack.com/articles/php2shell-critical-php-vulnerability/"},
+        {"ad": "BleepingComputer", "url": "https://www.bleepingcomputer.com/news/security/php2shell-rce-vulnerability-exploited-in-the-wild/"}
+      ]
+    },
+    {
+      "cveID": "CVE-2026-94127",
+      "marka": "F5",
+      "urun": "BIG-IP APM",
+      "cvss": 9.3,
+      "durum": "kev_bosluk",
+      "kevDurumu": "var",
+      "ilkIstismar": "2026-09-22",
+      "kevTarih": "2026-09-22",
+      "kevBosluk": 0,
+      "ozet": "F5 BIG-IP APM OAuth Yetkilendirme Sunucusunda heap tabanlı buffer overflow ile uzaktan kod yürütme. Zero-day olarak istismar edildi; CISA aynı gün KEV'e ekledi. Boşluk: 0 gün.",
+      "kaynaklar": [
+        {"ad": "F5 Advisory", "url": "https://my.f5.com/manage/s/article/K000150534"},
+        {"ad": "CISA KEV", "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"},
+        {"ad": "The Hacker News", "url": "https://thehackernews.com/2026/09/f5-big-ip-zero-day-exploited.html"}
+      ]
+    },
+    {
+      "cveID": "CVE-2026-42945",
+      "marka": "NGINX",
+      "urun": "NGINX Core (ngx_http_rewrite_module)",
+      "cvss": 9.2,
+      "durum": "aktif_istismar",
+      "kevDurumu": "yok",
+      "ilkIstismar": "2026-05-15",
+      "kevTarih": null,
+      "kevBosluk": null,
+      "ozet": "NGINX Rift: ngx_http_rewrite_module'de heap buffer overflow ile uzaktan kod yürütme. Mayıs 2026'da yamalandı ancak hâlâ CISA KEV kataloğuna eklenmedi. Aktif istismar doğrulandı.",
+      "kaynaklar": [
+        {"ad": "SecurityWeek", "url": "https://www.securityweek.com/nginx-vulnerability-exploited-in-the-wild/"},
+        {"ad": "The Hacker News", "url": "https://thehackernews.com/2026/05/nginx-rift-heap-buffer-overflow.html"},
+        {"ad": "Help Net Security", "url": "https://www.helpnetsecurity.com/2026/05/nginx-rift-cve-2026-42945/"}
       ]
     }
   ]
