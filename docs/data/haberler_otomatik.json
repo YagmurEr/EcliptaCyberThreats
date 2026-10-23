@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-22T23:58:20+00:00",
+ "guncelleme": "2026-10-23T08:30:12+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -23,6 +23,60 @@
   }
  ],
  "haberler": [
+  {
+   "id": "fcaeed9175fd",
+   "tarih": "2026-10-23",
+   "kaynak": "SecurityWeek",
+   "baslik": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
+   "url": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
+   "ozet": "After a three-month lull, Prince of Persia hid a Tornado C&#038;C server on US shared hosting, its first US-based server since 2016. The post Iran&#8217;s Prince of Persia APT Hosts C&#038;C in US for First Time Since 2016 appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "a2a9e372db7b",
+   "tarih": "2026-10-23",
+   "kaynak": "The Hacker News",
+   "baslik": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+   "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+   "ozet": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by f",
+   "grup": "Genel"
+  },
+  {
+   "id": "8d39c401e746",
+   "tarih": "2026-10-23",
+   "kaynak": "SecurityWeek",
+   "baslik": "LiteLLM Compromised in Fresh Supply Chain Attack",
+   "url": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
+   "ozet": "Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker. The post LiteLLM Compromised in Fresh Supply Chain Attack appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "76ce6885fc14",
+   "tarih": "2026-10-23",
+   "kaynak": "SecurityWeek",
+   "baslik": "Atlassian Patches 75 Flaws in Data Center and Server Products",
+   "url": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
+   "ozet": "Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components. The post Atlassian Patches 75 Flaws in Data Center and Server Products appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "199bd0864fa3",
+   "tarih": "2026-10-23",
+   "kaynak": "The Hacker News",
+   "baslik": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+   "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+   "ozet": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought. The attacks aim to exploit CVE-20",
+   "grup": "Genel"
+  },
+  {
+   "id": "0515431e7464",
+   "tarih": "2026-10-23",
+   "kaynak": "SecurityWeek",
+   "baslik": "Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’",
+   "url": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
+   "ozet": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Reports Cyber Breach Affecting &#8216;Certain Patient Records&#8217; appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
   {
    "id": "f74ce17a74d9",
    "tarih": "2026-10-22",
@@ -354,60 +408,6 @@
    "baslik": "The Harness Is the Hard Part of Agentic Pentesting",
    "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
    "ozet": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on afterward lives in the harness around the model. The harness i",
-   "grup": "Genel"
-  },
-  {
-   "id": "f29fd7d40b5f",
-   "tarih": "2026-10-21",
-   "kaynak": "The Hacker News",
-   "baslik": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
-   "url": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
-   "ozet": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which bad actors trick users into copying and pasting malicious code directly into the",
-   "grup": "Genel"
-  },
-  {
-   "id": "ec0fd993c8b5",
-   "tarih": "2026-10-21",
-   "kaynak": "The Hacker News",
-   "baslik": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-   "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-   "ozet": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP will release the fix at&nbsp;14:00 UTC on October 21&nbsp;for two flaws it rates ",
-   "grup": "Genel"
-  },
-  {
-   "id": "e9fd60a700e2",
-   "tarih": "2026-10-21",
-   "kaynak": "BleepingComputer",
-   "baslik": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
-   "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-   "ozet": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "c7a020f274e0",
-   "tarih": "2026-10-21",
-   "kaynak": "The Hacker News",
-   "baslik": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-   "url": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-   "ozet": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The most distinctive technical marker for Bronze Sandcastle is its consistent use o",
-   "grup": "Genel"
-  },
-  {
-   "id": "bd60f0eb51aa",
-   "tarih": "2026-10-21",
-   "kaynak": "The Hacker News",
-   "baslik": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
-   "url": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
-   "ozet": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dubbed Partisan Zmiy, which is also known as the Cyber Partisan",
-   "grup": "Genel"
-  },
-  {
-   "id": "bc6b0429e7ca",
-   "tarih": "2026-10-21",
-   "kaynak": "BleepingComputer",
-   "baslik": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-   "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-   "ozet": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
    "grup": "Genel"
   },
   {
