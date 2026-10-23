@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-23T14:12:48+00:00",
+ "guncelleme": "2026-10-23T19:09:39+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -33,6 +33,24 @@
    "grup": "Genel"
   },
   {
+   "id": "f582252343af",
+   "tarih": "2026-10-23",
+   "kaynak": "BleepingComputer",
+   "baslik": "Quest Diagnostics confirms data breach exposed patient records",
+   "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+   "ozet": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "f059789b2437",
+   "tarih": "2026-10-23",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+   "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+   "ozet": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that operators in this campaign have obtained access t",
+   "grup": "Genel"
+  },
+  {
    "id": "eb477469ff02",
    "tarih": "2026-10-23",
    "kaynak": "BleepingComputer",
@@ -40,6 +58,15 @@
    "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
    "ozet": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
    "grup": "Genel"
+  },
+  {
+   "id": "e62f85ca100b",
+   "tarih": "2026-10-23",
+   "kaynak": "BleepingComputer",
+   "baslik": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+   "ozet": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+   "grup": "Microsoft"
   },
   {
    "id": "ceaaccb7c738",
@@ -72,9 +99,9 @@
    "id": "948084576510",
    "tarih": "2026-10-23",
    "kaynak": "SecurityWeek",
-   "baslik": "Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months",
+   "baslik": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
    "url": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
-   "ozet": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months appeared first on SecurityWeek.",
+   "ozet": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third Arista VCO Zero-Day in Four Months appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
@@ -90,7 +117,7 @@
    "id": "80697809b26e",
    "tarih": "2026-10-23",
    "kaynak": "The Hacker News",
-   "baslik": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+   "baslik": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
    "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
    "ozet": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 20",
    "grup": "Genel"
@@ -123,6 +150,24 @@
    "grup": "Genel"
   },
   {
+   "id": "5d4b1321ac5e",
+   "tarih": "2026-10-23",
+   "kaynak": "BleepingComputer",
+   "baslik": "PHP shares mitigation for new RCE vulnerability with no patch",
+   "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+   "ozet": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "52d3232953e2",
+   "tarih": "2026-10-23",
+   "kaynak": "SecurityWeek",
+   "baslik": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
+   "url": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
+   "ozet": "Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe. The post In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "4eed9c7e0436",
    "tarih": "2026-10-23",
    "kaynak": "BleepingComputer",
@@ -132,10 +177,19 @@
    "grup": "Genel"
   },
   {
+   "id": "4645fb818a8e",
+   "tarih": "2026-10-23",
+   "kaynak": "The Hacker News",
+   "baslik": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+   "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+   "ozet": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while ",
+   "grup": "Genel"
+  },
+  {
    "id": "3bc9a46d2904",
    "tarih": "2026-10-23",
    "kaynak": "The Hacker News",
-   "baslik": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+   "baslik": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
    "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
    "ozet": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project",
    "grup": "Genel"
@@ -159,6 +213,15 @@
    "grup": "Genel"
   },
   {
+   "id": "27be26c6f177",
+   "tarih": "2026-10-23",
+   "kaynak": "BleepingComputer",
+   "baslik": "Microsoft: Windows Server 2016 reaches end of support in January",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+   "ozet": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
+   "grup": "Microsoft"
+  },
+  {
    "id": "199bd0864fa3",
    "tarih": "2026-10-23",
    "kaynak": "The Hacker News",
@@ -168,12 +231,30 @@
    "grup": "Genel"
   },
   {
+   "id": "077ef200d3e0",
+   "tarih": "2026-10-23",
+   "kaynak": "The Hacker News",
+   "baslik": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+   "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+   "ozet": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a C",
+   "grup": "Microsoft"
+  },
+  {
    "id": "0515431e7464",
    "tarih": "2026-10-23",
    "kaynak": "SecurityWeek",
    "baslik": "Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’",
    "url": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
    "ozet": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Data Breach Exposed &#8216;Certain Patient Records&#8217; appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "015a882ee274",
+   "tarih": "2026-10-23",
+   "kaynak": "The Hacker News",
+   "baslik": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+   "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+   "ozet": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be ",
    "grup": "Genel"
   },
   {
@@ -327,60 +408,6 @@
    "baslik": "Machine speed attacks require machine speed detection and response",
    "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
    "ozet": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical.",
-   "grup": "Genel"
-  },
-  {
-   "id": "76b18c2dc5a9",
-   "tarih": "2026-10-22",
-   "kaynak": "The Hacker News",
-   "baslik": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-   "url": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-   "ozet": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment variables, and, in so",
-   "grup": "Genel"
-  },
-  {
-   "id": "6b7369ef168a",
-   "tarih": "2026-10-22",
-   "kaynak": "The Hacker News",
-   "baslik": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
-   "url": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
-   "ozet": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018. According to multiple reports from the Associated Press, the New York ",
-   "grup": "Genel"
-  },
-  {
-   "id": "6af5f5a84e31",
-   "tarih": "2026-10-22",
-   "kaynak": "BleepingComputer",
-   "baslik": "Railway warns devs to rotate secrets after potential breach",
-   "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-   "ozet": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "6a8ba679d4e1",
-   "tarih": "2026-10-22",
-   "kaynak": "SecurityWeek",
-   "baslik": "Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform",
-   "url": "https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/",
-   "ozet": "The Amsterdam-based company plans to use the funding for research and development and commercial expansion in Europe and the Middle East. The post Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "5d4f96d6acc6",
-   "tarih": "2026-10-22",
-   "kaynak": "BleepingComputer",
-   "baslik": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-   "ozet": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "3d29fe5d9f89",
-   "tarih": "2026-10-22",
-   "kaynak": "The Hacker News",
-   "baslik": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
-   "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-   "ozet": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches. \"The ",
    "grup": "Genel"
   },
   {
