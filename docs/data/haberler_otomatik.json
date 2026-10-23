@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-23T10:45:28+00:00",
+ "guncelleme": "2026-10-23T14:12:48+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -30,6 +30,24 @@
    "baslik": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
    "url": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
    "ozet": "After a three-month lull, Prince of Persia hid a Tornado C&#038;C server on US shared hosting, its first US-based server since 2016. The post Iran&#8217;s Prince of Persia APT Hosts C&#038;C in US for First Time Since 2016 appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "eb477469ff02",
+   "tarih": "2026-10-23",
+   "kaynak": "BleepingComputer",
+   "baslik": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+   "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+   "ozet": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "ceaaccb7c738",
+   "tarih": "2026-10-23",
+   "kaynak": "SecurityWeek",
+   "baslik": "Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge",
+   "url": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
+   "ozet": "Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet. The post Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
@@ -69,6 +87,15 @@
    "grup": "Genel"
   },
   {
+   "id": "80697809b26e",
+   "tarih": "2026-10-23",
+   "kaynak": "The Hacker News",
+   "baslik": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+   "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+   "ozet": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 20",
+   "grup": "Genel"
+  },
+  {
    "id": "76ce6885fc14",
    "tarih": "2026-10-23",
    "kaynak": "SecurityWeek",
@@ -96,12 +123,39 @@
    "grup": "Genel"
   },
   {
+   "id": "4eed9c7e0436",
+   "tarih": "2026-10-23",
+   "kaynak": "BleepingComputer",
+   "baslik": "You gave your AI agent access, but who is giving it orders?",
+   "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+   "ozet": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime co",
+   "grup": "Genel"
+  },
+  {
+   "id": "3bc9a46d2904",
+   "tarih": "2026-10-23",
+   "kaynak": "The Hacker News",
+   "baslik": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+   "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+   "ozet": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project",
+   "grup": "Genel"
+  },
+  {
    "id": "3a89e69463ce",
    "tarih": "2026-10-23",
    "kaynak": "The Hacker News",
    "baslik": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
    "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
    "ozet": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw,&nbsp;CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a se",
+   "grup": "Genel"
+  },
+  {
+   "id": "2ce43354cd03",
+   "tarih": "2026-10-23",
+   "kaynak": "Schneier on Security",
+   "baslik": "Compromised TLS Certificates",
+   "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
+   "ozet": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys: The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key ",
    "grup": "Genel"
   },
   {
@@ -117,9 +171,9 @@
    "id": "0515431e7464",
    "tarih": "2026-10-23",
    "kaynak": "SecurityWeek",
-   "baslik": "Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’",
+   "baslik": "Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’",
    "url": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
-   "ozet": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Reports Cyber Breach Affecting &#8216;Certain Patient Records&#8217; appeared first on SecurityWeek.",
+   "ozet": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Data Breach Exposed &#8216;Certain Patient Records&#8217; appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
@@ -339,33 +393,6 @@
    "grup": "Cisco"
   },
   {
-   "id": "2bd447638fb1",
-   "tarih": "2026-10-22",
-   "kaynak": "SecurityWeek",
-   "baslik": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
-   "url": "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
-   "ozet": "Affecting the open source calling library RingRTC, the bug prevented calls from ending properly. The post Signal Vulnerability Lets Malicious Callers Block Hang-Ups appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "29143f2ae20d",
-   "tarih": "2026-10-22",
-   "kaynak": "The Hacker News",
-   "baslik": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-   "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-   "ozet": "Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacker could ru",
-   "grup": "Genel"
-  },
-  {
-   "id": "23872cb1986e",
-   "tarih": "2026-10-22",
-   "kaynak": "The Hacker News",
-   "baslik": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-   "url": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-   "ozet": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advisory&nbsp;on October 22. The flaw lets anyone who can log in to the orchestrator, even with a read-o",
-   "grup": "Genel"
-  },
-  {
    "id": "1d3516a0d0a6",
    "tarih": "2026-10-22",
    "kaynak": "The Hacker News",
@@ -375,24 +402,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "177124c993da",
-   "tarih": "2026-10-22",
-   "kaynak": "BleepingComputer",
-   "baslik": "Capcom confirms data breach affecting 11.7 million accounts",
-   "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-   "ozet": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "0f812922fb34",
-   "tarih": "2026-10-22",
-   "kaynak": "BleepingComputer",
-   "baslik": "GitLab warns of new max severity code execution vulnerability",
-   "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
-   "ozet": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
-   "grup": "Genel"
-  },
-  {
    "id": "0563a66ccd63",
    "tarih": "2026-10-22",
    "kaynak": "BleepingComputer",
@@ -400,15 +409,6 @@
    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
    "ozet": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
    "grup": "Microsoft"
-  },
-  {
-   "id": "01e27be4feb4",
-   "tarih": "2026-10-22",
-   "kaynak": "SecurityWeek",
-   "baslik": "PHP2Shell Exploitation Started Days Before Patches",
-   "url": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
-   "ozet": "Initial attempts were observed on October 17, and mass activity began shortly after patches were released. The post PHP2Shell Exploitation Started Days Before Patches appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "ba8deb36fe9d",
