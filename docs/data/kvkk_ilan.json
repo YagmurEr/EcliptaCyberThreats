@@ -66,6 +66,17 @@
    "not": "Arama sonuçlarında görülen en az 12 bildirim; kesin toplam doğrulanmadı",
    "saldiriOzet": "Üniversite ve şans oyunları şirketinde fidye yazılımı; pizza zinciri ve franchise'larında sistemlere yetkisiz erişim",
    "veriOzet": "Kimlik, iletişim, lokasyon, müşteri işlem ve finans; fidye vakalarında kategoriler henüz belirlenemedi"
+  },
+  {
+   "tarih": "2026-10-21",
+   "ay": "2026-10",
+   "bildirim": 10,
+   "kesin": "Evet",
+   "kaynak": "KVKK duyuru listesi",
+   "url": "https://www.kvkk.gov.tr/veri-ihlali-bildirimi",
+   "not": "Kurul kararları 2026/2271–2026/2290 arası; 3 bildirimde ortak yazılım kütüphanesi zafiyeti",
+   "saldiriOzet": "3 bildirimde üçüncü taraf yazılım kütüphanesi zafiyeti (Dermojet, Güllüoğlu, Kurukahveci Mehmet Efendi); sağlık ve spor/eğitim sektöründe fidye yazılımı; kamu kurumunda ele geçirilmiş parolayla yetkisiz erişim",
+   "veriOzet": "Kimlik, iletişim ve hash'li parola; sağlık sektöründe özel nitelikli veriler (muayene, tahlil, reçete); spor vakfında pasaport fotoğrafları ve etkinlik görselleri"
   }
  ]
 }
