@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-23T19:09:39+00:00",
+ "guncelleme": "2026-10-23T23:50:54+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -84,6 +84,15 @@
    "baslik": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
    "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
    "ozet": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by f",
+   "grup": "Genel"
+  },
+  {
+   "id": "9d407c505c1e",
+   "tarih": "2026-10-23",
+   "kaynak": "Schneier on Security",
+   "baslik": "Friday Squid Blogging: Increasing Squid Populations",
+   "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
+   "ozet": "This article in Nature argues that it&#8217;s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
    "grup": "Genel"
   },
   {
@@ -220,6 +229,15 @@
    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
    "ozet": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
    "grup": "Microsoft"
+  },
+  {
+   "id": "201a6bfc4c9c",
+   "tarih": "2026-10-23",
+   "kaynak": "BleepingComputer",
+   "baslik": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+   "ozet": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
+   "grup": "Genel"
   },
   {
    "id": "199bd0864fa3",
@@ -390,24 +408,6 @@
    "baslik": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
    "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
    "ozet": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to deal with in just a few days. And the week isn't ev",
-   "grup": "Genel"
-  },
-  {
-   "id": "9b69347cfd29",
-   "tarih": "2026-10-22",
-   "kaynak": "The Hacker News",
-   "baslik": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
-   "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-   "ozet": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source i",
-   "grup": "Genel"
-  },
-  {
-   "id": "92b876190d73",
-   "tarih": "2026-10-22",
-   "kaynak": "BleepingComputer",
-   "baslik": "Machine speed attacks require machine speed detection and response",
-   "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-   "ozet": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical.",
    "grup": "Genel"
   },
   {
