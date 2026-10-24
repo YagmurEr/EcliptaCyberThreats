@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-23T23:50:54+00:00",
+ "guncelleme": "2026-10-24T08:05:11+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -23,6 +23,15 @@
   }
  ],
  "haberler": [
+  {
+   "id": "838b4b1ce253",
+   "tarih": "2026-10-24",
+   "kaynak": "The Hacker News",
+   "baslik": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+   "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-s",
+   "grup": "Genel"
+  },
   {
    "id": "fcaeed9175fd",
    "tarih": "2026-10-23",
@@ -399,15 +408,6 @@
    "baslik": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
    "url": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
    "ozet": "Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches. The post Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "a45e553ca30b",
-   "tarih": "2026-10-22",
-   "kaynak": "The Hacker News",
-   "baslik": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-   "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-   "ozet": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to deal with in just a few days. And the week isn't ev",
    "grup": "Genel"
   },
   {
