@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-24T08:05:11+00:00",
+ "guncelleme": "2026-10-24T13:17:46+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -24,12 +24,48 @@
  ],
  "haberler": [
   {
+   "id": "afec56c7243a",
+   "tarih": "2026-10-24",
+   "kaynak": "The Hacker News",
+   "baslik": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+   "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+   "ozet": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services. \"You may choose to allow certain Google services, in",
+   "grup": "Genel"
+  },
+  {
+   "id": "a0a9e49aec28",
+   "tarih": "2026-10-24",
+   "kaynak": "The Hacker News",
+   "baslik": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+   "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+   "ozet": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to decompress Brotli. Tracked as&nbsp;CVE-2026-111497, the flaw allows crafted compres",
+   "grup": "Genel"
+  },
+  {
+   "id": "94d51fe2d204",
+   "tarih": "2026-10-24",
+   "kaynak": "The Hacker News",
+   "baslik": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+   "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+   "ozet": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine. The updater belongs to Time4Popcorn, an abandoned copy of",
+   "grup": "Genel"
+  },
+  {
    "id": "838b4b1ce253",
    "tarih": "2026-10-24",
    "kaynak": "The Hacker News",
    "baslik": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
    "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
    "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-s",
+   "grup": "Genel"
+  },
+  {
+   "id": "3a1a036ef73a",
+   "tarih": "2026-10-24",
+   "kaynak": "The Hacker News",
+   "baslik": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+   "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+   "ozet": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed to the public LiteLLM",
    "grup": "Genel"
   },
   {
@@ -372,42 +408,6 @@
    "baslik": "Amazon says PHP2Shell exploitation began 4 days before patches",
    "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
    "ozet": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "c145f24074c2",
-   "tarih": "2026-10-22",
-   "kaynak": "The Hacker News",
-   "baslik": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
-   "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
-   "ozet": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the c",
-   "grup": "Genel"
-  },
-  {
-   "id": "ab875104cf16",
-   "tarih": "2026-10-22",
-   "kaynak": "Schneier on Security",
-   "baslik": "New Serious PHP Vulnerabilities Released and Patched",
-   "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
-   "ozet": "PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations servin",
-   "grup": "Genel"
-  },
-  {
-   "id": "a9227db3dd33",
-   "tarih": "2026-10-22",
-   "kaynak": "The Hacker News",
-   "baslik": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-   "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-   "ozet": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline was compromised to push 1.107.0 to the Docker Hub r",
-   "grup": "Genel"
-  },
-  {
-   "id": "a5298e0f95bc",
-   "tarih": "2026-10-22",
-   "kaynak": "SecurityWeek",
-   "baslik": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
-   "url": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
-   "ozet": "Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches. The post Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
