@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-24T13:17:46+00:00",
+ "guncelleme": "2026-10-24T18:05:45+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -30,6 +30,15 @@
    "baslik": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
    "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
    "ozet": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services. \"You may choose to allow certain Google services, in",
+   "grup": "Genel"
+  },
+  {
+   "id": "a6ce31709924",
+   "tarih": "2026-10-24",
+   "kaynak": "BleepingComputer",
+   "baslik": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+   "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+   "ozet": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
    "grup": "Genel"
   },
   {
@@ -399,15 +408,6 @@
    "baslik": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
    "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
    "ozet": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach with that little over",
-   "grup": "Genel"
-  },
-  {
-   "id": "c78f9791369d",
-   "tarih": "2026-10-22",
-   "kaynak": "BleepingComputer",
-   "baslik": "Amazon says PHP2Shell exploitation began 4 days before patches",
-   "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-   "ozet": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
    "grup": "Genel"
   },
   {
