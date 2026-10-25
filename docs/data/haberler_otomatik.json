@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-25T13:41:33+00:00",
+ "guncelleme": "2026-10-25T18:23:27+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -30,6 +30,15 @@
    "baslik": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
    "url": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
    "ozet": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "9e8f060397f4",
+   "tarih": "2026-10-25",
+   "kaynak": "BleepingComputer",
+   "baslik": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+   "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+   "ozet": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
    "grup": "Genel"
   },
   {
@@ -399,15 +408,6 @@
    "baslik": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
    "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
    "ozet": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "dd2c177462a4",
-   "tarih": "2026-10-22",
-   "kaynak": "SecurityWeek",
-   "baslik": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook",
-   "url": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
-   "ozet": "The $25 billion award far exceeds a $5 billion fine the Federal Trade Commission levied against Facebook in 2019. The post Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
