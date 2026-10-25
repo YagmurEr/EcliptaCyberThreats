@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-24T23:08:57+00:00",
+ "guncelleme": "2026-10-25T08:22:26+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -23,6 +23,15 @@
   }
  ],
  "haberler": [
+  {
+   "id": "5d0e99bc982d",
+   "tarih": "2026-10-25",
+   "kaynak": "The Hacker News",
+   "baslik": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+   "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+   "ozet": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet in",
+   "grup": "Genel"
+  },
   {
    "id": "afec56c7243a",
    "tarih": "2026-10-24",
@@ -399,15 +408,6 @@
    "baslik": "Hacker Conversations: Corey Thuen and the Evil Bit",
    "url": "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/",
    "ozet": "Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t. The post Hacker Conversations: Corey Thuen and the Evil Bit appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "d76b50dba162",
-   "tarih": "2026-10-22",
-   "kaynak": "The Hacker News",
-   "baslik": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-   "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-   "ozet": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach with that little over",
    "grup": "Genel"
   },
   {
