@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-25T18:23:27+00:00",
+ "guncelleme": "2026-10-25T23:13:01+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -48,6 +48,24 @@
    "baslik": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
    "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
    "ozet": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet in",
+   "grup": "Genel"
+  },
+  {
+   "id": "4a8154151413",
+   "tarih": "2026-10-25",
+   "kaynak": "The Hacker News",
+   "baslik": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+   "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+   "ozet": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls on",
+   "grup": "Genel"
+  },
+  {
+   "id": "3eda0d6ae7e3",
+   "tarih": "2026-10-25",
+   "kaynak": "The Hacker News",
+   "baslik": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+   "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+   "ozet": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in Europe and within two ",
    "grup": "Genel"
   },
   {
@@ -390,24 +408,6 @@
    "baslik": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities",
    "url": "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/",
    "ozet": "Vendors are checking their products for PHP2Shell, security firms are shipping detections, and governments are urging immediate patching. The post Tech and Security Companies Respond to PHP2Shell Vulnerabilities appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "eb08dcb4a958",
-   "tarih": "2026-10-22",
-   "kaynak": "SecurityWeek",
-   "baslik": "Splunk, SolarWinds Release Fresh Security Updates",
-   "url": "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
-   "ozet": "Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information. The post Splunk, SolarWinds Release Fresh Security Updates appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "df0211e45e19",
-   "tarih": "2026-10-22",
-   "kaynak": "BleepingComputer",
-   "baslik": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-   "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-   "ozet": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
    "grup": "Genel"
   },
   {
