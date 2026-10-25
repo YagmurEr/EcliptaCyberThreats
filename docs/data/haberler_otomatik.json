@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-25T08:22:26+00:00",
+ "guncelleme": "2026-10-25T13:41:33+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -23,6 +23,15 @@
   }
  ],
  "haberler": [
+  {
+   "id": "e85723a0f677",
+   "tarih": "2026-10-25",
+   "kaynak": "SecurityWeek",
+   "baslik": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
+   "url": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
+   "ozet": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
   {
    "id": "5d0e99bc982d",
    "tarih": "2026-10-25",
@@ -399,15 +408,6 @@
    "baslik": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook",
    "url": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
    "ozet": "The $25 billion award far exceeds a $5 billion fine the Federal Trade Commission levied against Facebook in 2019. The post Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "dcda11bca225",
-   "tarih": "2026-10-22",
-   "kaynak": "SecurityWeek",
-   "baslik": "Hacker Conversations: Corey Thuen and the Evil Bit",
-   "url": "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/",
-   "ozet": "Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t. The post Hacker Conversations: Corey Thuen and the Evil Bit appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
