@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-26T16:05:25+00:00",
+ "guncelleme": "2026-10-27T00:23:59+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -24,6 +24,15 @@
  ],
  "haberler": [
   {
+   "id": "fd2c8a91369a",
+   "tarih": "2026-10-26",
+   "kaynak": "The Hacker News",
+   "baslik": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+   "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+   "ozet": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code. PHP says the flaw can be reached through the cURL extension when the",
+   "grup": "Microsoft"
+  },
+  {
    "id": "fbd9cb2b4455",
    "tarih": "2026-10-26",
    "kaynak": "BleepingComputer",
@@ -39,6 +48,15 @@
    "baslik": "Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts",
    "url": "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
    "ozet": "The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts. The post Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "d84dc99ca60f",
+   "tarih": "2026-10-26",
+   "kaynak": "BleepingComputer",
+   "baslik": "DreamHost forces password resets in ongoing \"incident\"",
+   "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+   "ozet": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
    "grup": "Genel"
   },
   {
@@ -78,6 +96,24 @@
    "grup": "Genel"
   },
   {
+   "id": "9b6153963ef5",
+   "tarih": "2026-10-26",
+   "kaynak": "BleepingComputer",
+   "baslik": "Former pentester used ARTEX AI to steal 8.2 million data records",
+   "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+   "ozet": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "961277245249",
+   "tarih": "2026-10-26",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+   "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+   "ozet": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by uns",
+   "grup": "Genel"
+  },
+  {
    "id": "8e95a20d61e4",
    "tarih": "2026-10-26",
    "kaynak": "The Hacker News",
@@ -87,12 +123,39 @@
    "grup": "Genel"
   },
   {
+   "id": "89547e1892b3",
+   "tarih": "2026-10-26",
+   "kaynak": "SecurityWeek",
+   "baslik": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
+   "url": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
+   "ozet": "A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmful, life-threatening tasks. The post Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "8239096a100a",
    "tarih": "2026-10-26",
    "kaynak": "The Hacker News",
    "baslik": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
    "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
    "ozet": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm&nbsp;Forever Security said&nbsp;in a report published last week. The company caught the attempt on a real customer's machine and stopped the",
+   "grup": "Genel"
+  },
+  {
+   "id": "627cc70bbf65",
+   "tarih": "2026-10-26",
+   "kaynak": "BleepingComputer",
+   "baslik": "University of Copenhagen data breach exposes data of 525,000 people",
+   "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+   "ozet": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "5e34561ea984",
+   "tarih": "2026-10-26",
+   "kaynak": "BleepingComputer",
+   "baslik": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+   "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+   "ozet": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
    "grup": "Genel"
   },
   {
@@ -195,6 +258,15 @@
    "grup": "Genel"
   },
   {
+   "id": "154f68998af1",
+   "tarih": "2026-10-26",
+   "kaynak": "BleepingComputer",
+   "baslik": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+   "ozet": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "104d63029234",
    "tarih": "2026-10-26",
    "kaynak": "SecurityWeek",
@@ -211,6 +283,15 @@
    "url": "https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/",
    "ozet": "The Genesys Cloud, Genesys Engage, and Genesys Engage Cloud platforms were not affected. The post Genesys Hack Exposes Customer Data From Internal Systems appeared first on SecurityWeek.",
    "grup": "Genel"
+  },
+  {
+   "id": "03f54c74f6fe",
+   "tarih": "2026-10-26",
+   "kaynak": "The Hacker News",
+   "baslik": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+   "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+   "ozet": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware. \"A consistent pattern of attacker beh",
+   "grup": "Microsoft"
   },
   {
    "id": "e85723a0f677",
@@ -355,69 +436,6 @@
    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
    "ozet": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
    "grup": "Microsoft"
-  },
-  {
-   "id": "ceaaccb7c738",
-   "tarih": "2026-10-23",
-   "kaynak": "SecurityWeek",
-   "baslik": "Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge",
-   "url": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
-   "ozet": "Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet. The post Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "a2a9e372db7b",
-   "tarih": "2026-10-23",
-   "kaynak": "The Hacker News",
-   "baslik": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-   "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-   "ozet": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by f",
-   "grup": "Genel"
-  },
-  {
-   "id": "9d407c505c1e",
-   "tarih": "2026-10-23",
-   "kaynak": "Schneier on Security",
-   "baslik": "Friday Squid Blogging: Increasing Squid Populations",
-   "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
-   "ozet": "This article in Nature argues that it&#8217;s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-   "grup": "Genel"
-  },
-  {
-   "id": "962b531106f2",
-   "tarih": "2026-10-23",
-   "kaynak": "SecurityWeek",
-   "baslik": "11 Million Impacted by Capcom Data Breach",
-   "url": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
-   "ozet": "The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts. The post 11 Million Impacted by Capcom Data Breach appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "948084576510",
-   "tarih": "2026-10-23",
-   "kaynak": "SecurityWeek",
-   "baslik": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
-   "url": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
-   "ozet": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third Arista VCO Zero-Day in Four Months appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "8d39c401e746",
-   "tarih": "2026-10-23",
-   "kaynak": "SecurityWeek",
-   "baslik": "LiteLLM Compromised in Fresh Supply Chain Attack",
-   "url": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
-   "ozet": "Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker. The post LiteLLM Compromised in Fresh Supply Chain Attack appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "80697809b26e",
-   "tarih": "2026-10-23",
-   "kaynak": "The Hacker News",
-   "baslik": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-   "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-   "ozet": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 20",
-   "grup": "Genel"
   },
   {
    "id": "27be26c6f177",
