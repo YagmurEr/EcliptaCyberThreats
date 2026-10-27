@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-27T08:56:35+00:00",
+ "guncelleme": "2026-10-27T15:19:10+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -24,6 +24,60 @@
  ],
  "haberler": [
   {
+   "id": "eeae20ed2a5a",
+   "tarih": "2026-10-27",
+   "kaynak": "BleepingComputer",
+   "baslik": "Tailscale warns of SSH flaws allowing root privilege escalation",
+   "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+   "ozet": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "ea5496feaca5",
+   "tarih": "2026-10-27",
+   "kaynak": "The Hacker News",
+   "baslik": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+   "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+   "ozet": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text,&nbsp;security firm Xint&nbsp;has shown. OpenAI's reasoning models work through a problem before answering, and the service normally returns o",
+   "grup": "Genel"
+  },
+  {
+   "id": "cf5c346fcefd",
+   "tarih": "2026-10-27",
+   "kaynak": "The Hacker News",
+   "baslik": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+   "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+   "ozet": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russian cybersecurity comp",
+   "grup": "Genel"
+  },
+  {
+   "id": "c99aa3fd55df",
+   "tarih": "2026-10-27",
+   "kaynak": "SecurityWeek",
+   "baslik": "iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18",
+   "url": "https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/",
+   "ozet": "Apple patched 286 vulnerabilities in iOS and macOS 27.2 and brought the fix for an exploited CoreGraphics zero-day to older iPhones. The post iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18 appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "b7087025de0e",
+   "tarih": "2026-10-27",
+   "kaynak": "SecurityWeek",
+   "baslik": "Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover",
+   "url": "https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/",
+   "ozet": "Running at system boot, it periodically polled the update domain to execute any code served, with full privileges. The post Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "b611ff4c270c",
+   "tarih": "2026-10-27",
+   "kaynak": "BleepingComputer",
+   "baslik": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+   "url": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+   "ozet": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which attack techniques deserve immediate attention and",
+   "grup": "Genel"
+  },
+  {
    "id": "ad8783319617",
    "tarih": "2026-10-27",
    "kaynak": "The Hacker News",
@@ -33,12 +87,30 @@
    "grup": "Genel"
   },
   {
+   "id": "a6006728be28",
+   "tarih": "2026-10-27",
+   "kaynak": "The Hacker News",
+   "baslik": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+   "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+   "ozet": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microsoft tracks the flaw as&nbsp;CVE-2026-80097&nbsp;and fixed it in Authenticator for",
+   "grup": "Microsoft"
+  },
+  {
    "id": "968629f0ead3",
    "tarih": "2026-10-27",
    "kaynak": "The Hacker News",
    "baslik": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
    "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
    "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthe",
+   "grup": "Genel"
+  },
+  {
+   "id": "928eba252ebe",
+   "tarih": "2026-10-27",
+   "kaynak": "SecurityWeek",
+   "baslik": "Unexplained DreamHost Incident Prompts Email, FTP Password Resets",
+   "url": "https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/",
+   "ozet": "The company says it reacted to an issue affecting some of its systems, including DreamHost webmail. The post Unexplained DreamHost Incident Prompts Email, FTP Password Resets appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
@@ -60,12 +132,102 @@
    "grup": "Genel"
   },
   {
+   "id": "6c05e107bb76",
+   "tarih": "2026-10-27",
+   "kaynak": "Schneier on Security",
+   "baslik": "Hiding Capabilities in AI Models",
+   "url": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
+   "ozet": "Interesting research: &#8220;AI Models Can Provably Hide Arbitrary Capabilities&#8221; Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does n",
+   "grup": "Genel"
+  },
+  {
+   "id": "60e8b957385d",
+   "tarih": "2026-10-27",
+   "kaynak": "SecurityWeek",
+   "baslik": "Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI",
+   "url": "https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/",
+   "ozet": "Anthropic presents its own initial public offering as a step toward mitigating the risks it believes AI poses. The post Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "4b38edd6123c",
+   "tarih": "2026-10-27",
+   "kaynak": "BleepingComputer",
+   "baslik": "Energy giant ENGIE discloses data breach affecting customers",
+   "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+   "ozet": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "46ee8b886dbe",
    "tarih": "2026-10-27",
    "kaynak": "SecurityWeek",
    "baslik": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
    "url": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/",
    "ozet": "Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products. The post Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "41ce8592d3fb",
+   "tarih": "2026-10-27",
+   "kaynak": "SecurityWeek",
+   "baslik": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
+   "url": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
+   "ozet": "A leaked SquareML access key could have been used to access a database containing personal and health information. The post Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "3fba9192c925",
+   "tarih": "2026-10-27",
+   "kaynak": "The Hacker News",
+   "baslik": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+   "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+   "ozet": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a&nbsp;statement&nbsp;on October 26. Someone with that key could build counterfeit devices that pass the online check owners use to verify a Keystone. A b",
+   "grup": "Genel"
+  },
+  {
+   "id": "243406f675bd",
+   "tarih": "2026-10-27",
+   "kaynak": "SecurityWeek",
+   "baslik": "HPE Patches Dozens of Critical Flaws in Networking Products",
+   "url": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
+   "ozet": "Eight max-severity security defects could lead to remote code execution and authentication bypass. The post HPE Patches Dozens of Critical Flaws in Networking Products appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "1da67faa3c4a",
+   "tarih": "2026-10-27",
+   "kaynak": "The Hacker News",
+   "baslik": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+   "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+   "ozet": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the criminal's operation's backend and cut it off from those co",
+   "grup": "Genel"
+  },
+  {
+   "id": "1ce9ccf10a03",
+   "tarih": "2026-10-27",
+   "kaynak": "The Hacker News",
+   "baslik": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+   "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+   "ozet": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organizations.&nbsp; Some fake login pages go beyond stealing passwo",
+   "grup": "Genel"
+  },
+  {
+   "id": "181378638961",
+   "tarih": "2026-10-27",
+   "kaynak": "BleepingComputer",
+   "baslik": "Apple backports CoreGraphics zero-day patches to older iPhones",
+   "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+   "ozet": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "177d2de823fd",
+   "tarih": "2026-10-27",
+   "kaynak": "SecurityWeek",
+   "baslik": "This is Fine: What NetScaler Zero-Days Tell Us About the New Normal",
+   "url": "https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/",
+   "ozet": "Keep your patch management pipelines primed in case another round of Citrix NetScaler patches get released soon. The post This is Fine: What NetScaler Zero-Days Tell Us About the New Normal appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
@@ -258,15 +420,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "3576934612fc",
-   "tarih": "2026-10-26",
-   "kaynak": "The Hacker News",
-   "baslik": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-   "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-   "ozet": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security teams have more urgent patches than they can",
-   "grup": "Genel"
-  },
-  {
    "id": "2a948c7de7f5",
    "tarih": "2026-10-26",
    "kaynak": "SecurityWeek",
@@ -276,60 +429,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "275e6f3b55af",
-   "tarih": "2026-10-26",
-   "kaynak": "The Hacker News",
-   "baslik": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-   "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-   "ozet": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the",
-   "grup": "Genel"
-  },
-  {
-   "id": "23a9892afebf",
-   "tarih": "2026-10-26",
-   "kaynak": "SecurityWeek",
-   "baslik": "953 Online Stores Infected in Long-Lasting Malware Campaign",
-   "url": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
-   "ozet": "Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection. The post 953 Online Stores Infected in Long-Lasting Malware Campaign appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "217d727d090a",
-   "tarih": "2026-10-26",
-   "kaynak": "Schneier on Security",
-   "baslik": "Bias in Qwen3-Coder Model",
-   "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
-   "ozet": "Interesting research: TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model&#8217;s weights, and that rem",
-   "grup": "Genel"
-  },
-  {
-   "id": "154f68998af1",
-   "tarih": "2026-10-26",
-   "kaynak": "BleepingComputer",
-   "baslik": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
-   "ozet": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "104d63029234",
-   "tarih": "2026-10-26",
-   "kaynak": "SecurityWeek",
-   "baslik": "PHP2Shell Exploitation Moves From Probes to Working Shells",
-   "url": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
-   "ozet": "Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24. The post PHP2Shell Exploitation Moves From Probes to Working Shells appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "0894723045c0",
-   "tarih": "2026-10-26",
-   "kaynak": "SecurityWeek",
-   "baslik": "Genesys Hack Exposes Customer Data From Internal Systems",
-   "url": "https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/",
-   "ozet": "The Genesys Cloud, Genesys Engage, and Genesys Engage Cloud platforms were not affected. The post Genesys Hack Exposes Customer Data From Internal Systems appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
    "id": "03f54c74f6fe",
    "tarih": "2026-10-26",
    "kaynak": "The Hacker News",
@@ -337,96 +436,6 @@
    "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
    "ozet": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware. \"A consistent pattern of attacker beh",
    "grup": "Microsoft"
-  },
-  {
-   "id": "e85723a0f677",
-   "tarih": "2026-10-25",
-   "kaynak": "SecurityWeek",
-   "baslik": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
-   "url": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
-   "ozet": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "9e8f060397f4",
-   "tarih": "2026-10-25",
-   "kaynak": "BleepingComputer",
-   "baslik": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-   "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-   "ozet": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "5d0e99bc982d",
-   "tarih": "2026-10-25",
-   "kaynak": "The Hacker News",
-   "baslik": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-   "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-   "ozet": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet in",
-   "grup": "Genel"
-  },
-  {
-   "id": "4a8154151413",
-   "tarih": "2026-10-25",
-   "kaynak": "The Hacker News",
-   "baslik": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-   "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-   "ozet": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls on",
-   "grup": "Genel"
-  },
-  {
-   "id": "3eda0d6ae7e3",
-   "tarih": "2026-10-25",
-   "kaynak": "The Hacker News",
-   "baslik": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
-   "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-   "ozet": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack against a European government agency executed in the c",
-   "grup": "Genel"
-  },
-  {
-   "id": "afec56c7243a",
-   "tarih": "2026-10-24",
-   "kaynak": "The Hacker News",
-   "baslik": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-   "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-   "ozet": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services. \"You may choose to allow certain Google services, in",
-   "grup": "Genel"
-  },
-  {
-   "id": "a6ce31709924",
-   "tarih": "2026-10-24",
-   "kaynak": "BleepingComputer",
-   "baslik": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-   "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-   "ozet": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "a0a9e49aec28",
-   "tarih": "2026-10-24",
-   "kaynak": "The Hacker News",
-   "baslik": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-   "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-   "ozet": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to decompress Brotli. Tracked as&nbsp;CVE-2026-111497, the flaw allo",
-   "grup": "Genel"
-  },
-  {
-   "id": "94d51fe2d204",
-   "tarih": "2026-10-24",
-   "kaynak": "The Hacker News",
-   "baslik": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-   "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-   "ozet": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine. The updater belongs to Time4Popcorn, an abandoned copy of",
-   "grup": "Genel"
-  },
-  {
-   "id": "838b4b1ce253",
-   "tarih": "2026-10-24",
-   "kaynak": "The Hacker News",
-   "baslik": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-   "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-s",
-   "grup": "Genel"
   },
   {
    "id": "e62f85ca100b",
