@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-28T09:36:45+00:00",
+ "guncelleme": "2026-10-28T15:58:34+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -24,12 +24,30 @@
  ],
  "haberler": [
   {
+   "id": "f424b83a0c00",
+   "tarih": "2026-10-28",
+   "kaynak": "SecurityWeek",
+   "baslik": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison",
+   "url": "https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/",
+   "ozet": "Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks. The post Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "f01e6eed4371",
    "tarih": "2026-10-28",
    "kaynak": "The Hacker News",
    "baslik": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
    "url": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
    "ozet": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier,&nbsp;CVE-2026-35273, in June. Its root is a server-side request forgery (SSRF) ",
+   "grup": "Genel"
+  },
+  {
+   "id": "eb93de238d98",
+   "tarih": "2026-10-28",
+   "kaynak": "The Hacker News",
+   "baslik": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
+   "url": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
+   "ozet": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network. UEFI firmware is the software that runs first wh",
    "grup": "Genel"
   },
   {
@@ -51,6 +69,78 @@
    "grup": "Microsoft"
   },
   {
+   "id": "ce5fe177d9da",
+   "tarih": "2026-10-28",
+   "kaynak": "The Hacker News",
+   "baslik": "Wazuh and AI for Enhanced SOC Workflows",
+   "url": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+   "ozet": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cyber",
+   "grup": "Genel"
+  },
+  {
+   "id": "aa5619127529",
+   "tarih": "2026-10-28",
+   "kaynak": "BleepingComputer",
+   "baslik": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+   "ozet": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "9ebc7f16e54c",
+   "tarih": "2026-10-28",
+   "kaynak": "SecurityWeek",
+   "baslik": "Long-Hidden Flaws Patched in EPICS Research Facility Control Software",
+   "url": "https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/",
+   "ozet": "Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs. The post Long-Hidden Flaws Patched in EPICS Research Facility Control Software appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "965a65e0d849",
+   "tarih": "2026-10-28",
+   "kaynak": "BleepingComputer",
+   "baslik": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+   "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+   "ozet": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "943e231b105b",
+   "tarih": "2026-10-28",
+   "kaynak": "SecurityWeek",
+   "baslik": "Upwind Security Raises $400 Million at $3.8 Billion Valuation",
+   "url": "https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/",
+   "ozet": "The massive funding round comes just days after reports emerged that Upwind had attracted acquisition interest from several companies, including Datadog The post Upwind Security Raises $400 Million at $3.8 Billion Valuation appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "84fd85017893",
+   "tarih": "2026-10-28",
+   "kaynak": "SecurityWeek",
+   "baslik": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices",
+   "url": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
+   "ozet": "FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers. The post TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "7f47388e611d",
+   "tarih": "2026-10-28",
+   "kaynak": "BleepingComputer",
+   "baslik": "Microsoft urges Entra ID admins to migrate users to passkeys",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
+   "ozet": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "7c22489c81a5",
+   "tarih": "2026-10-28",
+   "kaynak": "BleepingComputer",
+   "baslik": "Hackers now scanning systems for recently-patched Oracle flaw",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
+   "ozet": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "6fcf621f852d",
    "tarih": "2026-10-28",
    "kaynak": "The Hacker News",
@@ -66,6 +156,42 @@
    "baslik": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
    "url": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
    "ozet": "Japan's GMO Internet Group is&nbsp;offering up to $1 million in total&nbsp;for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28 and pays only if a tip helps lead to an arrest or an",
+   "grup": "Genel"
+  },
+  {
+   "id": "60ccb0bbd830",
+   "tarih": "2026-10-28",
+   "kaynak": "BleepingComputer",
+   "baslik": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+   "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+   "ozet": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "5ad5314f8c50",
+   "tarih": "2026-10-28",
+   "kaynak": "Schneier on Security",
+   "baslik": "Studying Fraudulent North Korean IT Workers",
+   "url": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
+   "ozet": "Researchers set up a fake start-up company to study fraudulent North Korean IT workers.",
+   "grup": "Genel"
+  },
+  {
+   "id": "56f1c438e294",
+   "tarih": "2026-10-28",
+   "kaynak": "SecurityWeek",
+   "baslik": "Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise",
+   "url": "https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/",
+   "ozet": "The company will use the Series B funds to expand its platform for securing AI agents’ access to sensitive systems. The post Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "42a9e60af11b",
+   "tarih": "2026-10-28",
+   "kaynak": "The Hacker News",
+   "baslik": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+   "url": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+   "ozet": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The list of eight vulnerabilities is as follows - CVE-2026-104351 (CVSS score: 9.9)",
    "grup": "Genel"
   },
   {
@@ -87,12 +213,66 @@
    "grup": "Genel"
   },
   {
+   "id": "29d08fa787d9",
+   "tarih": "2026-10-28",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+   "url": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+   "ozet": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) in the Oracle Application Object Library of Oracle E-Business Suit",
+   "grup": "Genel"
+  },
+  {
    "id": "21dec5f03b58",
    "tarih": "2026-10-28",
    "kaynak": "SecurityWeek",
    "baslik": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts",
    "url": "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/",
    "ozet": "CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit. The post CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "219f99ac76bf",
+   "tarih": "2026-10-28",
+   "kaynak": "BleepingComputer",
+   "baslik": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+   "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+   "ozet": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach. [",
+   "grup": "Genel"
+  },
+  {
+   "id": "169a3a02ba4a",
+   "tarih": "2026-10-28",
+   "kaynak": "The Hacker News",
+   "baslik": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+   "url": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+   "ozet": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer obvious signs behind. ANY.RU",
+   "grup": "Genel"
+  },
+  {
+   "id": "0d8d39d2f11b",
+   "tarih": "2026-10-28",
+   "kaynak": "SecurityWeek",
+   "baslik": "China-Linked Hackers Exploit PHP2Shell to Root Firewalls",
+   "url": "https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/",
+   "ozet": "The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization. The post China-Linked Hackers Exploit PHP2Shell to Root Firewalls appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "085573e20d77",
+   "tarih": "2026-10-28",
+   "kaynak": "SecurityWeek",
+   "baslik": "Nobody Trusts the Security Questionnaire. We Rely on It Anyway.",
+   "url": "https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/",
+   "ozet": "The process that gates nearly every B2B deal is a self-assessment the sender distrusts and the receiver accepts. There is finally a better basis for trust between companies. The post Nobody Trusts the Security Questionnaire. We Rely on It Anyway. appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "04dad7bd605d",
+   "tarih": "2026-10-28",
+   "kaynak": "SecurityWeek",
+   "baslik": "Chrome and Firefox Updates Patch Over 200 Vulnerabilities",
+   "url": "https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/",
+   "ozet": "The Chrome 156 update fixes 52 bugs, while Firefox 159 was rolled out with 167 security patches. The post Chrome and Firefox Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
@@ -240,159 +420,6 @@
    "grup": "Genel"
   },
   {
-   "id": "7f986c278117",
-   "tarih": "2026-10-27",
-   "kaynak": "SecurityWeek",
-   "baslik": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
-   "url": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
-   "ozet": "The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics. The post Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "78275c0ac59e",
-   "tarih": "2026-10-27",
-   "kaynak": "BleepingComputer",
-   "baslik": "UNM Health ransomware attack disrupts patient care, surgeries",
-   "url": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
-   "ozet": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "77d8f32442c0",
-   "tarih": "2026-10-27",
-   "kaynak": "BleepingComputer",
-   "baslik": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "7477a331e67f",
-   "tarih": "2026-10-27",
-   "kaynak": "BleepingComputer",
-   "baslik": "Hackers hijack Convertr analytics script to steal payment card data",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
-   "ozet": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "6c05e107bb76",
-   "tarih": "2026-10-27",
-   "kaynak": "Schneier on Security",
-   "baslik": "Hiding Capabilities in AI Models",
-   "url": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
-   "ozet": "Interesting research: &#8220;AI Models Can Provably Hide Arbitrary Capabilities&#8221; Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does n",
-   "grup": "Genel"
-  },
-  {
-   "id": "60e8b957385d",
-   "tarih": "2026-10-27",
-   "kaynak": "SecurityWeek",
-   "baslik": "Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI",
-   "url": "https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/",
-   "ozet": "Anthropic presents its own initial public offering as a step toward mitigating the risks it believes AI poses. The post Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "5246b1272668",
-   "tarih": "2026-10-27",
-   "kaynak": "BleepingComputer",
-   "baslik": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
-   "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
-   "ozet": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "4b38edd6123c",
-   "tarih": "2026-10-27",
-   "kaynak": "BleepingComputer",
-   "baslik": "Energy giant ENGIE discloses data breach affecting customers",
-   "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
-   "ozet": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "46ee8b886dbe",
-   "tarih": "2026-10-27",
-   "kaynak": "SecurityWeek",
-   "baslik": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
-   "url": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/",
-   "ozet": "Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products. The post Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "41ce8592d3fb",
-   "tarih": "2026-10-27",
-   "kaynak": "SecurityWeek",
-   "baslik": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
-   "url": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
-   "ozet": "A leaked SquareML access key could have been used to access a database containing personal and health information. The post Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "3fba9192c925",
-   "tarih": "2026-10-27",
-   "kaynak": "The Hacker News",
-   "baslik": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
-   "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
-   "ozet": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a&nbsp;statement&nbsp;on October 26. Someone with that key could build counterfeit devices that pass the online check owners use to verify a Keystone. A b",
-   "grup": "Genel"
-  },
-  {
-   "id": "243406f675bd",
-   "tarih": "2026-10-27",
-   "kaynak": "SecurityWeek",
-   "baslik": "HPE Patches Dozens of Critical Flaws in Networking Products",
-   "url": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
-   "ozet": "Eight max-severity security defects could lead to remote code execution and authentication bypass. The post HPE Patches Dozens of Critical Flaws in Networking Products appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "1da67faa3c4a",
-   "tarih": "2026-10-27",
-   "kaynak": "The Hacker News",
-   "baslik": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
-   "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
-   "ozet": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the criminal's operation's backend and cut it off from those co",
-   "grup": "Genel"
-  },
-  {
-   "id": "1ce9ccf10a03",
-   "tarih": "2026-10-27",
-   "kaynak": "The Hacker News",
-   "baslik": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-   "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-   "ozet": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organizations.&nbsp; Some fake login pages go beyond stealing passwo",
-   "grup": "Genel"
-  },
-  {
-   "id": "181378638961",
-   "tarih": "2026-10-27",
-   "kaynak": "BleepingComputer",
-   "baslik": "Apple backports CoreGraphics zero-day patches to older iPhones",
-   "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
-   "ozet": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "177d2de823fd",
-   "tarih": "2026-10-27",
-   "kaynak": "SecurityWeek",
-   "baslik": "This is Fine: What NetScaler Zero-Days Tell Us About the New Normal",
-   "url": "https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/",
-   "ozet": "Keep your patch management pipelines primed in case another round of Citrix NetScaler patches get released soon. The post This is Fine: What NetScaler Zero-Days Tell Us About the New Normal appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "0afa3606f14e",
-   "tarih": "2026-10-27",
-   "kaynak": "The Hacker News",
-   "baslik": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
-   "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
-   "ozet": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code execution when proc",
-   "grup": "Genel"
-  },
-  {
    "id": "fd2c8a91369a",
    "tarih": "2026-10-26",
    "kaynak": "The Hacker News",
@@ -400,24 +427,6 @@
    "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
    "ozet": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code. PHP says the flaw can be reached through the cURL extension when the",
    "grup": "Microsoft"
-  },
-  {
-   "id": "fbd9cb2b4455",
-   "tarih": "2026-10-26",
-   "kaynak": "BleepingComputer",
-   "baslik": "PHP2Shell security flaws now sucessfully exploited in the wild",
-   "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-   "ozet": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "f5fa96b28818",
-   "tarih": "2026-10-26",
-   "kaynak": "SecurityWeek",
-   "baslik": "Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts",
-   "url": "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
-   "ozet": "The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts. The post Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "cf08225efb6b",
