@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-29T00:52:40+00:00",
+ "guncelleme": "2026-10-29T09:55:22+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -23,6 +23,60 @@
   }
  ],
  "haberler": [
+  {
+   "id": "f4eff089be53",
+   "tarih": "2026-10-29",
+   "kaynak": "The Hacker News",
+   "baslik": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+   "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+   "ozet": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting the Palo Alto Networks management interface exposed to the internet,\" the networ",
+   "grup": "Genel"
+  },
+  {
+   "id": "ef44306c2f44",
+   "tarih": "2026-10-29",
+   "kaynak": "SecurityWeek",
+   "baslik": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day",
+   "url": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/",
+   "ozet": "CVE-2026-41709 allows attackers with administrative privileges to perform operations without being logged. The post Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "e91f33b06ca8",
+   "tarih": "2026-10-29",
+   "kaynak": "The Hacker News",
+   "baslik": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+   "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Warp Panda in attacks ",
+   "grup": "Genel"
+  },
+  {
+   "id": "b3306983de00",
+   "tarih": "2026-10-29",
+   "kaynak": "SecurityWeek",
+   "baslik": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",
+   "url": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
+   "ozet": "Hackers stole personal information and iRhythm account and device data from third-party-hosted business applications. The post HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "aabd8e14b270",
+   "tarih": "2026-10-29",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+   "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+   "ozet": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt traffic between sites and store them for later use,&nbsp;Cisco",
+   "grup": "Cisco"
+  },
+  {
+   "id": "77d976efa8e0",
+   "tarih": "2026-10-29",
+   "kaynak": "SecurityWeek",
+   "baslik": "Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August",
+   "url": "https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/",
+   "ozet": "Cisco on Wednesday released fixes for an exploited vulnerability affecting its Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) software. Tracked as CVE-2026-76418 and assigned a CVSS score of 8.6, the bug resides in the Remote Access SSL VPN service. Attack",
+   "grup": "Cisco"
+  },
   {
    "id": "f424b83a0c00",
    "tarih": "2026-10-28",
@@ -372,42 +426,6 @@
    "baslik": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
    "ozet": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "db852607b136",
-   "tarih": "2026-10-27",
-   "kaynak": "BleepingComputer",
-   "baslik": "Warp discloses breach exposing AI agent logs, user telemetry data",
-   "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-   "ozet": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "d09366a97fc8",
-   "tarih": "2026-10-27",
-   "kaynak": "The Hacker News",
-   "baslik": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
-   "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
-   "ozet": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analyzed three exposed server environments used by threat actors ",
-   "grup": "Genel"
-  },
-  {
-   "id": "cf5c346fcefd",
-   "tarih": "2026-10-27",
-   "kaynak": "The Hacker News",
-   "baslik": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-   "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-   "ozet": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russian cybersecurity comp",
-   "grup": "Genel"
-  },
-  {
-   "id": "c99aa3fd55df",
-   "tarih": "2026-10-27",
-   "kaynak": "SecurityWeek",
-   "baslik": "iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18",
-   "url": "https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/",
-   "ozet": "Apple patched 286 vulnerabilities in iOS and macOS 27.2 and brought the fix for an exploited CoreGraphics zero-day to older iPhones. The post iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18 appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
