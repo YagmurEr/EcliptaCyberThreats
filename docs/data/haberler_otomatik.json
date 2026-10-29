@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-29T09:55:22+00:00",
+ "guncelleme": "2026-10-29T16:04:42+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -24,6 +24,24 @@
  ],
  "haberler": [
   {
+   "id": "fcadd0dd5cf0",
+   "tarih": "2026-10-29",
+   "kaynak": "SecurityWeek",
+   "baslik": "How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI",
+   "url": "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
+   "ozet": "Unpatched voting machines, unverifiable QR-coded ballots, and AI-driven influence campaigns leave US elections short of secure. The post How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "f5faf77d9641",
+   "tarih": "2026-10-29",
+   "kaynak": "SecurityWeek",
+   "baslik": "Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model",
+   "url": "https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/",
+   "ozet": "Google’s new frontier model scored 88.2% on SEC-bench Pro and is rolling out first to vetted cyber defenders via its Fairwind Program. The post Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "f4eff089be53",
    "tarih": "2026-10-29",
    "kaynak": "The Hacker News",
@@ -31,6 +49,15 @@
    "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
    "ozet": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting the Palo Alto Networks management interface exposed to the internet,\" the networ",
    "grup": "Genel"
+  },
+  {
+   "id": "f34fb5d0be19",
+   "tarih": "2026-10-29",
+   "kaynak": "BleepingComputer",
+   "baslik": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
+   "ozet": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
+   "grup": "Microsoft"
   },
   {
    "id": "ef44306c2f44",
@@ -51,6 +78,60 @@
    "grup": "Genel"
   },
   {
+   "id": "e6aa25e9694d",
+   "tarih": "2026-10-29",
+   "kaynak": "The Hacker News",
+   "baslik": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+   "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+   "ozet": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI systems can perform on their own. As these capabilities mat",
+   "grup": "Genel"
+  },
+  {
+   "id": "dd1c518d70f0",
+   "tarih": "2026-10-29",
+   "kaynak": "The Hacker News",
+   "baslik": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+   "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+   "ozet": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app, released in late Septembe",
+   "grup": "Genel"
+  },
+  {
+   "id": "dac38c362139",
+   "tarih": "2026-10-29",
+   "kaynak": "SecurityWeek",
+   "baslik": "Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net",
+   "url": "https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/",
+   "ozet": "The data of So-net and Plala customers in Japan was exposed, along with 54,401 email account passwords and 16 bank account records. The post Hackers Steal 2.6 Million Records From Sony&#8217;s Japanese ISP So-net appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "d340597c608d",
+   "tarih": "2026-10-29",
+   "kaynak": "BleepingComputer",
+   "baslik": "3 Ways AI Agents Already Operate in Your Browser",
+   "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
+   "ozet": "AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security tools may struggle to distinguish their activity fr",
+   "grup": "Genel"
+  },
+  {
+   "id": "cf3544e85171",
+   "tarih": "2026-10-29",
+   "kaynak": "The Hacker News",
+   "baslik": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
+   "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+   "ozet": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata requests and package downloads for signs of malicious activity, acting as an install-time policy gate,\" GitHu",
+   "grup": "Genel"
+  },
+  {
+   "id": "c9e7c513e143",
+   "tarih": "2026-10-29",
+   "kaynak": "The Hacker News",
+   "baslik": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+   "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+   "ozet": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher Ben Zimmermann found them by scanning 7.25 million public Gitee repositories an",
+   "grup": "Genel"
+  },
+  {
    "id": "b3306983de00",
    "tarih": "2026-10-29",
    "kaynak": "SecurityWeek",
@@ -58,6 +139,15 @@
    "url": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
    "ozet": "Hackers stole personal information and iRhythm account and device data from third-party-hosted business applications. The post HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million appeared first on SecurityWeek.",
    "grup": "Genel"
+  },
+  {
+   "id": "b326a55c6171",
+   "tarih": "2026-10-29",
+   "kaynak": "SecurityWeek",
+   "baslik": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
+   "url": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
+   "ozet": "The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek.",
+   "grup": "Juniper"
   },
   {
    "id": "aabd8e14b270",
@@ -69,13 +159,121 @@
    "grup": "Cisco"
   },
   {
+   "id": "9ca4865974e2",
+   "tarih": "2026-10-29",
+   "kaynak": "SecurityWeek",
+   "baslik": "Over 41,000 DHS Employee Records Leaked Online",
+   "url": "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
+   "ozet": "The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year. The post Over 41,000 DHS Employee Records Leaked Online appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "9ac8296dadd7",
+   "tarih": "2026-10-29",
+   "kaynak": "The Hacker News",
+   "baslik": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+   "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+   "ozet": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab&nbsp;released a fix, Alpine Linux&nbsp;said&nbsp;on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through a craf",
+   "grup": "Genel"
+  },
+  {
+   "id": "8cc04215eff5",
+   "tarih": "2026-10-29",
+   "kaynak": "The Hacker News",
+   "baslik": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+   "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+   "ozet": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The activity involves creating fake GitHub projects that claim to be desktop applic",
+   "grup": "Genel"
+  },
+  {
    "id": "77d976efa8e0",
    "tarih": "2026-10-29",
    "kaynak": "SecurityWeek",
    "baslik": "Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August",
    "url": "https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/",
-   "ozet": "Cisco on Wednesday released fixes for an exploited vulnerability affecting its Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) software. Tracked as CVE-2026-76418 and assigned a CVSS score of 8.6, the bug resides in the Remote Access SSL VPN service. Attack",
+   "ozet": "An exploited flaw in the Remote Access SSL VPN service lets unauthenticated attackers remotely force ASA and FTD firewalls to reload. The post Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August appeared first on SecurityWeek.",
    "grup": "Cisco"
+  },
+  {
+   "id": "748d67ab1d92",
+   "tarih": "2026-10-29",
+   "kaynak": "BleepingComputer",
+   "baslik": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
+   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "67386231cf52",
+   "tarih": "2026-10-29",
+   "kaynak": "SecurityWeek",
+   "baslik": "Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps",
+   "url": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
+   "ozet": "Cisco open sourced Project Quarry, a rule language for detecting AI agent attacks that only emerge across sequences of benign actions. The post Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps appeared first on SecurityWeek.",
+   "grup": "Cisco"
+  },
+  {
+   "id": "5a570ea1e7c2",
+   "tarih": "2026-10-29",
+   "kaynak": "The Hacker News",
+   "baslik": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+   "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+   "ozet": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes",
+   "grup": "Genel"
+  },
+  {
+   "id": "409f0b0486b7",
+   "tarih": "2026-10-29",
+   "kaynak": "BleepingComputer",
+   "baslik": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+   "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+   "ozet": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
+   "grup": "Cisco"
+  },
+  {
+   "id": "1b4f07400fac",
+   "tarih": "2026-10-29",
+   "kaynak": "SecurityWeek",
+   "baslik": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
+   "url": "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
+   "ozet": "BAE Systems says no data was extracted and no PII was breached in the incident that disrupted US bankruptcy court notices for weeks. The post BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "15f712f3175d",
+   "tarih": "2026-10-29",
+   "kaynak": "BleepingComputer",
+   "baslik": "Windows 11 KB5127936 update released with 41 changes and fixes",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
+   "ozet": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "13fcb9283069",
+   "tarih": "2026-10-29",
+   "kaynak": "SecurityWeek",
+   "baslik": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
+   "url": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/",
+   "ozet": "Cisco Talos linked SD-WAN key-stealing malware to infrastructure overlapping Volt Typhoon’s Silent Train network, which Lumen detailed. The post Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon&#8217;s &#8216;Silent Train&#8217; Network appeared first on SecurityWeek.",
+   "grup": "Cisco"
+  },
+  {
+   "id": "083a1ea7d205",
+   "tarih": "2026-10-29",
+   "kaynak": "The Hacker News",
+   "baslik": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+   "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+   "ozet": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is rated 8.6 on the CVSS scor",
+   "grup": "Cisco"
+  },
+  {
+   "id": "005f2528861a",
+   "tarih": "2026-10-29",
+   "kaynak": "The Hacker News",
+   "baslik": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
+   "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+   "ozet": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead ",
+   "grup": "Genel"
   },
   {
    "id": "f424b83a0c00",
@@ -291,141 +489,6 @@
    "baslik": "Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise",
    "url": "https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/",
    "ozet": "The company will use the Series B funds to expand its platform for securing AI agents’ access to sensitive systems. The post Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "516ab6192d20",
-   "tarih": "2026-10-28",
-   "kaynak": "BleepingComputer",
-   "baslik": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-   "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-   "ozet": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "42a9e60af11b",
-   "tarih": "2026-10-28",
-   "kaynak": "The Hacker News",
-   "baslik": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-   "url": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-   "ozet": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The list of eight vulnerabilities is as follows - CVE-2026-104351 (CVSS score: 9.9)",
-   "grup": "Genel"
-  },
-  {
-   "id": "3f9c6dce420c",
-   "tarih": "2026-10-28",
-   "kaynak": "SecurityWeek",
-   "baslik": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
-   "url": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
-   "ozet": "CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution. The post Hackers Start Probing Fresh Oracle EBS Vulnerability appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "345dc53c4910",
-   "tarih": "2026-10-28",
-   "kaynak": "The Hacker News",
-   "baslik": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
-   "url": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
-   "ozet": "Tailscale has released&nbsp;version 1.104.4&nbsp;to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the&nbsp;root&nbsp;user should be able to touch. The flaws are in how&nbsp;Tailscale SSH&nbsp;forwards network connections, a job th",
-   "grup": "Genel"
-  },
-  {
-   "id": "29d08fa787d9",
-   "tarih": "2026-10-28",
-   "kaynak": "The Hacker News",
-   "baslik": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-   "url": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-   "ozet": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the Oracle Application Obje",
-   "grup": "Genel"
-  },
-  {
-   "id": "21dec5f03b58",
-   "tarih": "2026-10-28",
-   "kaynak": "SecurityWeek",
-   "baslik": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts",
-   "url": "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/",
-   "ozet": "CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit. The post CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "219f99ac76bf",
-   "tarih": "2026-10-28",
-   "kaynak": "BleepingComputer",
-   "baslik": "Even after PHP2Shell, blast radius matters more than a CVSS score",
-   "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
-   "ozet": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach. [",
-   "grup": "Genel"
-  },
-  {
-   "id": "169a3a02ba4a",
-   "tarih": "2026-10-28",
-   "kaynak": "The Hacker News",
-   "baslik": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
-   "url": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
-   "ozet": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer obvious signs behind. ANY.RU",
-   "grup": "Genel"
-  },
-  {
-   "id": "10e92bd49867",
-   "tarih": "2026-10-28",
-   "kaynak": "The Hacker News",
-   "baslik": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-   "url": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-   "ozet": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access. \"First identified in late 2023, Silent Train uses rotating chains of compromised SOHO,",
-   "grup": "Genel"
-  },
-  {
-   "id": "0d8d39d2f11b",
-   "tarih": "2026-10-28",
-   "kaynak": "SecurityWeek",
-   "baslik": "China-Linked Hackers Exploit PHP2Shell to Root Firewalls",
-   "url": "https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/",
-   "ozet": "The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization. The post China-Linked Hackers Exploit PHP2Shell to Root Firewalls appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "085573e20d77",
-   "tarih": "2026-10-28",
-   "kaynak": "SecurityWeek",
-   "baslik": "Nobody Trusts the Security Questionnaire. We Rely on It Anyway.",
-   "url": "https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/",
-   "ozet": "The process that gates nearly every B2B deal is a self-assessment the sender distrusts and the receiver accepts. There is finally a better basis for trust between companies. The post Nobody Trusts the Security Questionnaire. We Rely on It Anyway. appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "04dad7bd605d",
-   "tarih": "2026-10-28",
-   "kaynak": "SecurityWeek",
-   "baslik": "Chrome and Firefox Updates Patch Over 200 Vulnerabilities",
-   "url": "https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/",
-   "ozet": "The Chrome 156 update fixes 52 bugs, while Firefox 159 was rolled out with 167 security patches. The post Chrome and Firefox Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "eeae20ed2a5a",
-   "tarih": "2026-10-27",
-   "kaynak": "BleepingComputer",
-   "baslik": "Tailscale warns of SSH flaws allowing root privilege escalation",
-   "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-   "ozet": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "ea5496feaca5",
-   "tarih": "2026-10-27",
-   "kaynak": "The Hacker News",
-   "baslik": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
-   "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
-   "ozet": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text,&nbsp;security firm Xint&nbsp;has shown. OpenAI's reasoning models work through a problem before answering, and the service normally returns o",
-   "grup": "Genel"
-  },
-  {
-   "id": "dedf00d64727",
-   "tarih": "2026-10-27",
-   "kaynak": "BleepingComputer",
-   "baslik": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
-   "ozet": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
    "grup": "Genel"
   },
   {
