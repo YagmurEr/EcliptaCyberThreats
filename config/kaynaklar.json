@@ -1,6 +1,6 @@
 {
   "aciklama": "Otomatik haber akışı kaynakları (RSS/Atom). Yeni kaynak eklemek için bu listeye satır ekleyin; 'aktif': false ile geçici olarak kapatabilirsiniz. Erişilemeyen kaynak iş akışını durdurmaz, yalnızca günlüğe yazılır.",
-  "genelHaberLimiti": 40,
+  "genelHaberLimiti": 60,
   "saklamaGunu": 45,
   "kaynaklar": [
     {
@@ -21,6 +21,36 @@
     {
       "ad": "Schneier on Security",
       "url": "https://www.schneier.com/feed/atom/",
+      "aktif": true
+    },
+    {
+      "ad": "Dark Reading",
+      "url": "https://www.darkreading.com/rss.xml",
+      "aktif": true
+    },
+    {
+      "ad": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/feed/",
+      "aktif": true
+    },
+    {
+      "ad": "GBHackers",
+      "url": "https://gbhackers.com/feed/",
+      "aktif": true
+    },
+    {
+      "ad": "Cybersecurity Dive",
+      "url": "https://www.cybersecuritydive.com/feeds/news/",
+      "aktif": true
+    },
+    {
+      "ad": "Hackread",
+      "url": "https://hackread.com/feed/",
+      "aktif": true
+    },
+    {
+      "ad": "SOC Prime",
+      "url": "https://socprime.com/blog/feed/",
       "aktif": true
     }
   ]
