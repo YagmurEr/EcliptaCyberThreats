@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-29T16:04:42+00:00",
+ "guncelleme": "2026-10-30T00:56:01+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -23,6 +23,15 @@
   }
  ],
  "haberler": [
+  {
+   "id": "fe7730fa4068",
+   "tarih": "2026-10-29",
+   "kaynak": "BleepingComputer",
+   "baslik": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+   "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+   "ozet": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
+   "grup": "Genel"
+  },
   {
    "id": "fcadd0dd5cf0",
    "tarih": "2026-10-29",
@@ -87,12 +96,21 @@
    "grup": "Genel"
   },
   {
+   "id": "e692538b686e",
+   "tarih": "2026-10-29",
+   "kaynak": "BleepingComputer",
+   "baslik": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+   "url": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+   "ozet": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "dd1c518d70f0",
    "tarih": "2026-10-29",
    "kaynak": "The Hacker News",
    "baslik": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
    "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-   "ozet": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app, released in late Septembe",
+   "ozet": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the",
    "grup": "Genel"
   },
   {
@@ -159,6 +177,24 @@
    "grup": "Cisco"
   },
   {
+   "id": "a6d0e88b749c",
+   "tarih": "2026-10-29",
+   "kaynak": "BleepingComputer",
+   "baslik": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+   "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+   "ozet": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT. [...",
+   "grup": "Genel"
+  },
+  {
+   "id": "a556f2a13255",
+   "tarih": "2026-10-29",
+   "kaynak": "BleepingComputer",
+   "baslik": "Chrome extensions with 13.4 million installs caught hijacking searches",
+   "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+   "ozet": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "9ca4865974e2",
    "tarih": "2026-10-29",
    "kaynak": "SecurityWeek",
@@ -186,6 +222,24 @@
    "grup": "Genel"
   },
   {
+   "id": "7d9fa054e5fe",
+   "tarih": "2026-10-29",
+   "kaynak": "BleepingComputer",
+   "baslik": "Binance probes potential $5.8 billion crypto-theft hack",
+   "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+   "ozet": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "7c2b70bd7e3e",
+   "tarih": "2026-10-29",
+   "kaynak": "BleepingComputer",
+   "baslik": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+   "ozet": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
+   "grup": "Cisco"
+  },
+  {
    "id": "77d976efa8e0",
    "tarih": "2026-10-29",
    "kaynak": "SecurityWeek",
@@ -204,6 +258,24 @@
    "grup": "Genel"
   },
   {
+   "id": "7363e725b55a",
+   "tarih": "2026-10-29",
+   "kaynak": "BleepingComputer",
+   "baslik": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+   "ozet": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "7325900e53d9",
+   "tarih": "2026-10-29",
+   "kaynak": "The Hacker News",
+   "baslik": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+   "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+   "ozet": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks and careless mistakes. Hackers are borrowing trust from familia",
+   "grup": "Genel"
+  },
+  {
    "id": "67386231cf52",
    "tarih": "2026-10-29",
    "kaynak": "SecurityWeek",
@@ -211,6 +283,15 @@
    "url": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
    "ozet": "Cisco open sourced Project Quarry, a rule language for detecting AI agent attacks that only emerge across sequences of benign actions. The post Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps appeared first on SecurityWeek.",
    "grup": "Cisco"
+  },
+  {
+   "id": "649ecf4a57aa",
+   "tarih": "2026-10-29",
+   "kaynak": "The Hacker News",
+   "baslik": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+   "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+   "ozet": "A flaw in the Linux kernel's TCP code, tracked as&nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. Anthropic said&nbsp;on October 27 that its AI model wrote an exploit that uses th",
+   "grup": "Genel"
   },
   {
    "id": "5a570ea1e7c2",
@@ -231,12 +312,30 @@
    "grup": "Cisco"
   },
   {
+   "id": "39a633755f1e",
+   "tarih": "2026-10-29",
+   "kaynak": "SecurityWeek",
+   "baslik": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
+   "url": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
+   "ozet": "Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk is not a system or an enterprise, but you. The post When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis appe",
+   "grup": "Genel"
+  },
+  {
    "id": "1b4f07400fac",
    "tarih": "2026-10-29",
    "kaynak": "SecurityWeek",
    "baslik": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
    "url": "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
    "ozet": "BAE Systems says no data was extracted and no PII was breached in the incident that disrupted US bankruptcy court notices for weeks. The post BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "17e71a11c730",
+   "tarih": "2026-10-29",
+   "kaynak": "BleepingComputer",
+   "baslik": "Japan Airlines suffers third-party data breach exposing passenger info",
+   "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+   "ozet": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
    "grup": "Genel"
   },
   {
@@ -393,24 +492,6 @@
    "grup": "Genel"
   },
   {
-   "id": "943e231b105b",
-   "tarih": "2026-10-28",
-   "kaynak": "SecurityWeek",
-   "baslik": "Upwind Security Raises $400 Million at $3.8 Billion Valuation",
-   "url": "https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/",
-   "ozet": "The massive funding round comes just days after reports emerged that Upwind had attracted acquisition interest from several companies, including Datadog The post Upwind Security Raises $400 Million at $3.8 Billion Valuation appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "84fd85017893",
-   "tarih": "2026-10-28",
-   "kaynak": "SecurityWeek",
-   "baslik": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices",
-   "url": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
-   "ozet": "FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers. The post TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
    "id": "7f47388e611d",
    "tarih": "2026-10-28",
    "kaynak": "BleepingComputer",
@@ -418,78 +499,6 @@
    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
    "ozet": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
    "grup": "Microsoft"
-  },
-  {
-   "id": "7c22489c81a5",
-   "tarih": "2026-10-28",
-   "kaynak": "BleepingComputer",
-   "baslik": "Hackers now scanning systems for recently-patched Oracle flaw",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
-   "ozet": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "6fcf621f852d",
-   "tarih": "2026-10-28",
-   "kaynak": "The Hacker News",
-   "baslik": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
-   "url": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
-   "ozet": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The move was in response to the service being used to commit and facilitate prolific criminal activity, including \"the advertisement of sexually ex",
-   "grup": "Genel"
-  },
-  {
-   "id": "6e5b341998e9",
-   "tarih": "2026-10-28",
-   "kaynak": "BleepingComputer",
-   "baslik": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-   "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-   "ozet": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "697aeb2243e0",
-   "tarih": "2026-10-28",
-   "kaynak": "The Hacker News",
-   "baslik": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
-   "url": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
-   "ozet": "Japan's GMO Internet Group is&nbsp;offering up to $1 million in total&nbsp;for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28 and pays only if a tip helps lead to an arrest or an",
-   "grup": "Genel"
-  },
-  {
-   "id": "6369b7f8877c",
-   "tarih": "2026-10-28",
-   "kaynak": "BleepingComputer",
-   "baslik": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-   "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-   "ozet": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "60ccb0bbd830",
-   "tarih": "2026-10-28",
-   "kaynak": "BleepingComputer",
-   "baslik": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-   "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-   "ozet": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "5ad5314f8c50",
-   "tarih": "2026-10-28",
-   "kaynak": "Schneier on Security",
-   "baslik": "Studying Fraudulent North Korean IT Workers",
-   "url": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
-   "ozet": "Researchers set up a fake start-up company to study fraudulent North Korean IT workers.",
-   "grup": "Genel"
-  },
-  {
-   "id": "56f1c438e294",
-   "tarih": "2026-10-28",
-   "kaynak": "SecurityWeek",
-   "baslik": "Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise",
-   "url": "https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/",
-   "ozet": "The company will use the Series B funds to expand its platform for securing AI agents’ access to sensitive systems. The post Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "a6006728be28",
