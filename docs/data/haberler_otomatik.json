@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-30T09:57:45+00:00",
+ "guncelleme": "2026-10-30T11:05:06+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -24,6 +24,15 @@
  ],
  "haberler": [
   {
+   "id": "eaaaa83e33fa",
+   "tarih": "2026-10-30",
+   "kaynak": "BleepingComputer",
+   "baslik": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+   "ozet": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "d0d43ed2d289",
    "tarih": "2026-10-30",
    "kaynak": "SecurityWeek",
@@ -39,6 +48,15 @@
    "baslik": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
    "url": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
    "ozet": "Malicious code linked to a website monitoring tool was designed to hijack logged-in Polymarket sessions and siphon user funds. The post $2 Million+ Drained From Polymarket Traders in New Supply Chain Attack appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "ad2cc061f552",
+   "tarih": "2026-10-30",
+   "kaynak": "The Hacker News",
+   "baslik": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+   "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+   "ozet": "Cybersecurity researchers have disclosed that the official Anthropic Claude Code extension was compromised on the Open VSX registry to install a persistent SSH backdoor on infected hosts. The issue has since been traced to the compromise of the Cursor Marketplace, prompting the AI coding platform Cu",
    "grup": "Genel"
   },
   {
@@ -462,24 +480,6 @@
    "baslik": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
    "url": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
    "ozet": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier,&nbsp;CVE-2026-35273, in June. Its root is a server-side request forgery (SSRF) ",
-   "grup": "Genel"
-  },
-  {
-   "id": "eb93de238d98",
-   "tarih": "2026-10-28",
-   "kaynak": "The Hacker News",
-   "baslik": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
-   "url": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
-   "ozet": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network. UEFI firmware is the software that runs first wh",
-   "grup": "Genel"
-  },
-  {
-   "id": "eb73651e36ee",
-   "tarih": "2026-10-28",
-   "kaynak": "The Hacker News",
-   "baslik": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-   "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-   "ozet": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was observed on October 25, 2026",
    "grup": "Genel"
   },
   {
