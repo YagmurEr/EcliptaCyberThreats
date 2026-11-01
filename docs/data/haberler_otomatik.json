@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-01T00:05:01+00:00",
+ "guncelleme": "2026-11-01T10:24:40+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -33,7 +33,8 @@
   },
   {
    "kaynak": "GBHackers",
-   "durum": "hata"
+   "durum": "ok",
+   "adet": 10
   },
   {
    "kaynak": "Cybersecurity Dive",
@@ -52,6 +53,51 @@
   }
  ],
  "haberler": [
+  {
+   "id": "c1c20131973a",
+   "tarih": "2026-11-01",
+   "kaynak": "The Hacker News",
+   "baslik": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+   "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+   "ozet": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate. Once in, the attacker would act as that clien",
+   "grup": "Genel"
+  },
+  {
+   "id": "bfe2619cba6b",
+   "tarih": "2026-11-01",
+   "kaynak": "Help Net Security",
+   "baslik": "Week in review: Binance hit by $6.3 billion theft, impact of Brotli vulnerability",
+   "url": "https://www.helpnetsecurity.com/2026/11/01/week-in-review-binance-hit-by-6-3-billion-theft-impact-of-brotli-vulnerability/",
+   "ozet": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: r/opensource bans AI projects, and solo devs go down with them Moderators of r/opensource, Reddit’s catch-all forum for open source software, have barred any project that “uses AI, is made by AI, or is ",
+   "grup": "Genel"
+  },
+  {
+   "id": "be08e34bf976",
+   "tarih": "2026-11-01",
+   "kaynak": "The Hacker News",
+   "baslik": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+   "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+   "ozet": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia and in",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "6e20a9798345",
+   "tarih": "2026-11-01",
+   "kaynak": "The Hacker News",
+   "baslik": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+   "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+   "ozet": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with the U.S. Sec",
+   "grup": "Genel"
+  },
+  {
+   "id": "2a3e4a8e199c",
+   "tarih": "2026-11-01",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+   "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+   "ozet": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company. Polymarket says&nbsp;it is refunding about $2.7 million to ",
+   "grup": "Genel"
+  },
   {
    "id": "f0c80b908a88",
    "tarih": "2026-10-31",
@@ -602,24 +648,6 @@
    "grup": "Genel"
   },
   {
-   "id": "6d2a0802c49f",
-   "tarih": "2026-10-30",
-   "kaynak": "The Hacker News",
-   "baslik": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-   "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-   "ozet": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13. \"Thi",
-   "grup": "Genel"
-  },
-  {
-   "id": "6734aa3aec6c",
-   "tarih": "2026-10-30",
-   "kaynak": "The Hacker News",
-   "baslik": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-   "url": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-   "ozet": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been&nbsp;sentenced by a U.S. federal court&nbsp;to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The conspiracy was organized and led by members of former Syrian President B",
-   "grup": "Genel"
-  },
-  {
    "id": "6473fc7702e5",
    "tarih": "2026-10-30",
    "kaynak": "The Hacker News",
@@ -629,15 +657,6 @@
    "grup": "WordPress"
   },
   {
-   "id": "5fde7dfec271",
-   "tarih": "2026-10-30",
-   "kaynak": "GBHackers",
-   "baslik": "12 Managed Security Service Providers (MSSP): The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/mssp-buyers-guide/",
-   "ozet": "Choosing an MSSP is choosing a relationship model pure-play SOC specialists, telecom-scale operators, consulting houses attaching run to transform, and the outsourcing giants folding security into contracts you already hold and 2026 adds ownership homework (Secureworks now answers to Sophos). This v",
-   "grup": "Genel"
-  },
-  {
    "id": "5ec9d44a0613",
    "tarih": "2026-10-30",
    "kaynak": "SecurityWeek",
@@ -645,15 +664,6 @@
    "url": "https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/",
    "ozet": "Over 22.6 million exposed instances are potentially affected by the critical PHP flaws that have been targeted for over a week. The post PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress appeared first on SecurityWeek.",
    "grup": "WordPress"
-  },
-  {
-   "id": "5eaccf8aa751",
-   "tarih": "2026-10-30",
-   "kaynak": "Help Net Security",
-   "baslik": "Fake IT help desk callers got by on little more than names and email addresses",
-   "url": "https://www.helpnetsecurity.com/2026/10/30/cisco-talos-it-help-desk-vishing/",
-   "ozet": "Attackers posing as IT help desk staff contacted employees by phone, email and Microsoft Teams in the third quarter of 2026 and talked them into opening remote access sessions, Cisco Talos Incident Response (Talos IR) found across several engagements. In one case, that access ended in ransomware. Th",
-   "grup": "Genel"
   },
   {
    "id": "5100bc6323f0",
