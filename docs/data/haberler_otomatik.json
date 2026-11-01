@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-31T15:17:44+00:00",
+ "guncelleme": "2026-11-01T00:05:01+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -33,8 +33,7 @@
   },
   {
    "kaynak": "GBHackers",
-   "durum": "ok",
-   "adet": 10
+   "durum": "hata"
   },
   {
    "kaynak": "Cybersecurity Dive",
@@ -69,6 +68,15 @@
    "baslik": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
    "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
    "ozet": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&nbsp;the security firm Parameter&nbsp;showed. The researchers reported the flaw through&nbsp;OpenAI's bug bounty program&nbs",
+   "grup": "Genel"
+  },
+  {
+   "id": "ba55b05e53ea",
+   "tarih": "2026-10-31",
+   "kaynak": "BleepingComputer",
+   "baslik": "Northflank security breach leads to abuse of customers' AI API keys",
+   "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+   "ozet": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
    "grup": "Genel"
   },
   {
@@ -108,6 +116,15 @@
    "grup": "Genel"
   },
   {
+   "id": "845cf24b8961",
+   "tarih": "2026-10-31",
+   "kaynak": "BleepingComputer",
+   "baslik": "New Android SMS of Death exploit can remotely crash unpatched phones",
+   "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+   "ozet": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "7862d006160e",
    "tarih": "2026-10-31",
    "kaynak": "Hackread",
@@ -131,7 +148,7 @@
    "kaynak": "BleepingComputer",
    "baslik": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
    "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-   "ozet": "[...]",
+   "ozet": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible findings that stand up to s",
    "grup": "Genel"
   },
   {
@@ -636,24 +653,6 @@
    "baslik": "Fake IT help desk callers got by on little more than names and email addresses",
    "url": "https://www.helpnetsecurity.com/2026/10/30/cisco-talos-it-help-desk-vishing/",
    "ozet": "Attackers posing as IT help desk staff contacted employees by phone, email and Microsoft Teams in the third quarter of 2026 and talked them into opening remote access sessions, Cisco Talos Incident Response (Talos IR) found across several engagements. In one case, that access ended in ransomware. Th",
-   "grup": "Genel"
-  },
-  {
-   "id": "5e82c4f3b3cc",
-   "tarih": "2026-10-30",
-   "kaynak": "SecurityWeek",
-   "baslik": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
-   "url": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
-   "ozet": "Noteworthy stories that might have slipped under the radar: Iran eyed in military freezer hacks, Copenhagen University breach, AI-powered malware. The post In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "581efc0fbdca",
-   "tarih": "2026-10-30",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export Event Data from CrowdStrike Falcon",
-   "url": "https://socprime.com/blog/how-to-export-event-data-from-crowdstrike-falcon/",
-   "ozet": "For a targeted pull, run your query in Falcon’s Advanced Event Search and export the results as JSON. For bulk raw telemetry, Falcon Data Replicator (FDR) delivers your events to an S3 bucket as gzipped JSON, one event per line. Keep in mind what you’re getting: Falcon’s own sensor telemetry (proces",
    "grup": "Genel"
   },
   {
