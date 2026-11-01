@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-01T10:24:40+00:00",
+ "guncelleme": "2026-11-01T15:58:41+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -54,6 +54,15 @@
  ],
  "haberler": [
   {
+   "id": "d15dc155427a",
+   "tarih": "2026-11-01",
+   "kaynak": "BleepingComputer",
+   "baslik": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+   "ozet": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "c1c20131973a",
    "tarih": "2026-11-01",
    "kaynak": "The Hacker News",
@@ -81,6 +90,24 @@
    "grup": "Microsoft"
   },
   {
+   "id": "af6ffe74845e",
+   "tarih": "2026-11-01",
+   "kaynak": "BleepingComputer",
+   "baslik": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+   "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+   "ozet": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "a1d512e24521",
+   "tarih": "2026-11-01",
+   "kaynak": "Hackread",
+   "baslik": "FBI Links 628 Crypto Wallet Addresses to North Korea’s Binance Hack",
+   "url": "https://hackread.com/fbi-crypto-wallet-addresses-north-korea-binance-hack/",
+   "ozet": "FBI links 628 crypto wallet addresses to North Korea’s TraderTraitor after the $6.3 billion Binance hack, asking services to block transfers involving stolen funds.",
+   "grup": "Genel"
+  },
+  {
    "id": "6e20a9798345",
    "tarih": "2026-11-01",
    "kaynak": "The Hacker News",
@@ -96,6 +123,15 @@
    "baslik": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
    "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
    "ozet": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company. Polymarket says&nbsp;it is refunding about $2.7 million to ",
+   "grup": "Genel"
+  },
+  {
+   "id": "1d293ae9cead",
+   "tarih": "2026-11-01",
+   "kaynak": "SecurityWeek",
+   "baslik": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
+   "url": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
+   "ozet": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues. The post Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
@@ -609,42 +645,6 @@
    "baslik": "Bloatware in Aftermarket Auto Parts",
    "url": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
    "ozet": "This story is interesting: One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered isn’t surprising, but is worth knowing about. Among the pre-installed bloatware&#8212;­or spyware, ",
-   "grup": "Genel"
-  },
-  {
-   "id": "783303f66f53",
-   "tarih": "2026-10-30",
-   "kaynak": "SOC Prime",
-   "baslik": "Pre-SIEM Detection for MSSPs",
-   "url": "https://socprime.com/blog/pre-siem-detection-for-mssps/",
-   "ozet": "tl;dr Prime Detect runs detection rules on your clients&#8217; event streams before data reaches the SIEM. It applies Sigma rules to events in transit, tags each match with a severity and a MITRE ATT&#38;CK technique, and links related matches into attack chains. In client testing, about 7% of telem",
-   "grup": "Genel"
-  },
-  {
-   "id": "7646f1160516",
-   "tarih": "2026-10-30",
-   "kaynak": "GBHackers",
-   "baslik": "New Kairos DDoS Botnet Hijacks Linux Devices to Overwhelm Servers With Thousands of TCP Connections",
-   "url": "https://gbhackers.com/kairos-ddos-botnet/",
-   "ozet": "Nozomi Networks Labs has documented Kairos, a previously undocumented Go-based DDoS bot for Linux. It turns compromised Linux devices into attack nodes that exhaust a victim&#8217;s connection capacity with thousands of idle TCP sessions. Kairos DDoS botnet Honeypot telemetry captured three Kairos b",
-   "grup": "Genel"
-  },
-  {
-   "id": "6eee36e94015",
-   "tarih": "2026-10-30",
-   "kaynak": "GBHackers",
-   "baslik": "12 Digital Forensics & Incident Response (DFIR) Companies: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/dfir-companies-buyers-guide/",
-   "ozet": "You retain a DFIR firm for the breach you’ll actually have nation-state intrusions want attribution benches, ransomware wants negotiation-density operators, insurance-routed incidents want panel firms and 2026’s roster carries one acquisition flag buyers must know: Coveware now operates under Veeam.",
-   "grup": "Genel"
-  },
-  {
-   "id": "6d45871fa084",
-   "tarih": "2026-10-30",
-   "kaynak": "GBHackers",
-   "baslik": "Trezor Warns of Suspected Spy Implant That Could Steal Crypto Wallet Recovery Phrases",
-   "url": "https://gbhackers.com/trezor-warns-of-suspected-spy-implant/",
-   "ozet": "Trezor has issued an urgent warning after receiving a credible report of a suspected hardware implant in a Safe 5 cryptocurrency wallet purchased from the former reseller CryptoBilis. The company has not independently verified the device, and so far, no CryptoBilis customers have reported losing fun",
    "grup": "Genel"
   },
   {
