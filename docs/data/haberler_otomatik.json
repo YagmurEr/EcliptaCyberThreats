@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-02T19:26:38+00:00",
+ "guncelleme": "2026-11-02T21:21:51+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -33,7 +33,8 @@
   },
   {
    "kaynak": "GBHackers",
-   "durum": "hata"
+   "durum": "ok",
+   "adet": 10
   },
   {
    "kaynak": "Cybersecurity Dive",
@@ -77,6 +78,15 @@
    "baslik": "AI Vulnerability Finding",
    "url": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html",
    "ozet": "A comment: 3% of &#8216;critical&#8217; software security bugs, in all of recorded history, have been found in the last month. This is on pace to find another ~100,000 bugs this year alone, adding ~26% more vulnerabilities to the all time total Do you realize how fucking insane that is? Yes. It is a",
+   "grup": "Genel"
+  },
+  {
+   "id": "fc4329b1efc6",
+   "tarih": "2026-11-02",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Target Emergency Alert Apps in Ukraine and Russia, Sending Fake Nuclear Attack Warnings",
+   "url": "https://gbhackers.com/hackers-target-emergency-alert-apps-in-ukraine-and-russia/",
+   "ozet": "Hackers compromised emergency alert applications in Ukraine and Russia, distributing fabricated nuclear and radiation warnings as officials sought to reassure residents that no corresponding emergency existed. Ukraine reported interference late on November 1, followed hours later by Russia’s announc",
    "grup": "Genel"
   },
   {
@@ -296,6 +306,15 @@
    "grup": "Genel"
   },
   {
+   "id": "a9432309a05f",
+   "tarih": "2026-11-02",
+   "kaynak": "GBHackers",
+   "baslik": "New ChatGPT Phishing Kit Uses Rotating WordPress Websites to Steal Payment Details and OTPs",
+   "url": "https://gbhackers.com/chatgpt-phishing-kit/",
+   "ozet": "A phishing campaign impersonating OpenAI is using disposable WordPress websites and live attacker oversight to steal payment card details and potentially capture one-time passwords. Fraudulent ChatGPT Plus billing emails warn that subscription payments have failed, directing recipients to counterfei",
+   "grup": "WordPress"
+  },
+  {
    "id": "a7f85068b797",
    "tarih": "2026-11-02",
    "kaynak": "SOC Prime",
@@ -359,6 +378,15 @@
    "grup": "Genel"
   },
   {
+   "id": "888d4a0764ad",
+   "tarih": "2026-11-02",
+   "kaynak": "GBHackers",
+   "baslik": "Guardz Brings Palo Alto Networks Prisma Browser Protection to Small Businesses",
+   "url": "https://gbhackers.com/guardz-brings-palo-alto-networks-prisma-browser-protection-to-small-businesses/",
+   "ozet": "Miami, United States, November 2nd, 2026, CyberNewswire Prisma Browser for Business joins Guardz to connect browser protection with email, identity and endpoint security, helping security teams investigate and respond to threats across the workspace Guardz, the Agentic Workspace Security platform bu",
+   "grup": "Genel"
+  },
+  {
    "id": "87a25e1b557b",
    "tarih": "2026-11-02",
    "kaynak": "The Hacker News",
@@ -377,12 +405,30 @@
    "grup": "Genel"
   },
   {
+   "id": "826bdee05690",
+   "tarih": "2026-11-02",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Target Supermarket Refrigeration Systems Across Sweden, Raising Freezer Temperatures to 55°C",
+   "url": "https://gbhackers.com/hackers-target-supermarket-refrigeration-systems-across-sweden/",
+   "ozet": "Hackers have disrupted refrigeration systems at several ICA and Coop supermarkets across Sweden, destroying food and prompting temporary closures. One store manager reported finding a freezer at 55°C, which highlights the physical consequences of attacks on connected retail equipment. The disruption",
+   "grup": "Genel"
+  },
+  {
    "id": "7e7b67cd034d",
    "tarih": "2026-11-02",
    "kaynak": "Cybersecurity Dive",
    "baslik": "3 questions for securing AI agents",
    "url": "https://www.cybersecuritydive.com/spons/3-questions-for-securing-ai-agents/873054/",
    "ozet": "Are your AI agents leaking sensitive data? Ask these three essential questions.",
+   "grup": "Genel"
+  },
+  {
+   "id": "7624c039219d",
+   "tarih": "2026-11-02",
+   "kaynak": "GBHackers",
+   "baslik": "Researchers Discover High-Severity ChatGPT Flaw That Exposed Private Conversations to Attackers",
+   "url": "https://gbhackers.com/researchers-discover-high-severity-chatgpt-flaw/",
+   "ozet": "Researchers found a chain of flaws that turned an ordinary public ChatGPT share link into attacker-controlled JavaScript running inside the victim&#8217;s signed-in session. OpenAI fixed the issue on October 26 and classified it as P1. The Parameter researchers&#8217; full technical write-up says th",
    "grup": "Genel"
   },
   {
@@ -420,6 +466,15 @@
    "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
    "ozet": "The latest &quot;Digital Defense Report&quot; identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs.",
    "grup": "Microsoft"
+  },
+  {
+   "id": "6899570f1cc4",
+   "tarih": "2026-11-02",
+   "kaynak": "GBHackers",
+   "baslik": "Unpatchable Hardware Flaws in Older iPhones Allow Attackers to Steal Crypto Wallet Recovery Phrases",
+   "url": "https://gbhackers.com/unpatchable-hardware-flaws-in-older-iphones/",
+   "ozet": "Older iPhones that store cryptocurrency recovery phrases are at a continuous security risk due to unpatchable BootROM vulnerabilities, even if the devices are wiped and kept in airplane mode. While attackers require physical access to exploit this vulnerability, doing so does not automatically revea",
+   "grup": "Genel"
   },
   {
    "id": "65afadf0cbc2",
@@ -473,6 +528,15 @@
    "baslik": "Guardz Brings Palo Alto Networks Prisma Browser Protection to Small Businesses",
    "url": "https://hackread.com/guardz-brings-palo-alto-networks-prisma-browser-protection-to-small-businesses/",
    "ozet": "Miami, United States, 2nd November 2026, CyberNewswire",
+   "grup": "Genel"
+  },
+  {
+   "id": "51e4ac94c427",
+   "tarih": "2026-11-02",
+   "kaynak": "Hackread",
+   "baslik": "How to Keep Your Voice Recordings Private on iPhone",
+   "url": "https://hackread.com/how-to-keep-voice-recordings-private-iphone/",
+   "ozet": "What did you last record on your iPhone? A lecture, perhaps, a call with your landlord, or notes&#8230;",
    "grup": "Genel"
   },
   {
@@ -581,60 +645,6 @@
    "baslik": "Hackers Pushing Remote Access Tool Through Fake Adobe Acrobat Pages",
    "url": "https://hackread.com/hackers-remote-access-tool-fake-adobe-acrobat-pages/",
    "ozet": "Fake Adobe Acrobat pages distribute signed ScreenConnect installers configured for attacker-controlled remote access to Windows PCs, CloudSEK’s researchers say.",
-   "grup": "Genel"
-  },
-  {
-   "id": "227366d794bc",
-   "tarih": "2026-11-02",
-   "kaynak": "GBHackers",
-   "baslik": "11 Security Data Lake Platforms: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/security-data-lake-buyers-guide/",
-   "ozet": "The security data lake decision is a custody decision: who owns your telemetry bytes, in what format, queryable by whose engines, at whose prices. This verdict guide judges eleven platforms general data clouds, purpose-built lakes, detection layers, and pipeline feeders on openness, economics, and w",
-   "grup": "Genel"
-  },
-  {
-   "id": "1befc30403b6",
-   "tarih": "2026-11-02",
-   "kaynak": "SecurityWeek",
-   "baslik": "FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist",
-   "url": "https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/",
-   "ozet": "The FBI has officially pinned the $6 billion Binance hack on North Korea’s TraderTraitor as the attackers launder the stolen crypto. The post FBI Flags Over 600 Addresses Tied to North Korea&#8217;s Binance Heist appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "0bc09b42359c",
-   "tarih": "2026-11-02",
-   "kaynak": "SecurityWeek",
-   "baslik": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
-   "url": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
-   "ozet": "CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks. The post Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "078b87e4193c",
-   "tarih": "2026-11-02",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "Protecting OT, IoT and medical devices without disrupting operations",
-   "url": "https://www.cybersecuritydive.com/spons/protecting-ot-iot-and-medical-devices-without-disrupting-operations/833813/",
-   "ozet": "A smarter OT security strategy starts with visibility, context and prioritization.",
-   "grup": "Genel"
-  },
-  {
-   "id": "d15dc155427a",
-   "tarih": "2026-11-01",
-   "kaynak": "BleepingComputer",
-   "baslik": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
-   "ozet": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "c1c20131973a",
-   "tarih": "2026-11-01",
-   "kaynak": "The Hacker News",
-   "baslik": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-   "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-   "ozet": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate. Once in, the attacker would act as that clien",
    "grup": "Genel"
   },
   {
@@ -807,6 +817,15 @@
    "url": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
    "ozet": "Cisco open sourced Project Quarry, a rule language for detecting AI agent attacks that only emerge across sequences of benign actions. The post Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps appeared first on SecurityWeek.",
    "grup": "Cisco"
+  },
+  {
+   "id": "649ecf4a57aa",
+   "tarih": "2026-10-29",
+   "kaynak": "The Hacker News",
+   "baslik": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+   "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+   "ozet": "A flaw in the Linux kernel's TCP code, tracked as&nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. Anthropic said&nbsp;on October 27 that its AI model wrote an exploit that uses th",
+   "grup": "Linux Kernel"
   },
   {
    "id": "409f0b0486b7",
