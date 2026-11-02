@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-01T15:58:41+00:00",
+ "guncelleme": "2026-11-02T00:38:58+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -105,6 +105,15 @@
    "baslik": "FBI Links 628 Crypto Wallet Addresses to North Korea’s Binance Hack",
    "url": "https://hackread.com/fbi-crypto-wallet-addresses-north-korea-binance-hack/",
    "ozet": "FBI links 628 crypto wallet addresses to North Korea’s TraderTraitor after the $6.3 billion Binance hack, asking services to block transfers involving stolen funds.",
+   "grup": "Genel"
+  },
+  {
+   "id": "8cfea8890b08",
+   "tarih": "2026-11-01",
+   "kaynak": "BleepingComputer",
+   "baslik": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+   "ozet": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
    "grup": "Genel"
   },
   {
@@ -294,6 +303,15 @@
    "baslik": "Shufti ties AI agent actions to verified owners and permissions",
    "url": "https://www.helpnetsecurity.com/2026/10/30/shufti-know-your-agent-kya/",
    "ozet": "Shufti launches Know Your Agent (KYA), an AI agent verification solution designed to verify autonomous AI agents acting on behalf of individuals and businesses. Agentic commerce enables AI agents to open accounts, place orders, and move funds for their owners. A business receiving one of these reque",
+   "grup": "Genel"
+  },
+  {
+   "id": "fe2ee63d1c7a",
+   "tarih": "2026-10-30",
+   "kaynak": "GBHackers",
+   "baslik": "The 5 Best Cyber Range Tools for Security Teams in 2026",
+   "url": "https://gbhackers.com/best-cyber-range-tools-for-security-teams/",
+   "ozet": "A data breach now costs $4.99 million on average, according to IBM&#8217;s 2026 report. Slow responses cost more. Cyber range platforms let your security operations center (SOC) rehearse real attacks before they hit production. This guide covers: Read on to find the right fit for your team. Which cy",
    "grup": "Genel"
   },
   {
@@ -627,24 +645,6 @@
    "baslik": "Pre-SIEM Detection for Financial Services",
    "url": "https://socprime.com/blog/pre-siem-detection-for-financial-services/",
    "ozet": "tl;dr Prime Detect runs detection rules on your event stream before data reaches the SIEM. It applies Sigma rules to events in transit, tags each match with a severity and a MITRE ATT&#38;CK technique, and links related matches into attack chains. In client testing, about 7% of telemetry was tagged.",
-   "grup": "Genel"
-  },
-  {
-   "id": "7cb4d0343f56",
-   "tarih": "2026-10-30",
-   "kaynak": "GBHackers",
-   "baslik": "11 SOC-as-a-Service Providers: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/socaas-buyers-guide/",
-   "ozet": "SOCaaS is bought on the 3 a.m. question what may the provider do without waking you, and how fast does a human touch your alert? This verdict guide judges eleven providers (our sheet’s twelfth, Blackpoint Cyber, is excluded under this publication’s standing editorial policy) across the operating dia",
-   "grup": "Genel"
-  },
-  {
-   "id": "7b310c119f82",
-   "tarih": "2026-10-30",
-   "kaynak": "Schneier on Security",
-   "baslik": "Bloatware in Aftermarket Auto Parts",
-   "url": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
-   "ozet": "This story is interesting: One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered isn’t surprising, but is worth knowing about. Among the pre-installed bloatware&#8212;­or spyware, ",
    "grup": "Genel"
   },
   {
