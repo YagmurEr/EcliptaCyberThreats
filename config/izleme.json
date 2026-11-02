@@ -126,6 +126,21 @@
         "entra id",
         "azure ad"
       ]
+    },
+    {
+      "ad": "Linux Kernel",
+      "renk": "#F59E0B",
+      "altBaslik": "Linux çekirdeği (IPv4/TCP, netfilter, eBPF, dosya sistemleri)",
+      "ureticiler": [
+        "Linux"
+      ],
+      "anahtarKelimeler": [
+        "linux kernel",
+        "linux çekirdek",
+        "kernel uaf",
+        "kernel rce",
+        "CVE-2026-98432"
+      ]
     }
   ]
 }
