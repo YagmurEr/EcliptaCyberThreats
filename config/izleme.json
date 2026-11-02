@@ -141,6 +141,51 @@
         "kernel rce",
         "CVE-2026-98432"
       ]
+    },
+    {
+      "ad": "F5",
+      "renk": "#E4002B",
+      "altBaslik": "BIG-IP, BIG-IQ ve diğer F5 ürünleri",
+      "ureticiler": [
+        "F5"
+      ],
+      "anahtarKelimeler": [
+        "f5",
+        "big-ip",
+        "big-iq",
+        "bigip"
+      ]
+    },
+    {
+      "ad": "NGINX",
+      "renk": "#009639",
+      "altBaslik": "Nginx web sunucusu ve ilgili modüller",
+      "ureticiler": [
+        "NGINX"
+      ],
+      "metin": "nginx",
+      "anahtarKelimeler": [
+        "nginx",
+        "ngx_"
+      ]
+    },
+    {
+      "ad": "PHP",
+      "renk": "#777BB4",
+      "altBaslik": "PHP çalışma zamanı ve ilgili bileşenler",
+      "ureticiler": [
+        "PHP",
+        "PHP Group",
+        "PHPUnit",
+        "phpMyAdmin"
+      ],
+      "metin": "php",
+      "anahtarKelimeler": [
+        "php",
+        "phpunit",
+        "phpmyadmin",
+        "thinkphp"
+      ]
     }
   ]
 }
