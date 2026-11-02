@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-02T21:27:48+00:00",
+ "guncelleme": "2026-11-02T21:47:42+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -96,6 +96,15 @@
    "baslik": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
    "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
    "ozet": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "f6edbcaffade",
+   "tarih": "2026-11-02",
+   "kaynak": "BleepingComputer",
+   "baslik": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+   "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+   "ozet": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
    "grup": "Genel"
   },
   {
@@ -639,15 +648,6 @@
    "grup": "Genel"
   },
   {
-   "id": "2422eda67ea1",
-   "tarih": "2026-11-02",
-   "kaynak": "Hackread",
-   "baslik": "Hackers Pushing Remote Access Tool Through Fake Adobe Acrobat Pages",
-   "url": "https://hackread.com/hackers-remote-access-tool-fake-adobe-acrobat-pages/",
-   "ozet": "Fake Adobe Acrobat pages distribute signed ScreenConnect installers configured for attacker-controlled remote access to Windows PCs, CloudSEK’s researchers say.",
-   "grup": "Genel"
-  },
-  {
    "id": "be08e34bf976",
    "tarih": "2026-11-01",
    "kaynak": "The Hacker News",
@@ -691,6 +691,15 @@
    "url": "https://gbhackers.com/windows-11-remote-desktop-connection-failures/",
    "ozet": "Microsoft has resolved an issue in Windows 11 that prevented non-administrator users from connecting to devices with Administrator protection enabled. This fix was included in KB5127936, released on October 28, 2026, and is part of subsequent updates. While this issue is urgent for affected organiza",
    "grup": "Microsoft"
+  },
+  {
+   "id": "cb6c08bb4ce2",
+   "tarih": "2026-10-30",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "Palo Alto Networks firewalls compromised in chained attacks using PHP2Shell",
+   "url": "https://www.cybersecuritydive.com/news/palo-alto-networks-firewalls-compromised-chained-attacks-php2shell/873323/",
+   "ozet": "The AI-enabled campaign hit two dozen targets, including sites linked to the U.S. government.",
+   "grup": "PHP"
   },
   {
    "id": "a958895a21b0",
@@ -763,6 +772,15 @@
    "url": "https://gbhackers.com/netamloader-malware/",
    "ozet": "Kaspersky researchers have uncovered NetamLoader, a .NET loading framework built on XAML markup. It appears to be a supply-chain attack on a customized Windows build used only by Asian government bodies. No known APT group has been linked to it. NetamLoader malware Kaspersky Security Network flagged",
    "grup": "Microsoft"
+  },
+  {
+   "id": "f4eff089be53",
+   "tarih": "2026-10-29",
+   "kaynak": "The Hacker News",
+   "baslik": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+   "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+   "ozet": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting the Palo Alto Networks management interface exposed to the internet,\" the networ",
+   "grup": "PHP"
   },
   {
    "id": "f34fb5d0be19",
@@ -864,6 +882,24 @@
    "grup": "Cisco"
   },
   {
+   "id": "f1786411fdb0",
+   "tarih": "2026-10-28",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "Insurance industry fears potential impacts from PHP2Shell",
+   "url": "https://www.cybersecuritydive.com/news/insurance-industry-risk-php2shell/873044/",
+   "ozet": "A systemic cyber event could lead to billions of dollars in claims that exceed current risk models.",
+   "grup": "PHP"
+  },
+  {
+   "id": "eb73651e36ee",
+   "tarih": "2026-10-28",
+   "kaynak": "The Hacker News",
+   "baslik": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+   "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+   "ozet": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was observed on October 25, 2026",
+   "grup": "PHP"
+  },
+  {
    "id": "d75560f4cad5",
    "tarih": "2026-10-28",
    "kaynak": "The Hacker News",
@@ -954,6 +990,15 @@
    "grup": "Microsoft"
   },
   {
+   "id": "f1cc9ef1de56",
+   "tarih": "2026-10-23",
+   "kaynak": "Dark Reading",
+   "baslik": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
+   "url": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+   "ozet": "Fixing the critical PHP flaws is not as simple as clicking &quot;Update.&quot; Here's how to assess your risk, and what you can do to protect yourself.",
+   "grup": "PHP"
+  },
+  {
    "id": "e62f85ca100b",
    "tarih": "2026-10-23",
    "kaynak": "BleepingComputer",
@@ -988,6 +1033,15 @@
    "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
    "ozet": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a C",
    "grup": "Microsoft"
+  },
+  {
+   "id": "ab875104cf16",
+   "tarih": "2026-10-22",
+   "kaynak": "Schneier on Security",
+   "baslik": "New Serious PHP Vulnerabilities Released and Patched",
+   "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
+   "ozet": "PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations servin",
+   "grup": "PHP"
   },
   {
    "id": "778da97616c1",
@@ -1060,6 +1114,15 @@
    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
    "ozet": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
    "grup": "Microsoft"
+  },
+  {
+   "id": "5f2ddb413304",
+   "tarih": "2026-10-21",
+   "kaynak": "Dark Reading",
+   "baslik": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
+   "url": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
+   "ozet": "Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts.",
+   "grup": "PHP"
   },
   {
    "id": "13820dacd5f3",
