@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-02T21:47:42+00:00",
+ "guncelleme": "2026-11-03T02:53:29+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -423,6 +423,15 @@
    "grup": "Genel"
   },
   {
+   "id": "8158b1dc7416",
+   "tarih": "2026-11-02",
+   "kaynak": "Dark Reading",
+   "baslik": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
+   "ozet": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
+   "grup": "Genel"
+  },
+  {
    "id": "7e7b67cd034d",
    "tarih": "2026-11-02",
    "kaynak": "Cybersecurity Dive",
@@ -636,15 +645,6 @@
    "baslik": "CISA to federal agencies: Remediate exploited Ivanti Connect Secure vulnerabilities (CVE-2026-111357, CVE-2026-118527)",
    "url": "https://www.helpnetsecurity.com/2026/11/02/cisa-to-federal-agencies-remediate-exploited-ivanti-connect-secure-vulnerabilities-cve-2026-111357-cve-2026-118527/",
    "ozet": "CISA added two new Ivanti Connect Secure vulnerabilities (CVE-2026-111357, CVE-2026-118527) to its Known Exploited Vulnerabilities catalog on Friday, after Ivanti updated an earlier security advisory with details about the flaws. Three flaws chained to gain a foothold CVE-2026-111357, a missing auth",
-   "grup": "Genel"
-  },
-  {
-   "id": "25d58d631aa5",
-   "tarih": "2026-11-02",
-   "kaynak": "Help Net Security",
-   "baslik": "The first ten lines of a command policy for AI coding agents",
-   "url": "https://www.helpnetsecurity.com/2026/11/02/vinay-thakker-kloudstax-ai-agent-access-control/",
-   "ozet": "In this Help Net Security interview, Vinay Thakker, CTO of KloudStax, explains how to set identity, credentials, and network limits for AI agents. He argues that agents should run under their own identity, with the person’s identity attached when acting on someone’s behalf. He covers where credentia",
    "grup": "Genel"
   },
   {
