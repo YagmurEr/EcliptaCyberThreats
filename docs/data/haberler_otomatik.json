@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-04T01:18:43+00:00",
+ "guncelleme": "2026-11-04T10:51:43+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -53,6 +53,267 @@
   }
  ],
  "haberler": [
+  {
+   "id": "fbce8718f8e5",
+   "tarih": "2026-11-04",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Turn to AI Jailbreak Bundles as Researchers Uncover New Prompt Adware Technique",
+   "url": "https://gbhackers.com/ai-jailbreak-bundles/",
+   "ozet": "An AI jailbreak package that repeatedly modifies OpenAI Codex instructions to promote its author’s commercial service, showing how guardrail-bypass tools can double as advertising infrastructure. The Chinese language bundle, Haiou, was discovered on a cybercrime actor’s misconfigured web server alon",
+   "grup": "Genel"
+  },
+  {
+   "id": "f772c15e45a2",
+   "tarih": "2026-11-04",
+   "kaynak": "Help Net Security",
+   "baslik": "NIST publishes cybersecurity guide for businesses too small to have IT staff",
+   "url": "https://www.helpnetsecurity.com/2026/11/04/nist-small-business-cybersecurity-guide/",
+   "ozet": "The National Institute of Standards and Technology (NIST) released cybersecurity guidance for small businesses with no paid employees other than their owners. These businesses include freelancers, sole proprietors, and independent contractors. About 82% of the 34.8 million small businesses in the Un",
+   "grup": "Genel"
+  },
+  {
+   "id": "f4d08ccd2bb5",
+   "tarih": "2026-11-04",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Use Stolen Credentials to Fake Major Data Breaches and Pressure Companies for Money",
+   "url": "https://gbhackers.com/fake-major-data-breaches/",
+   "ozet": "Hackers are using exposed credentials to access limited corporate data, then presenting that access as evidence of major breaches to pressure companies into paying. The findings concern external attacker activity affecting third parties, not a compromise of ReliaQuest’s environment. They highlight a",
+   "grup": "Genel"
+  },
+  {
+   "id": "efca77cd6753",
+   "tarih": "2026-11-04",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Are Stealing ChatGPT and Claude Tokens That Changing Your Password May Not Stop",
+   "url": "https://gbhackers.com/ai-sessions-hijacked/",
+   "ozet": "Infostealer malware is expanding into AI developer environments, harvesting authentication files that can preserve unauthorized access after a password reset. SpyCloud reports recapturing more than 130,000 unique WardenStealer infections since August 2026. The findings describe an expansion of commo",
+   "grup": "Genel"
+  },
+  {
+   "id": "ed421e39d30b",
+   "tarih": "2026-11-04",
+   "kaynak": "Dark Reading",
+   "baslik": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
+   "ozet": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
+   "grup": "Genel"
+  },
+  {
+   "id": "e212191c6279",
+   "tarih": "2026-11-04",
+   "kaynak": "Hackread",
+   "baslik": "The Sandbox Fights Back: Joe Security Launches Adaptive Detonation",
+   "url": "https://hackread.com/the-sandbox-fights-back-joe-security-launches-adaptive-detonation/",
+   "ozet": "Reinach, Switzerland, 4th November 2026, CyberNewswire",
+   "grup": "Genel"
+  },
+  {
+   "id": "c4f34d13716f",
+   "tarih": "2026-11-04",
+   "kaynak": "Help Net Security",
+   "baslik": "Ghostunnel: Open-source TLS proxy with mutual authentication",
+   "url": "https://www.helpnetsecurity.com/2026/11/04/ghostunnel-open-source-tls-proxy/",
+   "ozet": "Ghostunnel is an open-source proxy that handles TLS for programs that cannot handle it themselves. It works in two directions. In server mode it sits in front of a backend, accepts TLS connections, checks the client’s certificate, then passes traffic to the service behind it over TCP or a UNIX socke",
+   "grup": "Genel"
+  },
+  {
+   "id": "beac81be6fb6",
+   "tarih": "2026-11-04",
+   "kaynak": "GBHackers",
+   "baslik": "Microsoft Edge Now Automatically Blocks Malicious Browser Notifications Used in Scareware Attacks",
+   "url": "https://gbhackers.com/microsoft-edge-now-automatically-blocks-malicious-browser-notifications/",
+   "ozet": "Microsoft Edge now automatically turns off website notifications linked to detected scams, cutting off a persistent delivery channel for fake antivirus warnings and deceptive security alerts. Introduced with Edge 156 in October, the protection links Microsoft Defender SmartScreen and Scareware block",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "bd492964973c",
+   "tarih": "2026-11-04",
+   "kaynak": "Help Net Security",
+   "baslik": "Companies going all in on AI could see their strategy backfire",
+   "url": "https://www.helpnetsecurity.com/2026/11/04/ai-strategy-miscalculation-gartner-report/",
+   "ozet": "Four of the five highest-ranked enterprise risks in Gartner’s Quarterly Emerging Risk Report were AI-related. AI strategy miscalculation and AI-driven competitive displacement debuted at No. 3 and No. 4, respectively. The AI workforce preparedness gap held fifth place. AI discovery of cyber vulnerab",
+   "grup": "Genel"
+  },
+  {
+   "id": "bca80e187c7e",
+   "tarih": "2026-11-04",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Abuse LuaJIT and Windows Process Injection to Hide XLoader Credential-Stealing Malware",
+   "url": "https://gbhackers.com/xloader-malware-attack/",
+   "ozet": "A new XLoader infection chain. It hides the credential stealer inside an embedded LuaJIT interpreter. It moves it into another Windows process through shared-section injection. The campaign uses business-themed email lures. It also delivered Agent Tesla, Remcos and XWorm . The chain starts with orde",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "955f969e9dae",
+   "tarih": "2026-11-04",
+   "kaynak": "BleepingComputer",
+   "baslik": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+   "ozet": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "8201a567c653",
+   "tarih": "2026-11-04",
+   "kaynak": "GBHackers",
+   "baslik": "mSecure Password Manager Reports Suspicious Activity, Urges Users to Change All Stored Passwords",
+   "url": "https://gbhackers.com/msecure-password-manager-reports-suspicious-activity/",
+   "ozet": "mSeven Software, the developer of the mSecure password manager, has advised customers to secure all confidential data stored in the app after detecting &#8220;suspicious activity.&#8221; The notice provides minimal technical details. The email is dated November 3, 2026. It says mSeven &#8220;recentl",
+   "grup": "Genel"
+  },
+  {
+   "id": "7880589c2203",
+   "tarih": "2026-11-04",
+   "kaynak": "Help Net Security",
+   "baslik": "What AI-generated malware looks like under the microscope",
+   "url": "https://www.helpnetsecurity.com/2026/11/04/lindsay-kaye-human-security-ai-generated-malware/",
+   "ozet": "In this Help Net Security interview, Lindsay Kaye, VP of Threat Intelligence at HUMAN Security, talks about what AI-generated malware looks like on the bench. She points to tidy comments, uniform logging messages, and emojis as signs a script came from a model, and notes that decompiled code strips ",
+   "grup": "Genel"
+  },
+  {
+   "id": "76f398aa937f",
+   "tarih": "2026-11-04",
+   "kaynak": "SecurityWeek",
+   "baslik": "Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist",
+   "url": "https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/",
+   "ozet": "Binance’s first incident report traces the record theft to a months-long campaign that compromised three engineers’ computers. The post Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "76767fbd03d8",
+   "tarih": "2026-11-04",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Disguise Malware as Popular Games and Software to Hijack Windows PCs",
+   "url": "https://gbhackers.com/windows-users-hijacked/",
+   "ozet": "An evolving fake-download campaign that disguises trojanized installers as popular games, cracked software, and utilities to monetize Windows computers. Rather than delivering one payload, the operation distributes multiple software “offers” during a single installation session, converting victims’ ",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "7405078de2c9",
+   "tarih": "2026-11-04",
+   "kaynak": "GBHackers",
+   "baslik": "Google Warns of LLMJacking Attacks That Generate Over $100,000 in Cloud AI Bills Per Day",
+   "url": "https://gbhackers.com/google-warns-of-llmjacking-attacks/",
+   "ozet": "Google&#8217;s Mandiant and Threat Intelligence Group (GTIG) say attackers are hijacking enterprise access to large language models and running up huge fraudulent cloud charges. Google&#8217;s report documents more than $100,000 in a single day. At some organizations, cumulative charges reached $1 m",
+   "grup": "Genel"
+  },
+  {
+   "id": "6e9532f013a7",
+   "tarih": "2026-11-04",
+   "kaynak": "Help Net Security",
+   "baslik": "Secure your containers without breaking what works",
+   "url": "https://www.helpnetsecurity.com/2026/11/04/rapidfort-runtime-container-profiling/",
+   "ozet": "Container security has a familiar problem. Teams identify vulnerabilities, but turning those findings into lower risk is much harder. A standard container image may include operating-system packages, development tools, debugging utilities and libraries that an application never uses. Each unnecessar",
+   "grup": "Genel"
+  },
+  {
+   "id": "68960d2138eb",
+   "tarih": "2026-11-04",
+   "kaynak": "SecurityWeek",
+   "baslik": "North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack",
+   "url": "https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
+   "ozet": "In recent months, North Korea has accelerated its weapons tests in a likely bid to increase its leverage in potential diplomacy with the US. The post North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "5704c36d2a38",
+   "tarih": "2026-11-04",
+   "kaynak": "Help Net Security",
+   "baslik": "Fake job interview opened the door to $6.34 billion Binance heist",
+   "url": "https://www.helpnetsecurity.com/2026/11/04/binance-hack-north-korea-fake-job-interview/",
+   "ozet": "A tampered software installer and a fake job interview gave attackers the access they needed to steal about $6.34 billion in digital assets from Binance. “It was not a single isolated breach or a simple phishing incident,” Binance wrote in its incident report. “The attackers combined a range of tech",
+   "grup": "Genel"
+  },
+  {
+   "id": "493913be8a05",
+   "tarih": "2026-11-04",
+   "kaynak": "SecurityWeek",
+   "baslik": "Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical",
+   "url": "https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/",
+   "ozet": "The browser update resolves dozens of memory safety bugs and incorrect/missing authorization issues. The post Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "40a5a2749a72",
+   "tarih": "2026-11-04",
+   "kaynak": "The Hacker News",
+   "baslik": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+   "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+   "ozet": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016. The Ministry of Internal Affairs of the Rus",
+   "grup": "Genel"
+  },
+  {
+   "id": "3dc91959e5b4",
+   "tarih": "2026-11-04",
+   "kaynak": "GBHackers",
+   "baslik": "Binance Reveals How Hackers Pulled Off $6.3 Billion Crypto Heist Using Fake Job Interviews",
+   "url": "https://gbhackers.com/binance-reveals-how-hackers-pulled-off-6-3-billion-crypto-heist/",
+   "ozet": "Binance has revealed that attackers carried out a sophisticated scheme involving fake recruitment interviews, compromised developer endpoints, and malicious blockchain authorizations to steal approximately $6.34 billion in digital assets on October 29, 2026. The exchange&#8217;s initial findings ind",
+   "grup": "Genel"
+  },
+  {
+   "id": "349817163ae5",
+   "tarih": "2026-11-04",
+   "kaynak": "The Hacker News",
+   "baslik": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+   "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of Time-",
+   "grup": "WordPress"
+  },
+  {
+   "id": "3490e0f2b007",
+   "tarih": "2026-11-04",
+   "kaynak": "Help Net Security",
+   "baslik": "Anthropic open-sources FlashProve, its provable inference prototype for MoE models",
+   "url": "https://www.helpnetsecurity.com/2026/11/04/anthropic-flashprove-provable-inference/",
+   "ozet": "Anthropic’s Frontier Red Team, with collaborators at EPFL, MIT and StarkWare, built FlashProve, a prototype that produces a cryptographic proof that one specific language model generated one specific reply. The prover, two verifiers, the formal proofs behind them and a protocol specification are on ",
+   "grup": "Genel"
+  },
+  {
+   "id": "32c90d2f0958",
+   "tarih": "2026-11-04",
+   "kaynak": "The Hacker News",
+   "baslik": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+   "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+   "ozet": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its&nbsp;November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch level 2026-11-01 or later, which phone makers a",
+   "grup": "Genel"
+  },
+  {
+   "id": "2e0cdd810e4a",
+   "tarih": "2026-11-04",
+   "kaynak": "Help Net Security",
+   "baslik": "Open-source file sync tool rsync 3.5.2 fixes a CPU exhaustion flaw",
+   "url": "https://www.helpnetsecurity.com/2026/11/04/rsync-3-5-2-released/",
+   "ozet": "The rsync project released version 3.5.2, and it closes a flaw that let a connecting client tie up a server’s CPU with checksum math that leads nowhere. The new version also lets you push a transfer to the back of the queue for CPU and disk, so a big sync stops elbowing everything else on the machin",
+   "grup": "Genel"
+  },
+  {
+   "id": "1f8acdc5d8c6",
+   "tarih": "2026-11-04",
+   "kaynak": "SecurityWeek",
+   "baslik": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
+   "url": "https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/",
+   "ozet": "A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff. The post Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "1015ce39dbc4",
+   "tarih": "2026-11-04",
+   "kaynak": "Hackread",
+   "baslik": "Binance Hack: Fake Job Interviews Helped Hackers Steal $6.34 Billion",
+   "url": "https://hackread.com/binance-hack-fake-job-interviews-hackers-steal-billions/",
+   "ozet": "Binance explains how North Korean hackers used fake job interviews, malicious developer tools and an internal AI tool&#8230;",
+   "grup": "Genel"
+  },
+  {
+   "id": "0d668492ca56",
+   "tarih": "2026-11-04",
+   "kaynak": "GBHackers",
+   "baslik": "OpenAI Builds New Git Backend ‘Pando’ After Codex AI Agents Overwhelm Existing Infrastructure",
+   "url": "https://gbhackers.com/openai-builds-new-git-backend-pando-after-codex-ai-agents/",
+   "ozet": "OpenAI has built a new Git backend called Pando after Codex-driven development overwhelmed the systems behind its internal monorepo. OpenAI&#8217;s engineering post, published November 2, 2026, says Pando now powers all monorepo development. It cut median push latency by nearly 5x and delivers nearl",
+   "grup": "Genel"
+  },
   {
    "id": "fc8359768f09",
    "tarih": "2026-11-03",
@@ -396,141 +657,6 @@
    "grup": "Genel"
   },
   {
-   "id": "8afc2fab5966",
-   "tarih": "2026-11-03",
-   "kaynak": "The Hacker News",
-   "baslik": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
-   "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
-   "ozet": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to be part of a large-scale, artificial intelligence (AI)-powered attack campaign ",
-   "grup": "Genel"
-  },
-  {
-   "id": "89d827fe863e",
-   "tarih": "2026-11-03",
-   "kaynak": "GBHackers",
-   "baslik": "Critical Langflow AI Vulnerabilities Allow Hackers to Execute Remote Code Without Authentication",
-   "url": "https://gbhackers.com/critical-langflow-ai-vulnerabilities/",
-   "ozet": "IBM has disclosed seven vulnerabilities in Langflow OSS, including critical flaws such as authentication bypass and code injection that attackers can exploit remotely without credentials. The bulletin addresses Langflow versions 1.0.0 through 1.12.8 and advises administrators to upgrade to version 1",
-   "grup": "Genel"
-  },
-  {
-   "id": "8734344034be",
-   "tarih": "2026-11-03",
-   "kaynak": "Help Net Security",
-   "baslik": "Product showcase: Sweet Virtual Patching stops HTTP2Shell while fixes catch up",
-   "url": "https://www.helpnetsecurity.com/2026/11/03/product-showcase-sweet-security-virtual-patching/",
-   "ozet": "HTTP2Shell (CVE-2026-111497), the critical Brotli bug first known as Node2Shell, is a remote code execution flaw in the compression library inside Node.js, Bun, Envoy, Python and more. AI found it: OpenAI&#8217;s agents turned it up in late September during a high-compute red-teaming campaign. Findi",
-   "grup": "Genel"
-  },
-  {
-   "id": "8491f2b2e054",
-   "tarih": "2026-11-03",
-   "kaynak": "BleepingComputer",
-   "baslik": "Harvard University data breach exposed info of 851,000 accounts",
-   "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
-   "ozet": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "7e9553e85f7f",
-   "tarih": "2026-11-03",
-   "kaynak": "Hackread",
-   "baslik": "Cogent Security Makes the Fortune Cyber 60 for a Second Year, With a Plan to Run Cyber Defense Like a Factory",
-   "url": "https://hackread.com/cogent-security-makes-the-fortune-cyber-60-for-a-second-year-with-a-plan-to-run-cyber-defense-like-a-factory/",
-   "ozet": "San Francisco, CA, 3rd November 2026, CyberNewswire",
-   "grup": "Genel"
-  },
-  {
-   "id": "77f64f32faf5",
-   "tarih": "2026-11-03",
-   "kaynak": "The Hacker News",
-   "baslik": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-   "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-   "ozet": "Fixed kernels for a&nbsp;use-after-free vulnerability in the Linux kernel's IPv4 TCP code&nbsp;are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update. The",
-   "grup": "Genel"
-  },
-  {
-   "id": "77eef035ebfc",
-   "tarih": "2026-11-03",
-   "kaynak": "BleepingComputer",
-   "baslik": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
-   "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
-   "ozet": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "72eb99939dbf",
-   "tarih": "2026-11-03",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export SentinelOne Singularity Data Lake Logs",
-   "url": "https://socprime.com/blog/how-to-export-sentinelone-singularity-data-lake-logs/",
-   "ozet": "Send a PowerQuery to the Singularity Data Lake API at /api/powerQuery on your regional Data Lake URL, for example https://xdr.us1.sentinelone.net. The response comes back as a table (columns plus rows), and one jq line turns it into one JSON object per event. Alternatively, export events directly fr",
-   "grup": "Genel"
-  },
-  {
-   "id": "699d6dc9b64e",
-   "tarih": "2026-11-03",
-   "kaynak": "Dark Reading",
-   "baslik": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit",
-   "url": "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud",
-   "ozet": "German police led a multinational probe that exposed an alleged crime-as-a-service provider supplying fraudulent trading platforms to investment scammers.",
-   "grup": "Genel"
-  },
-  {
-   "id": "67037c411986",
-   "tarih": "2026-11-03",
-   "kaynak": "Help Net Security",
-   "baslik": "What human hackers still do better than AI, according to HackerOne’s CEO",
-   "url": "https://www.helpnetsecurity.com/2026/11/03/kara-sprague-hackerone-ai-bug-bounty/",
-   "ozet": "AI can find vulnerabilities in minutes, but people still hold the edge in judging what a flaw means for a business. In this Help Net Security interview, Kara Sprague, CEO of HackerOne, talks about business logic bugs, what AI does to the crowd model, and why routine medium-severity findings may pay ",
-   "grup": "Genel"
-  },
-  {
-   "id": "63d055e30b47",
-   "tarih": "2026-11-03",
-   "kaynak": "The Hacker News",
-   "baslik": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-   "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-   "ozet": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an",
-   "grup": "Genel"
-  },
-  {
-   "id": "5e74da19f3eb",
-   "tarih": "2026-11-03",
-   "kaynak": "SecurityWeek",
-   "baslik": "UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028",
-   "url": "https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/",
-   "ozet": "The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028 appeared first on Securi",
-   "grup": "Genel"
-  },
-  {
-   "id": "5dfb9c5432e1",
-   "tarih": "2026-11-03",
-   "kaynak": "GBHackers",
-   "baslik": "11Detection Engineering Tools: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/detection-engineering-buyers-guide/",
-   "ozet": "Detection engineering treats rules like software versioned, tested, reviewed, deployed through pipelines and the tooling market now covers every stage: authoring platforms, coverage auditors, content marketplaces, translation engines, and validation loops. This verdict guide judges eleven options on",
-   "grup": "Genel"
-  },
-  {
-   "id": "5c6c31b6a9d3",
-   "tarih": "2026-11-03",
-   "kaynak": "SecurityWeek",
-   "baslik": "Critical Node-RED Flaw Exploited in Attacks",
-   "url": "https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/",
-   "ozet": "Multiple attacks from the same IP address attempted to deploy various payloads, including a Linux bot and webshells. The post Critical Node-RED Flaw Exploited in Attacks appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "590ee12b2e92",
-   "tarih": "2026-11-03",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export Falcon LogScale Logs",
-   "url": "https://socprime.com/blog/how-to-export-falcon-logscale-logs/",
-   "ozet": "Send your query to the LogScale query API, POST /api/v1/repositories/&#60;repo>/query, and ask for application/x-ndjson: you get one event per line. The original log line sits in @rawstring, so one jq call turns the export back into raw logs. Alternatively, export logs directly from the LogScale UI ",
-   "grup": "Genel"
-  },
-  {
    "id": "5694cf5b7a3f",
    "tarih": "2026-11-03",
    "kaynak": "GBHackers",
@@ -547,96 +673,6 @@
    "url": "https://socprime.com/blog/php2shell-detection/",
    "ozet": "PHP2Shell detection matters because the window between a patch and real-world exploitation can be a single day. PHP2Shell is the name for two unauthenticated remote code execution flaws in PHP core, CVE-2026-109618 and CVE-2026-109619, both rated CVSS v4.0 9.2. No authentication is needed, so any ex",
    "grup": "PHP"
-  },
-  {
-   "id": "4f4ce81c0b12",
-   "tarih": "2026-11-03",
-   "kaynak": "GBHackers",
-   "baslik": "Cogent Security Makes the Fortune Cyber 60 for a Second Year, With a Plan to Run Cyber Defense Like a Factory",
-   "url": "https://gbhackers.com/cogent-security-makes-the-fortune-cyber-60-for-a-second-year-with-a-plan-to-run-cyber-defense-like-a-factory/",
-   "ozet": "San Francisco, CA, November 3rd, 2026, CyberNewswire Cogent Security, an applied AI cybersecurity company, reported that the PHP2Shell vulnerability exposed significant gaps in enterprise vulnerability response. Disclosed on October 21, PHP2Shell involved two critical flaws that had remained in PHP ",
-   "grup": "Genel"
-  },
-  {
-   "id": "47887f1443ad",
-   "tarih": "2026-11-03",
-   "kaynak": "Dark Reading",
-   "baslik": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
-   "url": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
-   "ozet": "Practical guidance on safer search, stronger login security, better executive protection, and other habits that help reduce enterprise risk.",
-   "grup": "Genel"
-  },
-  {
-   "id": "465e04828551",
-   "tarih": "2026-11-03",
-   "kaynak": "Help Net Security",
-   "baslik": "Police seize over 100 servers linked to investment fraud with more than €4 million in losses",
-   "url": "https://www.helpnetsecurity.com/2026/11/03/investment-fraud-network-servers-seized/",
-   "ozet": "Seven people have been arrested and more than 100 servers seized in a coordinated law enforcement action against an investment fraud network that started unravelling after a complaint from a German couple. Seized servers (Source: Europol) The couple went to the police in 2022 after putting their sav",
-   "grup": "Genel"
-  },
-  {
-   "id": "402458e4dacc",
-   "tarih": "2026-11-03",
-   "kaynak": "SecurityWeek",
-   "baslik": "Google Dismantles XCPE Botnet of 1.3 Million Android Devices",
-   "url": "https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/",
-   "ozet": "The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology. The post Google Dismantles XCPE Botnet of 1.3 Million Android Devices appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "3e6bc640da57",
-   "tarih": "2026-11-03",
-   "kaynak": "The Hacker News",
-   "baslik": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-   "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-   "ozet": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that could be exploited by an u",
-   "grup": "Genel"
-  },
-  {
-   "id": "3ce297811edf",
-   "tarih": "2026-11-03",
-   "kaynak": "The Hacker News",
-   "baslik": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
-   "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-   "ozet": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear preference for law enforcement and justice",
-   "grup": "Genel"
-  },
-  {
-   "id": "36d509a3e525",
-   "tarih": "2026-11-03",
-   "kaynak": "The Hacker News",
-   "baslik": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
-   "url": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
-   "ozet": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to throw away chilled an",
-   "grup": "Genel"
-  },
-  {
-   "id": "36b3d0baf9aa",
-   "tarih": "2026-11-03",
-   "kaynak": "BleepingComputer",
-   "baslik": "Barracuda warns of critical flaws allowing root access to devices",
-   "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-   "ozet": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "317e8557e095",
-   "tarih": "2026-11-03",
-   "kaynak": "BleepingComputer",
-   "baslik": "Binance says fake job interview led to $6.3 billion crypto heist",
-   "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
-   "ozet": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "310fe7a6e4c3",
-   "tarih": "2026-11-03",
-   "kaynak": "The Hacker News",
-   "baslik": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
-   "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-   "ozet": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form of resource hijacking adapted for the LLM era, where an attacker obtains an API k",
-   "grup": "Genel"
   },
   {
    "id": "d596e3f2bace",
