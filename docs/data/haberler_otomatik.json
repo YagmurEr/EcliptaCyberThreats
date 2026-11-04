@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-03T16:59:41+00:00",
+ "guncelleme": "2026-11-04T01:18:43+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -132,6 +132,15 @@
    "baslik": "How to Export Sumo Logic Logs",
    "url": "https://socprime.com/blog/how-to-export-sumo-logic-logs/",
    "ozet": "Run your search through Sumo Logic’s Search Job API: create a job, wait until it has gathered all results, then page through the messages. Each message carries the original log line in _raw. The Messages tab in the UI can export results too, but not in a format LogTotal reads today. Sumo Logic is a ",
+   "grup": "Genel"
+  },
+  {
+   "id": "df7c4721e4f5",
+   "tarih": "2026-11-03",
+   "kaynak": "Dark Reading",
+   "baslik": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
+   "url": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
+   "ozet": "Beyond food storage, the same combination of Internet connectivity, remote access, and inadequate security practices can put temperature-controlled infrastructure across other critical sectors at risk.",
    "grup": "Genel"
   },
   {
@@ -270,6 +279,15 @@
    "grup": "Genel"
   },
   {
+   "id": "bc96c130a163",
+   "tarih": "2026-11-03",
+   "kaynak": "The Hacker News",
+   "baslik": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+   "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+   "ozet": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerabilities, a pre-authentication authorization bypass vulnerability and a command i",
+   "grup": "Genel"
+  },
+  {
    "id": "b981c2f988c9",
    "tarih": "2026-11-03",
    "kaynak": "SecurityWeek",
@@ -288,6 +306,24 @@
    "grup": "Genel"
   },
   {
+   "id": "b0a8ea5b6986",
+   "tarih": "2026-11-03",
+   "kaynak": "BleepingComputer",
+   "baslik": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+   "ozet": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "ac70d82b02db",
+   "tarih": "2026-11-03",
+   "kaynak": "SOC Prime",
+   "baslik": "Node2Shell/HTTP2Shell Detection",
+   "url": "https://socprime.com/blog/node2shell-http2shell-detection/",
+   "ozet": "Node2Shell/HTTP2Shell detection is harder than it looks, because the vulnerability is not confined to one product. Node2Shell, also called HTTP2Shell, is CVE-2026-111497: an out-of-bounds write in Google&#8217;s Brotli C decoder, versions 1.0.3 to 1.2.0, scored CVSS 4.0 9.2. Since the flaw sits in a",
+   "grup": "Genel"
+  },
+  {
    "id": "ab886e3c9cf8",
    "tarih": "2026-11-03",
    "kaynak": "GBHackers",
@@ -300,9 +336,18 @@
    "id": "a32b51d8e118",
    "tarih": "2026-11-03",
    "kaynak": "Dark Reading",
-   "baslik": "LLMJacking Emerges as Thriving Cybercriminal Enterprise",
+   "baslik": "LLMjacking Emerges as Thriving Cybercriminal Enterprise",
    "url": "https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise",
    "ozet": "Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked.",
+   "grup": "Genel"
+  },
+  {
+   "id": "9ca07b46843b",
+   "tarih": "2026-11-03",
+   "kaynak": "The Hacker News",
+   "baslik": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+   "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+   "ozet": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys. The warning came in an email sent on November 3 in the name of developer mS",
    "grup": "Genel"
   },
   {
@@ -351,6 +396,15 @@
    "grup": "Genel"
   },
   {
+   "id": "8afc2fab5966",
+   "tarih": "2026-11-03",
+   "kaynak": "The Hacker News",
+   "baslik": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+   "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+   "ozet": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to be part of a large-scale, artificial intelligence (AI)-powered attack campaign ",
+   "grup": "Genel"
+  },
+  {
    "id": "89d827fe863e",
    "tarih": "2026-11-03",
    "kaynak": "GBHackers",
@@ -396,12 +450,30 @@
    "grup": "Genel"
   },
   {
+   "id": "77eef035ebfc",
+   "tarih": "2026-11-03",
+   "kaynak": "BleepingComputer",
+   "baslik": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+   "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+   "ozet": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "72eb99939dbf",
    "tarih": "2026-11-03",
    "kaynak": "SOC Prime",
    "baslik": "How to Export SentinelOne Singularity Data Lake Logs",
    "url": "https://socprime.com/blog/how-to-export-sentinelone-singularity-data-lake-logs/",
    "ozet": "Send a PowerQuery to the Singularity Data Lake API at /api/powerQuery on your regional Data Lake URL, for example https://xdr.us1.sentinelone.net. The response comes back as a table (columns plus rows), and one jq line turns it into one JSON object per event. Alternatively, export events directly fr",
+   "grup": "Genel"
+  },
+  {
+   "id": "699d6dc9b64e",
+   "tarih": "2026-11-03",
+   "kaynak": "Dark Reading",
+   "baslik": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit",
+   "url": "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud",
+   "ozet": "German police led a multinational probe that exposed an alleged crime-as-a-service provider supplying fraudulent trading platforms to investment scammers.",
    "grup": "Genel"
   },
   {
@@ -471,7 +543,7 @@
    "id": "560f4071f2fe",
    "tarih": "2026-11-03",
    "kaynak": "SOC Prime",
-   "baslik": "PHP2Shell Detection",
+   "baslik": "PHP2Shell Detection and Exploitation Analysis",
    "url": "https://socprime.com/blog/php2shell-detection/",
    "ozet": "PHP2Shell detection matters because the window between a patch and real-world exploitation can be a single day. PHP2Shell is the name for two unauthenticated remote code execution flaws in PHP core, CVE-2026-109618 and CVE-2026-109619, both rated CVSS v4.0 9.2. No authentication is needed, so any ex",
    "grup": "PHP"
@@ -489,7 +561,7 @@
    "id": "47887f1443ad",
    "tarih": "2026-11-03",
    "kaynak": "Dark Reading",
-   "baslik": "9 Cyber Awareness Tips That Actually Match Today’s Maze of Threats",
+   "baslik": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
    "url": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
    "ozet": "Practical guidance on safer search, stronger login security, better executive protection, and other habits that help reduce enterprise risk.",
    "grup": "Genel"
@@ -549,93 +621,21 @@
    "grup": "Genel"
   },
   {
+   "id": "317e8557e095",
+   "tarih": "2026-11-03",
+   "kaynak": "BleepingComputer",
+   "baslik": "Binance says fake job interview led to $6.3 billion crypto heist",
+   "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+   "ozet": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "310fe7a6e4c3",
    "tarih": "2026-11-03",
    "kaynak": "The Hacker News",
    "baslik": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
    "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
    "ozet": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form of resource hijacking adapted for the LLM era, where an attacker obtains an API k",
-   "grup": "Genel"
-  },
-  {
-   "id": "20ffea4e626d",
-   "tarih": "2026-11-03",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "AI threats create ‘urgent’ need to renew cybersecurity information-sharing law, businesses tell Congress",
-   "url": "https://www.cybersecuritydive.com/news/cisa-2015-reauthorization-congress-ndaa-letter-businesses/873591/",
-   "ozet": "Leading infrastructure-operator associations want lawmakers to renew the program for another 10 years.",
-   "grup": "Genel"
-  },
-  {
-   "id": "20c9c9965d29",
-   "tarih": "2026-11-03",
-   "kaynak": "The Hacker News",
-   "baslik": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-   "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-   "ozet": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s report on exposure prioritization states that fewer t",
-   "grup": "Genel"
-  },
-  {
-   "id": "1cfdcea6cfb1",
-   "tarih": "2026-11-03",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "European authorities probe ongoing attacks targeting grocery refrigerators",
-   "url": "https://www.cybersecuritydive.com/news/european-authorities-probe-attacks-grocery-refrigerators/873598/",
-   "ozet": "US military investigators have been working with French agencies after hacks hit domestic bases.",
-   "grup": "Genel"
-  },
-  {
-   "id": "1b1a027b7f68",
-   "tarih": "2026-11-03",
-   "kaynak": "GBHackers",
-   "baslik": "Researcher Discovers Path Traversal Flaw in Renault Navigation System That Enables Root Code Execution",
-   "url": "https://gbhackers.com/renault-navigation-system/",
-   "ozet": "A malicious SD card can give an attacker root-level code execution on the TomTom Carminat LIVE navigation unit used in some Renault cars. Security researcher Rasmus Moorats published the findings on November 2, 2026. It uses a Samsung S5P6440 chip and runs TomTom&#8217;s custom operating system, whi",
-   "grup": "Genel"
-  },
-  {
-   "id": "18e52694950e",
-   "tarih": "2026-11-03",
-   "kaynak": "GBHackers",
-   "baslik": "CrowdStrike and Deloitte Spain Expand Cybersecurity Alliance With AI-Powered Threat Detection",
-   "url": "https://gbhackers.com/crowdstrike-and-deloitte-spain-expand-cybersecurity-alliance/",
-   "ozet": "CrowdStrike and Deloitte Spain announced an expanded cybersecurity alliance. This new phase of their collaboration focuses on AI-powered risk advisory. The partnership integrates executive security strategy with the implementation and day-to-day operations of the Security Operations Center (SOC), us",
-   "grup": "Genel"
-  },
-  {
-   "id": "16de9d4744f8",
-   "tarih": "2026-11-03",
-   "kaynak": "Help Net Security",
-   "baslik": "AI coding agents are installing MCP servers that will never be patched",
-   "url": "https://www.helpnetsecurity.com/2026/11/03/mcphantom-deprecated-mcp-servers/",
-   "ozet": "When a developer tells an AI coding agent to &#8220;set up a GitHub MCP,&#8221; the agent has to pick a package. New research from Glow Labs documents sessions where it picked one out of an archived repository that will never be patched again. Source: Glow Security Reviewing real AI coding session t",
-   "grup": "Genel"
-  },
-  {
-   "id": "14152597814e",
-   "tarih": "2026-11-03",
-   "kaynak": "SecurityWeek",
-   "baslik": "Android’s November 2026 Updates Patch Over 200 Vulnerabilities",
-   "url": "https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/",
-   "ozet": "The most severe is a critical flaw in Framework leading to remote code execution without user interaction. The post Android&#8217;s November 2026 Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "13a81c2648bc",
-   "tarih": "2026-11-03",
-   "kaynak": "GBHackers",
-   "baslik": "11 GenAI SOC Copilots: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/genai-soc-copilots-buyers-guide/",
-   "ozet": "The AI SOC market now sells two different employees: assistants that make your analysts faster inside consoles they already use, and agents that work tier-1 queues end-to-end under policy guardrails. Pricing them with the same yardstick is the buying mistake. This verdict guide judges eleven options",
-   "grup": "Genel"
-  },
-  {
-   "id": "1355a9e6b552",
-   "tarih": "2026-11-03",
-   "kaynak": "Help Net Security",
-   "baslik": "Stolen AI access leaves companies with cloud bills of up to $1 million",
-   "url": "https://www.helpnetsecurity.com/2026/11/03/llmjacking-stolen-ai-access-cloud-bills/",
-   "ozet": "Criminals who break into corporate cloud accounts are using the stolen access to run AI models at the victim’s expense, in some cases racking up more than $100,000 in charges in a single day, Google Threat Intelligence Group (GTIG) and Mandiant researchers have found. Usage chart showing LLMJacking ",
    "grup": "Genel"
   },
   {
