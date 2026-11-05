@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-04T17:11:06+00:00",
+ "guncelleme": "2026-11-05T01:27:06+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -162,6 +162,15 @@
    "grup": "Genel"
   },
   {
+   "id": "de7887560061",
+   "tarih": "2026-11-04",
+   "kaynak": "BleepingComputer",
+   "baslik": "Vercel rolls out new protection against stolen session cookie attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+   "ozet": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "d87589804439",
    "tarih": "2026-11-04",
    "kaynak": "SOC Prime",
@@ -309,7 +318,7 @@
    "id": "99f6b8af600a",
    "tarih": "2026-11-04",
    "kaynak": "Dark Reading",
-   "baslik": "Google, Partners Disrupts 1.3 Million-Device-Strong XCPE Botnet",
+   "baslik": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
    "url": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
    "ozet": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
    "grup": "Genel"
@@ -378,6 +387,15 @@
    "grup": "Microsoft"
   },
   {
+   "id": "801b944f5621",
+   "tarih": "2026-11-04",
+   "kaynak": "BleepingComputer",
+   "baslik": "Cyberattack disrupts blood storage refrigeration systems in France",
+   "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+   "ozet": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "7a987bcc6d8f",
    "tarih": "2026-11-04",
    "kaynak": "Cybersecurity Dive",
@@ -385,6 +403,15 @@
    "url": "https://www.cybersecuritydive.com/news/attacker-microsoft-entra-id-downstream-msp/873744/",
    "ozet": "The campaign uses valid credentials to gain access to organizations across various sectors.",
    "grup": "Microsoft"
+  },
+  {
+   "id": "78de6ffe4e2d",
+   "tarih": "2026-11-04",
+   "kaynak": "The Hacker News",
+   "baslik": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+   "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+   "ozet": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway. The phenomenon has been codenamed prompt adware by Check Point Research. ",
+   "grup": "Genel"
   },
   {
    "id": "7880589c2203",
@@ -522,6 +549,15 @@
    "grup": "Genel"
   },
   {
+   "id": "4cbdcade27f1",
+   "tarih": "2026-11-04",
+   "kaynak": "Hackread",
+   "baslik": "Fake GTA VI Download Sites Push Malware Ahead of Launch",
+   "url": "https://hackread.com/fake-gta-vi-download-sites-malware-launch/",
+   "ozet": "Fake GTA VI download sites lure gamers with leaked builds, malware, crypto payment demands and mobile versions ahead&#8230;",
+   "grup": "Genel"
+  },
+  {
    "id": "4ba7cadb265a",
    "tarih": "2026-11-04",
    "kaynak": "BleepingComputer",
@@ -591,6 +627,15 @@
    "baslik": "Binance Reveals How Hackers Pulled Off $6.3 Billion Crypto Heist Using Fake Job Interviews",
    "url": "https://gbhackers.com/binance-reveals-how-hackers-pulled-off-6-3-billion-crypto-heist/",
    "ozet": "Binance has revealed that attackers carried out a sophisticated scheme involving fake recruitment interviews, compromised developer endpoints, and malicious blockchain authorizations to steal approximately $6.34 billion in digital assets on October 29, 2026. The exchange&#8217;s initial findings ind",
+   "grup": "Genel"
+  },
+  {
+   "id": "3632eace057e",
+   "tarih": "2026-11-04",
+   "kaynak": "The Hacker News",
+   "baslik": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+   "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+   "ozet": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that&nbsp;Debian,&nbsp;Ubuntu, and&nbsp;APT's developers&nbsp;published on November 4.",
    "grup": "Genel"
   },
   {
@@ -675,49 +720,13 @@
    "grup": "Microsoft"
   },
   {
-   "id": "1aedc3ffafe5",
+   "id": "1b9b96d402ef",
    "tarih": "2026-11-04",
-   "kaynak": "BleepingComputer",
-   "baslik": "US charges two Canadians accused of hacking US universities",
-   "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
-   "ozet": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "160d641e4f4b",
-   "tarih": "2026-11-04",
-   "kaynak": "Help Net Security",
-   "baslik": "BlueFlag Security adds controls for AI agents working under developer identities",
-   "url": "https://www.helpnetsecurity.com/2026/11/04/blueflag-ai-agent-governance/",
-   "ozet": "BlueFlag Security has expanded AI Agent Governance that fully maps the access, behavior and oversight of both approved and shadow AI agents, including options for automated risk remediation. Activated within BlueFlag’s pioneering platform, customers can now govern all aspects of AI agents and their ",
-   "grup": "Genel"
-  },
-  {
-   "id": "1015ce39dbc4",
-   "tarih": "2026-11-04",
-   "kaynak": "Hackread",
-   "baslik": "Binance Hack: Fake Job Interviews Helped Hackers Steal $6.34 Billion",
-   "url": "https://hackread.com/binance-hack-fake-job-interviews-hackers-steal-billions/",
-   "ozet": "Binance explains how North Korean hackers used fake job interviews, malicious developer tools and an internal AI tool&#8230;",
-   "grup": "Genel"
-  },
-  {
-   "id": "0d668492ca56",
-   "tarih": "2026-11-04",
-   "kaynak": "GBHackers",
-   "baslik": "OpenAI Builds New Git Backend ‘Pando’ After Codex AI Agents Overwhelm Existing Infrastructure",
-   "url": "https://gbhackers.com/openai-builds-new-git-backend-pando-after-codex-ai-agents/",
-   "ozet": "OpenAI has built a new Git backend called Pando after Codex-driven development overwhelmed the systems behind its internal monorepo. OpenAI&#8217;s engineering post, published November 2, 2026, says Pando now powers all monorepo development. It cut median push latency by nearly 5x and delivers nearl",
-   "grup": "Genel"
-  },
-  {
-   "id": "0c71da3bedd9",
-   "tarih": "2026-11-04",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "Companies spending more on cybersecurity but still struggling with AI oversight",
-   "url": "https://www.cybersecuritydive.com/news/ai-security-governance-spending-dnsfilter/873725/",
-   "ozet": "Shadow AI remains a persistent problem, even as IT and security budgets grow, according to a new report.",
-   "grup": "Genel"
+   "kaynak": "The Hacker News",
+   "baslik": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+   "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+   "ozet": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file rea",
+   "grup": "SonicWall"
   },
   {
    "id": "e12b9d4a7490",
