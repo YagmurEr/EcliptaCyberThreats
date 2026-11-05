@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-05T01:27:06+00:00",
+ "guncelleme": "2026-11-05T10:49:44+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -53,6 +53,249 @@
   }
  ],
  "haberler": [
+  {
+   "id": "fc3bb545d92a",
+   "tarih": "2026-11-05",
+   "kaynak": "Help Net Security",
+   "baslik": "Companies are spending more on AI governance and getting less control",
+   "url": "https://www.helpnetsecurity.com/2026/11/05/dnsfilter-shadow-ai-cost-report/",
+   "ozet": "Companies are increasing their cybersecurity budgets, with AI security and governance the top priority for additional spending, followed by cloud security, according to DNSFilter’s The Cost of Shadow AI report. Some 74.5% of respondents reported a larger cybersecurity budget than 12 months earlier. ",
+   "grup": "Genel"
+  },
+  {
+   "id": "eeeae62d983b",
+   "tarih": "2026-11-05",
+   "kaynak": "Help Net Security",
+   "baslik": "AI agent detection signals that still work when agents look human",
+   "url": "https://www.helpnetsecurity.com/2026/11/05/zohaib-ahmed-resemble-ai-detecting-ai-agent-traffic/",
+   "ozet": "Bots follow a script. AI agents work toward a goal and choose their own steps, which makes them harder to catch. In this Help Net Security interview, Zohaib Ahmed, CEO of Resemble AI explains how agents arrive as declared, undeclared or disguised traffic, and why binary bot detection misses the last",
+   "grup": "Genel"
+  },
+  {
+   "id": "da77af0f435f",
+   "tarih": "2026-11-05",
+   "kaynak": "BleepingComputer",
+   "baslik": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+   "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+   "ozet": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "b47a970b0c42",
+   "tarih": "2026-11-05",
+   "kaynak": "GBHackers",
+   "baslik": "DreamHost Confirms Data Breach After Hackers Steal FTP/SFTP Credentials and Access Customer Emails",
+   "url": "https://gbhackers.com/dreamhost-confirms-data-breach/",
+   "ozet": "DreamHost has confirmed a security breach involving its browser-based File Manager, which exposed FTP/SFTP usernames and passwords, as well as the credentials of a limited number of webmail users. The company discovered unauthorized access on October 23, 2026, and it believes that attackers may have",
+   "grup": "Genel"
+  },
+  {
+   "id": "a665869d02d2",
+   "tarih": "2026-11-05",
+   "kaynak": "The Hacker News",
+   "baslik": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+   "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+   "ozet": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has r",
+   "grup": "Genel"
+  },
+  {
+   "id": "a49bac037714",
+   "tarih": "2026-11-05",
+   "kaynak": "Help Net Security",
+   "baslik": "A banking malware sample led researchers to an Android bug that can loop-crash phones",
+   "url": "https://www.helpnetsecurity.com/2026/11/05/ghostmap-android-bug-research/",
+   "ozet": "Bitdefender Labs researchers built an Android app that contains no executable code and requests no permissions, and installing it leaves a Pixel 10 in a crash loop that can take a factory reset to clear. The flaw, which Bitdefender calls GhostMap, comes from how Android reads the ZIP structure insid",
+   "grup": "Genel"
+  },
+  {
+   "id": "9f35cab58178",
+   "tarih": "2026-11-05",
+   "kaynak": "GBHackers",
+   "baslik": "11 Digital Forensics Tools: The 2026 Buyer’s Verdict Guide",
+   "url": "https://gbhackers.com/digital-forensics-tools-buyers-guide/",
+   "ozet": "Forensic tooling is bought under two pressures that pull apart: caseload arithmetic (mostly mobile, always backlogged) and courtroom survival (every finding must outlive cross-examination). This verdict guide judges eleven tools commercial suites, frontline kiosks, and the open-source pillars every ",
+   "grup": "Genel"
+  },
+  {
+   "id": "96a1ace9f58c",
+   "tarih": "2026-11-05",
+   "kaynak": "The Hacker News",
+   "baslik": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+   "url": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+   "ozet": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by s",
+   "grup": "Genel"
+  },
+  {
+   "id": "915c0b58aca6",
+   "tarih": "2026-11-05",
+   "kaynak": "Help Net Security",
+   "baslik": "Healthcare can’t govern the AI tools it hasn’t found yet",
+   "url": "https://www.helpnetsecurity.com/2026/11/05/healthcare-ai-governance-patient-data/",
+   "ozet": "Nearly nine in ten healthcare leaders say security or compliance staff always or usually review AI-written code that touches patient data before it goes live, and seven in ten have still found an AI-built tool handling that data without IT or security knowing, according to Paubox. Source: Paubox The",
+   "grup": "Genel"
+  },
+  {
+   "id": "89af0224359d",
+   "tarih": "2026-11-05",
+   "kaynak": "SecurityWeek",
+   "baslik": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
+   "url": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
+   "ozet": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently. The post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "7e77be217076",
+   "tarih": "2026-11-05",
+   "kaynak": "Hackread",
+   "baslik": "The Smartest Part of a Home Camera Is Moving Off the Cloud",
+   "url": "https://hackread.com/smartest-home-camera-moving-off-cloud/",
+   "ozet": "For most of the decade gone by, the &#8220;smart&#8221; aspect of smart camera systems resided on external hardware&#8230;",
+   "grup": "Genel"
+  },
+  {
+   "id": "68af6446b07c",
+   "tarih": "2026-11-05",
+   "kaynak": "SecurityWeek",
+   "baslik": "Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes",
+   "url": "https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/",
+   "ozet": "The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine. The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "648780909881",
+   "tarih": "2026-11-05",
+   "kaynak": "GBHackers",
+   "baslik": "AI-Powered BOSSAI Attacks Expose Patient Records and Emergency Dispatch Data in Taiwan",
+   "url": "https://gbhackers.com/ai-powered-bossai-attacks/",
+   "ozet": "BOSSAI, an agentic attack platform run by one operator that exposed emergency medical and dispatch data in Taipei. The campaign targeted hundreds of organizations in eleven countries, including emergency services, banks, universities, military systems and e-commerce sites. Confirmed breaches hit uni",
+   "grup": "Genel"
+  },
+  {
+   "id": "502a2689190e",
+   "tarih": "2026-11-05",
+   "kaynak": "Help Net Security",
+   "baslik": "Apple is bringing harmful content checks to iCloud link sharing with potential account penalties",
+   "url": "https://www.helpnetsecurity.com/2026/11/05/apple-icloud-link-sharing-checks/",
+   "ozet": "Apple will begin checking iCloud content shared using the “Anyone with the link” option for harmful material in iOS, iPadOS, macOS, and visionOS 27.3 or later. When sharing content stored in iCloud, users can choose “Share a Link” or “Send a Copy.” Those who choose “Share a Link” can restrict access",
+   "grup": "Genel"
+  },
+  {
+   "id": "4f9bb7c1ff8e",
+   "tarih": "2026-11-05",
+   "kaynak": "The Hacker News",
+   "baslik": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+   "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+   "ozet": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and on",
+   "grup": "Genel"
+  },
+  {
+   "id": "4d0aa265ccf3",
+   "tarih": "2026-11-05",
+   "kaynak": "Help Net Security",
+   "baslik": "Most consumers aren’t ready to let AI agents shop unsupervised",
+   "url": "https://www.helpnetsecurity.com/2026/11/05/okta-ai-customer-experiences-report/",
+   "ozet": "Customer control, account security and ease of use are influencing the adoption of AI agents that make purchases, book services and access personal information, according to Okta’s 2026 Customer Identity Trends Report. Consumers’ willingness to delegate depends on what an agent can do, the consequen",
+   "grup": "Genel"
+  },
+  {
+   "id": "4246534b58ff",
+   "tarih": "2026-11-05",
+   "kaynak": "GBHackers",
+   "baslik": "11 Cyber Risk Quantification Tools: The 2026 Buyer’s Verdict Guide",
+   "url": "https://gbhackers.com/crq-tools-buyers-guide/",
+   "ozet": "Cyber risk quantification turns posture into currency expected annual loss with a confidence interval and its credibility lives entirely in the assumptions. This verdict guide judges eleven options on model honesty (can they decompose a scenario under questioning?), data grounding (live signals vers",
+   "grup": "Genel"
+  },
+  {
+   "id": "42349ad779cd",
+   "tarih": "2026-11-05",
+   "kaynak": "GBHackers",
+   "baslik": "11 Compliance Automation Software (SOC 2 / ISO 27001): The 2026 Buyer’s Verdict Guide",
+   "url": "https://gbhackers.com/compliance-automation-buyers-guide/",
+   "ozet": "Compliance automation collapsed the SOC 2 timeline from consulting-year to integration-quarter: connectors pull evidence from your cloud, HR, and device stacks continuously, and the audit becomes a review of live data rather than a screenshot hunt. The 2026 differentiators are framework breadth afte",
+   "grup": "Genel"
+  },
+  {
+   "id": "30645dc86b9c",
+   "tarih": "2026-11-05",
+   "kaynak": "Help Net Security",
+   "baslik": "OpenAI’s upcoming AI model built 948 working Linux root exploits in a single run",
+   "url": "https://www.helpnetsecurity.com/2026/11/05/openai-linux-kernel-root-exploits/",
+   "ozet": "An automated system running on an upcoming AI model turned hundreds of Linux kernel bugs into working exploits that give an ordinary user root access, and wrote a patch for each underlying flaw, OpenAI revealed in a new research post. Source:OpenAI The company’s Cyber team ran the pipeline in mid-Oc",
+   "grup": "Genel"
+  },
+  {
+   "id": "2e538421f3a7",
+   "tarih": "2026-11-05",
+   "kaynak": "GBHackers",
+   "baslik": "11 GRC Platforms: The 2026 Buyer’s Verdict Guide",
+   "url": "https://gbhackers.com/grc-platforms-buyers-guide/",
+   "ozet": "GRC platforms fail one way above all: bought heavier than the team that must feed them, until the risk register quietly stops reflecting reality. This verdict guide therefore classes eleven platforms by the staffing they genuinely require workflow giants, configurable heavyweights, adoption-speed ch",
+   "grup": "Genel"
+  },
+  {
+   "id": "2c2fd2bed15a",
+   "tarih": "2026-11-05",
+   "kaynak": "GBHackers",
+   "baslik": "DigiCert Confirms Data Breach After Security Misconfiguration Exposes Customer Personal Information",
+   "url": "https://gbhackers.com/digicert-confirms-data-breach/",
+   "ozet": "DigiCert confirmed unauthorized access to an internal business system containing archived customer information due to a security misconfiguration that exposed the application to the internet. This incident affected business contact details and, in some cases, identity documents. However, DigiCert sa",
+   "grup": "Genel"
+  },
+  {
+   "id": "2a5b7d5a686a",
+   "tarih": "2026-11-05",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in question is CVE-2024-278",
+   "grup": "Genel"
+  },
+  {
+   "id": "25c3eda20cfe",
+   "tarih": "2026-11-05",
+   "kaynak": "The Hacker News",
+   "baslik": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+   "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+   "ozet": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings",
+   "grup": "Genel"
+  },
+  {
+   "id": "1f3b5acf78e1",
+   "tarih": "2026-11-05",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Spread Marsalek Infostealer Through Fake Game Downloads to Steal Browser Passwords and Cookies",
+   "url": "https://gbhackers.com/marsalek-infostealer/",
+   "ozet": "Marsalek, a free malware-as-a-service (MaaS) platform that disguised infostealers as game cheats and utilities for Roblox, Fortnite, Counter-Strike 2, Minecraft, and Grim Dawn. It was active from mid-December 2025 to late May 2026. Researchers counted more than 1,560 registered accounts, over 400 ma",
+   "grup": "Genel"
+  },
+  {
+   "id": "1981b067cd83",
+   "tarih": "2026-11-05",
+   "kaynak": "The Hacker News",
+   "baslik": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+   "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+   "ozet": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk o",
+   "grup": "Genel"
+  },
+  {
+   "id": "17780baefe09",
+   "tarih": "2026-11-05",
+   "kaynak": "GBHackers",
+   "baslik": "10 Third-Party / Vendor Risk Management (TPRM) Tools: The 2026 Buyer’s Verdict Guide",
+   "url": "https://gbhackers.com/tprm-tools-buyers-guide/",
+   "ozet": "Third-party risk management is where questionnaires go to die or get automated: the modern platforms fuse assessment workflow, outside-in ratings, and continuous monitoring so vendor risk stops being an annual PDF exchange. One honest count note up front: our source roster listed CyberGRX and Proces",
+   "grup": "Genel"
+  },
+  {
+   "id": "0777ae123df9",
+   "tarih": "2026-11-05",
+   "kaynak": "GBHackers",
+   "baslik": "Critical Citrix XenServer Flaw Allows Unauthenticated Attackers to Take Control of Virtualization Hosts",
+   "url": "https://gbhackers.com/critical-citrix-xenserver-flaw/",
+   "ozet": "Citrix has released security updates for XenServer versions 8.4 and 9 to address a critical vulnerability. This flaw could allow an unauthenticated attacker on the management network to compromise virtualization hosts. The Cloud Software Group published a bulletin (CTX697256) on November 3, 2026, cl",
+   "grup": "Genel"
+  },
   {
    "id": "fbce8718f8e5",
    "tarih": "2026-11-04",
@@ -414,24 +657,6 @@
    "grup": "Genel"
   },
   {
-   "id": "7880589c2203",
-   "tarih": "2026-11-04",
-   "kaynak": "Help Net Security",
-   "baslik": "What AI-generated malware looks like under the microscope",
-   "url": "https://www.helpnetsecurity.com/2026/11/04/lindsay-kaye-human-security-ai-generated-malware/",
-   "ozet": "In this Help Net Security interview, Lindsay Kaye, VP of Threat Intelligence at HUMAN Security, talks about what AI-generated malware looks like on the bench. She points to tidy comments, uniform logging messages, and emojis as signs a script came from a model, and notes that decompiled code strips ",
-   "grup": "Genel"
-  },
-  {
-   "id": "76f398aa937f",
-   "tarih": "2026-11-04",
-   "kaynak": "SecurityWeek",
-   "baslik": "Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist",
-   "url": "https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/",
-   "ozet": "Binance’s first incident report traces the record theft to a months-long campaign that compromised three engineers’ computers. The post Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
    "id": "76767fbd03d8",
    "tarih": "2026-11-04",
    "kaynak": "GBHackers",
@@ -441,33 +666,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "7405078de2c9",
-   "tarih": "2026-11-04",
-   "kaynak": "GBHackers",
-   "baslik": "Google Warns of LLMJacking Attacks That Generate Over $100,000 in Cloud AI Bills Per Day",
-   "url": "https://gbhackers.com/google-warns-of-llmjacking-attacks/",
-   "ozet": "Google&#8217;s Mandiant and Threat Intelligence Group (GTIG) say attackers are hijacking enterprise access to large language models and running up huge fraudulent cloud charges. Google&#8217;s report documents more than $100,000 in a single day. At some organizations, cumulative charges reached $1 m",
-   "grup": "Genel"
-  },
-  {
-   "id": "7295b4fcb1ff",
-   "tarih": "2026-11-04",
-   "kaynak": "GBHackers",
-   "baslik": "Russian Hackers Create Fake US and UK Websites to Target Visitors With Mobile Exploits",
-   "url": "https://gbhackers.com/fake-us-and-uk-websites/",
-   "ozet": "A large-scale watering hole campaign that it assesses, with moderate to high confidence, is the work of APT29. APT29 is also tracked as Midnight Blizzard, Cozy Bear and The Dukes, and is widely linked to Russia&#8217;s SVR foreign intelligence service. The operation hit iOS and Android users through",
-   "grup": "Genel"
-  },
-  {
-   "id": "6e9532f013a7",
-   "tarih": "2026-11-04",
-   "kaynak": "Help Net Security",
-   "baslik": "Secure your containers without breaking what works",
-   "url": "https://www.helpnetsecurity.com/2026/11/04/rapidfort-runtime-container-profiling/",
-   "ozet": "Container security has a familiar problem. Teams identify vulnerabilities, but turning those findings into lower risk is much harder. A standard container image may include operating-system packages, development tools, debugging utilities and libraries that an application never uses. Each unnecessar",
-   "grup": "Genel"
-  },
-  {
    "id": "6e662ad5f390",
    "tarih": "2026-11-04",
    "kaynak": "GBHackers",
@@ -475,24 +673,6 @@
    "url": "https://gbhackers.com/3am-ransomware-hackers-use-ai-assisted-attacks-to-breach-uk-schools/",
    "ozet": "A ransomware affiliate known as 3AM compromised a UK school network using a mix of traditional intrusion techniques and patterns suggesting the involvement of artificial intelligence. According to Bitdefender&#8217;s investigation on November 3, this operation appears to follow a suspected hybrid wo",
    "grup": "Microsoft"
-  },
-  {
-   "id": "6b6d8b64e2bf",
-   "tarih": "2026-11-04",
-   "kaynak": "SecurityWeek",
-   "baslik": "Sysdig Adds Runtime Security and Governance for AI Agents",
-   "url": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
-   "ozet": "Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems. The post Sysdig Adds Runtime Security and Governance for AI Agents appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "68960d2138eb",
-   "tarih": "2026-11-04",
-   "kaynak": "SecurityWeek",
-   "baslik": "North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack",
-   "url": "https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
-   "ozet": "In recent months, North Korea has accelerated its weapons tests in a likely bid to increase its leverage in potential diplomacy with the US. The post North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "63cdf286f06a",
@@ -513,132 +693,6 @@
    "grup": "WordPress"
   },
   {
-   "id": "5e99d13bfbb2",
-   "tarih": "2026-11-04",
-   "kaynak": "The Hacker News",
-   "baslik": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-   "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-   "ozet": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaScrip",
-   "grup": "Genel"
-  },
-  {
-   "id": "5ce5c8d2c37f",
-   "tarih": "2026-11-04",
-   "kaynak": "Dark Reading",
-   "baslik": "Phishing-Resistant Isn't Enough; Yubico Takes Aim at Identity-Verification Gap",
-   "url": "https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
-   "ozet": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing a phishing-resistant authentication gap. Plus: post-quantum YubiKey beta.",
-   "grup": "Genel"
-  },
-  {
-   "id": "5704c36d2a38",
-   "tarih": "2026-11-04",
-   "kaynak": "Help Net Security",
-   "baslik": "Fake job interview opened the door to $6.34 billion Binance heist",
-   "url": "https://www.helpnetsecurity.com/2026/11/04/binance-hack-north-korea-fake-job-interview/",
-   "ozet": "A tampered software installer and a fake job interview gave attackers the access they needed to steal about $6.34 billion in digital assets from Binance. “It was not a single isolated breach or a simple phishing incident,” Binance wrote in its incident report. “The attackers combined a range of tech",
-   "grup": "Genel"
-  },
-  {
-   "id": "52afdcd5fa0d",
-   "tarih": "2026-11-04",
-   "kaynak": "GBHackers",
-   "baslik": "Google Patches Critical Android RCE Flaws That Let Attackers Execute Code Without User Interaction",
-   "url": "https://gbhackers.com/google-patches-critical-android-rce-flaws/",
-   "ozet": "Google released its November 2026 Android Security Bulletin, which addresses critical vulnerabilities that could allow remote code execution without user interaction or additional execution privileges. Published on November 2, the bulletin highlights a framework vulnerability as the most severe issu",
-   "grup": "Genel"
-  },
-  {
-   "id": "4cbdcade27f1",
-   "tarih": "2026-11-04",
-   "kaynak": "Hackread",
-   "baslik": "Fake GTA VI Download Sites Push Malware Ahead of Launch",
-   "url": "https://hackread.com/fake-gta-vi-download-sites-malware-launch/",
-   "ozet": "Fake GTA VI download sites lure gamers with leaked builds, malware, crypto payment demands and mobile versions ahead&#8230;",
-   "grup": "Genel"
-  },
-  {
-   "id": "4ba7cadb265a",
-   "tarih": "2026-11-04",
-   "kaynak": "BleepingComputer",
-   "baslik": "mSecure password manager hack prompts password reset warnings",
-   "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-   "ozet": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "4afbfee009b9",
-   "tarih": "2026-11-04",
-   "kaynak": "GBHackers",
-   "baslik": "The Sandbox Fights Back: Joe Security Launches Adaptive Detonation",
-   "url": "https://gbhackers.com/the-sandbox-fights-back-joe-security-launches-adaptive-detonation/",
-   "ozet": "Reinach, Switzerland, November 4th, 2026, CyberNewswire AI agents help Joe Sandbox uncover malicious behavior concealed by evasion techniques and unmet execution conditions. Joe Security&#8216;s Adaptive Detonation brings active intervention to malware analysis, helping security teams investigate th",
-   "grup": "Genel"
-  },
-  {
-   "id": "4a6a42c1bd5d",
-   "tarih": "2026-11-04",
-   "kaynak": "Help Net Security",
-   "baslik": "Citrix expands oversight of autonomous browsing and AI agent activity",
-   "url": "https://www.helpnetsecurity.com/2026/11/04/citrix-ai-governance-capabilities/",
-   "ozet": "Citrix has announced new capabilities across Citrix SecurSpaces, Citrix SecurAccess and Citrix Platform Flex designed to help organizations securely deploy AI agents, govern AI-powered work and scale adoption across the enterprise. These updates include an expansion of Citrix SecurSpaces to a wider ",
-   "grup": "Genel"
-  },
-  {
-   "id": "493913be8a05",
-   "tarih": "2026-11-04",
-   "kaynak": "SecurityWeek",
-   "baslik": "Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical",
-   "url": "https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/",
-   "ozet": "The browser update resolves dozens of memory safety bugs and incorrect/missing authorization issues. The post Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "460b0d6e0093",
-   "tarih": "2026-11-04",
-   "kaynak": "Help Net Security",
-   "baslik": "Impart uses AI to build virtual patches without putting models in the traffic path",
-   "url": "https://www.helpnetsecurity.com/2026/11/04/impart-security-runtime-defense-harness/",
-   "ozet": "Impart Security has launched the Runtime Defense Harness, a controlled environment where AI agents write and test virtual patches for new vulnerabilities without putting AI in the traffic path. The launch comes as exploits increasingly outpace fixes. In the harness, agents build each virtual patch a",
-   "grup": "Genel"
-  },
-  {
-   "id": "40a5a2749a72",
-   "tarih": "2026-11-04",
-   "kaynak": "The Hacker News",
-   "baslik": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-   "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-   "ozet": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016. The Ministry of Internal Affairs of the Rus",
-   "grup": "Genel"
-  },
-  {
-   "id": "3f709e0cf539",
-   "tarih": "2026-11-04",
-   "kaynak": "Help Net Security",
-   "baslik": "Live Q&A: CISSP exam prep with ISC2 experts",
-   "url": "https://www.helpnetsecurity.com/2026/11/04/isc2-cissp-exam-prep-webinar/",
-   "ozet": "Join ISC2 on November 6, 2026 at 7:00pm CET for a live Q&#038;A about the CISSP exam. A panel of experts will answer your questions, explain what it takes to earn the certification, and walk through the exam domains. You’ll also learn about self-study resources and training options to help you prepa",
-   "grup": "Genel"
-  },
-  {
-   "id": "3dc91959e5b4",
-   "tarih": "2026-11-04",
-   "kaynak": "GBHackers",
-   "baslik": "Binance Reveals How Hackers Pulled Off $6.3 Billion Crypto Heist Using Fake Job Interviews",
-   "url": "https://gbhackers.com/binance-reveals-how-hackers-pulled-off-6-3-billion-crypto-heist/",
-   "ozet": "Binance has revealed that attackers carried out a sophisticated scheme involving fake recruitment interviews, compromised developer endpoints, and malicious blockchain authorizations to steal approximately $6.34 billion in digital assets on October 29, 2026. The exchange&#8217;s initial findings ind",
-   "grup": "Genel"
-  },
-  {
-   "id": "3632eace057e",
-   "tarih": "2026-11-04",
-   "kaynak": "The Hacker News",
-   "baslik": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-   "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-   "ozet": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that&nbsp;Debian,&nbsp;Ubuntu, and&nbsp;APT's developers&nbsp;published on November 4.",
-   "grup": "Genel"
-  },
-  {
    "id": "349817163ae5",
    "tarih": "2026-11-04",
    "kaynak": "The Hacker News",
@@ -648,42 +702,6 @@
    "grup": "WordPress"
   },
   {
-   "id": "3490e0f2b007",
-   "tarih": "2026-11-04",
-   "kaynak": "Help Net Security",
-   "baslik": "Anthropic open-sources FlashProve, its provable inference prototype for MoE models",
-   "url": "https://www.helpnetsecurity.com/2026/11/04/anthropic-flashprove-provable-inference/",
-   "ozet": "Anthropic’s Frontier Red Team, with collaborators at EPFL, MIT and StarkWare, built FlashProve, a prototype that produces a cryptographic proof that one specific language model generated one specific reply. The prover, two verifiers, the formal proofs behind them and a protocol specification are on ",
-   "grup": "Genel"
-  },
-  {
-   "id": "32c90d2f0958",
-   "tarih": "2026-11-04",
-   "kaynak": "The Hacker News",
-   "baslik": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
-   "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-   "ozet": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its&nbsp;November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch level 2026-11-01 or later, which phone makers a",
-   "grup": "Genel"
-  },
-  {
-   "id": "2f5877591bfd",
-   "tarih": "2026-11-04",
-   "kaynak": "SecurityWeek",
-   "baslik": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
-   "url": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
-   "ozet": "Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks. The post AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "2e0cdd810e4a",
-   "tarih": "2026-11-04",
-   "kaynak": "Help Net Security",
-   "baslik": "Open-source file sync tool rsync 3.5.2 fixes a CPU exhaustion flaw",
-   "url": "https://www.helpnetsecurity.com/2026/11/04/rsync-3-5-2-released/",
-   "ozet": "The rsync project released version 3.5.2, and it closes a flaw that let a connecting client tie up a server’s CPU with checksum math that leads nowhere. The new version also lets you push a transfer to the back of the queue for CPU and disk, so a big sync stops elbowing everything else on the machin",
-   "grup": "Genel"
-  },
-  {
    "id": "2a866995d806",
    "tarih": "2026-11-04",
    "kaynak": "GBHackers",
@@ -691,24 +709,6 @@
    "url": "https://gbhackers.com/fake-microsoft-support-scams/",
    "ozet": "An organized fraud operation using paid advertisements, Microsoft Azure hosting, and centrally managed telephone numbers to distribute counterfeit Microsoft support pages. The investigation links one backend serving the kit to Mandarin-speaking developers and registration details referencing Hubei, ",
    "grup": "Microsoft"
-  },
-  {
-   "id": "200656fe2224",
-   "tarih": "2026-11-04",
-   "kaynak": "GBHackers",
-   "baslik": "Russia-Aligned Gorbag APT Exploits WinRAR CVE-2025-8088 to Deploy BeautyStealer Infostealer",
-   "url": "https://gbhackers.com/gorbag-apt-campaign/",
-   "ozet": "A targeted cyberespionage campaign by Gorbag, a Russia-aligned threat actor exploiting WinRAR vulnerability CVE-2025-8088 to deploy BeautyStealer against Ukrainian organizations. Active since at least February 2025, the group prioritizes law enforcement, justice institutions, frontline local adminis",
-   "grup": "Genel"
-  },
-  {
-   "id": "1f8acdc5d8c6",
-   "tarih": "2026-11-04",
-   "kaynak": "SecurityWeek",
-   "baslik": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
-   "url": "https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/",
-   "ozet": "A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff. The post Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "1cb3088dd861",
