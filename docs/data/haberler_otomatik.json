@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-06T01:30:39+00:00",
+ "guncelleme": "2026-11-06T10:49:16+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -33,8 +33,7 @@
   },
   {
    "kaynak": "GBHackers",
-   "durum": "ok",
-   "adet": 10
+   "durum": "hata"
   },
   {
    "kaynak": "Cybersecurity Dive",
@@ -54,12 +53,156 @@
  ],
  "haberler": [
   {
+   "id": "ed60ea7fa412",
+   "tarih": "2026-11-06",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+   "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+   "ozet": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those requests never appear in it",
+   "grup": "Genel"
+  },
+  {
+   "id": "c9b593946ad1",
+   "tarih": "2026-11-06",
+   "kaynak": "Help Net Security",
+   "baslik": "OpenAI’s GPT-6 Cyber found 81 Firefox flaws earlier AI testing missed",
+   "url": "https://www.helpnetsecurity.com/2026/11/06/openai-gpt-6-cyber-released/",
+   "ozet": "OpenAI has introduced GPT-6 Cyber, a version of GPT-6 Astra trained to find software vulnerabilities, test how attackers could exploit them, and help develop fixes. The model is designed for authorized security testing of websites and applications. Vulnerability research and security testing OpenAI ",
+   "grup": "Genel"
+  },
+  {
+   "id": "affb73a9e26e",
+   "tarih": "2026-11-06",
+   "kaynak": "Help Net Security",
+   "baslik": "Sarajevo Cyber Security Summit 2026 puts the Western Balkans’ cyber resilience in focus",
+   "url": "https://www.helpnetsecurity.com/2026/11/06/sarajevo-cyber-security-summit-2026/",
+   "ozet": "Cyber Security Summit 2026 in Sarajevo will examine the practical security questions organizations face when a supplier, network device or critical digital service fails: what breaks, who decides, and how quickly can operations recover? A serious cyber incident does not need to begin on an organizat",
+   "grup": "Genel"
+  },
+  {
+   "id": "a64f92172f81",
+   "tarih": "2026-11-06",
+   "kaynak": "Help Net Security",
+   "baslik": "87% say their AI controls need to work better",
+   "url": "https://www.helpnetsecurity.com/2026/11/06/autonomous-ai-oversight-governance/",
+   "ozet": "The AI running inside large companies has stopped waiting for permission. Across five categories of AI, from chatbots to process automation, more than half of 3,600 business decision-makers say the systems their teams use can act within defined rules without routine review, or finish whole processes",
+   "grup": "Genel"
+  },
+  {
+   "id": "a382c3d13c65",
+   "tarih": "2026-11-06",
+   "kaynak": "The Hacker News",
+   "baslik": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+   "url": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+   "ozet": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday. One flaw, C",
+   "grup": "Genel"
+  },
+  {
+   "id": "9e0aea37a06b",
+   "tarih": "2026-11-06",
+   "kaynak": "Help Net Security",
+   "baslik": "US agencies warn attackers are targeting refrigeration systems that protect food and medicine",
+   "url": "https://www.helpnetsecurity.com/2026/11/06/cyberattacks-refrigeration-systems-cisa-fbi/",
+   "ozet": "Threat actors are going after the controllers that keep grocery store freezers and cold storage rooms at safe temperatures, and they may push those units into continuous heating and defrost cycles, five US federal agencies warned in a joint advisory published on Thursday. CISA, the FBI, the Departme",
+   "grup": "Genel"
+  },
+  {
    "id": "97d7db0e7e4a",
    "tarih": "2026-11-06",
    "kaynak": "BleepingComputer",
    "baslik": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
    "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
    "ozet": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "89631936e293",
+   "tarih": "2026-11-06",
+   "kaynak": "Help Net Security",
+   "baslik": "Security certification is a snapshot, and buyers read too much into it",
+   "url": "https://www.helpnetsecurity.com/2026/11/06/mariia-bakhtina-masaryk-university-security-certification/",
+   "ozet": "In this Help Net Security video, Mariia Bakhtina, a research specialist at Masaryk University, explains what a Common Criteria or FIPS-140 certificate does and does not promise. In her team’s analysis, about 6 in 10 vulnerabilities matched to certified products, smartcards aside, were disclosed afte",
+   "grup": "Genel"
+  },
+  {
+   "id": "7dec2b66b380",
+   "tarih": "2026-11-06",
+   "kaynak": "Help Net Security",
+   "baslik": "Residential proxy traffic caught leaving the White House network",
+   "url": "https://www.helpnetsecurity.com/2026/11/06/white-house-residential-proxy-traffic/",
+   "ozet": "The White House network has been working as an exit point for residential proxy services, a setup that may open a path into one of the most closely guarded networks in the world, Layer3 Intel found. In a blog post, the threat intelligence firm reported that its proxy enumeration pipeline exited thro",
+   "grup": "Genel"
+  },
+  {
+   "id": "6facdf5f94df",
+   "tarih": "2026-11-06",
+   "kaynak": "The Hacker News",
+   "baslik": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+   "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+   "ozet": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we removed access to Reactor and Data Solutions,\" the company sai",
+   "grup": "Genel"
+  },
+  {
+   "id": "67dcad135390",
+   "tarih": "2026-11-06",
+   "kaynak": "Dark Reading",
+   "baslik": "UK Warns Its Critical Infrastructure Faces Grave Risk",
+   "url": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
+   "ozet": "Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex.",
+   "grup": "Genel"
+  },
+  {
+   "id": "66bb14a34959",
+   "tarih": "2026-11-06",
+   "kaynak": "Help Net Security",
+   "baslik": "November 2026 Patch Tuesday forecast: Old software continues to bite",
+   "url": "https://www.helpnetsecurity.com/2026/11/06/november-2026-patch-tuesday-forecast/",
+   "ozet": "How did you enjoy October 2026 Patch Tuesday? Were there enough CVEs reported to keep you busy for the rest of the year or are you finished and ready for another round next week? They released the regularly scheduled update nearly two and a half hours late, but Microsoft did resolve another record-b",
+   "grup": "Genel"
+  },
+  {
+   "id": "5d7c1511e0dd",
+   "tarih": "2026-11-06",
+   "kaynak": "SecurityWeek",
+   "baslik": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
+   "url": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
+   "ozet": "The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "57a5b9afce46",
+   "tarih": "2026-11-06",
+   "kaynak": "Help Net Security",
+   "baslik": "99% of repository access tokens never expire",
+   "url": "https://www.helpnetsecurity.com/2026/11/06/blueflag-ai-agents-access-risks-report/",
+   "ozet": "Developers, automated tools and AI coding agents hold permissions that can outlast the work they were granted for. Without access reviews, organizations can leave accounts able to copy or change company code after the work ends, according to BlueFlag Security’s The State of Developer Risk 2026 repor",
+   "grup": "Genel"
+  },
+  {
+   "id": "3a8f9a3bb5fd",
+   "tarih": "2026-11-06",
+   "kaynak": "BleepingComputer",
+   "baslik": "MetaMask says recent attack didn't affect wallet infrastructure",
+   "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+   "ozet": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "3a73b8fccf35",
+   "tarih": "2026-11-06",
+   "kaynak": "SecurityWeek",
+   "baslik": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
+   "url": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
+   "ozet": "After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet. The post OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "33ab60e6dabf",
+   "tarih": "2026-11-06",
+   "kaynak": "Help Net Security",
+   "baslik": "Rental phishing sites use live chat to win over hesitant travelers",
+   "url": "https://www.helpnetsecurity.com/2026/11/06/holiday-rental-platform-phishing-travelers/",
+   "ozet": "Holiday travelers looking for a place to stay are landing on copies of popular rental platforms, complete with host names, ratings and reviews, that ask for their passwords, personal details and credit card numbers. The sites, spotted and taken down by Fortra’s Intelligence and Research Experts (FIR",
    "grup": "Genel"
   },
   {
@@ -483,150 +626,6 @@
    "baslik": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
    "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
    "ozet": "A critical finding can move through several security tools and still leave the organization exposed.&nbsp; The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what ",
-   "grup": "Genel"
-  },
-  {
-   "id": "59043a855535",
-   "tarih": "2026-11-05",
-   "kaynak": "The Hacker News",
-   "baslik": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-   "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-   "ozet": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some",
-   "grup": "Genel"
-  },
-  {
-   "id": "58f4053a1bb9",
-   "tarih": "2026-11-05",
-   "kaynak": "BleepingComputer",
-   "baslik": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-   "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-   "ozet": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "57050d5cfd2a",
-   "tarih": "2026-11-05",
-   "kaynak": "Help Net Security",
-   "baslik": "Sysdig AI Defense puts runtime guardrails on AI agents",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/sysdig-ai-defense/",
-   "ozet": "Sysdig has announced the general availability of Sysdig AI Defense, giving organizations tools to monitor and control AI agent activity across endpoints and cloud environments. The platform checks agent actions against company policies to allow them, hold them for user approval or block them before ",
-   "grup": "Genel"
-  },
-  {
-   "id": "5263a8e99f87",
-   "tarih": "2026-11-05",
-   "kaynak": "BleepingComputer",
-   "baslik": "Hackers backdoor Linux servers using trojanized CWP web server",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-   "ozet": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "502a2689190e",
-   "tarih": "2026-11-05",
-   "kaynak": "Help Net Security",
-   "baslik": "Apple is bringing harmful content checks to iCloud link sharing with potential account penalties",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/apple-icloud-link-sharing-checks/",
-   "ozet": "Apple will begin checking iCloud content shared using the “Anyone with the link” option for harmful material in iOS, iPadOS, macOS, and visionOS 27.3 or later. When sharing content stored in iCloud, users can choose “Share a Link” or “Send a Copy.” Those who choose “Share a Link” can restrict access",
-   "grup": "Genel"
-  },
-  {
-   "id": "4f9bb7c1ff8e",
-   "tarih": "2026-11-05",
-   "kaynak": "The Hacker News",
-   "baslik": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-   "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-   "ozet": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and on",
-   "grup": "Genel"
-  },
-  {
-   "id": "4d0aa265ccf3",
-   "tarih": "2026-11-05",
-   "kaynak": "Help Net Security",
-   "baslik": "Most consumers aren’t ready to let AI agents shop unsupervised",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/okta-ai-customer-experiences-report/",
-   "ozet": "Customer control, account security and ease of use are influencing the adoption of AI agents that make purchases, book services and access personal information, according to Okta’s 2026 Customer Identity Trends Report. Consumers’ willingness to delegate depends on what an agent can do, the consequen",
-   "grup": "Genel"
-  },
-  {
-   "id": "4246534b58ff",
-   "tarih": "2026-11-05",
-   "kaynak": "GBHackers",
-   "baslik": "11 Cyber Risk Quantification Tools: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/crq-tools-buyers-guide/",
-   "ozet": "Cyber risk quantification turns posture into currency expected annual loss with a confidence interval and its credibility lives entirely in the assumptions. This verdict guide judges eleven options on model honesty (can they decompose a scenario under questioning?), data grounding (live signals vers",
-   "grup": "Genel"
-  },
-  {
-   "id": "42349ad779cd",
-   "tarih": "2026-11-05",
-   "kaynak": "GBHackers",
-   "baslik": "11 Compliance Automation Software (SOC 2 / ISO 27001): The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/compliance-automation-buyers-guide/",
-   "ozet": "Compliance automation collapsed the SOC 2 timeline from consulting-year to integration-quarter: connectors pull evidence from your cloud, HR, and device stacks continuously, and the audit becomes a review of live data rather than a screenshot hunt. The 2026 differentiators are framework breadth afte",
-   "grup": "Genel"
-  },
-  {
-   "id": "3fe484f436f5",
-   "tarih": "2026-11-05",
-   "kaynak": "The Hacker News",
-   "baslik": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
-   "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-   "ozet": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long. OpenSSH, which rates the flaw cri",
-   "grup": "Genel"
-  },
-  {
-   "id": "3f09ef17b6ca",
-   "tarih": "2026-11-05",
-   "kaynak": "Help Net Security",
-   "baslik": "Rubrik hosts NAS backups in isolated, immutable vaults",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/rubrik-unstructured-data-protection/",
-   "ozet": "Rubrik has announced Rubrik-Hosted Protection for On-Premise Unstructured Data. The offering is built on Rubrik’s Network Attached Storage (NAS) Cloud Direct service. Customers now have clean recovery for enterprise-scale NAS data without having to buy, build or manage backup storage. &#8220;Backups",
-   "grup": "Genel"
-  },
-  {
-   "id": "3ea4ff9adc38",
-   "tarih": "2026-11-05",
-   "kaynak": "Hackread",
-   "baslik": "How Governments Detect VPN Traffic, and Why Encryption Alone Doesn’t Hide It",
-   "url": "https://hackread.com/how-governments-detect-vpn-traffic-encryption/",
-   "ozet": "Learn how governments detect VPN traffic using IP addresses, protocol fingerprints and active probing, and why encryption alone cannot prevent blocking.",
-   "grup": "Genel"
-  },
-  {
-   "id": "3ae319fd1f10",
-   "tarih": "2026-11-05",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "French authorities probe cyberattack targeting nation’s blood supply",
-   "url": "https://www.cybersecuritydive.com/news/french-probe-cyberattack-blood-supply/873871/",
-   "ozet": "The attack follows a wave of hacks against refrigeration systems at supermarkets across Europe.",
-   "grup": "Genel"
-  },
-  {
-   "id": "3a37badd876d",
-   "tarih": "2026-11-05",
-   "kaynak": "GBHackers",
-   "baslik": "Hackers Develop New HYFLOCK Ransomware That Encrypts Files and Attempts to Block Recovery",
-   "url": "https://gbhackers.com/hyflock-ransomware/",
-   "ozet": "HYFLOCK ransomware operators have developed successive Windows encryptors that lock files, access network shares, and attempt to obstruct recovery, while implementation flaws create sharply different outcomes for victims. The investigation distinguishes demonstrated functionality from promotional cl",
-   "grup": "Genel"
-  },
-  {
-   "id": "3347a00667c5",
-   "tarih": "2026-11-05",
-   "kaynak": "SecurityWeek",
-   "baslik": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
-   "url": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
-   "ozet": "An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million. The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "306be99284dc",
-   "tarih": "2026-11-05",
-   "kaynak": "The Hacker News",
-   "baslik": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-   "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-   "ozet": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration ri",
    "grup": "Genel"
   },
   {
