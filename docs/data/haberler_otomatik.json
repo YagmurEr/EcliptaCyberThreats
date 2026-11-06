@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-05T17:21:13+00:00",
+ "guncelleme": "2026-11-06T01:30:39+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -53,6 +53,15 @@
   }
  ],
  "haberler": [
+  {
+   "id": "97d7db0e7e4a",
+   "tarih": "2026-11-06",
+   "kaynak": "BleepingComputer",
+   "baslik": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+   "ozet": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+   "grup": "Genel"
+  },
   {
    "id": "fc3bb545d92a",
    "tarih": "2026-11-05",
@@ -159,6 +168,15 @@
    "baslik": "Hackers Tamper With Refrigeration Controls at France’s National Blood Service",
    "url": "https://hackread.com/hackers-tamper-refrigeration-controls-france-blood-service/",
    "ozet": "Hackers altered refrigeration controls at three French blood service sites, but staff protected plasma supplies and prevented damage to blood products.",
+   "grup": "Genel"
+  },
+  {
+   "id": "c5d8bcb2d057",
+   "tarih": "2026-11-05",
+   "kaynak": "Dark Reading",
+   "baslik": "US Government Email Systems Open to Abuse Thanks to Typos",
+   "url": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
+   "ozet": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
    "grup": "Genel"
   },
   {
@@ -288,6 +306,15 @@
    "grup": "Genel"
   },
   {
+   "id": "8c41ea535686",
+   "tarih": "2026-11-05",
+   "kaynak": "Dark Reading",
+   "baslik": "APT29's Watering Holes Target Thousands of Mobile Users",
+   "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
+   "ozet": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
+   "grup": "Genel"
+  },
+  {
    "id": "89af0224359d",
    "tarih": "2026-11-05",
    "kaynak": "SecurityWeek",
@@ -295,6 +322,15 @@
    "url": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
    "ozet": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently. The post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks appeared first on SecurityWeek.",
    "grup": "Genel"
+  },
+  {
+   "id": "886e9406677f",
+   "tarih": "2026-11-05",
+   "kaynak": "BleepingComputer",
+   "baslik": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+   "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+   "ozet": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
+   "grup": "Microsoft"
   },
   {
    "id": "85792e27ec26",
@@ -330,6 +366,15 @@
    "baslik": "The Smartest Part of a Home Camera Is Moving Off the Cloud",
    "url": "https://hackread.com/smartest-home-camera-moving-off-cloud/",
    "ozet": "For most of the decade gone by, the &#8220;smart&#8221; aspect of smart camera systems resided on external hardware&#8230;",
+   "grup": "Genel"
+  },
+  {
+   "id": "7e637a2f9fd7",
+   "tarih": "2026-11-05",
+   "kaynak": "BleepingComputer",
+   "baslik": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+   "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+   "ozet": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
    "grup": "Genel"
   },
   {
@@ -387,12 +432,30 @@
    "grup": "Genel"
   },
   {
+   "id": "6ae54b5becb8",
+   "tarih": "2026-11-05",
+   "kaynak": "Dark Reading",
+   "baslik": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
+   "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
+   "ozet": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
+   "grup": "Genel"
+  },
+  {
    "id": "68af6446b07c",
    "tarih": "2026-11-05",
    "kaynak": "SecurityWeek",
    "baslik": "Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes",
    "url": "https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/",
    "ozet": "The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine. The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "671b07a9ce2d",
+   "tarih": "2026-11-05",
+   "kaynak": "BleepingComputer",
+   "baslik": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+   "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+   "ozet": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
    "grup": "Genel"
   },
   {
@@ -429,6 +492,15 @@
    "baslik": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
    "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
    "ozet": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some",
+   "grup": "Genel"
+  },
+  {
+   "id": "58f4053a1bb9",
+   "tarih": "2026-11-05",
+   "kaynak": "BleepingComputer",
+   "baslik": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+   "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+   "ozet": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
    "grup": "Genel"
   },
   {
@@ -495,12 +567,30 @@
    "grup": "Genel"
   },
   {
+   "id": "3fe484f436f5",
+   "tarih": "2026-11-05",
+   "kaynak": "The Hacker News",
+   "baslik": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+   "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+   "ozet": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long. OpenSSH, which rates the flaw cri",
+   "grup": "Genel"
+  },
+  {
    "id": "3f09ef17b6ca",
    "tarih": "2026-11-05",
    "kaynak": "Help Net Security",
    "baslik": "Rubrik hosts NAS backups in isolated, immutable vaults",
    "url": "https://www.helpnetsecurity.com/2026/11/05/rubrik-unstructured-data-protection/",
    "ozet": "Rubrik has announced Rubrik-Hosted Protection for On-Premise Unstructured Data. The offering is built on Rubrik’s Network Attached Storage (NAS) Cloud Direct service. Customers now have clean recovery for enterprise-scale NAS data without having to buy, build or manage backup storage. &#8220;Backups",
+   "grup": "Genel"
+  },
+  {
+   "id": "3ea4ff9adc38",
+   "tarih": "2026-11-05",
+   "kaynak": "Hackread",
+   "baslik": "How Governments Detect VPN Traffic, and Why Encryption Alone Doesn’t Hide It",
+   "url": "https://hackread.com/how-governments-detect-vpn-traffic-encryption/",
+   "ozet": "Learn how governments detect VPN traffic using IP addresses, protocol fingerprints and active probing, and why encryption alone cannot prevent blocking.",
    "grup": "Genel"
   },
   {
@@ -522,84 +612,21 @@
    "grup": "Genel"
   },
   {
-   "id": "30645dc86b9c",
-   "tarih": "2026-11-05",
-   "kaynak": "Help Net Security",
-   "baslik": "OpenAI’s upcoming AI model built 948 working Linux root exploits in a single run",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/openai-linux-kernel-root-exploits/",
-   "ozet": "An automated system running on an upcoming AI model turned hundreds of Linux kernel bugs into working exploits that give an ordinary user root access, and wrote a patch for each underlying flaw, OpenAI revealed in a new research post. Source:OpenAI The company’s Cyber team ran the pipeline in mid-Oc",
-   "grup": "Genel"
-  },
-  {
-   "id": "2e538421f3a7",
-   "tarih": "2026-11-05",
-   "kaynak": "GBHackers",
-   "baslik": "11 GRC Platforms: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/grc-platforms-buyers-guide/",
-   "ozet": "GRC platforms fail one way above all: bought heavier than the team that must feed them, until the risk register quietly stops reflecting reality. This verdict guide therefore classes eleven platforms by the staffing they genuinely require workflow giants, configurable heavyweights, adoption-speed ch",
-   "grup": "Genel"
-  },
-  {
-   "id": "2dacffdc48c8",
+   "id": "3347a00667c5",
    "tarih": "2026-11-05",
    "kaynak": "SecurityWeek",
-   "baslik": "Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns",
-   "url": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
-   "ozet": "More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit. The post Bank Phishing Sites Show Fake &#8216;Suspended&#8217; Pages to Evade Takedowns appeared first on SecurityWeek.",
+   "baslik": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+   "url": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+   "ozet": "An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million. The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
-   "id": "2c2fd2bed15a",
-   "tarih": "2026-11-05",
-   "kaynak": "GBHackers",
-   "baslik": "DigiCert Confirms Data Breach After Security Misconfiguration Exposes Customer Personal Information",
-   "url": "https://gbhackers.com/digicert-confirms-data-breach/",
-   "ozet": "DigiCert confirmed unauthorized access to an internal business system containing archived customer information due to a security misconfiguration that exposed the application to the internet. This incident affected business contact details and, in some cases, identity documents. However, DigiCert sa",
-   "grup": "Genel"
-  },
-  {
-   "id": "2a5b7d5a686a",
+   "id": "306be99284dc",
    "tarih": "2026-11-05",
    "kaynak": "The Hacker News",
-   "baslik": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-   "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in question is CVE-2024-278",
-   "grup": "Genel"
-  },
-  {
-   "id": "25c3eda20cfe",
-   "tarih": "2026-11-05",
-   "kaynak": "The Hacker News",
-   "baslik": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-   "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-   "ozet": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings",
-   "grup": "Genel"
-  },
-  {
-   "id": "1f3b5acf78e1",
-   "tarih": "2026-11-05",
-   "kaynak": "GBHackers",
-   "baslik": "Hackers Spread Marsalek Infostealer Through Fake Game Downloads to Steal Browser Passwords and Cookies",
-   "url": "https://gbhackers.com/marsalek-infostealer/",
-   "ozet": "Marsalek, a free malware-as-a-service (MaaS) platform that disguised infostealers as game cheats and utilities for Roblox, Fortnite, Counter-Strike 2, Minecraft, and Grim Dawn. It was active from mid-December 2025 to late May 2026. Researchers counted more than 1,560 registered accounts, over 400 ma",
-   "grup": "Genel"
-  },
-  {
-   "id": "1981b067cd83",
-   "tarih": "2026-11-05",
-   "kaynak": "The Hacker News",
-   "baslik": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
-   "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
-   "ozet": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk o",
-   "grup": "Genel"
-  },
-  {
-   "id": "1938e4c4caf9",
-   "tarih": "2026-11-05",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export Devo Logs",
-   "url": "https://socprime.com/blog/how-to-export-devo-logs/",
-   "ozet": "Use the Devo Query API: send a LINQ query, a time range and an output mode to the /search/query endpoint of your region, authenticated with an API token or key and secret. Ask for a JSON mode and you get structured events; select the message field from raw tables to get the original lines back. [&#8",
+   "baslik": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+   "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+   "ozet": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration ri",
    "grup": "Genel"
   },
   {
@@ -610,24 +637,6 @@
    "url": "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/",
    "ozet": "Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws. The post Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws appeared first on SecurityWeek.",
    "grup": "Cisco"
-  },
-  {
-   "id": "17780baefe09",
-   "tarih": "2026-11-05",
-   "kaynak": "GBHackers",
-   "baslik": "10 Third-Party / Vendor Risk Management (TPRM) Tools: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/tprm-tools-buyers-guide/",
-   "ozet": "Third-party risk management is where questionnaires go to die or get automated: the modern platforms fuse assessment workflow, outside-in ratings, and continuous monitoring so vendor risk stops being an annual PDF exchange. One honest count note up front: our source roster listed CyberGRX and Proces",
-   "grup": "Genel"
-  },
-  {
-   "id": "0e52048a4256",
-   "tarih": "2026-11-05",
-   "kaynak": "Help Net Security",
-   "baslik": "Cyberhaven launches Agentic Data Security to track and control AI data use",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/cyberhaven-agentic-data-security/",
-   "ozet": "Cyberhaven has introduced Agentic Data Security (ADS), to help CISOs, data security teams, insider risk teams, and AI governance leaders say yes to AI agents without losing control of their data. Agentic Data Security shows security teams what every AI agent does with company data, who it is acting ",
-   "grup": "Genel"
   },
   {
    "id": "f3ebdb7305af",
