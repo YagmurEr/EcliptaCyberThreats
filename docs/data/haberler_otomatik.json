@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-06T10:49:16+00:00",
+ "guncelleme": "2026-11-06T16:44:31+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -53,12 +53,84 @@
  ],
  "haberler": [
   {
+   "id": "fa1b528ec2d1",
+   "tarih": "2026-11-06",
+   "kaynak": "SOC Prime",
+   "baslik": "How to Export Graylog Logs",
+   "url": "https://socprime.com/blog/how-to-export-graylog-logs/",
+   "ozet": "Graylog keeps its messages in OpenSearch or Elasticsearch, so you have two routes. Use the Graylog REST API, authenticated with an access token, or query the backend indices (graylog_* by default) directly with a script. Either way you get JSON. The original line is in message, and in full_message f",
+   "grup": "Genel"
+  },
+  {
+   "id": "f8e9629a67be",
+   "tarih": "2026-11-06",
+   "kaynak": "BleepingComputer",
+   "baslik": "Chainalysis says breach exposed credentials for all customers",
+   "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
+   "ozet": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "ed60ea7fa412",
    "tarih": "2026-11-06",
    "kaynak": "The Hacker News",
    "baslik": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
    "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
    "ozet": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those requests never appear in it",
+   "grup": "Genel"
+  },
+  {
+   "id": "ea5dd634f030",
+   "tarih": "2026-11-06",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "Hackers enlist Artex to scan GitHub repositories for exposed secrets",
+   "url": "https://www.cybersecuritydive.com/news/hackers-artex-github-repositories-exposed-secrets/874007/",
+   "ozet": "Agentic AI tools target downstream tenants using stolen credentials, according to Microsoft researchers.",
+   "grup": "Genel"
+  },
+  {
+   "id": "de259e1043ce",
+   "tarih": "2026-11-06",
+   "kaynak": "Help Net Security",
+   "baslik": "OpenSSH flaw exploited in the wild just hours after disclosure (CVE-2026-123158)",
+   "url": "https://www.helpnetsecurity.com/2026/11/06/openssh-sshole-cve-2026-123158-exploitation/",
+   "ozet": "An OpenSSH flaw that lets remote attackers log into passwordless accounts on Alpine Linux and other musl-based systems is being exploited, threat intelligence firm Previdian has warned. The flaw (CVE-2026-123158), nicknamed sshole by Wakefield researcher Özgün Kültekin, was fixed in OpenSSH 10.6p2 o",
+   "grup": "Genel"
+  },
+  {
+   "id": "dcf4f3367137",
+   "tarih": "2026-11-06",
+   "kaynak": "SOC Prime",
+   "baslik": "How to Export Trellix Helix Logs",
+   "url": "https://socprime.com/blog/how-to-export-trellix-helix-logs/",
+   "ozet": "Run your search through the Helix search API: a POST to https://apps.fireeye.com/helix/id/&#60;instance-id&#62;/api/v1/search with your API key in the x-fireeye-api-key header and the query in the body. Regional instances use their own hosts, such as helix.eu.fireeye.com. The results come back as JS",
+   "grup": "Genel"
+  },
+  {
+   "id": "d0b8b49f25ce",
+   "tarih": "2026-11-06",
+   "kaynak": "BleepingComputer",
+   "baslik": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+   "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+   "ozet": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "cea41b0360f6",
+   "tarih": "2026-11-06",
+   "kaynak": "The Hacker News",
+   "baslik": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+   "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+   "ozet": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop",
+   "grup": "Genel"
+  },
+  {
+   "id": "cc8d32ac462d",
+   "tarih": "2026-11-06",
+   "kaynak": "SecurityWeek",
+   "baslik": "Researchers Find Residential Proxies on White House Network",
+   "url": "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/",
+   "ozet": "In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time. The post Researchers Find Residential Proxies on White House Network appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
@@ -71,6 +143,15 @@
    "grup": "Genel"
   },
   {
+   "id": "b1ee54a416ac",
+   "tarih": "2026-11-06",
+   "kaynak": "SOC Prime",
+   "baslik": "How to Export FortiSIEM Logs",
+   "url": "https://socprime.com/blog/how-to-export-fortisiem-logs/",
+   "ozet": "Use FortiSIEM’s REST event query API. Post an XML query to /phoenix/rest/query/eventQuery, which returns a query ID, poll the progress until it reaches 100, then fetch the events. The results come back as XML. The original log line of each event is in the rawEventMsg attribute, so a few lines of Pyt",
+   "grup": "Genel"
+  },
+  {
    "id": "affb73a9e26e",
    "tarih": "2026-11-06",
    "kaynak": "Help Net Security",
@@ -80,12 +161,39 @@
    "grup": "Genel"
   },
   {
+   "id": "af6d1b8b9d25",
+   "tarih": "2026-11-06",
+   "kaynak": "BleepingComputer",
+   "baslik": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+   "url": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+   "ozet": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "aa5aba5c7277",
+   "tarih": "2026-11-06",
+   "kaynak": "Hackread",
+   "baslik": "CISA Warns Hackers Are Exploiting 18-Year-Old WordPress Core Vulnerability",
+   "url": "https://hackread.com/cisa-hackers-exploiting-wordpress-core-vulnerability/",
+   "ozet": "CVE-2026-119977 lets hackers hijack WordPress sites during core updates. CISA confirms exploitation as users are told to patch&#8230;",
+   "grup": "WordPress"
+  },
+  {
    "id": "a64f92172f81",
    "tarih": "2026-11-06",
    "kaynak": "Help Net Security",
    "baslik": "87% say their AI controls need to work better",
    "url": "https://www.helpnetsecurity.com/2026/11/06/autonomous-ai-oversight-governance/",
    "ozet": "The AI running inside large companies has stopped waiting for permission. Across five categories of AI, from chatbots to process automation, more than half of 3,600 business decision-makers say the systems their teams use can act within defined rules without routine review, or finish whole processes",
+   "grup": "Genel"
+  },
+  {
+   "id": "a5d2f46564bf",
+   "tarih": "2026-11-06",
+   "kaynak": "Schneier on Security",
+   "baslik": "Pinpointing Location of Videos from Background Airplane Sounds",
+   "url": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html",
+   "ozet": "This is fascinating: The video describes a technique that can reveal where an otherwise unidentifiable recording was made by analyzing its audio for the faint sounds of passing aircraft. The technique is both fascinating and frightening. It works by looking at Doppler curves, which plot the way a pl",
    "grup": "Genel"
   },
   {
@@ -107,6 +215,15 @@
    "grup": "Genel"
   },
   {
+   "id": "991d00e938a3",
+   "tarih": "2026-11-06",
+   "kaynak": "Hackread",
+   "baslik": "Railway Engineer Admits Running AI Agents Against Rival Cloud Platform",
+   "url": "https://hackread.com/railway-engineer-run-ai-agents-rival-cloud-platform/",
+   "ozet": "A Railway engineer admitted testing AI agents on Primcloud, whose founder says they sought customer secrets and scanned&#8230;",
+   "grup": "Genel"
+  },
+  {
    "id": "97d7db0e7e4a",
    "tarih": "2026-11-06",
    "kaynak": "BleepingComputer",
@@ -125,6 +242,15 @@
    "grup": "Genel"
   },
   {
+   "id": "8694430c3bcd",
+   "tarih": "2026-11-06",
+   "kaynak": "SecurityWeek",
+   "baslik": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
+   "url": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
+   "ozet": "The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "7dec2b66b380",
    "tarih": "2026-11-06",
    "kaynak": "Help Net Security",
@@ -132,6 +258,15 @@
    "url": "https://www.helpnetsecurity.com/2026/11/06/white-house-residential-proxy-traffic/",
    "ozet": "The White House network has been working as an exit point for residential proxy services, a setup that may open a path into one of the most closely guarded networks in the world, Layer3 Intel found. In a blog post, the threat intelligence firm reported that its proxy enumeration pipeline exited thro",
    "grup": "Genel"
+  },
+  {
+   "id": "7bbf9882575e",
+   "tarih": "2026-11-06",
+   "kaynak": "Hackread",
+   "baslik": "Insignary Releases Free Insignary-Chk Tool to Detect PHP2Shell and Node2Shell Exposure",
+   "url": "https://hackread.com/insignary-releases-free-insignary-chk-tool-to-detect-php2shell-and-node2shell-exposure/",
+   "ozet": "Toronto, Canada, 6th November 2026, CyberNewswire",
+   "grup": "PHP"
   },
   {
    "id": "6facdf5f94df",
@@ -161,6 +296,24 @@
    "grup": "Genel"
   },
   {
+   "id": "6625b8a777d1",
+   "tarih": "2026-11-06",
+   "kaynak": "The Hacker News",
+   "baslik": "The Flood is Coming And The Pipes Were Already Full",
+   "url": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+   "ozet": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what they can do and what ",
+   "grup": "Genel"
+  },
+  {
+   "id": "649e0d8b078e",
+   "tarih": "2026-11-06",
+   "kaynak": "The Hacker News",
+   "baslik": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+   "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+   "ozet": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest Paint build in all ten countries The Hacker News checked today. The fla",
+   "grup": "Microsoft"
+  },
+  {
    "id": "5d7c1511e0dd",
    "tarih": "2026-11-06",
    "kaynak": "SecurityWeek",
@@ -170,12 +323,57 @@
    "grup": "Genel"
   },
   {
+   "id": "5c794c08b581",
+   "tarih": "2026-11-06",
+   "kaynak": "Dark Reading",
+   "baslik": "Why Europe's Freezer Hacks Spread So Far, So Fast",
+   "url": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
+   "ozet": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.",
+   "grup": "Genel"
+  },
+  {
    "id": "57a5b9afce46",
    "tarih": "2026-11-06",
    "kaynak": "Help Net Security",
    "baslik": "99% of repository access tokens never expire",
    "url": "https://www.helpnetsecurity.com/2026/11/06/blueflag-ai-agents-access-risks-report/",
    "ozet": "Developers, automated tools and AI coding agents hold permissions that can outlast the work they were granted for. Without access reviews, organizations can leave accounts able to copy or change company code after the work ends, according to BlueFlag Security’s The State of Developer Risk 2026 repor",
+   "grup": "Genel"
+  },
+  {
+   "id": "57688c41585b",
+   "tarih": "2026-11-06",
+   "kaynak": "SOC Prime",
+   "baslik": "CVE-2026-123158: OpenSSH Password Authentication Bypass Affects Alpine Linux",
+   "url": "https://socprime.com/blog/cve-2026-123158-openssh-password-authentication-bypass-affects-alpine-linux/",
+   "ozet": "A high-severity vulnerability in OpenSSH can allow unauthenticated remote attackers to bypass password authentication on certain Linux systems by submitting an overlong password. Tracked as CVE-2026-123158 and dubbed SSHhole, the flaw carries a CVSS 3.1 score of 8.1 and primarily impacts Linux envir",
+   "grup": "Genel"
+  },
+  {
+   "id": "574e51be0057",
+   "tarih": "2026-11-06",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "Companies struggle to know what normal looks like for AI agents",
+   "url": "https://www.cybersecuritydive.com/news/ai-agents-normal-baseline-security-governance/873998/",
+   "ozet": "The inability to establish baselines is complicating the task of securing these autonomous tools, a new report found.",
+   "grup": "Genel"
+  },
+  {
+   "id": "534e6685aefb",
+   "tarih": "2026-11-06",
+   "kaynak": "SOC Prime",
+   "baslik": "How to Export Wazuh Logs",
+   "url": "https://socprime.com/blog/how-to-export-wazuh-logs/",
+   "ozet": "Wazuh keeps its data in two places. On the Wazuh manager, alerts are written to /var/ossec/logs/alerts/alerts.json, one JSON object per line, and rotated daily into compressed files by date. The same alerts are indexed in the Wazuh indexer (OpenSearch), in wazuh-alerts-4.x-*. Either way, the origina",
+   "grup": "Genel"
+  },
+  {
+   "id": "3ae40aec285b",
+   "tarih": "2026-11-06",
+   "kaynak": "SecurityWeek",
+   "baslik": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
+   "url": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
+   "ozet": "Rated Critical for cybersecurity, OpenAI’s new model beats GPT-5.6 Cyber at exploitation while staying in scope more reliably. The post OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
@@ -197,12 +395,57 @@
    "grup": "Genel"
   },
   {
+   "id": "3819f6707361",
+   "tarih": "2026-11-06",
+   "kaynak": "SecurityWeek",
+   "baslik": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
+   "url": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
+   "ozet": "Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands. The post In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "3647bbef0072",
+   "tarih": "2026-11-06",
+   "kaynak": "BleepingComputer",
+   "baslik": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
+   "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
+   "ozet": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "3450626e3180",
+   "tarih": "2026-11-06",
+   "kaynak": "SecurityWeek",
+   "baslik": "US Agencies Urge Organizations to Harden Refrigeration Controllers",
+   "url": "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
+   "ozet": "The recommendations come amid attacks targeting fridges and freezers in supermarkets and blood banks in Europe. The post US Agencies Urge Organizations to Harden Refrigeration Controllers appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "33ab60e6dabf",
    "tarih": "2026-11-06",
    "kaynak": "Help Net Security",
    "baslik": "Rental phishing sites use live chat to win over hesitant travelers",
    "url": "https://www.helpnetsecurity.com/2026/11/06/holiday-rental-platform-phishing-travelers/",
    "ozet": "Holiday travelers looking for a place to stay are landing on copies of popular rental platforms, complete with host names, ratings and reviews, that ask for their passwords, personal details and credit card numbers. The sites, spotted and taken down by Fortra’s Intelligence and Research Experts (FIR",
+   "grup": "Genel"
+  },
+  {
+   "id": "28001d41675b",
+   "tarih": "2026-11-06",
+   "kaynak": "SecurityWeek",
+   "baslik": "DigiCert Data Breach Impacts Business Customer Information",
+   "url": "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
+   "ozet": "Hackers created an account on an internal system and accessed names, email addresses, phone numbers, and business addresses. The post DigiCert Data Breach Impacts Business Customer Information appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "222613d43ca7",
+   "tarih": "2026-11-06",
+   "kaynak": "SecurityWeek",
+   "baslik": "OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass",
+   "url": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
+   "ozet": "On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for &#8216;SSHole&#8217; Authentication Bypass appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
@@ -395,78 +638,6 @@
    "grup": "Genel"
   },
   {
-   "id": "a190c692796e",
-   "tarih": "2026-11-05",
-   "kaynak": "SecurityWeek",
-   "baslik": "CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality",
-   "url": "https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/",
-   "ozet": "Ryan Davis went from hacking his school’s network to running security at New Charter Technologies. What worries him now is shadow AI. The post CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "9f35cab58178",
-   "tarih": "2026-11-05",
-   "kaynak": "GBHackers",
-   "baslik": "11 Digital Forensics Tools: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/digital-forensics-tools-buyers-guide/",
-   "ozet": "Forensic tooling is bought under two pressures that pull apart: caseload arithmetic (mostly mobile, always backlogged) and courtroom survival (every finding must outlive cross-examination). This verdict guide judges eleven tools commercial suites, frontline kiosks, and the open-source pillars every ",
-   "grup": "Genel"
-  },
-  {
-   "id": "96a1ace9f58c",
-   "tarih": "2026-11-05",
-   "kaynak": "The Hacker News",
-   "baslik": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-   "url": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-   "ozet": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by s",
-   "grup": "Genel"
-  },
-  {
-   "id": "95338b4eedb1",
-   "tarih": "2026-11-05",
-   "kaynak": "Help Net Security",
-   "baslik": "Scammers capitalize on GTA 6 hype to push malware and crypto cons",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/gta-6-scams-fake-leaks-early-access/",
-   "ozet": "Scammers are offering supposed leaked builds, early copies and phone versions of Grand Theft Auto VI (GTA 6) weeks before the game’s November 19 launch, Netcraft warned in a new blog post. The company looked at GTA VI-themed domains that appeared between July 1 and October 27, 2026. Most of the lure",
-   "grup": "Genel"
-  },
-  {
-   "id": "915c0b58aca6",
-   "tarih": "2026-11-05",
-   "kaynak": "Help Net Security",
-   "baslik": "Healthcare can’t govern the AI tools it hasn’t found yet",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/healthcare-ai-governance-patient-data/",
-   "ozet": "Nearly nine in ten healthcare leaders say security or compliance staff always or usually review AI-written code that touches patient data before it goes live, and seven in ten have still found an AI-built tool handling that data without IT or security knowing, according to Paubox. Source: Paubox The",
-   "grup": "Genel"
-  },
-  {
-   "id": "907479fa3fc7",
-   "tarih": "2026-11-05",
-   "kaynak": "Help Net Security",
-   "baslik": "Cyberattack on Norway’s aid agency may have swept up all user data",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/norad-grants-portal-breach/",
-   "ozet": "The names and email addresses of 20,614 people registered on Norad’s Grants Portal may have ended up in the hands of attackers, Norway’s development aid agency has disclosed. Norad, short for the Norwegian Agency for Development Cooperation, works with partners around the world on development aid. I",
-   "grup": "Genel"
-  },
-  {
-   "id": "8c41ea535686",
-   "tarih": "2026-11-05",
-   "kaynak": "Dark Reading",
-   "baslik": "APT29's Watering Holes Target Thousands of Mobile Users",
-   "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
-   "ozet": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
-   "grup": "Genel"
-  },
-  {
-   "id": "89af0224359d",
-   "tarih": "2026-11-05",
-   "kaynak": "SecurityWeek",
-   "baslik": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
-   "url": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
-   "ozet": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently. The post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
    "id": "886e9406677f",
    "tarih": "2026-11-05",
    "kaynak": "BleepingComputer",
@@ -476,132 +647,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "85792e27ec26",
-   "tarih": "2026-11-05",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export Rapid7 InsightIDR Logs",
-   "url": "https://socprime.com/blog/how-to-export-rapid7-insightidr-logs/",
-   "ozet": "Use the Log Search API. Send a LEQL query for a log and a time window to https://&#60;region&#62;.rest.logs.insight.rapid7.com/query/logs/&#60;log-key&#62; with your API key in the X-Api-Key header. The API returns events in pages and gives you a link to the next one. Log Search in the UI can export",
-   "grup": "Genel"
-  },
-  {
-   "id": "8384bfde04a0",
-   "tarih": "2026-11-05",
-   "kaynak": "SecurityWeek",
-   "baslik": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
-   "url": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
-   "ozet": "The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked. The post Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "806a92e4d68b",
-   "tarih": "2026-11-05",
-   "kaynak": "SecurityWeek",
-   "baslik": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
-   "url": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
-   "ozet": "Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests. The post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "7e77be217076",
-   "tarih": "2026-11-05",
-   "kaynak": "Hackread",
-   "baslik": "The Smartest Part of a Home Camera Is Moving Off the Cloud",
-   "url": "https://hackread.com/smartest-home-camera-moving-off-cloud/",
-   "ozet": "For most of the decade gone by, the &#8220;smart&#8221; aspect of smart camera systems resided on external hardware&#8230;",
-   "grup": "Genel"
-  },
-  {
-   "id": "7e637a2f9fd7",
-   "tarih": "2026-11-05",
-   "kaynak": "BleepingComputer",
-   "baslik": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
-   "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
-   "ozet": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "76cbbd24b030",
-   "tarih": "2026-11-05",
-   "kaynak": "Help Net Security",
-   "baslik": "PortSwigger’s Burp AT lets enterprises delegate pentests with defined limits",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/portswigger-burp-at-enterprises/",
-   "ozet": "PortSwigger has announced the availability of Burp AT for enterprises, an agentic pentesting solution that helps security teams investigate important applications more deeply and more often. Burp AT combines specialist Burp tools, purpose-built pentesting skills developed with PortSwigger Research, ",
-   "grup": "Genel"
-  },
-  {
-   "id": "74b6e4b79699",
-   "tarih": "2026-11-05",
-   "kaynak": "GBHackers",
-   "baslik": "ARTEX Hackers Used Claude Code, DeepSeek, and Grok in Attacks Targeting South Korean Banks",
-   "url": "https://gbhackers.com/ai-powered-banking/",
-   "ozet": "A financially motivated threat actor used ARTEX, Claude Code, and multiple large language models in a campaign targeting South Korean financial organizations. Exposed attacker directories revealed session histories, configurations, and operational scripts, showing how AI tooling supported intrusions",
-   "grup": "Genel"
-  },
-  {
-   "id": "733ec83fdb55",
-   "tarih": "2026-11-05",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export NetWitness Logs",
-   "url": "https://socprime.com/blog/how-to-export-netwitness-logs/",
-   "ozet": "In NetWitness Investigate, run your query in the Events view, select the events (or all of them), and download the logs. Pick Text to get the raw log lines, or JSON for structured events. Large downloads run as jobs; you collect the file from the Jobs tray when it’s ready. By default, one export can",
-   "grup": "Genel"
-  },
-  {
-   "id": "6ed2455dd6fa",
-   "tarih": "2026-11-05",
-   "kaynak": "SOC Prime",
-   "baslik": "CVE-2026-109518: APT Flaw Enables MitM Root Code Execution",
-   "url": "https://socprime.com/blog/cve-2026-109518-apt-flaw-enables-mitm-root-code-execution/",
-   "ozet": "A high-severity vulnerability in APT, the package management system used by Debian, Ubuntu, and derivative Linux distributions, could allow an on-path attacker to replace a verified software package with a malicious one and execute arbitrary code with root privileges. Tracked as CVE-2026-109518, the",
-   "grup": "Genel"
-  },
-  {
-   "id": "6de3df99af71",
-   "tarih": "2026-11-05",
-   "kaynak": "GBHackers",
-   "baslik": "Apple to Scan Publicly Shared iCloud Photos and Files for Harmful Content Starting With iOS 27.3",
-   "url": "https://gbhackers.com/apple-to-scan-publicly-shared-icloud-photos-and-files/",
-   "ozet": "Apple will start checking iCloud photos and files shared through &#8220;Anyone with the Link&#8221; for harmful content beginning with iOS 17.3. This policy also applies to iPadOS, macOS, and visionOS version 17.3 or later. It distinguishes between publicly accessible sharing links and content that ",
-   "grup": "Genel"
-  },
-  {
-   "id": "6b1d9cd5a096",
-   "tarih": "2026-11-05",
-   "kaynak": "BleepingComputer",
-   "baslik": "DigiCert data breach exposes customer information, identity documents",
-   "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-   "ozet": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "6ae54b5becb8",
-   "tarih": "2026-11-05",
-   "kaynak": "Dark Reading",
-   "baslik": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
-   "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
-   "ozet": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
-   "grup": "Genel"
-  },
-  {
-   "id": "68af6446b07c",
-   "tarih": "2026-11-05",
-   "kaynak": "SecurityWeek",
-   "baslik": "Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes",
-   "url": "https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/",
-   "ozet": "The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine. The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "671b07a9ce2d",
-   "tarih": "2026-11-05",
-   "kaynak": "BleepingComputer",
-   "baslik": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
-   "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
-   "ozet": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
-   "grup": "Genel"
-  },
-  {
    "id": "666ecfcfa452",
    "tarih": "2026-11-05",
    "kaynak": "SOC Prime",
@@ -609,24 +654,6 @@
    "url": "https://socprime.com/blog/cve-2026-98432-critical-linux-kernel-tcp-flaw-enables-remote-code-execution/",
    "ozet": "A critical vulnerability in the Linux kernel’s IPv4 TCP networking stack could allow an unauthenticated remote attacker to trigger memory corruption, crash vulnerable systems, and potentially execute arbitrary code with root privileges. Tracked as CVE-2026-98432, the flaw carries a CVSS 3.1 score of",
    "grup": "Linux Kernel"
-  },
-  {
-   "id": "648780909881",
-   "tarih": "2026-11-05",
-   "kaynak": "GBHackers",
-   "baslik": "AI-Powered BOSSAI Attacks Expose Patient Records and Emergency Dispatch Data in Taiwan",
-   "url": "https://gbhackers.com/ai-powered-bossai-attacks/",
-   "ozet": "BOSSAI, an agentic attack platform run by one operator that exposed emergency medical and dispatch data in Taipei. The campaign targeted hundreds of organizations in eleven countries, including emergency services, banks, universities, military systems and e-commerce sites. Confirmed breaches hit uni",
-   "grup": "Genel"
-  },
-  {
-   "id": "5d4d03269391",
-   "tarih": "2026-11-05",
-   "kaynak": "The Hacker News",
-   "baslik": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
-   "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
-   "ozet": "A critical finding can move through several security tools and still leave the organization exposed.&nbsp; The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what ",
-   "grup": "Genel"
   },
   {
    "id": "1779cfdf0141",
@@ -859,7 +886,7 @@
    "kaynak": "Dark Reading",
    "baslik": "Microsoft's AI Risk Report Misses This Key Detail",
    "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
-   "ozet": "The latest &quot;Digital Defense Report&quot; identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs.",
+   "ozet": "The latest &quot;Digital Defense Report&quot; identifies government agencies as prime targets for AI attacks, but it doesn't mention that they are broadly being targeted through Microsoft bugs.",
    "grup": "Microsoft"
   },
   {
