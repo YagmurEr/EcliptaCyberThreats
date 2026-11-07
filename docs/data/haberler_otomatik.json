@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-07T00:53:03+00:00",
+ "guncelleme": "2026-11-07T10:01:59+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -61,6 +61,69 @@
    "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
    "ozet": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
    "grup": "SonicWall"
+  },
+  {
+   "id": "ac8f3d279b5b",
+   "tarih": "2026-11-07",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Exploit WordPress Core RCE Vulnerability in Over 240,000 Attack Attempts",
+   "url": "https://gbhackers.com/exploit-wordpress-core-over-240000-attack/",
+   "ozet": "Attackers have launched more than 240,000 exploit attempts against a WordPress Core upgrade-process flaw that can enable unauthenticated remote code execution. Wordfence researcher István Márton reported that targeting began on October 28, 2026. Tracked as CVE-2026-119977, the high-severity issue ca",
+   "grup": "WordPress"
+  },
+  {
+   "id": "ac08d9e16e3a",
+   "tarih": "2026-11-07",
+   "kaynak": "GBHackers",
+   "baslik": "Insignary Releases Free Insignary-Chk Tool to Detect PHP2Shell and Node2Shell Exposure",
+   "url": "https://gbhackers.com/insignary-releases-free-insignary-chk-tool-to-detect-php2shell-and-node2shell-exposure/",
+   "ozet": "Toronto, Canada, November 6th, 2026, CyberNewswire Free, read-only scanner helps organizations find Linux servers and container images exposed to two actively exploited vulnerabilities in PHP and Node.js Insignary, a global open-source security company, today released insignary-chk, a free tool that",
+   "grup": "PHP"
+  },
+  {
+   "id": "81782370aa9c",
+   "tarih": "2026-11-07",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Exploit SonicWall SSL-VPN Vulnerability to Bypass Multi-Factor Authentication in Active Attacks",
+   "url": "https://gbhackers.com/sonicwall-ssl-vpn-vulnerability/",
+   "ozet": "SonicWall has disclosed an SSL-VPN authentication enforcement flaw that could let attackers bypass SAML authentication and associated multi-factor authentication controls. Tracked as CVE-2026-19868, the issue carries a CVSS score of 7.1. Advisory SNWLID-2026-0014, published November 6, 2026, states ",
+   "grup": "SonicWall"
+  },
+  {
+   "id": "804a43c3361e",
+   "tarih": "2026-11-07",
+   "kaynak": "The Hacker News",
+   "baslik": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+   "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+   "ozet": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in",
+   "grup": "Genel"
+  },
+  {
+   "id": "71b088e2c344",
+   "tarih": "2026-11-07",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Use Fake GitHub Security Tools to Spread Malware, Infecting Over 2,000 Computers",
+   "url": "https://gbhackers.com/hackers-use-fake-github-security-tools/",
+   "ozet": "Threat actors are distributing malware through GitHub repositories masquerading as security utilities, infecting more than 2,000 computers. According to Doctor Web’s November 5 investigation, the campaign targets cybersecurity professionals alongside blockchain gaming enthusiasts, weaponizing Visual",
+   "grup": "Genel"
+  },
+  {
+   "id": "5a803bd3a25d",
+   "tarih": "2026-11-07",
+   "kaynak": "GBHackers",
+   "baslik": "Claude Code’s “Don’t Ask Again” Feature Exposes 2,539 Secrets Across 1,994 GitHub Repositories",
+   "url": "https://gbhackers.com/claude-codes-dont-ask-again-feature-exposed/",
+   "ozet": "A newly identified 2,539 distinct secrets across 1,994 public GitHub repositories, tracing exposure to coding-agent configuration files, Git history, and saved transcripts. Their November 5 research describes how Claude Code’s “Yes, and don’t ask again” approval can persist credential-bearing shell ",
+   "grup": "Genel"
+  },
+  {
+   "id": "1056b069dc3a",
+   "tarih": "2026-11-07",
+   "kaynak": "GBHackers",
+   "baslik": "WorkOS Confirms Data Breach After ARTEX AI Agent Escapes Security Researcher’s Sandbox",
+   "url": "https://gbhackers.com/workos-data-breach-artex-ai/",
+   "ozet": "WorkOS confirmed that an ARTEX security agent escaped a researcher’s isolated testing environment and accessed an internal application, exposing customer business information. In its November 6 update, the company attributed the incident to unintended activity during cybersecurity benchmark evaluati",
+   "grup": "Genel"
   },
   {
    "id": "fa1b528ec2d1",
@@ -609,42 +672,6 @@
    "baslik": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
    "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
    "ozet": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "3450626e3180",
-   "tarih": "2026-11-06",
-   "kaynak": "SecurityWeek",
-   "baslik": "US Agencies Urge Organizations to Harden Refrigeration Controllers",
-   "url": "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
-   "ozet": "The recommendations come amid attacks targeting fridges and freezers in supermarkets and blood banks in Europe. The post US Agencies Urge Organizations to Harden Refrigeration Controllers appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "33ab60e6dabf",
-   "tarih": "2026-11-06",
-   "kaynak": "Help Net Security",
-   "baslik": "Rental phishing sites use live chat to win over hesitant travelers",
-   "url": "https://www.helpnetsecurity.com/2026/11/06/holiday-rental-platform-phishing-travelers/",
-   "ozet": "Holiday travelers looking for a place to stay are landing on copies of popular rental platforms, complete with host names, ratings and reviews, that ask for their passwords, personal details and credit card numbers. The sites, spotted and taken down by Fortra’s Intelligence and Research Experts (FIR",
-   "grup": "Genel"
-  },
-  {
-   "id": "28001d41675b",
-   "tarih": "2026-11-06",
-   "kaynak": "SecurityWeek",
-   "baslik": "DigiCert Data Breach Impacts Business Customer Information",
-   "url": "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
-   "ozet": "Hackers created an account on an internal system and accessed names, email addresses, phone numbers, and business addresses. The post DigiCert Data Breach Impacts Business Customer Information appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "222613d43ca7",
-   "tarih": "2026-11-06",
-   "kaynak": "SecurityWeek",
-   "baslik": "OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass",
-   "url": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
-   "ozet": "On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for &#8216;SSHole&#8217; Authentication Bypass appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
