@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-07T10:01:59+00:00",
+ "guncelleme": "2026-11-07T15:38:13+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -54,6 +54,15 @@
  ],
  "haberler": [
   {
+   "id": "ded94754be20",
+   "tarih": "2026-11-07",
+   "kaynak": "BleepingComputer",
+   "baslik": "Hackers pull off $133 million French bank heist via service provider",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+   "ozet": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "ca1a9396bb65",
    "tarih": "2026-11-07",
    "kaynak": "BleepingComputer",
@@ -79,6 +88,15 @@
    "url": "https://gbhackers.com/insignary-releases-free-insignary-chk-tool-to-detect-php2shell-and-node2shell-exposure/",
    "ozet": "Toronto, Canada, November 6th, 2026, CyberNewswire Free, read-only scanner helps organizations find Linux servers and container images exposed to two actively exploited vulnerabilities in PHP and Node.js Insignary, a global open-source security company, today released insignary-chk, a free tool that",
    "grup": "PHP"
+  },
+  {
+   "id": "986edfc864db",
+   "tarih": "2026-11-07",
+   "kaynak": "SecurityWeek",
+   "baslik": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+   "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+   "ozet": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek.",
+   "grup": "SonicWall"
   },
   {
    "id": "81782370aa9c",
@@ -114,6 +132,15 @@
    "baslik": "Claude Code’s “Don’t Ask Again” Feature Exposes 2,539 Secrets Across 1,994 GitHub Repositories",
    "url": "https://gbhackers.com/claude-codes-dont-ask-again-feature-exposed/",
    "ozet": "A newly identified 2,539 distinct secrets across 1,994 public GitHub repositories, tracing exposure to coding-agent configuration files, Git history, and saved transcripts. Their November 5 research describes how Claude Code’s “Yes, and don’t ask again” approval can persist credential-bearing shell ",
+   "grup": "Genel"
+  },
+  {
+   "id": "5a765cf499c2",
+   "tarih": "2026-11-07",
+   "kaynak": "BleepingComputer",
+   "baslik": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+   "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+   "ozet": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without deliver",
    "grup": "Genel"
   },
   {
@@ -654,24 +681,6 @@
    "baslik": "Hackers Put AI Agents on Autopilot to Steal Gaming Accounts and Apple Signing Certificates",
    "url": "https://gbhackers.com/gaming-accounts-targeted/",
    "ozet": "ARTEX, a Chinese open-source agentic penetration-testing platform, to run autonomous attacks. The operators set a goal and then mostly check progress. Researchers identified 2,557 systems that host or hosted ARTEX panels, and 1,608 were live and public. Ten misconfigured instances exposed their full",
-   "grup": "Genel"
-  },
-  {
-   "id": "3819f6707361",
-   "tarih": "2026-11-06",
-   "kaynak": "SecurityWeek",
-   "baslik": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
-   "url": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
-   "ozet": "Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands. The post In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "3647bbef0072",
-   "tarih": "2026-11-06",
-   "kaynak": "BleepingComputer",
-   "baslik": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-   "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-   "ozet": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
    "grup": "Genel"
   },
   {
