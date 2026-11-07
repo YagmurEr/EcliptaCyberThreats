@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-06T16:44:31+00:00",
+ "guncelleme": "2026-11-07T00:53:03+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -33,7 +33,8 @@
   },
   {
    "kaynak": "GBHackers",
-   "durum": "hata"
+   "durum": "ok",
+   "adet": 10
   },
   {
    "kaynak": "Cybersecurity Dive",
@@ -52,6 +53,15 @@
   }
  ],
  "haberler": [
+  {
+   "id": "ca1a9396bb65",
+   "tarih": "2026-11-07",
+   "kaynak": "BleepingComputer",
+   "baslik": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+   "ozet": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+   "grup": "SonicWall"
+  },
   {
    "id": "fa1b528ec2d1",
    "tarih": "2026-11-06",
@@ -89,6 +99,15 @@
    "grup": "Genel"
   },
   {
+   "id": "e6f324c83a07",
+   "tarih": "2026-11-06",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Use ARTEX AI to Steal Azure Key Vault Secrets Just 5 Minutes After Finding Exposed GitHub Credentials",
+   "url": "https://gbhackers.com/azure-key-vault-secrets/",
+   "ozet": "Attackers using the ARTEX agentic AI framework to discover exposed GitHub credentials and rapidly compromise cloud environments. In one intrusion, an AI agent progressed from searching GitHub for application secrets to exfiltrating Azure Key Vault data in just five minutes. The activity compresses a",
+   "grup": "Microsoft"
+  },
+  {
    "id": "de259e1043ce",
    "tarih": "2026-11-06",
    "kaynak": "Help Net Security",
@@ -104,6 +123,24 @@
    "baslik": "How to Export Trellix Helix Logs",
    "url": "https://socprime.com/blog/how-to-export-trellix-helix-logs/",
    "ozet": "Run your search through the Helix search API: a POST to https://apps.fireeye.com/helix/id/&#60;instance-id&#62;/api/v1/search with your API key in the x-fireeye-api-key header and the query in the body. Regional instances use their own hosts, such as helix.eu.fireeye.com. The results come back as JS",
+   "grup": "Genel"
+  },
+  {
+   "id": "d9a0f8bfa397",
+   "tarih": "2026-11-06",
+   "kaynak": "SecurityWeek",
+   "baslik": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
+   "url": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
+   "ozet": "The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness across Japan. The post Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks appeared first on SecurityW",
+   "grup": "Genel"
+  },
+  {
+   "id": "d3a831a942e3",
+   "tarih": "2026-11-06",
+   "kaynak": "GBHackers",
+   "baslik": "11 IT & Cyber Risk Management Tools: The 2026 Buyer’s Verdict Guide",
+   "url": "https://gbhackers.com/it-cyber-risk-buyers-guide/",
+   "ozet": "IT and cyber risk management tooling is the register discipline underneath GRC’s broader umbrella: risks captured with owners and treatments, controls linked, exceptions tracked, and reporting that survives committee scrutiny. Where our GRC platforms guide judges the whole estate, this guide narrows",
    "grup": "Genel"
   },
   {
@@ -143,6 +180,42 @@
    "grup": "Genel"
   },
   {
+   "id": "c4daeac5c98c",
+   "tarih": "2026-11-06",
+   "kaynak": "BleepingComputer",
+   "baslik": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+   "ozet": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "ba147c5fc5c9",
+   "tarih": "2026-11-06",
+   "kaynak": "BleepingComputer",
+   "baslik": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+   "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+   "ozet": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "b99b441690fc",
+   "tarih": "2026-11-06",
+   "kaynak": "BleepingComputer",
+   "baslik": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+   "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+   "ozet": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "b63212099f3b",
+   "tarih": "2026-11-06",
+   "kaynak": "Dark Reading",
+   "baslik": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+   "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+   "ozet": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
+   "grup": "Genel"
+  },
+  {
    "id": "b1ee54a416ac",
    "tarih": "2026-11-06",
    "kaynak": "SOC Prime",
@@ -170,6 +243,15 @@
    "grup": "Genel"
   },
   {
+   "id": "adc3daa83346",
+   "tarih": "2026-11-06",
+   "kaynak": "GBHackers",
+   "baslik": "Claude AI Flaw Lets Malicious Browser Extensions Execute Commands on Remote Computers",
+   "url": "https://gbhackers.com/claude-ai-flaw/",
+   "ozet": "A design flaw in Anthropic&#8217;s Claude Dispatch feature let a malicious browser extension run commands on the operating system, even on a different computer. Researchers at Forever Security named the attack ThisBash. They found that Claude Dispatch accepted instructions from an ordinary logged-in",
+   "grup": "Genel"
+  },
+  {
    "id": "aa5aba5c7277",
    "tarih": "2026-11-06",
    "kaynak": "Hackread",
@@ -177,6 +259,24 @@
    "url": "https://hackread.com/cisa-hackers-exploiting-wordpress-core-vulnerability/",
    "ozet": "CVE-2026-119977 lets hackers hijack WordPress sites during core updates. CISA confirms exploitation as users are told to patch&#8230;",
    "grup": "WordPress"
+  },
+  {
+   "id": "a97be9095b72",
+   "tarih": "2026-11-06",
+   "kaynak": "BleepingComputer",
+   "baslik": "Fake security tools on GitHub push backdoors and infostealers",
+   "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+   "ozet": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "a7aeb858ca26",
+   "tarih": "2026-11-06",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Use Fake Streaming Apps to Spread Mirax Android Malware and Steal Bank Accounts",
+   "url": "https://gbhackers.com/mirax-android-malware/",
+   "ozet": "Hackers are using streaming app lures to distribute Mirax. This Android banking trojan lets operators remotely control victims’ phones and initiate fraudulent transfers. Estimated losses reach millions of dollars, although confirmed cases capture only part of the campaign’s impact. The operation rem",
+   "grup": "Genel"
   },
   {
    "id": "a64f92172f81",
@@ -197,6 +297,15 @@
    "grup": "Genel"
   },
   {
+   "id": "a40dff3d749a",
+   "tarih": "2026-11-06",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+   "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+   "ozet": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), impacts Linux system",
+   "grup": "Genel"
+  },
+  {
    "id": "a382c3d13c65",
    "tarih": "2026-11-06",
    "kaynak": "The Hacker News",
@@ -206,12 +315,30 @@
    "grup": "Genel"
   },
   {
+   "id": "9fe769e3c933",
+   "tarih": "2026-11-06",
+   "kaynak": "The Hacker News",
+   "baslik": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+   "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+   "ozet": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacker who strikes at the",
+   "grup": "WordPress"
+  },
+  {
    "id": "9e0aea37a06b",
    "tarih": "2026-11-06",
    "kaynak": "Help Net Security",
    "baslik": "US agencies warn attackers are targeting refrigeration systems that protect food and medicine",
    "url": "https://www.helpnetsecurity.com/2026/11/06/cyberattacks-refrigeration-systems-cisa-fbi/",
    "ozet": "Threat actors are going after the controllers that keep grocery store freezers and cold storage rooms at safe temperatures, and they may push those units into continuous heating and defrost cycles, five US federal agencies warned in a joint advisory published on Thursday. CISA, the FBI, the Departme",
+   "grup": "Genel"
+  },
+  {
+   "id": "9c283f98cc0e",
+   "tarih": "2026-11-06",
+   "kaynak": "GBHackers",
+   "baslik": "ChatGPT Lockdown Mode Bypass Allowed Hackers to Steal Private Chats Without User Interaction",
+   "url": "https://gbhackers.com/chatgpt-lockdown-mode-bypass/",
+   "ozet": "Research found a flaw that bypassed ChatGPT&#8217;s Lockdown Mode. It let attackers silently exfiltrate full chat histories, deliver malware, and phish credentials from inside a trusted interface. Researcher Alexey Bukhteyev published the findings on November 5, 2026. In the ChatGPT Classic desktop ",
    "grup": "Genel"
   },
   {
@@ -233,6 +360,33 @@
    "grup": "Genel"
   },
   {
+   "id": "908dfb428150",
+   "tarih": "2026-11-06",
+   "kaynak": "GBHackers",
+   "baslik": "Dark Project Ransomware Gang Claims 38 Victims Across 8 Countries, Targeting Healthcare and Manufacturing",
+   "url": "https://gbhackers.com/dark-project-ransomware/",
+   "ozet": "Dark Project, an emerging financially motivated ransomware operation, has claimed 38 victims across eight countries in the supplied threat intelligence snapshot, with manufacturing and healthcare bearing the heaviest exposure. The group combines data theft, system encryption, and public disclosure t",
+   "grup": "Genel"
+  },
+  {
+   "id": "8d609033f454",
+   "tarih": "2026-11-06",
+   "kaynak": "GBHackers",
+   "baslik": "11 Security Policy Management Tools: The 2026 Buyer’s Verdict Guide",
+   "url": "https://gbhackers.com/security-policy-management-buyers-guide/",
+   "ozet": "“Security policy management” names two different markets wearing one label, and this roster contains both: network security policy management (NSPM) firewall rulebases, segmentation intent, change automation across hybrid estates and written-policy lifecycle the documents people must read, sign, and",
+   "grup": "Genel"
+  },
+  {
+   "id": "8a60b197e0cf",
+   "tarih": "2026-11-06",
+   "kaynak": "Hackread",
+   "baslik": "7 Best Vulnerability Scanning Tools for Security Teams in 2026",
+   "url": "https://hackread.com/best-vulnerability-scanning-tools-security-teams-2026/",
+   "ozet": "Compare 7 vulnerability scanning tools for small teams, covering setup, network and app testing, prioritisation, rescans and remediation tracking.",
+   "grup": "Genel"
+  },
+  {
    "id": "89631936e293",
    "tarih": "2026-11-06",
    "kaynak": "Help Net Security",
@@ -248,6 +402,15 @@
    "baslik": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
    "url": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
    "ozet": "The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "822c584b1243",
+   "tarih": "2026-11-06",
+   "kaynak": "GBHackers",
+   "baslik": "10 Security Ratings Services: The 2026 Buyer’s Verdict Guide",
+   "url": "https://gbhackers.com/security-ratings-buyers-guide/",
+   "ozet": "Security ratings grade organizations from the outside exposed services, patch cadence, breach signals and the scores now move real money: insurance pricing, vendor tiers, board dashboards. The buyer’s duty is knowing what a score can and can’t see, and this roster needs two honesty notes up front: N",
    "grup": "Genel"
   },
   {
@@ -314,6 +477,15 @@
    "grup": "Microsoft"
   },
   {
+   "id": "5e2e60f5db1e",
+   "tarih": "2026-11-06",
+   "kaynak": "GBHackers",
+   "baslik": "11 Audit Management Software: The 2026 Buyer’s Verdict Guide",
+   "url": "https://gbhackers.com/audit-management-buyers-guide/",
+   "ozet": "Audit management software succeeds on a simple test: do auditors live in it, or do they live in spreadsheets and paste into it before committee meetings? This verdict guide judges eleven platforms audit-born specialists, GRC suites with audit modules, and the reporting-grade heavyweights on fieldwor",
+   "grup": "Genel"
+  },
+  {
    "id": "5d7c1511e0dd",
    "tarih": "2026-11-06",
    "kaynak": "SecurityWeek",
@@ -368,6 +540,24 @@
    "grup": "Genel"
   },
   {
+   "id": "46c76064dfeb",
+   "tarih": "2026-11-06",
+   "kaynak": "Schneier on Security",
+   "baslik": "Friday Squid Blogging: New Jurassic Squid Predecessors",
+   "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
+   "ozet": "News story: &#8220;Scientists discover a bizarre Jurassic &#8216;squid&#8217; unlike anything ever seen.&#8221; Scientists have identified the &#8220;fattest&#8221; belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming&#8217;s ancient seas 160 million years ago. Th",
+   "grup": "Genel"
+  },
+  {
+   "id": "3c3dad9eec40",
+   "tarih": "2026-11-06",
+   "kaynak": "Dark Reading",
+   "baslik": "AI Gave Your Incident Archive a Second Job",
+   "url": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
+   "ozet": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.",
+   "grup": "Genel"
+  },
+  {
    "id": "3ae40aec285b",
    "tarih": "2026-11-06",
    "kaynak": "SecurityWeek",
@@ -392,6 +582,15 @@
    "baslik": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
    "url": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
    "ozet": "After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet. The post OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "39e0bbacc295",
+   "tarih": "2026-11-06",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Put AI Agents on Autopilot to Steal Gaming Accounts and Apple Signing Certificates",
+   "url": "https://gbhackers.com/gaming-accounts-targeted/",
+   "ozet": "ARTEX, a Chinese open-source agentic penetration-testing platform, to run autonomous attacks. The operators set a goal and then mostly check progress. Researchers identified 2,557 systems that host or hosted ARTEX panels, and 1,608 were live and public. Ten misconfigured instances exposed their full",
    "grup": "Genel"
   },
   {
@@ -449,24 +648,6 @@
    "grup": "Genel"
   },
   {
-   "id": "fc3bb545d92a",
-   "tarih": "2026-11-05",
-   "kaynak": "Help Net Security",
-   "baslik": "Companies are spending more on AI governance and getting less control",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/dnsfilter-shadow-ai-cost-report/",
-   "ozet": "Companies are increasing their cybersecurity budgets, with AI security and governance the top priority for additional spending, followed by cloud security, according to DNSFilter’s The Cost of Shadow AI report. Some 74.5% of respondents reported a larger cybersecurity budget than 12 months earlier. ",
-   "grup": "Genel"
-  },
-  {
-   "id": "eeeae62d983b",
-   "tarih": "2026-11-05",
-   "kaynak": "Help Net Security",
-   "baslik": "AI agent detection signals that still work when agents look human",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/zohaib-ahmed-resemble-ai-detecting-ai-agent-traffic/",
-   "ozet": "Bots follow a script. AI agents work toward a goal and choose their own steps, which makes them harder to catch. In this Help Net Security interview, Zohaib Ahmed, CEO of Resemble AI explains how agents arrive as declared, undeclared or disguised traffic, and why binary bot detection misses the last",
-   "grup": "Genel"
-  },
-  {
    "id": "e6b7dcc60d17",
    "tarih": "2026-11-05",
    "kaynak": "GBHackers",
@@ -476,123 +657,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "e0d1da5a0419",
-   "tarih": "2026-11-05",
-   "kaynak": "Hackread",
-   "baslik": "Beyond Cold Storage: Why Hardware Wallets Need Open Source and Clear Signing",
-   "url": "https://hackread.com/hardware-wallets-need-open-source-clear-signing/",
-   "ozet": "Hardware wallets protect private keys, but clear signing, open-source firmware and on-device verification let users see malicious crypto transactions.",
-   "grup": "Genel"
-  },
-  {
-   "id": "e02007d46bf7",
-   "tarih": "2026-11-05",
-   "kaynak": "GBHackers",
-   "baslik": "China-Aligned Hackers Hijack Popular Sogou Keyboard Software to Secretly Install DarkVigil Malware",
-   "url": "https://gbhackers.com/darkvigil-malware-campaign/",
-   "ozet": "A China-aligned espionage group abused the update traffic of Sogou Input Method, one of China&#8217;s most widely used keyboard apps, to quietly install the DarkVigil implant on victims&#8217; machines. ESET Research, which tracks the actor as SlippyNunchucks, published its findings on November 4, 2",
-   "grup": "Genel"
-  },
-  {
-   "id": "dad53d7e3ed5",
-   "tarih": "2026-11-05",
-   "kaynak": "BleepingComputer",
-   "baslik": "Closing the Identity Gap at the Service Desk",
-   "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-   "ozet": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recover",
-   "grup": "Genel"
-  },
-  {
-   "id": "da9e65b6fef6",
-   "tarih": "2026-11-05",
-   "kaynak": "Hackread",
-   "baslik": "Fake ChatGPT and Claude Apps Use Signed Executables to Install Yoba Malware",
-   "url": "https://hackread.com/fake-chatgpt-claude-apps-software-yoba-malware/",
-   "ozet": "Fake ChatGPT and Claude apps spread Yoba malware through GitHub, using signed executables to load a cryptominer on&#8230;",
-   "grup": "Genel"
-  },
-  {
-   "id": "da77af0f435f",
-   "tarih": "2026-11-05",
-   "kaynak": "BleepingComputer",
-   "baslik": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-   "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-   "ozet": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "d5adbe76452f",
-   "tarih": "2026-11-05",
-   "kaynak": "Dark Reading",
-   "baslik": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
-   "url": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
-   "ozet": "The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations.",
-   "grup": "Genel"
-  },
-  {
-   "id": "ce0befbb2fdb",
-   "tarih": "2026-11-05",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export LogPoint Logs",
-   "url": "https://socprime.com/blog/how-to-export-logpoint-logs/",
-   "ozet": "Use LogPoint’s Search API, which works in two calls to the same endpoint, /getsearchlogs. The first call sends your query, time range and repos, and returns a search_id. The second call sends that search_id and returns the rows once the search is final. Both calls are form-encoded POSTs authenticate",
-   "grup": "Genel"
-  },
-  {
-   "id": "cc34a33e2ccb",
-   "tarih": "2026-11-05",
-   "kaynak": "Help Net Security",
-   "baslik": "Patched Zyxel GS1900 switches remained open to in-the-wild exploit (CVE-2026-107441)",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/zyxel-cve-2026-107441-exploit/",
-   "ozet": "Zyxel GS1900 series network switches that received a fix for a flaw that was later reported to have been exploited in the wild are still open to an exploit attackers used, Binarly found. That’s because the patch fixed a different bug (CVE-2026-7273) from the one (CVE-2026-107441) the exploit actuall",
-   "grup": "Genel"
-  },
-  {
-   "id": "c81da05770e8",
-   "tarih": "2026-11-05",
-   "kaynak": "Hackread",
-   "baslik": "Hackers Tamper With Refrigeration Controls at France’s National Blood Service",
-   "url": "https://hackread.com/hackers-tamper-refrigeration-controls-france-blood-service/",
-   "ozet": "Hackers altered refrigeration controls at three French blood service sites, but staff protected plasma supplies and prevented damage to blood products.",
-   "grup": "Genel"
-  },
-  {
-   "id": "c5d8bcb2d057",
-   "tarih": "2026-11-05",
-   "kaynak": "Dark Reading",
-   "baslik": "US Government Email Systems Open to Abuse Thanks to Typos",
-   "url": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
-   "ozet": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
-   "grup": "Genel"
-  },
-  {
-   "id": "bcd0f8e51ff4",
-   "tarih": "2026-11-05",
-   "kaynak": "SecurityWeek",
-   "baslik": "The Agent Smith Dilemma: Governing Agentic Identities",
-   "url": "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/",
-   "ozet": "Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter. The post The Agent Smith Dilemma: Governing Agentic Identities appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "b47a970b0c42",
-   "tarih": "2026-11-05",
-   "kaynak": "GBHackers",
-   "baslik": "DreamHost Confirms Data Breach After Hackers Steal FTP/SFTP Credentials and Access Customer Emails",
-   "url": "https://gbhackers.com/dreamhost-confirms-data-breach/",
-   "ozet": "DreamHost has confirmed a security breach involving its browser-based File Manager, which exposed FTP/SFTP usernames and passwords, as well as the credentials of a limited number of webmail users. The company discovered unauthorized access on October 23, 2026, and it believes that attackers may have",
-   "grup": "Genel"
-  },
-  {
-   "id": "b422fe9089ae",
-   "tarih": "2026-11-05",
-   "kaynak": "Help Net Security",
-   "baslik": "Arkose Labs expands Agent Trust Manager to govern agent sessions",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/arkose-agent-trust-manager/",
-   "ozet": "Arkose Labs has expanded Arkose Agent Trust Manager to help businesses control agentic traffic. Companies can classify agent sessions, apply allow, monitor or block policies at each step of the customer journey, and track the same agent across multiple networks. The need is urgent given Arkose Labs’",
-   "grup": "Genel"
-  },
-  {
    "id": "ab510b890dec",
    "tarih": "2026-11-05",
    "kaynak": "Hackread",
@@ -600,42 +664,6 @@
    "url": "https://hackread.com/openmatter-network-positions-decentralized-computing-as-an-alternative-to-data-centers-for-ai/",
    "ozet": "Melbourne, Florida, 5th November 2026, CyberNewswire",
    "grup": "Microsoft"
-  },
-  {
-   "id": "a665869d02d2",
-   "tarih": "2026-11-05",
-   "kaynak": "The Hacker News",
-   "baslik": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-   "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-   "ozet": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has r",
-   "grup": "Genel"
-  },
-  {
-   "id": "a49bac037714",
-   "tarih": "2026-11-05",
-   "kaynak": "Help Net Security",
-   "baslik": "A banking malware sample led researchers to an Android bug that can loop-crash phones",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/ghostmap-android-bug-research/",
-   "ozet": "Bitdefender Labs researchers built an Android app that contains no executable code and requests no permissions, and installing it leaves a Pixel 10 in a crash loop that can take a factory reset to clear. The flaw, which Bitdefender calls GhostMap, comes from how Android reads the ZIP structure insid",
-   "grup": "Genel"
-  },
-  {
-   "id": "a2de14054cb4",
-   "tarih": "2026-11-05",
-   "kaynak": "Help Net Security",
-   "baslik": "Vercel ties login sessions to devices, rolls out AI security reviews in public beta",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/vercel-security-review-session-hijacking/",
-   "ozet": "Vercel, the popular cloud platform for building and hosting websites and web applications, has announced the rollout of Device Bound Session Credentials (DBSC) and the launch of Vercel Security Review in public beta. Making stolen session cookies worthless Device Bound Session Credentials is a secur",
-   "grup": "Genel"
-  },
-  {
-   "id": "a2aaec48b5e5",
-   "tarih": "2026-11-05",
-   "kaynak": "Help Net Security",
-   "baslik": "Box pairs agentic workflow plans with new threat protections",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/box-architect/",
-   "ozet": "Box has announced new capabilities to transform how organizations put agents to work across their most critical business processes. Box unveiled Box Architect for autonomously building, managing, and optimizing agentic workflows, redefining how organizations deploy AI on their most critical processe",
-   "grup": "Genel"
   },
   {
    "id": "886e9406677f",
