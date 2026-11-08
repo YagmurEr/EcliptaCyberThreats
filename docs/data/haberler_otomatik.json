@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-08T10:16:00+00:00",
+ "guncelleme": "2026-11-08T15:56:04+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -60,6 +60,24 @@
    "baslik": "Week in review: Refrigeration cyberattacks hit European retailers again, Patch Tuesday forecast",
    "url": "https://www.helpnetsecurity.com/2026/11/08/week-in-review-refrigeration-cyberattacks-hit-european-retailers-again-patch-tuesday-forecast/",
    "ozet": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: The first ten lines of a command policy for AI coding agents In this Help Net Security interview, Vinay Thakker, CTO of KloudStax, explains how to set identity, credentials, and network limits for AI ag",
+   "grup": "Genel"
+  },
+  {
+   "id": "9c037607d0d5",
+   "tarih": "2026-11-08",
+   "kaynak": "SecurityWeek",
+   "baslik": "Brava Security Emerges From Stealth With $15 Million in Funding",
+   "url": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
+   "ozet": "Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses. The post Brava Security Emerges From Stealth With $15 Million in Funding appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "840fc9184c68",
+   "tarih": "2026-11-08",
+   "kaynak": "BleepingComputer",
+   "baslik": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+   "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+   "ozet": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
    "grup": "Genel"
   },
   {
@@ -663,24 +681,6 @@
    "baslik": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
    "url": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
    "ozet": "Rated Critical for cybersecurity, OpenAI’s new model beats GPT-5.6 Cyber at exploitation while staying in scope more reliably. The post OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "3a8f9a3bb5fd",
-   "tarih": "2026-11-06",
-   "kaynak": "BleepingComputer",
-   "baslik": "MetaMask says recent attack didn't affect wallet infrastructure",
-   "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
-   "ozet": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "3a73b8fccf35",
-   "tarih": "2026-11-06",
-   "kaynak": "SecurityWeek",
-   "baslik": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
-   "url": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
-   "ozet": "After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet. The post OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
