@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-08T00:32:26+00:00",
+ "guncelleme": "2026-11-08T10:16:00+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -53,6 +53,15 @@
   }
  ],
  "haberler": [
+  {
+   "id": "a977e0a42a2b",
+   "tarih": "2026-11-08",
+   "kaynak": "Help Net Security",
+   "baslik": "Week in review: Refrigeration cyberattacks hit European retailers again, Patch Tuesday forecast",
+   "url": "https://www.helpnetsecurity.com/2026/11/08/week-in-review-refrigeration-cyberattacks-hit-european-retailers-again-patch-tuesday-forecast/",
+   "ozet": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: The first ten lines of a command policy for AI coding agents In this Help Net Security interview, Vinay Thakker, CTO of KloudStax, explains how to set identity, credentials, and network limits for AI ag",
+   "grup": "Genel"
+  },
   {
    "id": "ded94754be20",
    "tarih": "2026-11-07",
@@ -672,15 +681,6 @@
    "baslik": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
    "url": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
    "ozet": "After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet. The post OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "39e0bbacc295",
-   "tarih": "2026-11-06",
-   "kaynak": "GBHackers",
-   "baslik": "Hackers Put AI Agents on Autopilot to Steal Gaming Accounts and Apple Signing Certificates",
-   "url": "https://gbhackers.com/gaming-accounts-targeted/",
-   "ozet": "ARTEX, a Chinese open-source agentic penetration-testing platform, to run autonomous attacks. The operators set a goal and then mostly check progress. Researchers identified 2,557 systems that host or hosted ARTEX panels, and 1,608 were live and public. Ten misconfigured instances exposed their full",
    "grup": "Genel"
   },
   {
