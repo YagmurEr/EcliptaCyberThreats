@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-09T00:49:24+00:00",
+ "guncelleme": "2026-11-09T11:27:14+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -53,6 +53,267 @@
   }
  ],
  "haberler": [
+  {
+   "id": "ff2cfc6b6f40",
+   "tarih": "2026-11-09",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "Improving incident response with AI agents",
+   "url": "https://www.cybersecuritydive.com/spons/improving-incident-response-with-ai-agents/872988/",
+   "ozet": "AI-driven incident response reduces workflow delays while keeping analysts in control.",
+   "grup": "Genel"
+  },
+  {
+   "id": "f70e8a67fa8f",
+   "tarih": "2026-11-09",
+   "kaynak": "Help Net Security",
+   "baslik": "An average of 8 minutes is all hackers need to log in with stolen credentials",
+   "url": "https://www.helpnetsecurity.com/2026/11/09/elastic-businesses-remote-access-attacks-report/",
+   "ozet": "Attackers used stolen credentials to log in an average of eight minutes after infection across 27 confirmed infostealer cases, according to a report from Elastic Security Threat Command. Researchers also documented misuse of AI applications to execute commands and digitally signed remote monitoring ",
+   "grup": "Genel"
+  },
+  {
+   "id": "e8082cc54dfb",
+   "tarih": "2026-11-09",
+   "kaynak": "The Hacker News",
+   "baslik": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+   "url": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+   "ozet": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform exposing patient data from 2018, including ECG readings and ambulance video foota",
+   "grup": "Genel"
+  },
+  {
+   "id": "e1496eeef85c",
+   "tarih": "2026-11-09",
+   "kaynak": "GBHackers",
+   "baslik": "NotC2 AI-Powered Hacking Tool Turns Amazon Bedrock Into a Cloud Command-and-Control System",
+   "url": "https://gbhackers.com/notc2-ai-powered-hacking/",
+   "ozet": "NotC2, a proof-of-concept framework that combines legitimate AWS services with Amazon Bedrock to run post-compromise command-and-control operations. Published November 6, the research demonstrates how stolen cloud credentials can enable conversational reconnaissance while command traffic blends into",
+   "grup": "Genel"
+  },
+  {
+   "id": "df6a1e5a88d8",
+   "tarih": "2026-11-09",
+   "kaynak": "The Hacker News",
+   "baslik": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+   "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+   "ozet": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors may exploit vulnerabilities or weaknesses in unpatched or inte",
+   "grup": "Genel"
+  },
+  {
+   "id": "dd9067084054",
+   "tarih": "2026-11-09",
+   "kaynak": "GBHackers",
+   "baslik": "GhostAction Attack Hits Tens of Thousands of GitHub Repositories to Steal Cloud and AI Credentials",
+   "url": "https://gbhackers.com/ghostaction-supply-chain/",
+   "ozet": "A new wave of the GhostAction supply chain campaign has pushed a credential-stealing GitHub Actions workflow into tens of thousands of repositories. It now hunts for cloud and AI keys buried in source code and git history, in addition to CI/CD secrets. Socket says it has identified more than 500 Git",
+   "grup": "Genel"
+  },
+  {
+   "id": "d46776fec6de",
+   "tarih": "2026-11-09",
+   "kaynak": "GBHackers",
+   "baslik": "SonicWall Warns of Actively Exploited SSL-VPN Vulnerability That Bypasses SAML and MFA Protection",
+   "url": "https://gbhackers.com/sonicwall-warns-of-actively-exploited-ssl-vpn-vulnerability/",
+   "ozet": "SonicWall has urged customers to address an SSL-VPN authentication vulnerability that can bypass SAML controls, including associated multifactor authentication measures. This issue is tracked as CVE-2026-19868 and affects SonicOS deployments that utilize SAML for SSL-VPN logins. The company has inve",
+   "grup": "SonicWall"
+  },
+  {
+   "id": "b2c42f850778",
+   "tarih": "2026-11-09",
+   "kaynak": "Help Net Security",
+   "baslik": "$133 million stolen from French bank via exploited service provider",
+   "url": "https://www.helpnetsecurity.com/2026/11/09/credit-mutuel-arkea-cyberattack-133-million/",
+   "ozet": "Attackers siphoned an estimated $133 million from Crédit Mutuel Arkéa by using the bank’s own account to wire money to other banks, from where it was possibly converted into cryptocurrency. The French cooperative banking group, which has €211.5 billion in total assets and more than 5.8 million custo",
+   "grup": "Genel"
+  },
+  {
+   "id": "b07a4acc5bd6",
+   "tarih": "2026-11-09",
+   "kaynak": "Hackread",
+   "baslik": "Hackers Steal Around €100 Million From Crédit Mutuel Arkéa Through Supplier Platform",
+   "url": "https://hackread.com/hackers-steal-e100m-credit-mutuel-arkea-supplier-platform/",
+   "ozet": "Hackers stole around €100 million from Crédit Mutuel Arkéa through a supplier platform. Customer funds were unaffected, and&#8230;",
+   "grup": "Genel"
+  },
+  {
+   "id": "a2c922a06d73",
+   "tarih": "2026-11-09",
+   "kaynak": "The Hacker News",
+   "baslik": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+   "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+   "ozet": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where",
+   "grup": "Genel"
+  },
+  {
+   "id": "93fbad35b969",
+   "tarih": "2026-11-09",
+   "kaynak": "GBHackers",
+   "baslik": "PolinRider Malware Returns in 10 Hijacked npm Packages Using Ethereum Blockchain to Deliver Malicious Code",
+   "url": "https://gbhackers.com/polinrider-malware-attack/",
+   "ozet": "A concealed JavaScript loaders in 12 releases across 10 hijacked npm packages, linking the compromise to previously documented PolinRider activity. Investigated on November 4, 2026, the releases use Ethereum transactions to discover remote payload servers and execute downloaded code inside developer",
+   "grup": "Genel"
+  },
+  {
+   "id": "83ee2bebe1d4",
+   "tarih": "2026-11-09",
+   "kaynak": "GBHackers",
+   "baslik": "Critical React Server Components Vulnerability Allows Unauthenticated Attackers to Execute Malicious Code on Servers",
+   "url": "https://gbhackers.com/critical-react-server-components-vulnerability/",
+   "ozet": "A serious vulnerability in React Server Components may enable unauthenticated attackers to execute malicious code on affected servers. The advisory, released on October 14, 2026, assigns the issue a CVSS v4.0 score of 9.5. React maintainers advise that users update their systems immediately, though ",
+   "grup": "Genel"
+  },
+  {
+   "id": "8162e65e6a02",
+   "tarih": "2026-11-09",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "Truth or consequences: What your AI strategy is standing on",
+   "url": "https://www.cybersecuritydive.com/spons/truth-or-consequences-what-your-ai-strategy-is-standing-on/873999/",
+   "ozet": "AI acts on bad asset data as confidently as good. Verify the foundation first.&nbsp;",
+   "grup": "Genel"
+  },
+  {
+   "id": "7e4159a7da09",
+   "tarih": "2026-11-09",
+   "kaynak": "Help Net Security",
+   "baslik": "Exploited SonicWall SSL-VPN flaw lets attackers bypass SAML-enforced MFA (CVE-2026-19868)",
+   "url": "https://www.helpnetsecurity.com/2026/11/09/exploited-sonicwall-ssl-vpn-flaw-lets-attackers-bypass-saml-enforced-mfa-cve-2026-19868/",
+   "ozet": "SonicWall has fixed an exploited SonicOS SSL-VPN vulnerability (CVE-2026-19868) that may allow attackers with valid credentials to bypass SAML-enforced multi-factor authentication. With no workarounds listed, the company has urged admins to patch quickly. About CVE-2026-19868 CVE-2026-19868 is an au",
+   "grup": "SonicWall"
+  },
+  {
+   "id": "7689887a124b",
+   "tarih": "2026-11-09",
+   "kaynak": "GBHackers",
+   "baslik": "Anthropic’s Claude AI Deletes a Year of Law Professor’s Lecture Notes During Simple Editing Task",
+   "url": "https://gbhackers.com/anthropics-claude-ai-deletes-a-year-of-law-professors-lecture-notes/",
+   "ozet": "University of Chicago law professor William Baude says Anthropic’s Claude AI deleted his current syllabus and a year&#8217;s worth of constitutional law lecture notes while completing a routine editing assignment. Baude recovered every affected file through Dropbox, preventing permanent loss but hig",
+   "grup": "Genel"
+  },
+  {
+   "id": "6f0421351561",
+   "tarih": "2026-11-09",
+   "kaynak": "GBHackers",
+   "baslik": "Operation Snowball Exposes AI Hacking Campaign Targeting European Telecom and 13 Hosted Organizations",
+   "url": "https://gbhackers.com/operation-snowball-campaign/",
+   "ozet": "An exposed open directory revealed an autonomous AI intrusion harness that spent more than two weeks attacking a European telecom provider and 13 organizations hosted in its data centers and cloud. The report, published on November 8, 2026, calls the campaign Operation Snowball. The researchers with",
+   "grup": "Genel"
+  },
+  {
+   "id": "62aff8107633",
+   "tarih": "2026-11-09",
+   "kaynak": "GBHackers",
+   "baslik": "NVIDIA Investigates Suspected Foreign Espionage Campaign Targeting CEO Jensen Huang",
+   "url": "https://gbhackers.com/nvidia-investigates-suspected-foreign-espionage-campaign/",
+   "ozet": "NVIDIA has initiated an independent investigation into reports suggesting that foreign intelligence may have targeted founder and CEO Jensen Huang. This inquiry, announced on November 8, 2026, will review all available information. The board said it currently has no evidence that national security o",
+   "grup": "Genel"
+  },
+  {
+   "id": "62af4291e17c",
+   "tarih": "2026-11-09",
+   "kaynak": "The Hacker News",
+   "baslik": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
+   "url": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+   "ozet": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and asked operators to be careful until they are out. One operator said new accounts use",
+   "grup": "Genel"
+  },
+  {
+   "id": "6124f69c2114",
+   "tarih": "2026-11-09",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "5 critical steps organizations should take to secure AI",
+   "url": "https://www.cybersecuritydive.com/spons/5-critical-steps-organizations-should-take-to-secure-ai/873682/",
+   "ozet": "Close the AI security gap with five practical steps to improve visibility, governance and control.",
+   "grup": "Genel"
+  },
+  {
+   "id": "5f43a571e582",
+   "tarih": "2026-11-09",
+   "kaynak": "Help Net Security",
+   "baslik": "Companies seeking an MSP doubt their ability to spot cyberattacks",
+   "url": "https://www.helpnetsecurity.com/2026/11/09/barracuda-msp-cybersecurity-services-expectations-report/",
+   "ozet": "Businesses looking to outsource cybersecurity want providers that can help them recover from attacks, manage AI risks, and explain what security problems mean for their operations, according to Barracuda What MSP Customers Need Next report. What MSP customers need next (Source: Barracuda Networks) 6",
+   "grup": "Genel"
+  },
+  {
+   "id": "3d5dfb277e1d",
+   "tarih": "2026-11-09",
+   "kaynak": "The Hacker News",
+   "baslik": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+   "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks. The vulnerability, tracked as CVE-2",
+   "grup": "SonicWall"
+  },
+  {
+   "id": "3c0c651efea8",
+   "tarih": "2026-11-09",
+   "kaynak": "SecurityWeek",
+   "baslik": "Over 3 Million People Hit by Frontline Education Data Breach",
+   "url": "https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/",
+   "ozet": "Frontline Education told Indiana regulators that its August data breach affected over 3 million school district staff and students. The post Over 3 Million People Hit by Frontline Education Data Breach appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "33c824e20702",
+   "tarih": "2026-11-09",
+   "kaynak": "SecurityWeek",
+   "baslik": "Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
+   "url": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
+   "ozet": "Working with cryptographers, DeepMind’s AI agents cut the cost of forging RSA-1024 signatures and found a cheaper way to factor keys. The post Google DeepMind&#8217;s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "2ae6551497b2",
+   "tarih": "2026-11-09",
+   "kaynak": "GBHackers",
+   "baslik": "CISA and FBI Warn of Cyberattacks Targeting Industrial Refrigeration and Cold Chain Monitoring Systems",
+   "url": "https://gbhackers.com/cisa-and-fbi-warn-of-cyberattacks/",
+   "ozet": "CISA and the FBI, alongside HHS, USDA, and the Department of Transportation, have warned of ongoing cyberattacks targeting industrial refrigeration and cold chain monitoring systems worldwide. Published November 5, 2026, their joint fact sheet urges critical infrastructure operators to secure contro",
+   "grup": "Genel"
+  },
+  {
+   "id": "156a0344f330",
+   "tarih": "2026-11-09",
+   "kaynak": "SecurityWeek",
+   "baslik": "Amplifon Americas Data Breach Impacts 1.3 Million",
+   "url": "https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/",
+   "ozet": "Hackers stole personal, health, and insurance information, including Social Security numbers, from the company’s internal systems. The post Amplifon Americas Data Breach Impacts 1.3 Million appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "14e42df68332",
+   "tarih": "2026-11-09",
+   "kaynak": "Hackread",
+   "baslik": "Inside New Zealand’s Telco Data Breaches",
+   "url": "https://hackread.com/inside-new-zealands-telco-data-breaches/",
+   "ozet": "An Auckland ransomware case and three years of Spark disclosures reveal how little the headline numbers can tell&#8230;",
+   "grup": "Genel"
+  },
+  {
+   "id": "0b0b4e6795c8",
+   "tarih": "2026-11-09",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Use New Lindnor Backdoor to Target Microsoft SQL Servers in Anubis Ransomware Attack",
+   "url": "https://gbhackers.com/anubis-ransomware-attack/",
+   "ozet": "Attackers deploying Anubis ransomware hit a U.S. organization in October 2026 with a previously undocumented custom backdoor. The malware sat on two Microsoft SQL Server machines, disguised as a Chrome component on one and a VMware file on the other. The encryption payload was blocked, and there is ",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "01d67ad2f660",
+   "tarih": "2026-11-09",
+   "kaynak": "Help Net Security",
+   "baslik": "Product showcase: What the Malwarebytes Claude connector reveals about unexpected texts",
+   "url": "https://www.helpnetsecurity.com/2026/11/09/product-showcase-malwarebytes-claude-scam-detection/",
+   "ozet": "The Malwarebytes connector for Claude checks suspicious links, phone numbers, and email addresses without leaving the chat. You can paste a link or upload a screenshot of a message, then ask Claude to check the details against Malwarebytes’ threat database. The connector works with free and paid Cla",
+   "grup": "Genel"
+  },
+  {
+   "id": "010d19db0cbb",
+   "tarih": "2026-11-09",
+   "kaynak": "Help Net Security",
+   "baslik": "Wirken: Open-source AI agent gateway",
+   "url": "https://www.helpnetsecurity.com/2026/11/09/wirken-open-source-ai-agent-gateway/",
+   "ozet": "Wirken is an open-source gateway that sits between messaging apps and AI agents. It assumes any agent can be turned against its owner and limits what a compromised one can reach. Take an agent that reads your chats and email, holds the keys to your accounts and can run commands. One hidden instructi",
+   "grup": "Genel"
+  },
   {
    "id": "a977e0a42a2b",
    "tarih": "2026-11-08",
@@ -441,105 +702,6 @@
    "grup": "WordPress"
   },
   {
-   "id": "9e0aea37a06b",
-   "tarih": "2026-11-06",
-   "kaynak": "Help Net Security",
-   "baslik": "US agencies warn attackers are targeting refrigeration systems that protect food and medicine",
-   "url": "https://www.helpnetsecurity.com/2026/11/06/cyberattacks-refrigeration-systems-cisa-fbi/",
-   "ozet": "Threat actors are going after the controllers that keep grocery store freezers and cold storage rooms at safe temperatures, and they may push those units into continuous heating and defrost cycles, five US federal agencies warned in a joint advisory published on Thursday. CISA, the FBI, the Departme",
-   "grup": "Genel"
-  },
-  {
-   "id": "9c283f98cc0e",
-   "tarih": "2026-11-06",
-   "kaynak": "GBHackers",
-   "baslik": "ChatGPT Lockdown Mode Bypass Allowed Hackers to Steal Private Chats Without User Interaction",
-   "url": "https://gbhackers.com/chatgpt-lockdown-mode-bypass/",
-   "ozet": "Research found a flaw that bypassed ChatGPT&#8217;s Lockdown Mode. It let attackers silently exfiltrate full chat histories, deliver malware, and phish credentials from inside a trusted interface. Researcher Alexey Bukhteyev published the findings on November 5, 2026. In the ChatGPT Classic desktop ",
-   "grup": "Genel"
-  },
-  {
-   "id": "991d00e938a3",
-   "tarih": "2026-11-06",
-   "kaynak": "Hackread",
-   "baslik": "Railway Engineer Admits Running AI Agents Against Rival Cloud Platform",
-   "url": "https://hackread.com/railway-engineer-run-ai-agents-rival-cloud-platform/",
-   "ozet": "A Railway engineer admitted testing AI agents on Primcloud, whose founder says they sought customer secrets and scanned&#8230;",
-   "grup": "Genel"
-  },
-  {
-   "id": "97d7db0e7e4a",
-   "tarih": "2026-11-06",
-   "kaynak": "BleepingComputer",
-   "baslik": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-   "ozet": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "908dfb428150",
-   "tarih": "2026-11-06",
-   "kaynak": "GBHackers",
-   "baslik": "Dark Project Ransomware Gang Claims 38 Victims Across 8 Countries, Targeting Healthcare and Manufacturing",
-   "url": "https://gbhackers.com/dark-project-ransomware/",
-   "ozet": "Dark Project, an emerging financially motivated ransomware operation, has claimed 38 victims across eight countries in the supplied threat intelligence snapshot, with manufacturing and healthcare bearing the heaviest exposure. The group combines data theft, system encryption, and public disclosure t",
-   "grup": "Genel"
-  },
-  {
-   "id": "8d609033f454",
-   "tarih": "2026-11-06",
-   "kaynak": "GBHackers",
-   "baslik": "11 Security Policy Management Tools: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/security-policy-management-buyers-guide/",
-   "ozet": "“Security policy management” names two different markets wearing one label, and this roster contains both: network security policy management (NSPM) firewall rulebases, segmentation intent, change automation across hybrid estates and written-policy lifecycle the documents people must read, sign, and",
-   "grup": "Genel"
-  },
-  {
-   "id": "8a60b197e0cf",
-   "tarih": "2026-11-06",
-   "kaynak": "Hackread",
-   "baslik": "7 Best Vulnerability Scanning Tools for Security Teams in 2026",
-   "url": "https://hackread.com/best-vulnerability-scanning-tools-security-teams-2026/",
-   "ozet": "Compare 7 vulnerability scanning tools for small teams, covering setup, network and app testing, prioritisation, rescans and remediation tracking.",
-   "grup": "Genel"
-  },
-  {
-   "id": "89631936e293",
-   "tarih": "2026-11-06",
-   "kaynak": "Help Net Security",
-   "baslik": "Security certification is a snapshot, and buyers read too much into it",
-   "url": "https://www.helpnetsecurity.com/2026/11/06/mariia-bakhtina-masaryk-university-security-certification/",
-   "ozet": "In this Help Net Security video, Mariia Bakhtina, a research specialist at Masaryk University, explains what a Common Criteria or FIPS-140 certificate does and does not promise. In her team’s analysis, about 6 in 10 vulnerabilities matched to certified products, smartcards aside, were disclosed afte",
-   "grup": "Genel"
-  },
-  {
-   "id": "8694430c3bcd",
-   "tarih": "2026-11-06",
-   "kaynak": "SecurityWeek",
-   "baslik": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
-   "url": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
-   "ozet": "The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "822c584b1243",
-   "tarih": "2026-11-06",
-   "kaynak": "GBHackers",
-   "baslik": "10 Security Ratings Services: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/security-ratings-buyers-guide/",
-   "ozet": "Security ratings grade organizations from the outside exposed services, patch cadence, breach signals and the scores now move real money: insurance pricing, vendor tiers, board dashboards. The buyer’s duty is knowing what a score can and can’t see, and this roster needs two honesty notes up front: N",
-   "grup": "Genel"
-  },
-  {
-   "id": "7dec2b66b380",
-   "tarih": "2026-11-06",
-   "kaynak": "Help Net Security",
-   "baslik": "Residential proxy traffic caught leaving the White House network",
-   "url": "https://www.helpnetsecurity.com/2026/11/06/white-house-residential-proxy-traffic/",
-   "ozet": "The White House network has been working as an exit point for residential proxy services, a setup that may open a path into one of the most closely guarded networks in the world, Layer3 Intel found. In a blog post, the threat intelligence firm reported that its proxy enumeration pipeline exited thro",
-   "grup": "Genel"
-  },
-  {
    "id": "7bbf9882575e",
    "tarih": "2026-11-06",
    "kaynak": "Hackread",
@@ -549,42 +711,6 @@
    "grup": "PHP"
   },
   {
-   "id": "6facdf5f94df",
-   "tarih": "2026-11-06",
-   "kaynak": "The Hacker News",
-   "baslik": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
-   "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-   "ozet": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we removed access to Reactor and Data Solutions,\" the company sai",
-   "grup": "Genel"
-  },
-  {
-   "id": "67dcad135390",
-   "tarih": "2026-11-06",
-   "kaynak": "Dark Reading",
-   "baslik": "UK Warns Its Critical Infrastructure Faces Grave Risk",
-   "url": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
-   "ozet": "Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex.",
-   "grup": "Genel"
-  },
-  {
-   "id": "66bb14a34959",
-   "tarih": "2026-11-06",
-   "kaynak": "Help Net Security",
-   "baslik": "November 2026 Patch Tuesday forecast: Old software continues to bite",
-   "url": "https://www.helpnetsecurity.com/2026/11/06/november-2026-patch-tuesday-forecast/",
-   "ozet": "How did you enjoy October 2026 Patch Tuesday? Were there enough CVEs reported to keep you busy for the rest of the year or are you finished and ready for another round next week? They released the regularly scheduled update nearly two and a half hours late, but Microsoft did resolve another record-b",
-   "grup": "Genel"
-  },
-  {
-   "id": "6625b8a777d1",
-   "tarih": "2026-11-06",
-   "kaynak": "The Hacker News",
-   "baslik": "The Flood is Coming And The Pipes Were Already Full",
-   "url": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-   "ozet": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what they can do and what ",
-   "grup": "Genel"
-  },
-  {
    "id": "649e0d8b078e",
    "tarih": "2026-11-06",
    "kaynak": "The Hacker News",
@@ -592,96 +718,6 @@
    "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
    "ozet": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest Paint build in all ten countries The Hacker News checked today. The fla",
    "grup": "Microsoft"
-  },
-  {
-   "id": "5e2e60f5db1e",
-   "tarih": "2026-11-06",
-   "kaynak": "GBHackers",
-   "baslik": "11 Audit Management Software: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/audit-management-buyers-guide/",
-   "ozet": "Audit management software succeeds on a simple test: do auditors live in it, or do they live in spreadsheets and paste into it before committee meetings? This verdict guide judges eleven platforms audit-born specialists, GRC suites with audit modules, and the reporting-grade heavyweights on fieldwor",
-   "grup": "Genel"
-  },
-  {
-   "id": "5d7c1511e0dd",
-   "tarih": "2026-11-06",
-   "kaynak": "SecurityWeek",
-   "baslik": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
-   "url": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
-   "ozet": "The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "5c794c08b581",
-   "tarih": "2026-11-06",
-   "kaynak": "Dark Reading",
-   "baslik": "Why Europe's Freezer Hacks Spread So Far, So Fast",
-   "url": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
-   "ozet": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.",
-   "grup": "Genel"
-  },
-  {
-   "id": "57a5b9afce46",
-   "tarih": "2026-11-06",
-   "kaynak": "Help Net Security",
-   "baslik": "99% of repository access tokens never expire",
-   "url": "https://www.helpnetsecurity.com/2026/11/06/blueflag-ai-agents-access-risks-report/",
-   "ozet": "Developers, automated tools and AI coding agents hold permissions that can outlast the work they were granted for. Without access reviews, organizations can leave accounts able to copy or change company code after the work ends, according to BlueFlag Security’s The State of Developer Risk 2026 repor",
-   "grup": "Genel"
-  },
-  {
-   "id": "57688c41585b",
-   "tarih": "2026-11-06",
-   "kaynak": "SOC Prime",
-   "baslik": "CVE-2026-123158: OpenSSH Password Authentication Bypass Affects Alpine Linux",
-   "url": "https://socprime.com/blog/cve-2026-123158-openssh-password-authentication-bypass-affects-alpine-linux/",
-   "ozet": "A high-severity vulnerability in OpenSSH can allow unauthenticated remote attackers to bypass password authentication on certain Linux systems by submitting an overlong password. Tracked as CVE-2026-123158 and dubbed SSHhole, the flaw carries a CVSS 3.1 score of 8.1 and primarily impacts Linux envir",
-   "grup": "Genel"
-  },
-  {
-   "id": "574e51be0057",
-   "tarih": "2026-11-06",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "Companies struggle to know what normal looks like for AI agents",
-   "url": "https://www.cybersecuritydive.com/news/ai-agents-normal-baseline-security-governance/873998/",
-   "ozet": "The inability to establish baselines is complicating the task of securing these autonomous tools, a new report found.",
-   "grup": "Genel"
-  },
-  {
-   "id": "534e6685aefb",
-   "tarih": "2026-11-06",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export Wazuh Logs",
-   "url": "https://socprime.com/blog/how-to-export-wazuh-logs/",
-   "ozet": "Wazuh keeps its data in two places. On the Wazuh manager, alerts are written to /var/ossec/logs/alerts/alerts.json, one JSON object per line, and rotated daily into compressed files by date. The same alerts are indexed in the Wazuh indexer (OpenSearch), in wazuh-alerts-4.x-*. Either way, the origina",
-   "grup": "Genel"
-  },
-  {
-   "id": "46c76064dfeb",
-   "tarih": "2026-11-06",
-   "kaynak": "Schneier on Security",
-   "baslik": "Friday Squid Blogging: New Jurassic Squid Predecessors",
-   "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
-   "ozet": "News story: &#8220;Scientists discover a bizarre Jurassic &#8216;squid&#8217; unlike anything ever seen.&#8221; Scientists have identified the &#8220;fattest&#8221; belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming&#8217;s ancient seas 160 million years ago. Th",
-   "grup": "Genel"
-  },
-  {
-   "id": "3c3dad9eec40",
-   "tarih": "2026-11-06",
-   "kaynak": "Dark Reading",
-   "baslik": "AI Gave Your Incident Archive a Second Job",
-   "url": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
-   "ozet": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.",
-   "grup": "Genel"
-  },
-  {
-   "id": "3ae40aec285b",
-   "tarih": "2026-11-06",
-   "kaynak": "SecurityWeek",
-   "baslik": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
-   "url": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
-   "ozet": "Rated Critical for cybersecurity, OpenAI’s new model beats GPT-5.6 Cyber at exploitation while staying in scope more reliably. The post OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "e6b7dcc60d17",
