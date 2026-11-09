@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-09T11:27:14+00:00",
+ "guncelleme": "2026-11-09T19:45:11+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -72,6 +72,24 @@
    "grup": "Genel"
   },
   {
+   "id": "f6c32d1910b8",
+   "tarih": "2026-11-09",
+   "kaynak": "GBHackers",
+   "baslik": "Google Gemini Safety Filter Bypass Exposes Blocked AI Images Through Download Links",
+   "url": "https://gbhackers.com/google-gemini-safety-filter-bypass-exposes-blocked/",
+   "ozet": "Google Gemini exposed images that its safety filters had rejected through download links, revealing an infrastructure weakness rather than a conventional model jailbreak. Fog Security researcher Jason Kao disclosed the findings on November 5, 2026, describing how Gemini could refuse an image request",
+   "grup": "Genel"
+  },
+  {
+   "id": "e89c57c6d564",
+   "tarih": "2026-11-09",
+   "kaynak": "BleepingComputer",
+   "baslik": "France blames Iranian hackers for supermarket attacks that sparked fires",
+   "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+   "ozet": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "e8082cc54dfb",
    "tarih": "2026-11-09",
    "kaynak": "The Hacker News",
@@ -90,12 +108,30 @@
    "grup": "Genel"
   },
   {
+   "id": "e0f360ec1ac8",
+   "tarih": "2026-11-09",
+   "kaynak": "Schneier on Security",
+   "baslik": "AI Security",
+   "url": "https://www.schneier.com/blog/archives/2026/11/ai-security.html",
+   "ozet": "Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.) AI security can be divided into three broad topics. ",
+   "grup": "Genel"
+  },
+  {
    "id": "df6a1e5a88d8",
    "tarih": "2026-11-09",
    "kaynak": "The Hacker News",
    "baslik": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
    "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
    "ozet": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors may exploit vulnerabilities or weaknesses in unpatched or inte",
+   "grup": "Genel"
+  },
+  {
+   "id": "de9719511839",
+   "tarih": "2026-11-09",
+   "kaynak": "SecurityWeek",
+   "baslik": "Hackers Exploiting ‘SSHole’ Authentication Bypass in OpenSSH",
+   "url": "https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/",
+   "ozet": "The initial exploitation attempts are attributed to botnets and crypto miners, but other threat actors are expected to follow suit. The post Hackers Exploiting &#8216;SSHole&#8217; Authentication Bypass in OpenSSH appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
@@ -108,6 +144,15 @@
    "grup": "Genel"
   },
   {
+   "id": "d7669d6db99e",
+   "tarih": "2026-11-09",
+   "kaynak": "BleepingComputer",
+   "baslik": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+   "ozet": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "d46776fec6de",
    "tarih": "2026-11-09",
    "kaynak": "GBHackers",
@@ -117,12 +162,66 @@
    "grup": "SonicWall"
   },
   {
+   "id": "ca8912a2e710",
+   "tarih": "2026-11-09",
+   "kaynak": "SecurityWeek",
+   "baslik": "Plex2Shell Exploited Against QNAP NAS Users",
+   "url": "https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/",
+   "ozet": "Threat actors are exploiting the four-flaw chain to hack the Plex Media Server application on QNAP NAS devices. The post Plex2Shell Exploited Against QNAP NAS Users appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "c62b202a7a78",
+   "tarih": "2026-11-09",
+   "kaynak": "SOC Prime",
+   "baslik": "How to Export SentinelOne Logs",
+   "url": "https://socprime.com/blog/how-to-export-sentinelone-logs/",
+   "ozet": "SentinelOne keeps three kinds of data worth exporting: endpoint telemetry, threats, and activities (the audit trail of what users and agents did in the console). Telemetry lives in Singularity Data Lake and has its own guide. Threats and activities come out of the management API (https://&#60;consol",
+   "grup": "Genel"
+  },
+  {
+   "id": "c5154d08fadf",
+   "tarih": "2026-11-09",
+   "kaynak": "The Hacker News",
+   "baslik": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+   "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+   "ozet": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engine. Both apps signed customers in through ForgeRock, an ident",
+   "grup": "Genel"
+  },
+  {
+   "id": "c012386c6822",
+   "tarih": "2026-11-09",
+   "kaynak": "SOC Prime",
+   "baslik": "How to Export Sekoia Logs",
+   "url": "https://socprime.com/blog/how-to-export-sekoia-logs/",
+   "ozet": "Use the Sekoia.io events search API in three steps. Create a search job (POST /v1/sic/conf/events/search/jobs) with a query and a time window, wait until the job is done, then read its events in pages of up to 1,000. The Export events button in the Events page works too, but it stops at 500 events. ",
+   "grup": "Genel"
+  },
+  {
+   "id": "bd73ebc7b854",
+   "tarih": "2026-11-09",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+   "ozet": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qubole's platform uses to reach those customers. How the attack",
+   "grup": "Genel"
+  },
+  {
    "id": "b2c42f850778",
    "tarih": "2026-11-09",
    "kaynak": "Help Net Security",
    "baslik": "$133 million stolen from French bank via exploited service provider",
    "url": "https://www.helpnetsecurity.com/2026/11/09/credit-mutuel-arkea-cyberattack-133-million/",
    "ozet": "Attackers siphoned an estimated $133 million from Crédit Mutuel Arkéa by using the bank’s own account to wire money to other banks, from where it was possibly converted into cryptocurrency. The French cooperative banking group, which has €211.5 billion in total assets and more than 5.8 million custo",
+   "grup": "Genel"
+  },
+  {
+   "id": "b202d7e30a6f",
+   "tarih": "2026-11-09",
+   "kaynak": "Help Net Security",
+   "baslik": "Hackers abuse refrigeration controllers to send spam and route proxy traffic",
+   "url": "https://www.helpnetsecurity.com/2026/11/09/copeland-xweb-refrigeration-controllers-spam-botnet/",
+   "ozet": "Internet-exposed refrigeration controllers used in supermarkets and cold storage facilities are being hijacked and turned into infrastructure for a suspected spam botnet and proxy services, SecurityScorecard has found. The report follows a string of attacks against European refrigeration systems, wh",
    "grup": "Genel"
   },
   {
@@ -135,12 +234,48 @@
    "grup": "Genel"
   },
   {
+   "id": "adccb074fbff",
+   "tarih": "2026-11-09",
+   "kaynak": "Dark Reading",
+   "baslik": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
+   "url": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
+   "ozet": "Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine.",
+   "grup": "Genel"
+  },
+  {
+   "id": "a3066db4d12b",
+   "tarih": "2026-11-09",
+   "kaynak": "SecurityWeek",
+   "baslik": "Italy’s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister’s Data on the Dark Web",
+   "url": "https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/",
+   "ozet": "Italian Foreign Minister Antonio Tajani said Saturday that his personal data had been disseminated on the dark web. The post Italy&#8217;s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister&#8217;s Data on the Dark Web appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "a2c922a06d73",
    "tarih": "2026-11-09",
    "kaynak": "The Hacker News",
    "baslik": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
    "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
    "ozet": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where",
+   "grup": "Genel"
+  },
+  {
+   "id": "a278123ac0f5",
+   "tarih": "2026-11-09",
+   "kaynak": "SecurityWeek",
+   "baslik": "Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers",
+   "url": "https://www.securityweek.com/iris-plaza-breach-may-have-exposed-data-of-7-7-million-customers/",
+   "ozet": "Hackers compromised an external cloud service used by the shopping platform and may have stolen personal information from it. The post Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "a02fb0af2916",
+   "tarih": "2026-11-09",
+   "kaynak": "The Hacker News",
+   "baslik": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+   "url": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
+   "ozet": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to reach the wallets, both companies said late last week.",
    "grup": "Genel"
   },
   {
@@ -153,12 +288,39 @@
    "grup": "Genel"
   },
   {
+   "id": "85970b304532",
+   "tarih": "2026-11-09",
+   "kaynak": "Dark Reading",
+   "baslik": "PwC's CISO on AI, Robots &amp; What's Next for Security",
+   "url": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
+   "ozet": "As AI accelerates change across the enterprise, PwC's James Shira explains why security teams must rethink their approach to risk and adapt their strategies.",
+   "grup": "Genel"
+  },
+  {
    "id": "83ee2bebe1d4",
    "tarih": "2026-11-09",
    "kaynak": "GBHackers",
    "baslik": "Critical React Server Components Vulnerability Allows Unauthenticated Attackers to Execute Malicious Code on Servers",
    "url": "https://gbhackers.com/critical-react-server-components-vulnerability/",
    "ozet": "A serious vulnerability in React Server Components may enable unauthenticated attackers to execute malicious code on affected servers. The advisory, released on October 14, 2026, assigns the issue a CVSS v4.0 score of 9.5. React maintainers advise that users update their systems immediately, though ",
+   "grup": "Genel"
+  },
+  {
+   "id": "834651054c06",
+   "tarih": "2026-11-09",
+   "kaynak": "GBHackers",
+   "baslik": "New Abe Office Malware Tricks Chrome Into Decrypting Its Own Protected Browser Cookies",
+   "url": "https://gbhackers.com/abe-office-malware/",
+   "ozet": "A newly analyzed remote-access trojan masquerading as an “Abe Office workstation helper” combines hidden-browser control with tooling designed to bypass Chrome’s App-Bound Encryption. Rather than breaking the cryptography, its browser stealer injects a helper into Chrome and requests decryption from",
+   "grup": "Genel"
+  },
+  {
+   "id": "82ab336fed5a",
+   "tarih": "2026-11-09",
+   "kaynak": "BleepingComputer",
+   "baslik": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+   "url": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+   "ozet": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governance, and communication. [...]",
    "grup": "Genel"
   },
   {
@@ -171,6 +333,24 @@
    "grup": "Genel"
   },
   {
+   "id": "7ef80ee6e03a",
+   "tarih": "2026-11-09",
+   "kaynak": "BleepingComputer",
+   "baslik": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
+   "url": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
+   "ozet": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "7e866765ce9c",
+   "tarih": "2026-11-09",
+   "kaynak": "Help Net Security",
+   "baslik": "ARTEX goes from pentesting tool to attacker staple in three months",
+   "url": "https://www.helpnetsecurity.com/2026/11/09/artex-goes-from-pentesting-tool-to-attacker-staple-in-three-months/",
+   "ozet": "A security researcher&#8217;s AI agent breached an internal sales application used by WorkOS&#8217;s go-to-market teams, the developer platform provider confirmed on Friday. &#8220;The researcher was conducting cybersecurity benchmark evaluations using ARTEX when their agent escaped its isolated tes",
+   "grup": "Genel"
+  },
+  {
    "id": "7e4159a7da09",
    "tarih": "2026-11-09",
    "kaynak": "Help Net Security",
@@ -180,12 +360,48 @@
    "grup": "SonicWall"
   },
   {
+   "id": "7cf7e23f8890",
+   "tarih": "2026-11-09",
+   "kaynak": "SecurityWeek",
+   "baslik": "Revolve Puts Data Breach Victim Count at 1.5 Million",
+   "url": "https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/",
+   "ozet": "Online fashion retailer Revolve has told regulators that the September cyberattack affected more than 1.5 million individuals. The post Revolve Puts Data Breach Victim Count at 1.5 Million appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "7cd796fba406",
+   "tarih": "2026-11-09",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+   "url": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+   "ozet": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built to steal the wallet key that Swarm Desktop keeps for its no",
+   "grup": "Genel"
+  },
+  {
+   "id": "7bdf0c6dc5dc",
+   "tarih": "2026-11-09",
+   "kaynak": "The Hacker News",
+   "baslik": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+   "url": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+   "ozet": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT. \"PapRAT has both C++ and Rust implementations,\" Fortinet",
+   "grup": "Genel"
+  },
+  {
    "id": "7689887a124b",
    "tarih": "2026-11-09",
    "kaynak": "GBHackers",
    "baslik": "Anthropic’s Claude AI Deletes a Year of Law Professor’s Lecture Notes During Simple Editing Task",
    "url": "https://gbhackers.com/anthropics-claude-ai-deletes-a-year-of-law-professors-lecture-notes/",
    "ozet": "University of Chicago law professor William Baude says Anthropic’s Claude AI deleted his current syllabus and a year&#8217;s worth of constitutional law lecture notes while completing a routine editing assignment. Baude recovered every affected file through Dropbox, preventing permanent loss but hig",
+   "grup": "Genel"
+  },
+  {
+   "id": "75a509b202a8",
+   "tarih": "2026-11-09",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "Financially motivated threat cluster uses AI-enabled tools against banking sector",
+   "url": "https://www.cybersecuritydive.com/news/financially-motivated-threat-ai-tools-banking-artex/874116/",
+   "ozet": "The campaign is the latest in a wave of attacks using Artex and other pen-testing tools to automate cyberattacks.",
    "grup": "Genel"
   },
   {
@@ -234,6 +450,42 @@
    "grup": "Genel"
   },
   {
+   "id": "5944243d393c",
+   "tarih": "2026-11-09",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "Cybersecurity education in the AI era: What’s new, what’s different",
+   "url": "https://www.cybersecuritydive.com/news/cybersecurity-training-workforce-education-ai/874118/",
+   "ozet": "Businesses are trying new ways to keep employees vigilant, and colleges are debuting curriculum to prepare tomorrow&rsquo;s AI workers.",
+   "grup": "Genel"
+  },
+  {
+   "id": "53877e7ba1bf",
+   "tarih": "2026-11-09",
+   "kaynak": "BleepingComputer",
+   "baslik": "Ukraine dismantles crypto scam network that stole €4.3 million",
+   "url": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
+   "ozet": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "47fb58a628fd",
+   "tarih": "2026-11-09",
+   "kaynak": "BleepingComputer",
+   "baslik": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+   "ozet": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "3f1364bdf6a8",
+   "tarih": "2026-11-09",
+   "kaynak": "Help Net Security",
+   "baslik": "PyPI makes release attestations easier to find with new security tab",
+   "url": "https://www.helpnetsecurity.com/2026/11/09/pypi-security-tab-release-attestations/",
+   "ozet": "The Python Package Index (PyPI) has added a security tab to its project pages, giving developers a place to check where individual release files came from. How PyPI shows where release files came from The Security tab shows whether release files have digital attestations, which provide verifiable in",
+   "grup": "Genel"
+  },
+  {
    "id": "3d5dfb277e1d",
    "tarih": "2026-11-09",
    "kaynak": "The Hacker News",
@@ -252,6 +504,15 @@
    "grup": "Genel"
   },
   {
+   "id": "35b554f4d3af",
+   "tarih": "2026-11-09",
+   "kaynak": "SOC Prime",
+   "baslik": "How to Export Datadog Cloud SIEM Logs",
+   "url": "https://socprime.com/blog/how-to-export-datadog-cloud-siem-logs/",
+   "ozet": "Cloud SIEM runs on top of Datadog Log Management, so exporting “Cloud SIEM logs” means exporting the logs behind it. Use the Logs Search API, POST /api/v2/logs/events/search, with an API key and an application key, and follow the cursor until there’s no next page; each page holds up to 1,000 logs. F",
+   "grup": "Genel"
+  },
+  {
    "id": "33c824e20702",
    "tarih": "2026-11-09",
    "kaynak": "SecurityWeek",
@@ -261,12 +522,39 @@
    "grup": "Genel"
   },
   {
+   "id": "32fa2d4c90f6",
+   "tarih": "2026-11-09",
+   "kaynak": "Dark Reading",
+   "baslik": "NIST: Solo Shouldn't Mean Less Secure",
+   "url": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
+   "ozet": "New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight.",
+   "grup": "Genel"
+  },
+  {
+   "id": "2c42fb617031",
+   "tarih": "2026-11-09",
+   "kaynak": "The Hacker News",
+   "baslik": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+   "url": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+   "ozet": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become part of the attack. Elsewhere, attackers are hiding inside norm",
+   "grup": "Genel"
+  },
+  {
    "id": "2ae6551497b2",
    "tarih": "2026-11-09",
    "kaynak": "GBHackers",
    "baslik": "CISA and FBI Warn of Cyberattacks Targeting Industrial Refrigeration and Cold Chain Monitoring Systems",
    "url": "https://gbhackers.com/cisa-and-fbi-warn-of-cyberattacks/",
    "ozet": "CISA and the FBI, alongside HHS, USDA, and the Department of Transportation, have warned of ongoing cyberattacks targeting industrial refrigeration and cold chain monitoring systems worldwide. Published November 5, 2026, their joint fact sheet urges critical infrastructure operators to secure contro",
+   "grup": "Genel"
+  },
+  {
+   "id": "17c2e818827a",
+   "tarih": "2026-11-09",
+   "kaynak": "GBHackers",
+   "baslik": "ModSecurity WAF Vulnerability Allows Attackers to Bypass File Upload Restrictions Using Crafted HTTP Requests",
+   "url": "https://gbhackers.com/modsecurity-waf-vulnerability-2/",
+   "ozet": "Two high-severity flaws in the open-source ModSecurity web application firewall (WAF) let attackers slip past upload filters or crash server workers with a single crafted HTTP request. Maintainers published both advisories on September 30, 2026, as part of a larger batch that also covers multiple Mo",
    "grup": "Genel"
   },
   {
@@ -297,6 +585,42 @@
    "grup": "Microsoft"
   },
   {
+   "id": "094609239735",
+   "tarih": "2026-11-09",
+   "kaynak": "BleepingComputer",
+   "baslik": "Binance denies data breach after alleged ShinyHunters claims",
+   "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+   "ozet": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "073e03d22dae",
+   "tarih": "2026-11-09",
+   "kaynak": "BleepingComputer",
+   "baslik": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+   "url": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
+   "ozet": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "07253ec00547",
+   "tarih": "2026-11-09",
+   "kaynak": "SOC Prime",
+   "baslik": "How to Export Carbon Black Logs",
+   "url": "https://socprime.com/blog/how-to-export-carbon-black-logs/",
+   "ozet": "For a targeted pull from Carbon Black Cloud, use the Platform Search API. Create a process search job, wait until all backends have answered, and fetch the results as JSON. For bulk, continuous export, set up the Data Forwarder, which writes endpoint events, alerts and watchlist hits to your own S3 ",
+   "grup": "Genel"
+  },
+  {
+   "id": "05d80485eb9b",
+   "tarih": "2026-11-09",
+   "kaynak": "Help Net Security",
+   "baslik": "Trio accused of using deepfake CEOs and bogus lawyers to scam businesses out of $129 million",
+   "url": "https://www.helpnetsecurity.com/2026/11/09/deepfake-ceo-fraud-129-million-indictment/",
+   "ozet": "Three men allegedly used deepfakes of company CEOs and law firm attorneys to trick employees into wiring more than $129 million to accounts the group controlled, the Justice Department said. The indictment names the three as Jacob Soall, 41, Sharon Hazan, 54, and Guy Sheetrit, 42. Soall used the ali",
+   "grup": "Genel"
+  },
+  {
    "id": "01d67ad2f660",
    "tarih": "2026-11-09",
    "kaynak": "Help Net Security",
@@ -312,42 +636,6 @@
    "baslik": "Wirken: Open-source AI agent gateway",
    "url": "https://www.helpnetsecurity.com/2026/11/09/wirken-open-source-ai-agent-gateway/",
    "ozet": "Wirken is an open-source gateway that sits between messaging apps and AI agents. It assumes any agent can be turned against its owner and limits what a compromised one can reach. Take an agent that reads your chats and email, holds the keys to your accounts and can run commands. One hidden instructi",
-   "grup": "Genel"
-  },
-  {
-   "id": "a977e0a42a2b",
-   "tarih": "2026-11-08",
-   "kaynak": "Help Net Security",
-   "baslik": "Week in review: Refrigeration cyberattacks hit European retailers again, Patch Tuesday forecast",
-   "url": "https://www.helpnetsecurity.com/2026/11/08/week-in-review-refrigeration-cyberattacks-hit-european-retailers-again-patch-tuesday-forecast/",
-   "ozet": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: The first ten lines of a command policy for AI coding agents In this Help Net Security interview, Vinay Thakker, CTO of KloudStax, explains how to set identity, credentials, and network limits for AI ag",
-   "grup": "Genel"
-  },
-  {
-   "id": "9c037607d0d5",
-   "tarih": "2026-11-08",
-   "kaynak": "SecurityWeek",
-   "baslik": "Brava Security Emerges From Stealth With $15 Million in Funding",
-   "url": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
-   "ozet": "Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses. The post Brava Security Emerges From Stealth With $15 Million in Funding appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "840fc9184c68",
-   "tarih": "2026-11-08",
-   "kaynak": "BleepingComputer",
-   "baslik": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-   "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-   "ozet": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "ded94754be20",
-   "tarih": "2026-11-07",
-   "kaynak": "BleepingComputer",
-   "baslik": "Hackers pull off $133 million French bank heist via service provider",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
-   "ozet": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
    "grup": "Genel"
   },
   {
@@ -396,87 +684,6 @@
    "grup": "SonicWall"
   },
   {
-   "id": "804a43c3361e",
-   "tarih": "2026-11-07",
-   "kaynak": "The Hacker News",
-   "baslik": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-   "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-   "ozet": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in",
-   "grup": "Genel"
-  },
-  {
-   "id": "71b088e2c344",
-   "tarih": "2026-11-07",
-   "kaynak": "GBHackers",
-   "baslik": "Hackers Use Fake GitHub Security Tools to Spread Malware, Infecting Over 2,000 Computers",
-   "url": "https://gbhackers.com/hackers-use-fake-github-security-tools/",
-   "ozet": "Threat actors are distributing malware through GitHub repositories masquerading as security utilities, infecting more than 2,000 computers. According to Doctor Web’s November 5 investigation, the campaign targets cybersecurity professionals alongside blockchain gaming enthusiasts, weaponizing Visual",
-   "grup": "Genel"
-  },
-  {
-   "id": "5a803bd3a25d",
-   "tarih": "2026-11-07",
-   "kaynak": "GBHackers",
-   "baslik": "Claude Code’s “Don’t Ask Again” Feature Exposes 2,539 Secrets Across 1,994 GitHub Repositories",
-   "url": "https://gbhackers.com/claude-codes-dont-ask-again-feature-exposed/",
-   "ozet": "A newly identified 2,539 distinct secrets across 1,994 public GitHub repositories, tracing exposure to coding-agent configuration files, Git history, and saved transcripts. Their November 5 research describes how Claude Code’s “Yes, and don’t ask again” approval can persist credential-bearing shell ",
-   "grup": "Genel"
-  },
-  {
-   "id": "5a765cf499c2",
-   "tarih": "2026-11-07",
-   "kaynak": "BleepingComputer",
-   "baslik": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-   "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-   "ozet": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without deliver",
-   "grup": "Genel"
-  },
-  {
-   "id": "1056b069dc3a",
-   "tarih": "2026-11-07",
-   "kaynak": "GBHackers",
-   "baslik": "WorkOS Confirms Data Breach After ARTEX AI Agent Escapes Security Researcher’s Sandbox",
-   "url": "https://gbhackers.com/workos-data-breach-artex-ai/",
-   "ozet": "WorkOS confirmed that an ARTEX security agent escaped a researcher’s isolated testing environment and accessed an internal application, exposing customer business information. In its November 6 update, the company attributed the incident to unintended activity during cybersecurity benchmark evaluati",
-   "grup": "Genel"
-  },
-  {
-   "id": "fa1b528ec2d1",
-   "tarih": "2026-11-06",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export Graylog Logs",
-   "url": "https://socprime.com/blog/how-to-export-graylog-logs/",
-   "ozet": "Graylog keeps its messages in OpenSearch or Elasticsearch, so you have two routes. Use the Graylog REST API, authenticated with an access token, or query the backend indices (graylog_* by default) directly with a script. Either way you get JSON. The original line is in message, and in full_message f",
-   "grup": "Genel"
-  },
-  {
-   "id": "f8e9629a67be",
-   "tarih": "2026-11-06",
-   "kaynak": "BleepingComputer",
-   "baslik": "Chainalysis says breach exposed credentials for all customers",
-   "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-   "ozet": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "ed60ea7fa412",
-   "tarih": "2026-11-06",
-   "kaynak": "The Hacker News",
-   "baslik": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
-   "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
-   "ozet": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those requests never appear in it",
-   "grup": "Genel"
-  },
-  {
-   "id": "ea5dd634f030",
-   "tarih": "2026-11-06",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "Hackers enlist Artex to scan GitHub repositories for exposed secrets",
-   "url": "https://www.cybersecuritydive.com/news/hackers-artex-github-repositories-exposed-secrets/874007/",
-   "ozet": "Agentic AI tools target downstream tenants using stolen credentials, according to Microsoft researchers.",
-   "grup": "Genel"
-  },
-  {
    "id": "e6f324c83a07",
    "tarih": "2026-11-06",
    "kaynak": "GBHackers",
@@ -486,150 +693,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "de259e1043ce",
-   "tarih": "2026-11-06",
-   "kaynak": "Help Net Security",
-   "baslik": "OpenSSH flaw exploited in the wild just hours after disclosure (CVE-2026-123158)",
-   "url": "https://www.helpnetsecurity.com/2026/11/06/openssh-sshole-cve-2026-123158-exploitation/",
-   "ozet": "An OpenSSH flaw that lets remote attackers log into passwordless accounts on Alpine Linux and other musl-based systems is being exploited, threat intelligence firm Previdian has warned. The flaw (CVE-2026-123158), nicknamed sshole by Wakefield researcher Özgün Kültekin, was fixed in OpenSSH 10.6p2 o",
-   "grup": "Genel"
-  },
-  {
-   "id": "dcf4f3367137",
-   "tarih": "2026-11-06",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export Trellix Helix Logs",
-   "url": "https://socprime.com/blog/how-to-export-trellix-helix-logs/",
-   "ozet": "Run your search through the Helix search API: a POST to https://apps.fireeye.com/helix/id/&#60;instance-id&#62;/api/v1/search with your API key in the x-fireeye-api-key header and the query in the body. Regional instances use their own hosts, such as helix.eu.fireeye.com. The results come back as JS",
-   "grup": "Genel"
-  },
-  {
-   "id": "d9a0f8bfa397",
-   "tarih": "2026-11-06",
-   "kaynak": "SecurityWeek",
-   "baslik": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
-   "url": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
-   "ozet": "The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness across Japan. The post Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks appeared first on SecurityW",
-   "grup": "Genel"
-  },
-  {
-   "id": "d3a831a942e3",
-   "tarih": "2026-11-06",
-   "kaynak": "GBHackers",
-   "baslik": "11 IT & Cyber Risk Management Tools: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/it-cyber-risk-buyers-guide/",
-   "ozet": "IT and cyber risk management tooling is the register discipline underneath GRC’s broader umbrella: risks captured with owners and treatments, controls linked, exceptions tracked, and reporting that survives committee scrutiny. Where our GRC platforms guide judges the whole estate, this guide narrows",
-   "grup": "Genel"
-  },
-  {
-   "id": "d0b8b49f25ce",
-   "tarih": "2026-11-06",
-   "kaynak": "BleepingComputer",
-   "baslik": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
-   "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
-   "ozet": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "cea41b0360f6",
-   "tarih": "2026-11-06",
-   "kaynak": "The Hacker News",
-   "baslik": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
-   "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
-   "ozet": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop",
-   "grup": "Genel"
-  },
-  {
-   "id": "cc8d32ac462d",
-   "tarih": "2026-11-06",
-   "kaynak": "SecurityWeek",
-   "baslik": "Researchers Find Residential Proxies on White House Network",
-   "url": "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/",
-   "ozet": "In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time. The post Researchers Find Residential Proxies on White House Network appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "c9b593946ad1",
-   "tarih": "2026-11-06",
-   "kaynak": "Help Net Security",
-   "baslik": "OpenAI’s GPT-6 Cyber found 81 Firefox flaws earlier AI testing missed",
-   "url": "https://www.helpnetsecurity.com/2026/11/06/openai-gpt-6-cyber-released/",
-   "ozet": "OpenAI has introduced GPT-6 Cyber, a version of GPT-6 Astra trained to find software vulnerabilities, test how attackers could exploit them, and help develop fixes. The model is designed for authorized security testing of websites and applications. Vulnerability research and security testing OpenAI ",
-   "grup": "Genel"
-  },
-  {
-   "id": "c4daeac5c98c",
-   "tarih": "2026-11-06",
-   "kaynak": "BleepingComputer",
-   "baslik": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-   "ozet": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "ba147c5fc5c9",
-   "tarih": "2026-11-06",
-   "kaynak": "BleepingComputer",
-   "baslik": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-   "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-   "ozet": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "b99b441690fc",
-   "tarih": "2026-11-06",
-   "kaynak": "BleepingComputer",
-   "baslik": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-   "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-   "ozet": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "b63212099f3b",
-   "tarih": "2026-11-06",
-   "kaynak": "Dark Reading",
-   "baslik": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
-   "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
-   "ozet": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
-   "grup": "Genel"
-  },
-  {
-   "id": "b1ee54a416ac",
-   "tarih": "2026-11-06",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export FortiSIEM Logs",
-   "url": "https://socprime.com/blog/how-to-export-fortisiem-logs/",
-   "ozet": "Use FortiSIEM’s REST event query API. Post an XML query to /phoenix/rest/query/eventQuery, which returns a query ID, poll the progress until it reaches 100, then fetch the events. The results come back as XML. The original log line of each event is in the rawEventMsg attribute, so a few lines of Pyt",
-   "grup": "Genel"
-  },
-  {
-   "id": "affb73a9e26e",
-   "tarih": "2026-11-06",
-   "kaynak": "Help Net Security",
-   "baslik": "Sarajevo Cyber Security Summit 2026 puts the Western Balkans’ cyber resilience in focus",
-   "url": "https://www.helpnetsecurity.com/2026/11/06/sarajevo-cyber-security-summit-2026/",
-   "ozet": "Cyber Security Summit 2026 in Sarajevo will examine the practical security questions organizations face when a supplier, network device or critical digital service fails: what breaks, who decides, and how quickly can operations recover? A serious cyber incident does not need to begin on an organizat",
-   "grup": "Genel"
-  },
-  {
-   "id": "af6d1b8b9d25",
-   "tarih": "2026-11-06",
-   "kaynak": "BleepingComputer",
-   "baslik": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
-   "url": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
-   "ozet": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "adc3daa83346",
-   "tarih": "2026-11-06",
-   "kaynak": "GBHackers",
-   "baslik": "Claude AI Flaw Lets Malicious Browser Extensions Execute Commands on Remote Computers",
-   "url": "https://gbhackers.com/claude-ai-flaw/",
-   "ozet": "A design flaw in Anthropic&#8217;s Claude Dispatch feature let a malicious browser extension run commands on the operating system, even on a different computer. Researchers at Forever Security named the attack ThisBash. They found that Claude Dispatch accepted instructions from an ordinary logged-in",
-   "grup": "Genel"
-  },
-  {
    "id": "aa5aba5c7277",
    "tarih": "2026-11-06",
    "kaynak": "Hackread",
@@ -637,60 +700,6 @@
    "url": "https://hackread.com/cisa-hackers-exploiting-wordpress-core-vulnerability/",
    "ozet": "CVE-2026-119977 lets hackers hijack WordPress sites during core updates. CISA confirms exploitation as users are told to patch&#8230;",
    "grup": "WordPress"
-  },
-  {
-   "id": "a97be9095b72",
-   "tarih": "2026-11-06",
-   "kaynak": "BleepingComputer",
-   "baslik": "Fake security tools on GitHub push backdoors and infostealers",
-   "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-   "ozet": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "a7aeb858ca26",
-   "tarih": "2026-11-06",
-   "kaynak": "GBHackers",
-   "baslik": "Hackers Use Fake Streaming Apps to Spread Mirax Android Malware and Steal Bank Accounts",
-   "url": "https://gbhackers.com/mirax-android-malware/",
-   "ozet": "Hackers are using streaming app lures to distribute Mirax. This Android banking trojan lets operators remotely control victims’ phones and initiate fraudulent transfers. Estimated losses reach millions of dollars, although confirmed cases capture only part of the campaign’s impact. The operation rem",
-   "grup": "Genel"
-  },
-  {
-   "id": "a64f92172f81",
-   "tarih": "2026-11-06",
-   "kaynak": "Help Net Security",
-   "baslik": "87% say their AI controls need to work better",
-   "url": "https://www.helpnetsecurity.com/2026/11/06/autonomous-ai-oversight-governance/",
-   "ozet": "The AI running inside large companies has stopped waiting for permission. Across five categories of AI, from chatbots to process automation, more than half of 3,600 business decision-makers say the systems their teams use can act within defined rules without routine review, or finish whole processes",
-   "grup": "Genel"
-  },
-  {
-   "id": "a5d2f46564bf",
-   "tarih": "2026-11-06",
-   "kaynak": "Schneier on Security",
-   "baslik": "Pinpointing Location of Videos from Background Airplane Sounds",
-   "url": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html",
-   "ozet": "This is fascinating: The video describes a technique that can reveal where an otherwise unidentifiable recording was made by analyzing its audio for the faint sounds of passing aircraft. The technique is both fascinating and frightening. It works by looking at Doppler curves, which plot the way a pl",
-   "grup": "Genel"
-  },
-  {
-   "id": "a40dff3d749a",
-   "tarih": "2026-11-06",
-   "kaynak": "The Hacker News",
-   "baslik": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-   "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-   "ozet": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), impacts Linux system",
-   "grup": "Genel"
-  },
-  {
-   "id": "a382c3d13c65",
-   "tarih": "2026-11-06",
-   "kaynak": "The Hacker News",
-   "baslik": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
-   "url": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
-   "ozet": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday. One flaw, C",
-   "grup": "Genel"
   },
   {
    "id": "9fe769e3c933",
