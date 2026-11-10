@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-09T19:45:11+00:00",
+ "guncelleme": "2026-11-10T03:31:26+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -63,6 +63,15 @@
    "grup": "Genel"
   },
   {
+   "id": "fb65eccd7583",
+   "tarih": "2026-11-09",
+   "kaynak": "BleepingComputer",
+   "baslik": "SEGA newsletter data breach exposes 2.2 million email addresses",
+   "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+   "ozet": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "f70e8a67fa8f",
    "tarih": "2026-11-09",
    "kaynak": "Help Net Security",
@@ -79,6 +88,15 @@
    "url": "https://gbhackers.com/google-gemini-safety-filter-bypass-exposes-blocked/",
    "ozet": "Google Gemini exposed images that its safety filters had rejected through download links, revealing an infrastructure weakness rather than a conventional model jailbreak. Fog Security researcher Jason Kao disclosed the findings on November 5, 2026, describing how Gemini could refuse an image request",
    "grup": "Genel"
+  },
+  {
+   "id": "eae4ff98ab3e",
+   "tarih": "2026-11-09",
+   "kaynak": "Dark Reading",
+   "baslik": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
+   "url": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
+   "ozet": "Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear.",
+   "grup": "Microsoft"
   },
   {
    "id": "e89c57c6d564",
@@ -207,6 +225,15 @@
    "grup": "Genel"
   },
   {
+   "id": "b9b072a1ed15",
+   "tarih": "2026-11-09",
+   "kaynak": "BleepingComputer",
+   "baslik": "York University breach exposed personal information dating to 2007",
+   "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+   "ozet": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "b2c42f850778",
    "tarih": "2026-11-09",
    "kaynak": "Help Net Security",
@@ -285,6 +312,24 @@
    "baslik": "PolinRider Malware Returns in 10 Hijacked npm Packages Using Ethereum Blockchain to Deliver Malicious Code",
    "url": "https://gbhackers.com/polinrider-malware-attack/",
    "ozet": "A concealed JavaScript loaders in 12 releases across 10 hijacked npm packages, linking the compromise to previously documented PolinRider activity. Investigated on November 4, 2026, the releases use Ethereum transactions to discover remote payload servers and execute downloaded code inside developer",
+   "grup": "Genel"
+  },
+  {
+   "id": "907718f8d430",
+   "tarih": "2026-11-09",
+   "kaynak": "Dark Reading",
+   "baslik": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
+   "ozet": "New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize response actions.",
+   "grup": "Genel"
+  },
+  {
+   "id": "8d206c962ee8",
+   "tarih": "2026-11-09",
+   "kaynak": "BleepingComputer",
+   "baslik": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+   "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+   "ozet": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]",
    "grup": "Genel"
   },
   {
@@ -468,6 +513,24 @@
    "grup": "Genel"
   },
   {
+   "id": "527a69512361",
+   "tarih": "2026-11-09",
+   "kaynak": "Dark Reading",
+   "baslik": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
+   "url": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
+   "ozet": "Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days of cutting-edge research, technical exchange and strategic dialogue.",
+   "grup": "Genel"
+  },
+  {
+   "id": "48d9ef3d98d6",
+   "tarih": "2026-11-09",
+   "kaynak": "BleepingComputer",
+   "baslik": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+   "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+   "ozet": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "47fb58a628fd",
    "tarih": "2026-11-09",
    "kaynak": "BleepingComputer",
@@ -583,60 +646,6 @@
    "url": "https://gbhackers.com/anubis-ransomware-attack/",
    "ozet": "Attackers deploying Anubis ransomware hit a U.S. organization in October 2026 with a previously undocumented custom backdoor. The malware sat on two Microsoft SQL Server machines, disguised as a Chrome component on one and a VMware file on the other. The encryption payload was blocked, and there is ",
    "grup": "Microsoft"
-  },
-  {
-   "id": "094609239735",
-   "tarih": "2026-11-09",
-   "kaynak": "BleepingComputer",
-   "baslik": "Binance denies data breach after alleged ShinyHunters claims",
-   "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
-   "ozet": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "073e03d22dae",
-   "tarih": "2026-11-09",
-   "kaynak": "BleepingComputer",
-   "baslik": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
-   "url": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
-   "ozet": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "07253ec00547",
-   "tarih": "2026-11-09",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export Carbon Black Logs",
-   "url": "https://socprime.com/blog/how-to-export-carbon-black-logs/",
-   "ozet": "For a targeted pull from Carbon Black Cloud, use the Platform Search API. Create a process search job, wait until all backends have answered, and fetch the results as JSON. For bulk, continuous export, set up the Data Forwarder, which writes endpoint events, alerts and watchlist hits to your own S3 ",
-   "grup": "Genel"
-  },
-  {
-   "id": "05d80485eb9b",
-   "tarih": "2026-11-09",
-   "kaynak": "Help Net Security",
-   "baslik": "Trio accused of using deepfake CEOs and bogus lawyers to scam businesses out of $129 million",
-   "url": "https://www.helpnetsecurity.com/2026/11/09/deepfake-ceo-fraud-129-million-indictment/",
-   "ozet": "Three men allegedly used deepfakes of company CEOs and law firm attorneys to trick employees into wiring more than $129 million to accounts the group controlled, the Justice Department said. The indictment names the three as Jacob Soall, 41, Sharon Hazan, 54, and Guy Sheetrit, 42. Soall used the ali",
-   "grup": "Genel"
-  },
-  {
-   "id": "01d67ad2f660",
-   "tarih": "2026-11-09",
-   "kaynak": "Help Net Security",
-   "baslik": "Product showcase: What the Malwarebytes Claude connector reveals about unexpected texts",
-   "url": "https://www.helpnetsecurity.com/2026/11/09/product-showcase-malwarebytes-claude-scam-detection/",
-   "ozet": "The Malwarebytes connector for Claude checks suspicious links, phone numbers, and email addresses without leaving the chat. You can paste a link or upload a screenshot of a message, then ask Claude to check the details against Malwarebytes’ threat database. The connector works with free and paid Cla",
-   "grup": "Genel"
-  },
-  {
-   "id": "010d19db0cbb",
-   "tarih": "2026-11-09",
-   "kaynak": "Help Net Security",
-   "baslik": "Wirken: Open-source AI agent gateway",
-   "url": "https://www.helpnetsecurity.com/2026/11/09/wirken-open-source-ai-agent-gateway/",
-   "ozet": "Wirken is an open-source gateway that sits between messaging apps and AI agents. It assumes any agent can be turned against its owner and limits what a compromised one can reach. Take an agent that reads your chats and email, holds the keys to your accounts and can run commands. One hidden instructi",
-   "grup": "Genel"
   },
   {
    "id": "ca1a9396bb65",
