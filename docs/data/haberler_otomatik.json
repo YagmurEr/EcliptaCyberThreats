@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-10T16:59:59+00:00",
+ "guncelleme": "2026-11-11T01:13:35+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -53,6 +53,15 @@
   }
  ],
  "haberler": [
+  {
+   "id": "fb96488cbcbe",
+   "tarih": "2026-11-10",
+   "kaynak": "Help Net Security",
+   "baslik": "Firefox free VPN drops its 50GB launch cap until January 31",
+   "url": "https://www.helpnetsecurity.com/2026/11/10/firefox-free-vpn-data/",
+   "ozet": "Mozilla has removed the data limit on the free VPN built into Firefox. Firefox users in supported regions get unlimited browsing on desktop and Android once they sign in with a Mozilla account. The VPN shipped with Firefox 149 in March with a 50GB monthly cap. That is plenty for reading and ordinary",
+   "grup": "Genel"
+  },
   {
    "id": "f9a315b08895",
    "tarih": "2026-11-10",
@@ -135,6 +144,15 @@
    "grup": "Genel"
   },
   {
+   "id": "d6fe2bb7d331",
+   "tarih": "2026-11-10",
+   "kaynak": "Dark Reading",
+   "baslik": "How to Assess OT Incident Response Preparedness",
+   "url": "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
+   "ozet": "Cloud Range's free 28-question OT Cyber Readiness Assessment helps organizations identify gaps in operational technology (OT) incident response.",
+   "grup": "Genel"
+  },
+  {
    "id": "d2ca03372926",
    "tarih": "2026-11-10",
    "kaynak": "Help Net Security",
@@ -168,6 +186,15 @@
    "baslik": "Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next",
    "url": "https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/",
    "ozet": "SBOM pioneer Allan Friedman joined the SecurityWeek Podcast to discuss why knowing what is inside software is only the beginning, how AI is complicating software supply chain visibility, and what organizations should be doing with SBOM data once they have it. The post Software Transparency Is Changi",
+   "grup": "Genel"
+  },
+  {
+   "id": "c9d200a425c2",
+   "tarih": "2026-11-10",
+   "kaynak": "Dark Reading",
+   "baslik": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
+   "ozet": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.",
    "grup": "Genel"
   },
   {
@@ -261,6 +288,24 @@
    "grup": "Genel"
   },
   {
+   "id": "b958c2272095",
+   "tarih": "2026-11-10",
+   "kaynak": "The Hacker News",
+   "baslik": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+   "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+   "ozet": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that day, including requests sent in confidential mode, the company",
+   "grup": "Genel"
+  },
+  {
+   "id": "b86930e18372",
+   "tarih": "2026-11-10",
+   "kaynak": "The Hacker News",
+   "baslik": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+   "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+   "ozet": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1. The",
+   "grup": "Genel"
+  },
+  {
    "id": "b579a343e6b6",
    "tarih": "2026-11-10",
    "kaynak": "The Hacker News",
@@ -284,7 +329,16 @@
    "kaynak": "Dark Reading",
    "baslik": "AI Makes Reverse Engineering Mainstream Software &amp; Malware Far Easier",
    "url": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
-   "ozet": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising fresh concerns for defenders.",
+   "ozet": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising opportunities and concerns for organizations and cybersecurity analysts.",
+   "grup": "Genel"
+  },
+  {
+   "id": "af3e566756ff",
+   "tarih": "2026-11-10",
+   "kaynak": "Hackread",
+   "baslik": "AI-Powered Malware Analysis Uncovers Hidden Phishing Threats and Reduces SOC Workload",
+   "url": "https://hackread.com/ai-powered-malware-analysis-phishing-threats-soc-workload/",
+   "ozet": "AI powered malware analysis helps teams reveal hidden phishing attacks, connect related threats and automate reports to reduce investigation workload.",
    "grup": "Genel"
   },
   {
@@ -315,12 +369,39 @@
    "grup": "Genel"
   },
   {
+   "id": "9814f0299437",
+   "tarih": "2026-11-10",
+   "kaynak": "BleepingComputer",
+   "baslik": "Microsoft releases Windows 10 KB5131096 extended security update",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+   "ozet": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+   "grup": "Microsoft"
+  },
+  {
    "id": "97bc5fc40a9b",
    "tarih": "2026-11-10",
    "kaynak": "Help Net Security",
    "baslik": "Dreeze raises $33 million to automate recovery of entire cloud applications",
    "url": "https://www.helpnetsecurity.com/2026/11/10/dreeze-application-revival-33-million-funding/",
    "ozet": "Dreeze emerged from stealth with $33 million in seed funding and announced the general availability of its Application Revival platform for Amazon Web Services (AWS). Norwest and Bessemer Venture Partners led the round, with participation from Claltech. The platform helps enterprises recover complet",
+   "grup": "Genel"
+  },
+  {
+   "id": "95f883361cdc",
+   "tarih": "2026-11-10",
+   "kaynak": "Dark Reading",
+   "baslik": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
+   "url": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
+   "ozet": "Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast.",
+   "grup": "Genel"
+  },
+  {
+   "id": "9398616ade4d",
+   "tarih": "2026-11-10",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+   "ozet": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062. \"REST cookie parsing turns authenticationToke",
    "grup": "Genel"
   },
   {
@@ -339,6 +420,15 @@
    "baslik": "New OpenSSH Vulnerability",
    "url": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
    "ozet": "It&#8217;s a bad one, and it&#8217;s been in the code for a decade: A newly disclosed flaw involving OpenSSH and musl, dubbed &#8220;*sshole,&#8221; allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering a",
+   "grup": "Genel"
+  },
+  {
+   "id": "8ec6ef10a10a",
+   "tarih": "2026-11-10",
+   "kaynak": "Dark Reading",
+   "baslik": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
+   "url": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
+   "ozet": "Sivilya brings deep cybersecurity and technology leadership to Checkmarx as AI transforms software development.",
    "grup": "Genel"
   },
   {
@@ -414,6 +504,15 @@
    "grup": "Genel"
   },
   {
+   "id": "80496ac2144f",
+   "tarih": "2026-11-10",
+   "kaynak": "Dark Reading",
+   "baslik": "AI Coding Agents Leak Thousands of Secrets to GitHub",
+   "url": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
+   "ozet": "A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations.",
+   "grup": "Genel"
+  },
+  {
    "id": "803664b0a720",
    "tarih": "2026-11-10",
    "kaynak": "GBHackers",
@@ -471,7 +570,7 @@
    "id": "7646e96e2e7b",
    "tarih": "2026-11-10",
    "kaynak": "The Hacker News",
-   "baslik": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+   "baslik": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
    "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
    "ozet": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month&nbsp; uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\" In a notice publ",
    "grup": "Genel"
@@ -522,76 +621,22 @@
    "grup": "Genel"
   },
   {
-   "id": "64ec800c6a5a",
+   "id": "6922144e7a8d",
    "tarih": "2026-11-10",
-   "kaynak": "Hackread",
-   "baslik": "One Identity Unveils Active Roles 8.6 with Enhanced Security and Administration",
-   "url": "https://hackread.com/one-identity-unveils-active-roles-8-6-with-enhanced-security-and-administration/",
-   "ozet": "Alisa Viejo, California, 10th November 2026, CyberNewswire",
+   "kaynak": "Dark Reading",
+   "baslik": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them",
+   "url": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them",
+   "ozet": "New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene.",
    "grup": "Genel"
   },
   {
-   "id": "62f9062cee13",
+   "id": "50eb1dccf495",
    "tarih": "2026-11-10",
-   "kaynak": "GBHackers",
-   "baslik": "11 PCI DSS Compliance Tools: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/pci-dss-compliance-buyers-guide/",
-   "ozet": "PCI DSS compliance is really three purchases wearing one acronym: scope-reduction architecture, continuous technical controls (ASV scans, FIM, segmentation tests), and assessment itself (QSA firms, SAQ tooling). PCI DSS 4.x sharpened all three with customized-approach options and stricter authentica",
-   "grup": "Genel"
-  },
-  {
-   "id": "6278107deb66",
-   "tarih": "2026-11-10",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export Amazon Security Lake Logs",
-   "url": "https://socprime.com/blog/how-to-export-amazon-security-lake-logs/",
-   "ozet": "Amazon Security Lake stores your data in S3 as Parquet files in the OCSF schema, so you don’t download it directly. You query it. Use Amazon Athena with an UNLOAD statement and format = &#8216;JSON&#8217;: Athena writes the results as JSON lines to an S3 prefix you choose, and you download that. Sec",
-   "grup": "Genel"
-  },
-  {
-   "id": "61f253ac4386",
-   "tarih": "2026-11-10",
-   "kaynak": "SecurityWeek",
-   "baslik": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year",
-   "url": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/",
-   "ozet": "The high-severity use-after-free in Chrome’s XML component was reported anonymously on November 6 and is already exploited in attacks. The post Chrome Update Patches Exploited XML Zero-Day, Eighth This Year appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "5c8f43f3df7d",
-   "tarih": "2026-11-10",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export Cortex XDR Logs",
-   "url": "https://socprime.com/blog/how-to-export-cortex-xdr-logs/",
-   "ozet": "Use the XQL query APIs. Start a query with /public_api/v1/xql/start_xql_query, which returns an execution ID. Fetch the results with /public_api/v1/xql/get_query_results in JSON. That call returns up to 1,000 results inline; anything bigger comes back as a stream ID you pass to /public_api/v1/xql/ge",
-   "grup": "Genel"
-  },
-  {
-   "id": "5806f2db1ee1",
-   "tarih": "2026-11-10",
-   "kaynak": "GBHackers",
-   "baslik": "Dark Storm Team Offers DDoS Attacks, Database Dumps, and Stolen Access Through Telegram Channels",
-   "url": "https://gbhackers.com/dark-storm-team-operations/",
-   "ozet": "Dark Storm Team uses Telegram as both a hacktivist broadcasting network and a cybercrime storefront, advertising distributed denial-of-service attacks, database dumps, compromised accounts, and surveillance access. A StealthMole investigation described in the supplied material traces an operation co",
-   "grup": "Genel"
-  },
-  {
-   "id": "56ef7d2f345e",
-   "tarih": "2026-11-10",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export LimaCharlie Logs",
-   "url": "https://socprime.com/blog/how-to-export-limacharlie-logs/",
-   "ozet": "Install the LimaCharlie CLI (pip install limacharlie), log in with your organization ID and an API key, and run an LCQL query with limacharlie search run for the time range you need, with JSON output. Events come back in LimaCharlie’s {routing, event} structure. For continuous, bulk export, configur",
-   "grup": "Genel"
-  },
-  {
-   "id": "52646cd618c1",
-   "tarih": "2026-11-10",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export Cortex XSIAM Logs",
-   "url": "https://socprime.com/blog/how-to-export-cortex-xsiam-logs/",
-   "ozet": "Cortex XSIAM uses the same XQL query APIs as Cortex XDR: start a query, wait for results, and use a stream for anything over 1,000 rows. What’s different is the data. Third-party logs land in raw datasets, usually named &#60;vendor&#62;_&#60;product&#62;_raw, and the original log line sits in the _r",
-   "grup": "Genel"
+   "kaynak": "BleepingComputer",
+   "baslik": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+   "ozet": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
+   "grup": "Microsoft"
   },
   {
    "id": "4b5815d13aa1",
@@ -603,31 +648,13 @@
    "grup": "Microsoft"
   },
   {
-   "id": "4ab3567cfd4f",
+   "id": "33bc3cf0f92e",
    "tarih": "2026-11-10",
-   "kaynak": "Help Net Security",
-   "baslik": "AI reverse engineering let researchers add a new feature to Slack",
-   "url": "https://www.helpnetsecurity.com/2026/11/10/slack-ai-reverse-engineering/",
-   "ozet": "Intezer researchers used AI agents to rebuild source code for Slack, Apple’s Finder and a TinyTurla-NG sample, from a backdoor family Cisco Talos attributes to the Turla group. They worked from the shipped programs and vendor documentation. The rebuilt Slack ran well enough that the team added a new",
-   "grup": "Genel"
-  },
-  {
-   "id": "4271579ddeba",
-   "tarih": "2026-11-10",
-   "kaynak": "The Hacker News",
-   "baslik": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
-   "url": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
-   "ozet": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yesterday, do not list a",
-   "grup": "Genel"
-  },
-  {
-   "id": "3f155623a93a",
-   "tarih": "2026-11-10",
-   "kaynak": "Help Net Security",
-   "baslik": "Cybersecurity jobs available right now: November 10, 2026",
-   "url": "https://www.helpnetsecurity.com/2026/11/10/cybersecurity-jobs-available-right-now-november-10-2026/",
-   "ozet": "Application Security Engineer ONE ZERO BANK &#124; Israel &#124; Hybrid &#8211; View job details As an Application Security Engineer, you will work with developers to build security into the software development lifecycle. You will use security reviews and threat modeling to find vulnerabilities in ",
-   "grup": "Genel"
+   "kaynak": "BleepingComputer",
+   "baslik": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
+   "ozet": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
+   "grup": "Microsoft"
   },
   {
    "id": "338bb5cfedca",
@@ -663,6 +690,15 @@
    "baslik": "Russian-Linked Turla Hackers Abuse Microsoft Exchange Infrastructure to Target Sensitive Communications",
    "url": "https://gbhackers.com/microsoft-exchange-abuse/",
    "ozet": "Russian-linked espionage group Turla has deployed a previously undocumented .NET malware toolkit that turns compromised Microsoft Exchange servers into surveillance platforms and command infrastructure. Named Cereal, the modular toolset intercepts selected emails while allowing legitimate messages t",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "008f66d06450",
+   "tarih": "2026-11-10",
+   "kaynak": "SecurityWeek",
+   "baslik": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+   "url": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
+   "ozet": "CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation. The post Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft appeared first on SecurityWeek.",
    "grup": "Microsoft"
   },
   {
