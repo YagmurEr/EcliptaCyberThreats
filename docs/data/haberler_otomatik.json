@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-11T01:13:35+00:00",
+ "guncelleme": "2026-11-11T10:53:36+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -53,6 +53,294 @@
   }
  ],
  "haberler": [
+  {
+   "id": "e23f07d99f92",
+   "tarih": "2026-11-11",
+   "kaynak": "The Hacker News",
+   "baslik": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+   "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+   "ozet": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command, which an agent using that model would run with the agent's own permi",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "ddf3562d4ef5",
+   "tarih": "2026-11-11",
+   "kaynak": "SecurityWeek",
+   "baslik": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms",
+   "url": "https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/",
+   "ozet": "Apple has patched Bluetooth and AirPlay pairing flaws, iMessage vulnerabilities, and an exploited Brotli bug across its platforms. The post Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "d4e4627c5bb3",
+   "tarih": "2026-11-11",
+   "kaynak": "Help Net Security",
+   "baslik": "Orca Security adds visibility into AI-generated code and agent risks",
+   "url": "https://www.helpnetsecurity.com/2026/11/11/orca-security-ai-security/",
+   "ozet": "Orca Security has announced new capabilities to help organizations discover and secure AI-generated applications and autonomous agents across their cloud environments. The expansion builds on Orca’s AI Security offering, enabling security teams to uncover previously unknown AI applications, assess t",
+   "grup": "Genel"
+  },
+  {
+   "id": "cec40637dd91",
+   "tarih": "2026-11-11",
+   "kaynak": "GBHackers",
+   "baslik": "Microsoft November 2026 Patch Tuesday Addresses Critical RCE Flaws and Outlook Zero-Day Attacks",
+   "url": "https://gbhackers.com/microsoft-november-2026-patch-tuesday/",
+   "ozet": "Microsoft released its November 2026 Patch Tuesday updates, addressing 1,093 newly disclosed vulnerabilities across Windows, Office, SQL Server, SharePoint, Exchange Server, Azure services, and developer tools. The release includes 63 Critical flaws, 1,029 Important issues, and one Moderate vulnerab",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "cdd8a2af5e68",
+   "tarih": "2026-11-11",
+   "kaynak": "Help Net Security",
+   "baslik": "A CISO’s guide to trimming waste from a flat security budget",
+   "url": "https://www.helpnetsecurity.com/2026/11/11/flat-security-budget-video/",
+   "ozet": "In this Help Net Security video, Ken Leeser, CISO at Y Meadows, explains how security leaders can get more protection out of a flat budget. He argues a frozen budget gives teams a reason to cut waste and simplify their security stack. The first step is an inventory of every tool and what it costs, i",
+   "grup": "Genel"
+  },
+  {
+   "id": "cd6455aacef5",
+   "tarih": "2026-11-11",
+   "kaynak": "The Hacker News",
+   "baslik": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+   "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Details of the vulnerabilities are",
+   "grup": "Cisco"
+  },
+  {
+   "id": "c5080c64e3d8",
+   "tarih": "2026-11-11",
+   "kaynak": "SecurityWeek",
+   "baslik": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities",
+   "url": "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/",
+   "ozet": "The flaws, CVE-2026-111793 and CVE-2026-20320, let attackers leak sensitive information, including configuration data. The post Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities appeared first on SecurityWeek.",
+   "grup": "Cisco"
+  },
+  {
+   "id": "b093a8f17233",
+   "tarih": "2026-11-11",
+   "kaynak": "Help Net Security",
+   "baslik": "The Cyber Resilience Act clock doesn’t stop for weekends",
+   "url": "https://www.helpnetsecurity.com/2026/11/11/aurimas-bakas-copla-cra-vulnerability-reporting/",
+   "ozet": "In this Help Net Security interview, Aurimas Bakas, CEO of Copla, talks about what the EU Cyber Resilience Act&#8216;s reporting duties mean for manufacturers. He explains why companies need a register of every product version still in use, why boards focus on CE marking while reporting obligations ",
+   "grup": "Genel"
+  },
+  {
+   "id": "aa7f42b4623b",
+   "tarih": "2026-11-11",
+   "kaynak": "GBHackers",
+   "baslik": "Microsoft Researchers Turn AI Agents Into Hidden Backdoors by Modifying Fewer Than 10 Neurons",
+   "url": "https://gbhackers.com/ai-agents-backdoor/",
+   "ozet": "Lazarus, a technique that turns AI agents into sleeper backdoors by modifying fewer than 10 dormant neurons without retraining. Published November 10, the research shows how a model can behave normally during standard evaluations, then emit an attacker’s command when a hidden trigger appears in its ",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "aa377dc05b1e",
+   "tarih": "2026-11-11",
+   "kaynak": "GBHackers",
+   "baslik": "Ivanti Patches Critical SQL Injection Flaw Allowing Remote Code Execution Without Login",
+   "url": "https://gbhackers.com/ivanti-patches-critical-sql-injection-flaw/",
+   "ozet": "Ivanti has released November 2026 security updates for Endpoint Manager (EPM), Endpoint Manager Mobile (EPMM), Sentry, Cloud Services Application (CSA), and User Workspace Manager (UWM). The flaws expose systems to remote code execution, certificate changes, data theft, and service disruption. Criti",
+   "grup": "Genel"
+  },
+  {
+   "id": "a46144a17930",
+   "tarih": "2026-11-11",
+   "kaynak": "GBHackers",
+   "baslik": "Corelight Warns AI Agents Can Silently Run Unreviewed Code With Privileged Access to Enterprise Networks",
+   "url": "https://gbhackers.com/corelight-reveals-ai-security/",
+   "ozet": "AI coding assistants can run MCP servers whose dependencies change without any configuration edit, and those servers often hold administrator credentials. The finding comes from a lab investigation that began as a blast-radius analysis using an AI agent. The agent noticed other AI agents on an admin",
+   "grup": "Genel"
+  },
+  {
+   "id": "a363cbae2de1",
+   "tarih": "2026-11-11",
+   "kaynak": "GBHackers",
+   "baslik": "Critical SAP PROXYGATE and ICM2SHELL Vulnerabilities Allow Server Takeover Without Authentication",
+   "url": "https://gbhackers.com/critical-sap-proxygate-and-icm2shell-vulnerabilities/",
+   "ozet": "SAP has patched three critical vulnerabilities, grouped as PROXYGATE and ICM2SHELL, that let attackers take control of affected SAP systems without authentication. Discovered by Onapsis Research Labs and disclosed on November 10, 2026, all three carry CVSS scores of 10.0. The fixes arrived during No",
+   "grup": "Genel"
+  },
+  {
+   "id": "9d9b67700526",
+   "tarih": "2026-11-11",
+   "kaynak": "Hackread",
+   "baslik": "Hackers Exploit Decade-Old OpenSSH Flaw to Bypass Linux Logins",
+   "url": "https://hackread.com/hackers-exploit-old-openssh-bypass-linux-logins/",
+   "ozet": "Hackers exploit SSHole OpenSSH flaw to bypass Linux logins and install a Python backdoor. CISA confirms exploits as patched packages become available.",
+   "grup": "Genel"
+  },
+  {
+   "id": "8b162c571f45",
+   "tarih": "2026-11-11",
+   "kaynak": "Help Net Security",
+   "baslik": "EU cyber scores look healthy, but 45% of surveyed IT providers take months to patch",
+   "url": "https://www.helpnetsecurity.com/2026/11/11/eu-enisa-cybersecurity-report/",
+   "ozet": "Forty-five percent of surveyed IT service management providers in the EU took more than three months to apply critical patches to critical systems, according to ENISA’s 2026 assessment of cybersecurity in the Union. Attackers can turn a newly disclosed flaw into a working attack within days, and som",
+   "grup": "Genel"
+  },
+  {
+   "id": "890bd5d68a0a",
+   "tarih": "2026-11-11",
+   "kaynak": "The Hacker News",
+   "baslik": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+   "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+   "ozet": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when an AI provider will not refund them. The company b",
+   "grup": "Genel"
+  },
+  {
+   "id": "79dab6d1859a",
+   "tarih": "2026-11-11",
+   "kaynak": "Help Net Security",
+   "baslik": "Red Hat OpenShift 5 brings autonomous troubleshooting to hybrid clouds",
+   "url": "https://www.helpnetsecurity.com/2026/11/11/red-hat-openshift-5/",
+   "ozet": "Red Hat has announced the general availability of Red Hat OpenShift 5, bringing built-in operational intelligence, zero trust security and a longer, predictable lifecycle to the hybrid cloud application platform powered by Kubernetes. Purpose-built to streamline complex operations across data center",
+   "grup": "Genel"
+  },
+  {
+   "id": "6cc651115394",
+   "tarih": "2026-11-11",
+   "kaynak": "BleepingComputer",
+   "baslik": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+   "ozet": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "6c321513c19e",
+   "tarih": "2026-11-11",
+   "kaynak": "SecurityWeek",
+   "baslik": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
+   "url": "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
+   "ozet": "Intel and AMD disclose more than 200 vulnerabilities, including critical flaws in Intel TDX software and numerous AMD graphics bugs. The post Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "620e47917dd6",
+   "tarih": "2026-11-11",
+   "kaynak": "GBHackers",
+   "baslik": "Microsoft Outlook Zero-Day Vulnerability Actively Exploited to Steal NTLM Authentication Hashes",
+   "url": "https://gbhackers.com/microsoft-outlook-zero-day-vulnerability/",
+   "ozet": "Microsoft has patched an actively exploited Outlook zero-day that lets attackers steal Windows authentication information through a malicious message file. Tracked as CVE-2026-124194, the spoofing vulnerability was released on November 10, 2026. Microsoft, the assigning CNA, rates its maximum severi",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "61204f397b89",
+   "tarih": "2026-11-11",
+   "kaynak": "GBHackers",
+   "baslik": "AhsayCBS Hackers Plant Multiple Webshells and Secret Crypto Miners That Survive Security Patching",
+   "url": "https://gbhackers.com/ahsaycbs-server-exploitation/",
+   "ozet": "Attackers exploiting AhsayCBS backup servers deployed five webshell families, persistent cryptocurrency miners, tunneling utilities, and a custom Python implant across three servers in one organization. Huntress’s follow-up investigation covers intrusions between October 8 and October 11, 2026, reve",
+   "grup": "Genel"
+  },
+  {
+   "id": "496a173714ef",
+   "tarih": "2026-11-11",
+   "kaynak": "Help Net Security",
+   "baslik": "Obsidian expands AI agent security with runtime policy enforcement",
+   "url": "https://www.helpnetsecurity.com/2026/11/11/obsidian-security-runtime-policy-decision-engine/",
+   "ozet": "Obsidian Security has announced its Runtime Policy Decision Engine, giving security teams centralized control over AI agent actions before they run. Building on Obsidian’s extensive AI agent discovery and governance coverage, the engine uses context about who is behind an agent, its access and the t",
+   "grup": "Genel"
+  },
+  {
+   "id": "474586429e7c",
+   "tarih": "2026-11-11",
+   "kaynak": "BleepingComputer",
+   "baslik": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+   "ozet": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+   "grup": "Cisco"
+  },
+  {
+   "id": "44096b209ce3",
+   "tarih": "2026-11-11",
+   "kaynak": "The Hacker News",
+   "baslik": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+   "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+   "ozet": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in Developer Tools, 59 in SQL Server, 53 in Developer Tools, a",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "3dfcf9840f4a",
+   "tarih": "2026-11-11",
+   "kaynak": "SecurityWeek",
+   "baslik": "ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure",
+   "url": "https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/",
+   "ozet": "Pre-Patch Tuesday advisories were published by VDE CERT, Phoenix Contact, Johnson Controls, and Hitachi Energy. The post ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "34f63dbdf416",
+   "tarih": "2026-11-11",
+   "kaynak": "SecurityWeek",
+   "baslik": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
+   "url": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/",
+   "ozet": "The security defects could allow attackers to bypass authorization and gain root access to devices. The post Recently Patched Barracuda Vulnerabilities Exploited in Attacks appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "2b2ae1541d59",
+   "tarih": "2026-11-11",
+   "kaynak": "Help Net Security",
+   "baslik": "Nearly half of big firms shelve or close vulnerability findings they haven’t confirmed",
+   "url": "https://www.helpnetsecurity.com/2026/11/11/security-teams-vulnerability-backlog/",
+   "ozet": "Nearly half of security teams at organizations with 5,000 or more employees close or deprioritize vulnerability findings without fully verifying them, ProjectDiscovery found, and the reason they give is time. Here’s the catch. Among teams that skip full verification, 57% say at least three out of fo",
+   "grup": "Genel"
+  },
+  {
+   "id": "299abc81c1f0",
+   "tarih": "2026-11-11",
+   "kaynak": "GBHackers",
+   "baslik": "Railway Security Breach Exposes Customer API Keys, Database Passwords and Cloud Secrets",
+   "url": "https://gbhackers.com/railway-security-breach-exposes-customer-api-keys/",
+   "ozet": "Railway has reported a security incident after noticing unusual activity in systems that store customer environment variables. An unauthorized third party may have accessed encrypted variables and obtained decrypted content for some values, potentially exposing API keys, database passwords, and priv",
+   "grup": "Genel"
+  },
+  {
+   "id": "22100d80fca3",
+   "tarih": "2026-11-11",
+   "kaynak": "Help Net Security",
+   "baslik": "Druva helps restore AI agents without rolling back entire environments",
+   "url": "https://www.helpnetsecurity.com/2026/11/11/druva-agent-recovery/",
+   "ozet": "Druva has announced Druva Agent Recovery, a new set of AI Resilience capabilities that keep the business running by quickly restoring AI agents when they are deleted or unexpectedly changed. Support begins with Microsoft Copilot Studio, Microsoft’s platform for building custom AI agents. Announcemen",
+   "grup": "Genel"
+  },
+  {
+   "id": "15a8bfc785e9",
+   "tarih": "2026-11-11",
+   "kaynak": "GBHackers",
+   "baslik": "Critical Fortinet Vulnerabilities Allow Unauthenticated Attackers to Execute Remote Code on FortiManager and FortiAnalyzer",
+   "url": "https://gbhackers.com/critical-fortinet-vulnerabilities/",
+   "ozet": "Fortinet disclosed critical vulnerabilities in FortiManager, FortiAnalyzer, and FortiOS on November 10, 2026, including flaws that could let attackers execute code without logging in. The disclosures cover management APIs, device communication, routing, and specific high availability configurations.",
+   "grup": "Fortinet"
+  },
+  {
+   "id": "1092fa4c108d",
+   "tarih": "2026-11-11",
+   "kaynak": "Help Net Security",
+   "baslik": "Ubuntu certificate revocation checks arrive in curl, OpenSSL is next",
+   "url": "https://www.helpnetsecurity.com/2026/11/11/ubuntu-certificate-revocation-curl-openssl/",
+   "ozet": "Ubuntu 26.10 ships curl with certificate revocation checking built in. The check comes from upki, a project from the rustls developers. Ubuntu’s developers ran the same curl command on both releases: Ubuntu 26.04 accepted a revoked certificate and connected, while 26.10 refused it. A certificate aut",
+   "grup": "Genel"
+  },
+  {
+   "id": "0c03680dd7a1",
+   "tarih": "2026-11-11",
+   "kaynak": "GBHackers",
+   "baslik": "Notion AI Data Breach Exposes Customer Chat Transcripts After Third-Party Fireworks AI Cyberattack",
+   "url": "https://gbhackers.com/notion-ai-data-breach-exposes-customer-chat-transcripts/",
+   "ozet": "Notion has confirmed that a cyberattack against its AI infrastructure provider, Fireworks AI, exposed customer chat transcripts affecting fewer than 1% of Notion workspaces. The company said its own systems were not breached and no other Notion features were affected. Impacted customers received not",
+   "grup": "Genel"
+  },
+  {
+   "id": "040cd554e123",
+   "tarih": "2026-11-11",
+   "kaynak": "Help Net Security",
+   "baslik": "Fingerprint trains specialized models to detect distinct fraud types",
+   "url": "https://www.helpnetsecurity.com/2026/11/11/fingerprint-fraud-score/",
+   "ozet": "Fingerprint has launched Fraud Score, a predictive fraud signal trained directly on customers’ own fraud outcomes and powered by Fingerprint’s device intelligence and machine learning models. Fraud Score learns the fraud types at each organization to help them identify fraud more accurately without ",
+   "grup": "Genel"
+  },
   {
    "id": "fb96488cbcbe",
    "tarih": "2026-11-10",
@@ -365,7 +653,7 @@
    "kaynak": "The Hacker News",
    "baslik": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
    "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-   "ozet": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug in the XML component",
+   "ozet": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: 8.8), has&nbsp;been described as a use-after-free bug in the XML comp",
    "grup": "Genel"
   },
   {
@@ -414,51 +702,6 @@
    "grup": "Genel"
   },
   {
-   "id": "903ec867ebe5",
-   "tarih": "2026-11-10",
-   "kaynak": "Schneier on Security",
-   "baslik": "New OpenSSH Vulnerability",
-   "url": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
-   "ozet": "It&#8217;s a bad one, and it&#8217;s been in the code for a decade: A newly disclosed flaw involving OpenSSH and musl, dubbed &#8220;*sshole,&#8221; allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering a",
-   "grup": "Genel"
-  },
-  {
-   "id": "8ec6ef10a10a",
-   "tarih": "2026-11-10",
-   "kaynak": "Dark Reading",
-   "baslik": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
-   "url": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
-   "ozet": "Sivilya brings deep cybersecurity and technology leadership to Checkmarx as AI transforms software development.",
-   "grup": "Genel"
-  },
-  {
-   "id": "8e37a27a0cab",
-   "tarih": "2026-11-10",
-   "kaynak": "GBHackers",
-   "baslik": "One Identity Unveils Active Roles 8.6 with Enhanced Security and Administration",
-   "url": "https://gbhackers.com/one-identity-active-roles-8-6-security-administration/",
-   "ozet": "Alisa Viejo, California, November 10th, 2026, CyberNewswire Active Roles 8.6: Cumulative security, feature and administration upgrades&#160; One Identity has introduced Active Roles 8.6, strengthening secure and streamlined Active Directory administration with cumulative platform improvements, expan",
-   "grup": "Genel"
-  },
-  {
-   "id": "89d6f6254d42",
-   "tarih": "2026-11-10",
-   "kaynak": "BleepingComputer",
-   "baslik": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-   "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-   "ozet": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "88afcac022ab",
-   "tarih": "2026-11-10",
-   "kaynak": "GBHackers",
-   "baslik": "Apple iOS 27.2.1 Fixes 9 Security Vulnerabilities Affecting iMessage, Bluetooth, and AirPlay",
-   "url": "https://gbhackers.com/apple-ios-27-2-1-fixes-9-security-vulnerabilities/",
-   "ozet": "Apple released iOS 27.2.1 and iPadOS 27.2.1 on November 9, 2026, fixes nine security vulnerabilities and affect iMessage, Bluetooth pairing, AirPlay, App Intents, and the brotli compression library. Apple&#8217;s security releases page lists the update. The flaws range from memory corruption to weak",
-   "grup": "Genel"
-  },
-  {
    "id": "8791ad63d4b7",
    "tarih": "2026-11-10",
    "kaynak": "BleepingComputer",
@@ -468,78 +711,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "8320933ab233",
-   "tarih": "2026-11-10",
-   "kaynak": "Help Net Security",
-   "baslik": "Security teams want to spot unusual AI agent behavior while they’re still defining normal",
-   "url": "https://www.helpnetsecurity.com/2026/11/10/abnormal-ai-behavioral-security-report/",
-   "ozet": "AI agents topped the list of planned investments in behavioral monitoring in Abnormal AI’s 2026 State of Behavioral Security Report. Asked where their organizations would invest most over the next two years, 43% of respondents chose AI agents, more than three times the share who chose API integratio",
-   "grup": "Genel"
-  },
-  {
-   "id": "82b5e1a648c0",
-   "tarih": "2026-11-10",
-   "kaynak": "BleepingComputer",
-   "baslik": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-   "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-   "ozet": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "8162e65e6a02",
-   "tarih": "2026-11-10",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "Truth or consequences: What your AI strategy is standing on",
-   "url": "https://www.cybersecuritydive.com/spons/truth-or-consequences-what-your-ai-strategy-is-standing-on/873999/",
-   "ozet": "AI acts on bad asset data as confidently as good. Verify the foundation first.&nbsp;",
-   "grup": "Genel"
-  },
-  {
-   "id": "815803cc6604",
-   "tarih": "2026-11-10",
-   "kaynak": "Help Net Security",
-   "baslik": "Claude Mythos 5.2 arrives with stronger bug hunting and less sandbox-breaking behavior",
-   "url": "https://www.helpnetsecurity.com/2026/11/10/anthropic-claude-fable-and-mythos-5-2-safeguards/",
-   "ozet": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2. The two versions share an underlying model, with stricter safeguards for cybersecurity and biology tasks in the broadly available Fable. Fable blocks fewer requests Fable’s safety classifiers block high-risk cybersecurity tasks such as penet",
-   "grup": "Genel"
-  },
-  {
-   "id": "80496ac2144f",
-   "tarih": "2026-11-10",
-   "kaynak": "Dark Reading",
-   "baslik": "AI Coding Agents Leak Thousands of Secrets to GitHub",
-   "url": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
-   "ozet": "A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations.",
-   "grup": "Genel"
-  },
-  {
-   "id": "803664b0a720",
-   "tarih": "2026-11-10",
-   "kaynak": "GBHackers",
-   "baslik": "Fireworks AI Hit by LLMJacking Cyberattack Exposing Customer Data and AI Model Weights",
-   "url": "https://gbhackers.com/fireworks-ai-hit-by-llmjacking-cyberattack/",
-   "ozet": "Fireworks AI has disclosed a wider security breach involving customer account information, billing records, secrets, datasets, and incomplete model weights. Its November 9 update links the activity to financially motivated criminals pursuing LLM-jacking, which involves stealing access to large langu",
-   "grup": "Genel"
-  },
-  {
-   "id": "7e413807cc2f",
-   "tarih": "2026-11-10",
-   "kaynak": "The Hacker News",
-   "baslik": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
-   "url": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-   "ozet": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT and DCRat. \"The campaign uses Portuguese and Spani",
-   "grup": "Genel"
-  },
-  {
-   "id": "7e1f9b33c691",
-   "tarih": "2026-11-10",
-   "kaynak": "BleepingComputer",
-   "baslik": "Google patches eighth Chrome zero-day exploited in attacks this year",
-   "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
-   "ozet": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
-   "grup": "Genel"
-  },
-  {
    "id": "7d35c70e6708",
    "tarih": "2026-11-10",
    "kaynak": "The Hacker News",
@@ -547,87 +718,6 @@
    "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
    "ozet": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an ESET report shared with ",
    "grup": "Microsoft"
-  },
-  {
-   "id": "7d2482c88528",
-   "tarih": "2026-11-10",
-   "kaynak": "BleepingComputer",
-   "baslik": "Fireworks AI discloses new breach after cloud provider hack",
-   "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
-   "ozet": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "77e18dcd7482",
-   "tarih": "2026-11-10",
-   "kaynak": "SecurityWeek",
-   "baslik": "WhiteMatter Raises $20 Million in Series A Funding",
-   "url": "https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/",
-   "ozet": "The cybersecurity startup deploys a dedicated guardian agent for every AI agent in an organization’s environment. The post WhiteMatter Raises $20 Million in Series A Funding appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "7646e96e2e7b",
-   "tarih": "2026-11-10",
-   "kaynak": "The Hacker News",
-   "baslik": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
-   "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-   "ozet": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month&nbsp; uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\" In a notice publ",
-   "grup": "Genel"
-  },
-  {
-   "id": "75eac8c045f1",
-   "tarih": "2026-11-10",
-   "kaynak": "GBHackers",
-   "baslik": "One Identity Unveils Safeguard 9.0 for Simpler PAM",
-   "url": "https://gbhackers.com/one-identity-unveils-safeguard-9-0-for-simpler-pam/",
-   "ozet": "Alisa Vijeo, California, November 10th, 2026, CyberNewswire One Identity today unveiled Safeguard 9.0, a major update designed to reduce the infrastructure, administrative overhead and operational complexity associated with enterprise privileged access management. As privileged access management bec",
-   "grup": "Genel"
-  },
-  {
-   "id": "74f31cae8a39",
-   "tarih": "2026-11-10",
-   "kaynak": "BleepingComputer",
-   "baslik": "Ransomware recovery is now a client retention metric",
-   "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-   "ozet": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, ",
-   "grup": "Genel"
-  },
-  {
-   "id": "74b78ea5360b",
-   "tarih": "2026-11-10",
-   "kaynak": "Hackread",
-   "baslik": "One Identity Unveils Identity Manager 10.0 LTS with AI and Modern UX",
-   "url": "https://hackread.com/one-identity-unveils-identity-manager-10-0-lts-with-ai-and-modern-ux/",
-   "ozet": "Alisa Viejo, California, 10th November 2026, CyberNewswire",
-   "grup": "Genel"
-  },
-  {
-   "id": "72ec2e01cb07",
-   "tarih": "2026-11-10",
-   "kaynak": "SOC Prime",
-   "baslik": "CVE-2026-125350: Chrome XML Zero-Day Exploited in the Wild",
-   "url": "https://socprime.com/blog/cve-2026-125350-chrome-xml-zero-day-exploited-in-the-wild/",
-   "ozet": "Google has released an emergency security update addressing CVE-2026-125350, a high-severity zero-day vulnerability in the XML component of Google Chrome that is already being exploited in real-world attacks. The issue is classified as a use-after-free memory-safety flaw and was reported anonymously",
-   "grup": "Genel"
-  },
-  {
-   "id": "694928bcf42d",
-   "tarih": "2026-11-10",
-   "kaynak": "SecurityWeek",
-   "baslik": "France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators",
-   "url": "https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/",
-   "ozet": "France summoned the Iranian ambassador and said it would seek European sanctions against those responsible for the attack The post France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "6922144e7a8d",
-   "tarih": "2026-11-10",
-   "kaynak": "Dark Reading",
-   "baslik": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them",
-   "url": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them",
-   "ozet": "New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene.",
-   "grup": "Genel"
   },
   {
    "id": "50eb1dccf495",
