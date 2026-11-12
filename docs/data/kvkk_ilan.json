@@ -37,22 +37,22 @@
     {
       "tarih": "2026-11-04",
       "ay": "2026-11",
-      "bildirim": 1,
+      "bildirim": 14,
       "kesin": "Evet",
       "kaynak": "KVKK duyuru listesi",
       "url": "https://www.kvkk.gov.tr/veri-ihlali-bildirimi",
-      "not": "NCL (Bahamas) Ltd. için kamuoyu duyurusu yayımlandı.",
+      "not": "4 Kasım 2026 duyuru grubunda 14 veri ihlali bildirimi yer aldı; NCL (Bahamas) Ltd. duyuru listesinde görülen kurumlar arasındadır.",
       "saldiriOzet": "Saldırı yöntemi, duyuru başlığında toplu olarak belirtilmiyor.",
       "veriOzet": "Veri kategorilerine ilişkin ayrıntılar ilgili KVKK duyurusunda yer alır."
     },
     {
       "tarih": "2026-11-11",
       "ay": "2026-11",
-      "bildirim": 20,
+      "bildirim": 7,
       "kesin": "Evet",
       "kaynak": "KVKK duyuru listesi",
       "url": "https://www.kvkk.gov.tr/veri-ihlali-bildirimi",
-      "not": "Kasım ayı duyurularında toplam 20 veri ihlali bildirimi yer aldı; Sadunoğlu İnşaat, Air India Limited, Ethica Sigorta A.Ş., Pegasus Hava, DHL AG, Stemline Therapeutics ve Bursa Ticaret ve Sanayi duyuru listesinde görülen kurumlar arasındadır.",
+      "not": "11 Kasım 2026 duyuru grubunda 7 veri ihlali bildirimi yer aldı; Sadunoğlu İnşaat, Air India Limited, Ethica Sigorta A.Ş., Pegasus Hava, DHL AG, Stemline Therapeutics ve Bursa Ticaret ve Sanayi duyuru listesinde görülen kurumlardır.",
       "saldiriOzet": "Duyurular farklı kurumlara ilişkindir; saldırı yöntemleri duyurular bazında ayrıca değerlendirilmelidir.",
       "veriOzet": "Veri kategorilerine ilişkin ayrıntılar ilgili KVKK duyurularında yer alır."
     }
