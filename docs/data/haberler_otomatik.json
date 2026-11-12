@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-12T17:32:55+00:00",
+ "guncelleme": "2026-11-12T22:05:36+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -54,6 +54,24 @@
  ],
  "haberler": [
   {
+   "id": "fd416d58448a",
+   "tarih": "2026-11-12",
+   "kaynak": "BleepingComputer",
+   "baslik": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+   "ozet": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "fac8887887ba",
+   "tarih": "2026-11-12",
+   "kaynak": "BleepingComputer",
+   "baslik": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+   "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+   "ozet": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "f7cf57082e20",
    "tarih": "2026-11-12",
    "kaynak": "The Hacker News",
@@ -79,6 +97,15 @@
    "url": "https://www.helpnetsecurity.com/2026/11/12/sans-industrial-cybersecurity-survey/",
    "ozet": "Ask industrial security chiefs whether their plants would keep running through a full IT compromise, and every one who answered the SANS 2026 ICS/OT survey says yes. Thirty-eight percent expect to run indefinitely on islanded ICS/OT systems, and 62% expect to get by temporarily on manual controls. N",
    "grup": "Genel"
+  },
+  {
+   "id": "f394da5f2166",
+   "tarih": "2026-11-12",
+   "kaynak": "SecurityWeek",
+   "baslik": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
+   "url": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
+   "ozet": "Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cause and has disclosed no evidence of a cyberattack. The post Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams appeared first on SecurityWeek.",
+   "grup": "Microsoft"
   },
   {
    "id": "f3051c9e2932",
@@ -441,6 +468,15 @@
    "grup": "Microsoft"
   },
   {
+   "id": "5e7c3d53ea73",
+   "tarih": "2026-11-12",
+   "kaynak": "BleepingComputer",
+   "baslik": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+   "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+   "ozet": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "5af74d5ce665",
    "tarih": "2026-11-12",
    "kaynak": "The Hacker News",
@@ -504,6 +540,15 @@
    "grup": "Genel"
   },
   {
+   "id": "43b2bb31ce77",
+   "tarih": "2026-11-12",
+   "kaynak": "Dark Reading",
+   "baslik": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
+   "url": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
+   "ozet": "The cybercriminals are retargeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens.",
+   "grup": "Genel"
+  },
+  {
    "id": "417b99b8248b",
    "tarih": "2026-11-12",
    "kaynak": "The Hacker News",
@@ -519,6 +564,24 @@
    "baslik": "Hackers plant GSocket on Linux servers for persistent access",
    "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
    "ozet": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "39360acccba0",
+   "tarih": "2026-11-12",
+   "kaynak": "Dark Reading",
+   "baslik": "Cyber Experts Weigh In: How to Fight Artex &amp; AntiFox",
+   "url": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
+   "ozet": "Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in place right away.",
+   "grup": "Genel"
+  },
+  {
+   "id": "37fe5be89685",
+   "tarih": "2026-11-12",
+   "kaynak": "Help Net Security",
+   "baslik": "Self-hosted Claude Managed Agents keeps agent credentials in your environment",
+   "url": "https://www.helpnetsecurity.com/2026/11/12/anthropic-self-hosted-claude-managed-agents/",
+   "ozet": "Anthropic has released a self-hosted version of Claude Managed Agents. Companies can run the agent harness, sandboxes, credentials, and session history in their cloud or on-premise. The option opened as a private beta on November 12, and customers request access through their Anthropic account team.",
    "grup": "Genel"
   },
   {
@@ -612,6 +675,15 @@
    "grup": "Genel"
   },
   {
+   "id": "1acaa8e77a2e",
+   "tarih": "2026-11-12",
+   "kaynak": "The Hacker News",
+   "baslik": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
+   "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+   "ozet": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year. It abuses how clfs.sys creates companion fi",
+   "grup": "Microsoft"
+  },
+  {
    "id": "16b72427cf58",
    "tarih": "2026-11-12",
    "kaynak": "SecurityWeek",
@@ -648,49 +720,13 @@
    "grup": "Genel"
   },
   {
-   "id": "0ea3d75301ac",
-   "tarih": "2026-11-12",
-   "kaynak": "SecurityWeek",
-   "baslik": "Daylight Lands $80 Million for AI-Powered Security Operations",
-   "url": "https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/",
-   "ozet": "The company plans to accelerate product development, hire new talent, expand its US presence, and enter new markets. The post Daylight Lands $80 Million for AI-Powered Security Operations appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "09ebecc42123",
-   "tarih": "2026-11-12",
-   "kaynak": "Dark Reading",
-   "baslik": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
-   "url": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
-   "ozet": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers.",
-   "grup": "Genel"
-  },
-  {
-   "id": "093b008afb96",
+   "id": "0215fb6873ae",
    "tarih": "2026-11-12",
    "kaynak": "The Hacker News",
-   "baslik": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
-   "url": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-   "ozet": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository. Quay enables anonymous access by default, and while it is enabled, the attacker needs no account. When it is off, anyone with a valid account can stil",
-   "grup": "Genel"
-  },
-  {
-   "id": "05f8968877ed",
-   "tarih": "2026-11-12",
-   "kaynak": "GBHackers",
-   "baslik": "ESET Blocks Over 700,000 Cruciferra Malware Attacks Using Advanced Encryption to Evade Antivirus Detection",
-   "url": "https://gbhackers.com/cruciferra-malware-attacks/",
-   "ozet": "ESET says it has blocked more than 700,000 compromise attempts linked to Cruciferra since January 2026. Türkiye, Greece and Spain were the most affected countries. A crypter wraps a malicious payload in encryption and obfuscation so security tools cannot recognize it. Cruciferra&#8217;s distinguishi",
-   "grup": "Genel"
-  },
-  {
-   "id": "05bcda2d4dd6",
-   "tarih": "2026-11-12",
-   "kaynak": "Help Net Security",
-   "baslik": ".NET 11 security changes target the software supply chain",
-   "url": "https://www.helpnetsecurity.com/2026/11/12/net-11-security-changes/",
-   "ozet": "Microsoft has released .NET 11, a Standard Term Support (STS) release that will receive two years of support. .NET 10 is still the Long Term Support (LTS) option. The release covers C# 15, ASP.NET Core, .NET MAUI, and Windows development. Several of the changes affect software supply chain integrity",
-   "grup": "Genel"
+   "baslik": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+   "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+   "ozet": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there. Attackers are using fake websites, stolen access, and tr",
+   "grup": "Linux Kernel"
   },
   {
    "id": "00c8c05e542b",
