@@ -48,11 +48,11 @@
     {
       "tarih": "2026-11-11",
       "ay": "2026-11",
-      "bildirim": 7,
+      "bildirim": 20,
       "kesin": "Evet",
       "kaynak": "KVKK duyuru listesi",
       "url": "https://www.kvkk.gov.tr/veri-ihlali-bildirimi",
-      "not": "Sadunoğlu İnşaat, Air India Limited, Ethica Sigorta A.Ş., Pegasus Hava, DHL AG, Stemline Therapeutics ve Bursa Ticaret ve Sanayi için kamuoyu duyuruları yayımlandı.",
+      "not": "Kasım ayı duyurularında toplam 20 veri ihlali bildirimi yer aldı; Sadunoğlu İnşaat, Air India Limited, Ethica Sigorta A.Ş., Pegasus Hava, DHL AG, Stemline Therapeutics ve Bursa Ticaret ve Sanayi duyuru listesinde görülen kurumlar arasındadır.",
       "saldiriOzet": "Duyurular farklı kurumlara ilişkindir; saldırı yöntemleri duyurular bazında ayrıca değerlendirilmelidir.",
       "veriOzet": "Veri kategorilerine ilişkin ayrıntılar ilgili KVKK duyurularında yer alır."
     }
