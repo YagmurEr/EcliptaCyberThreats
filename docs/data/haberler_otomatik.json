@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-11T17:04:28+00:00",
+ "guncelleme": "2026-11-12T02:14:14+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -54,6 +54,33 @@
  ],
  "haberler": [
   {
+   "id": "d9fc7bca781a",
+   "tarih": "2026-11-12",
+   "kaynak": "Dark Reading",
+   "baslik": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
+   "url": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
+   "ozet": "The CCP built a Big Data system to scrape reams of information and learn about individuals abroad, to potentially target and exploit them. Think Alice Huang Lite.",
+   "grup": "Genel"
+  },
+  {
+   "id": "09ebecc42123",
+   "tarih": "2026-11-12",
+   "kaynak": "Dark Reading",
+   "baslik": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
+   "url": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+   "ozet": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers.",
+   "grup": "Genel"
+  },
+  {
+   "id": "fc6903ee541f",
+   "tarih": "2026-11-11",
+   "kaynak": "Hackread",
+   "baslik": "When Market Data Can’t Be Trusted: Why Feed Integrity Matters to Order-Flow Analysis",
+   "url": "https://hackread.com/market-data-trust-feed-integrity-order-flow-analysis/",
+   "ozet": "Missing trades, delayed quotes and wrong timestamps distort order-flow analysis. Learn how market data feed integrity affects charts and trading apps.",
+   "grup": "Genel"
+  },
+  {
    "id": "f9a315b08895",
    "tarih": "2026-11-11",
    "kaynak": "SecurityWeek",
@@ -70,6 +97,15 @@
    "url": "https://hackread.com/criminal-ip-launches-new-ti-feed-app-on-splunkbase-for-automated-threat-detection/",
    "ozet": "Torrance, USA, 11th November 2026, CyberNewswire",
    "grup": "Genel"
+  },
+  {
+   "id": "e2b7ebdc245e",
+   "tarih": "2026-11-11",
+   "kaynak": "Dark Reading",
+   "baslik": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
+   "url": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
+   "ozet": "The RMM provider also released a hotfix as one of recommended mitigations to address public exploits for the alleged zero-days that allow for attacker takeover.",
+   "grup": "Microsoft"
   },
   {
    "id": "e23f07d99f92",
@@ -162,6 +198,15 @@
    "grup": "Microsoft"
   },
   {
+   "id": "ccdd6c7f3ffe",
+   "tarih": "2026-11-11",
+   "kaynak": "BleepingComputer",
+   "baslik": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+   "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+   "ozet": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "cadd11d78058",
    "tarih": "2026-11-11",
    "kaynak": "GBHackers",
@@ -171,6 +216,15 @@
    "grup": "Microsoft"
   },
   {
+   "id": "c5c797f8dc87",
+   "tarih": "2026-11-11",
+   "kaynak": "Dark Reading",
+   "baslik": "AI Raises the Stakes for Cyber Resilience",
+   "url": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
+   "ozet": "An organization's ability to quickly recover from a business disruption will be a competitive advantage in an era of AI-driven threats and business enablement.",
+   "grup": "Genel"
+  },
+  {
    "id": "c5080c64e3d8",
    "tarih": "2026-11-11",
    "kaynak": "SecurityWeek",
@@ -178,6 +232,15 @@
    "url": "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/",
    "ozet": "The flaws, CVE-2026-111793 and CVE-2026-20320, let attackers leak sensitive information, including configuration data. The post Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities appeared first on SecurityWeek.",
    "grup": "Cisco"
+  },
+  {
+   "id": "bcbd3a3cc803",
+   "tarih": "2026-11-11",
+   "kaynak": "Dark Reading",
+   "baslik": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
+   "url": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
+   "ozet": "Researchers dubbed an attack chain &quot;Greeter&quot; after discovering that attackers deliberately covered their trail by leaving &quot;hello&quot; messages in logs.",
+   "grup": "Genel"
   },
   {
    "id": "bbec4cc564ab",
@@ -252,6 +315,15 @@
    "grup": "Genel"
   },
   {
+   "id": "a4a34375ee4e",
+   "tarih": "2026-11-11",
+   "kaynak": "BleepingComputer",
+   "baslik": "eMudhra revokes 8 more CA certificates after private key mishap",
+   "url": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+   "ozet": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "a46144a17930",
    "tarih": "2026-11-11",
    "kaynak": "GBHackers",
@@ -306,6 +378,15 @@
    "grup": "Genel"
   },
   {
+   "id": "8b35f69eac70",
+   "tarih": "2026-11-11",
+   "kaynak": "The Hacker News",
+   "baslik": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+   "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+   "ozet": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below - CVE-2026-108186 (CVSS score: 9.6) - An improper input validation vulne",
+   "grup": "Genel"
+  },
+  {
    "id": "8b162c571f45",
    "tarih": "2026-11-11",
    "kaynak": "Help Net Security",
@@ -357,6 +438,15 @@
    "baslik": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
    "url": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
    "ozet": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E.U.-based customers ",
+   "grup": "Genel"
+  },
+  {
+   "id": "7f241c94ac84",
+   "tarih": "2026-11-11",
+   "kaynak": "BleepingComputer",
+   "baslik": "Baker Tilly notifies clients of data breach at third-party provider",
+   "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+   "ozet": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
    "grup": "Genel"
   },
   {
@@ -522,6 +612,15 @@
    "grup": "Cisco"
   },
   {
+   "id": "4555dea14647",
+   "tarih": "2026-11-11",
+   "kaynak": "BleepingComputer",
+   "baslik": "Notion says Fireworks breach exposed customer AI chat transcripts",
+   "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+   "ozet": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "44096b209ce3",
    "tarih": "2026-11-11",
    "kaynak": "The Hacker News",
@@ -666,69 +765,6 @@
    "grup": "Genel"
   },
   {
-   "id": "1092fa4c108d",
-   "tarih": "2026-11-11",
-   "kaynak": "Help Net Security",
-   "baslik": "Ubuntu certificate revocation checks arrive in curl, OpenSSL is next",
-   "url": "https://www.helpnetsecurity.com/2026/11/11/ubuntu-certificate-revocation-curl-openssl/",
-   "ozet": "Ubuntu 26.10 ships curl with certificate revocation checking built in. The check comes from upki, a project from the rustls developers. Ubuntu’s developers ran the same curl command on both releases: Ubuntu 26.04 accepted a revoked certificate and connected, while 26.10 refused it. A certificate aut",
-   "grup": "Genel"
-  },
-  {
-   "id": "0c03680dd7a1",
-   "tarih": "2026-11-11",
-   "kaynak": "GBHackers",
-   "baslik": "Notion AI Data Breach Exposes Customer Chat Transcripts After Third-Party Fireworks AI Cyberattack",
-   "url": "https://gbhackers.com/notion-ai-data-breach-exposes-customer-chat-transcripts/",
-   "ozet": "Notion has confirmed that a cyberattack against its AI infrastructure provider, Fireworks AI, exposed customer chat transcripts affecting fewer than 1% of Notion workspaces. The company said its own systems were not breached and no other Notion features were affected. Impacted customers received not",
-   "grup": "Genel"
-  },
-  {
-   "id": "040cd554e123",
-   "tarih": "2026-11-11",
-   "kaynak": "Help Net Security",
-   "baslik": "Fingerprint trains specialized models to detect distinct fraud types",
-   "url": "https://www.helpnetsecurity.com/2026/11/11/fingerprint-fraud-score/",
-   "ozet": "Fingerprint has launched Fraud Score, a predictive fraud signal trained directly on customers’ own fraud outcomes and powered by Fingerprint’s device intelligence and machine learning models. Fraud Score learns the fraud types at each organization to help them identify fraud more accurately without ",
-   "grup": "Genel"
-  },
-  {
-   "id": "fb96488cbcbe",
-   "tarih": "2026-11-10",
-   "kaynak": "Help Net Security",
-   "baslik": "Firefox free VPN drops its 50GB launch cap until January 31",
-   "url": "https://www.helpnetsecurity.com/2026/11/10/firefox-free-vpn-data/",
-   "ozet": "Mozilla has removed the data limit on the free VPN built into Firefox. Firefox users in supported regions get unlimited browsing on desktop and Android once they sign in with a Mozilla account. The VPN shipped with Firefox 149 in March with a 50GB monthly cap. That is plenty for reading and ordinary",
-   "grup": "Genel"
-  },
-  {
-   "id": "f06524f29e3f",
-   "tarih": "2026-11-10",
-   "kaynak": "Help Net Security",
-   "baslik": "What a security leader should tell the CEO about leaked credentials",
-   "url": "https://www.helpnetsecurity.com/2026/11/10/eric-fourrier-gitguardian-leaked-credentials/",
-   "ozet": "In this Help Net Security interview, Eric Fourrier, CEO of GitGuardian, talks about leaked credentials and personal liability for security leaders and boards. He explains how fear of blame pushes mistakes out of sight, and what a security leader should be ready to tell a CEO about exposed keys. He a",
-   "grup": "Genel"
-  },
-  {
-   "id": "ed9b6e5fa87c",
-   "tarih": "2026-11-10",
-   "kaynak": "GBHackers",
-   "baslik": "Critical Apache Airflow Flaw CVE-2026-68982 Enables Unauthenticated Remote Code Execution",
-   "url": "https://gbhackers.com/critical-apache-airflow-flaw-cve-2026-68982-enables-unauthenticated-remote-code-execution/",
-   "ozet": "A critical missing-authentication flaw in Apache Airflow lets attackers run code on Celery workers without any Airflow credentials. Tracked as CVE-2026-68982, the bug is classified as CWE-306 and affects Airflow versions before 3.4.0 that use CeleryExecutor. Anyone who can write to the Celery broker",
-   "grup": "Genel"
-  },
-  {
-   "id": "ecd9abd8e203",
-   "tarih": "2026-11-10",
-   "kaynak": "Hackread",
-   "baslik": "OffSec Celebrates 20 Years of Practitioner-Built Training From the Creators of Kali Linux and OSCP",
-   "url": "https://hackread.com/offsec-celebrates-20-years-of-practitioner-built-training-from-the-creators-of-kali-linux-and-oscp/",
-   "ozet": "New York, USA, 10th November 2026, CyberNewswire",
-   "grup": "Genel"
-  },
-  {
    "id": "eb8503f8804a",
    "tarih": "2026-11-10",
    "kaynak": "Help Net Security",
@@ -736,33 +772,6 @@
    "url": "https://www.helpnetsecurity.com/2026/11/10/windows-settings-backup-default/",
    "ozet": "Starting with Windows 11, version 26H2, Windows settings backup will switch on by default on eligible devices. The company renamed the feature, which launched in August 2025 as Windows Backup for Organizations, and moved the management of roaming settings into the same policy tools. What gets saved ",
    "grup": "Microsoft"
-  },
-  {
-   "id": "e7a8a4d2bbbe",
-   "tarih": "2026-11-10",
-   "kaynak": "SecurityWeek",
-   "baslik": "Over a Dozen Organizations Hit in Qubole Supply Chain Attack",
-   "url": "https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/",
-   "ozet": "Hackers used compromised Qubole IAM credentials to steal customer files, secrets, keys, environment variables, and credentials. The post Over a Dozen Organizations Hit in Qubole Supply Chain Attack appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "e735022174eb",
-   "tarih": "2026-11-10",
-   "kaynak": "GBHackers",
-   "baslik": "SEGA Confirms Data Breach Exposing 2.19 Million Customer Email Addresses Following Third-Party Cyberattack",
-   "url": "https://gbhackers.com/sega-confirms-data-breach/",
-   "ozet": "SEGA confirmed on November 9, 2026, that attackers stole 2,196,044 customer email addresses after breaching Arara, its newsletter provider. Of these, 92,273 included information linked to newsletter delivery. The incident affected messages promoting SEGA and SEGA Fave products, highlighting the risk",
-   "grup": "Genel"
-  },
-  {
-   "id": "e61330c97785",
-   "tarih": "2026-11-10",
-   "kaynak": "SecurityWeek",
-   "baslik": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
-   "url": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/",
-   "ozet": "CISA has added CVE-2026-123218 and CVE-2026-116779 to KEV, urging federal agencies to patch them within three days. The post IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "9814f0299437",
