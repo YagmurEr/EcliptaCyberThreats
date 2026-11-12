@@ -1,0 +1,26 @@
+name: KVKK veri dogrulamasi
+
+on:
+  push:
+    paths:
+      - 'docs/data/kvkk_ilan.json'
+      - 'docs/data/kvkk_bildirim.json'
+      - 'scripts/validate-kvkk.mjs'
+      - '.github/workflows/kvkk-veri-dogrulama.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '15 6 * * *'
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: KVKK kayitlarini dogrula
+        run: node scripts/validate-kvkk.mjs
