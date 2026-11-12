@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-12T02:14:14+00:00",
+ "guncelleme": "2026-11-12T11:00:45+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -54,6 +54,33 @@
  ],
  "haberler": [
   {
+   "id": "f5f5bc16fe70",
+   "tarih": "2026-11-12",
+   "kaynak": "Help Net Security",
+   "baslik": "CISOs say OT will survive a cyberattack, but their engineers aren’t so sure",
+   "url": "https://www.helpnetsecurity.com/2026/11/12/sans-industrial-cybersecurity-survey/",
+   "ozet": "Ask industrial security chiefs whether their plants would keep running through a full IT compromise, and every one who answered the SANS 2026 ICS/OT survey says yes. Thirty-eight percent expect to run indefinitely on islanded ICS/OT systems, and 62% expect to get by temporarily on manual controls. N",
+   "grup": "Genel"
+  },
+  {
+   "id": "f1a5b4bff7b5",
+   "tarih": "2026-11-12",
+   "kaynak": "The Hacker News",
+   "baslik": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+   "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+   "ozet": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that the incident involves a compromise of its infrastructure or a vulnerab",
+   "grup": "Genel"
+  },
+  {
+   "id": "ebd90ad03882",
+   "tarih": "2026-11-12",
+   "kaynak": "GBHackers",
+   "baslik": "PoC Exploit Released for Critical Cisco Expressway RCE Vulnerability With CVSS 9.8 Score",
+   "url": "https://gbhackers.com/poc-exploit-released-for-critical-cisco-expressway-rce/",
+   "ozet": "A public proof-of-concept exploit is now available for CVE-2026-76466, a critical flaw in Cisco Expressway that lets an unauthenticated attacker run commands as root. Cisco published its advisory on October 21, 2026, and the flaw carries a CVSS score of 9.8. Researcher Nicolas Krassas (dinosn) poste",
+   "grup": "Cisco"
+  },
+  {
    "id": "d9fc7bca781a",
    "tarih": "2026-11-12",
    "kaynak": "Dark Reading",
@@ -63,12 +90,273 @@
    "grup": "Genel"
   },
   {
+   "id": "d9a39f405894",
+   "tarih": "2026-11-12",
+   "kaynak": "Help Net Security",
+   "baslik": "Who collects the keys when an AI agent retires?",
+   "url": "https://www.helpnetsecurity.com/2026/11/12/sprinto-ai-agent-offboarding/",
+   "ozet": "Think about the last time a good engineer left your company. Someone collected the laptop and the badge. IT revoked their logins before the end of the day. Their manager reassigned the open tickets, and HR filed their records somewhere they&#8217;ll stay for years, in case anyone ever challenges a d",
+   "grup": "Genel"
+  },
+  {
+   "id": "d58db8c01613",
+   "tarih": "2026-11-12",
+   "kaynak": "GBHackers",
+   "baslik": "Shipping Giant Maersk Confirms Data Breach Following Unauthorized Access to IT Systems",
+   "url": "https://gbhackers.com/shipping-giant-maersk-confirms-data-breach/",
+   "ozet": "A.P. Moller–Maersk has confirmed unauthorized access and data extraction affecting a local legacy IT system inherited through a previous acquisition. In its November 11 security advisory, the shipping company said investigators currently believe no sensitive information was disclosed, while emphasiz",
+   "grup": "Genel"
+  },
+  {
+   "id": "d2771e782222",
+   "tarih": "2026-11-12",
+   "kaynak": "GBHackers",
+   "baslik": "Apache HTTP Server Patches Critical RCE Vulnerability Allowing Attackers to Execute Remote Code",
+   "url": "https://gbhackers.com/apache-http-server-patches-critical-rce-vulnerability/",
+   "ozet": "Apache has released HTTP Server 2.4.71 to address three security vulnerabilities, including a critical memory corruption flaw that could enable remote code execution. Released on November 11, 2026, the update fixes weaknesses in mod_http2, mod_md, and mod_vhost_alias, rated critical, important, and ",
+   "grup": "Genel"
+  },
+  {
+   "id": "cefb9b2e40c5",
+   "tarih": "2026-11-12",
+   "kaynak": "Help Net Security",
+   "baslik": "GitHub Agentic Autofix and the question of who owns a bad AI patch",
+   "url": "https://www.helpnetsecurity.com/2026/11/12/marcelo-oliveira-github-agentic-autofix/",
+   "ozet": "In this Help Net Security interview, Marcelo Oliveira, VP of Product Management at GitHub, talks about who is accountable when an AI-generated patch fixes one flaw and introduces another. He explains how Agentic Autofix re-runs detection engines and project tests, and what a CISO should change befor",
+   "grup": "Genel"
+  },
+  {
+   "id": "cede71ed1819",
+   "tarih": "2026-11-12",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Compromise Nearly 5,000 GitHub Accounts to Steal Secrets From Software Development Pipelines",
+   "url": "https://gbhackers.com/github-accounts-compromised/",
+   "ozet": "Attackers used stolen GitHub credentials belonging to 4,837 accounts to probe 61,764 repositories in a campaign targeting software development secrets and cloud access. Beginning November 10, the operation injected malicious workflows into accessible repositories, with evidence of credential exfiltr",
+   "grup": "Genel"
+  },
+  {
+   "id": "c2d283cd7530",
+   "tarih": "2026-11-12",
+   "kaynak": "The Hacker News",
+   "baslik": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+   "url": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+   "ozet": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its memory, including responses intended for other connections. Fixed ver",
+   "grup": "Genel"
+  },
+  {
+   "id": "b8a4eb8ff314",
+   "tarih": "2026-11-12",
+   "kaynak": "SecurityWeek",
+   "baslik": "Hackers Deploy Malware in Fresh ScreenConnect Campaign",
+   "url": "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/",
+   "ozet": "The attackers exploited a vulnerability in a legitimate extension to bypass ScreenConnect authentication. The post Hackers Deploy Malware in Fresh ScreenConnect Campaign appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "b5c61c3f423e",
+   "tarih": "2026-11-12",
+   "kaynak": "Help Net Security",
+   "baslik": "Photos: IRISSCON 2026 cybercrime conference",
+   "url": "https://www.helpnetsecurity.com/2026/11/12/irisscon-2026-photos/",
+   "ozet": "IRISSCON 2026, the annual cybercrime conference organized by IRISSCERT, took place at the Aviva Stadium in Dublin on November 11. The all-day event gives attendees a look at the cyber threats businesses are facing right now, along with practical advice on how organizations can respond to them. Help ",
+   "grup": "Genel"
+  },
+  {
+   "id": "a3551b4d4049",
+   "tarih": "2026-11-12",
+   "kaynak": "BleepingComputer",
+   "baslik": "Microsoft confirms Windows security updates installation issues",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+   "ozet": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "a345572824e6",
+   "tarih": "2026-11-12",
+   "kaynak": "GBHackers",
+   "baslik": "Palo Alto Networks Patches PAN-OS Vulnerability Allowing Remote Code Execution With Root Privileges",
+   "url": "https://gbhackers.com/palo-alto-networks-patches-pan-os-vulnerability/",
+   "ozet": "Palo Alto Networks has released fixes for CVE-2026-0330, a remote code execution vulnerability affecting PAN-OS software running on Panorama. The flaw allows an authenticated administrator with network access to execute arbitrary code with root privileges, according to the company’s security advisor",
+   "grup": "Genel"
+  },
+  {
+   "id": "9b952a7f4c5d",
+   "tarih": "2026-11-12",
+   "kaynak": "Dark Reading",
+   "baslik": "Inside an AI Attack Against a US Retailer",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
+   "ozet": "When hand-typed commands failed to breach a US retailer, the attacker turned to AI-generated scripts, achieving lateral movement in minutes.",
+   "grup": "Genel"
+  },
+  {
+   "id": "97dd954ef68b",
+   "tarih": "2026-11-12",
+   "kaynak": "GBHackers",
+   "baslik": "Microsoft AI Exposes 21-Year-Old Linux Kernel Bug Among 59 Security Issues Reported to Maintainers",
+   "url": "https://gbhackers.com/linux-kernel-flaws/",
+   "ozet": "AI-driven scanning system, codenamed MDASH, to find 59 security issues in the Linux kernel. One of them, a cls_u32 shift-out-of-bounds flaw tracked as CVE-2026-74544, had gone unnoticed for at least 21 years. One full-time researcher and one intern scanned selected kernel subsystems, including netwo",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "8b748363b7cc",
+   "tarih": "2026-11-12",
+   "kaynak": "The Hacker News",
+   "baslik": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+   "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+   "ozet": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday. Only servers with HTTP/2 enabled are affected, according to Re",
+   "grup": "Genel"
+  },
+  {
+   "id": "835329b1d0c1",
+   "tarih": "2026-11-12",
+   "kaynak": "Help Net Security",
+   "baslik": "AWS Emulator: Open-source tool for testing AWS apps locally, built by autonomous AI agents",
+   "url": "https://www.helpnetsecurity.com/2026/11/12/aws-ai-agents-built-emulator/",
+   "ozet": "Amazon Web Services has released AWS Emulator, a free tool that simulates AWS services on a developer’s laptop, a development server or in a continuous integration (CI) pipeline. The company says autonomous AI agents wrote the tool entirely, with no code written or reviewed by its engineers. There i",
+   "grup": "Genel"
+  },
+  {
+   "id": "7de2be379ef5",
+   "tarih": "2026-11-12",
+   "kaynak": "GBHackers",
+   "baslik": "Qilin Ransomware Gang Leader Allegedly Identified as 36-Year-Old Russian Man",
+   "url": "https://gbhackers.com/qilin-ransomware-gang-leader/",
+   "ozet": "The administrator of the Qilin ransomware operation has allegedly been identified as Aleksey Mikhailovich Yakovtsev, a 36-year-old St. Petersburg resident. A KrebsOnSecurity investigation published November 11 connects the underground identity “Haise” to Yakovtsev through historical forum accounts, ",
+   "grup": "Genel"
+  },
+  {
+   "id": "6e21074f19db",
+   "tarih": "2026-11-12",
+   "kaynak": "Help Net Security",
+   "baslik": "Bots pose as AI agents, AI agents pose as humans, and defenses believe both",
+   "url": "https://www.helpnetsecurity.com/2026/11/12/bots-ai-agent-impersonation/",
+   "ozet": "Over one week in October, an online marketplace took 414,210 visits from traffic wearing the name of a widely used consumer AI agent. Every visit went for the sign-in page, and every one returned errors. Behind the name was a credential stuffing operation, with attackers running stolen username and ",
+   "grup": "Genel"
+  },
+  {
+   "id": "68e6de5d3742",
+   "tarih": "2026-11-12",
+   "kaynak": "GBHackers",
+   "baslik": "New Windows SignDrop Zero-Day Exploit Allows Attackers to Gain SYSTEM Privileges",
+   "url": "https://gbhackers.com/new-windows-signdrop-zero-day/",
+   "ozet": "A researcher known as MSNightmare, also called Chaotic Eclipse, has published a working proof of concept for an unpatched Windows zero-day dubbed SignDrop. The exploit turns a standard user account into NT AUTHORITY\\SYSTEM by abusing the Common Log File System (CLFS) driver, clfs.sys. It was release",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "61660ce7434a",
+   "tarih": "2026-11-12",
+   "kaynak": "GBHackers",
+   "baslik": "Microsoft Finds Hackers Using GSocket to Hide Linux Backdoors as Legitimate System Processes",
+   "url": "https://gbhackers.com/gsocket-based-linux-attacks/",
+   "ozet": "Attackers deployed GSocket on compromised Linux servers, disguised its processes as legitimate system components, and retained access after administrators patched the original vulnerabilities. In its November 11 report, Microsoft described unrelated threat actors abusing the open source remote acces",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "44241255f92b",
+   "tarih": "2026-11-12",
+   "kaynak": "Help Net Security",
+   "baslik": "Check your GitHub repos: A secret stealer hit tens of thousands of them",
+   "url": "https://www.helpnetsecurity.com/2026/11/12/wfx-loot-github-actions-secret-stealer/",
+   "ozet": "A threat actor using stolen GitHub credentials has pushed a credential-stealing payload into tens of thousands of repositories since November 10. In more than 1,800 of them, the malware ran and shipped GitHub Actions secrets and cloud credentials to the attacker. Aikido spotted the campaign and name",
+   "grup": "Genel"
+  },
+  {
+   "id": "417b99b8248b",
+   "tarih": "2026-11-12",
+   "kaynak": "The Hacker News",
+   "baslik": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+   "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+   "ozet": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company. The stealer is built to take the secrets and cloud credentials that a repository's CI wo",
+   "grup": "Genel"
+  },
+  {
+   "id": "3ca0085eba4f",
+   "tarih": "2026-11-12",
+   "kaynak": "BleepingComputer",
+   "baslik": "Hackers plant GSocket on Linux servers for persistent access",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+   "ozet": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "3773dc5512fb",
+   "tarih": "2026-11-12",
+   "kaynak": "SecurityWeek",
+   "baslik": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
+   "url": "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/",
+   "ozet": "Attackers could exploit a critical Red Hat Quay flaw to steal private container images, overwrite repositories and maintain persistent access. The post Critical Red Hat Quay Vulnerability Could Expose Private Container Images appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "31a3a2eaff03",
+   "tarih": "2026-11-12",
+   "kaynak": "Hackread",
+   "baslik": "GhostMap Android Flaw Can Leave Phones Stuck in Crash Loop",
+   "url": "https://hackread.com/ghostmap-android-flaw-phones-stuck-crash-loop/",
+   "ozet": "An Android security flaw could turn a seemingly ordinary app installation into a serious recovery problem, with some&#8230;",
+   "grup": "Genel"
+  },
+  {
+   "id": "2f643c57e2d5",
+   "tarih": "2026-11-12",
+   "kaynak": "SecurityWeek",
+   "baslik": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
+   "url": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
+   "ozet": "The WhiteArmor ransomware group claims it stole 100GB of data from the shipping giant’s systems. The post Maersk Confirms Data Theft Amid $5 Million Extortion Attempt appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "2bb5c2ca8fb9",
+   "tarih": "2026-11-12",
+   "kaynak": "SecurityWeek",
+   "baslik": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
+   "url": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
+   "ozet": "The malicious activity started shortly after a researcher dropped over 30 zero-days. N-able patched the unauthenticated ones. The post Hackers Target N-central Zero-Days as N-able Rushes Patches appeared first on SecurityWeek.",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "26de5b5f2cdc",
+   "tarih": "2026-11-12",
+   "kaynak": "GBHackers",
+   "baslik": "12 Adversarial Exposure Validation Tools: The 2026 Buyer’s Verdict Guide",
+   "url": "https://gbhackers.com/adversarial-exposure-validation-tools/",
+   "ozet": "Adversarial exposure validation (AEV) is the label the market settled on for the merged territory of breach-and-attack simulation, autonomous penetration testing, and automated red teaming three lanes that always answered the same buyer question with different risk appetites. The purchase goes wrong",
+   "grup": "Genel"
+  },
+  {
+   "id": "26d811aac83d",
+   "tarih": "2026-11-12",
+   "kaynak": "The Hacker News",
+   "baslik": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+   "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+   "ozet": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it still lacks some recent changes. MongoDB, the company that makes the da",
+   "grup": "Genel"
+  },
+  {
+   "id": "25503525fb09",
+   "tarih": "2026-11-12",
+   "kaynak": "Help Net Security",
+   "baslik": "Dagster: Open-source cloud-native data pipeline orchestrator",
+   "url": "https://www.helpnetsecurity.com/2026/11/12/dagster-open-source-cloud-native-data-pipeline-orchestrator/",
+   "ozet": "Dagster is an open source orchestrator for data pipelines. It decides what runs, in what order, and when. It also tracks how the tables, datasets, machine learning models, and reports it manages connect to the data they came from. When a source table goes bad, the tables built from it carry the prob",
+   "grup": "Genel"
+  },
+  {
    "id": "09ebecc42123",
    "tarih": "2026-11-12",
    "kaynak": "Dark Reading",
    "baslik": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
    "url": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
    "ozet": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers.",
+   "grup": "Genel"
+  },
+  {
+   "id": "05bcda2d4dd6",
+   "tarih": "2026-11-12",
+   "kaynak": "Help Net Security",
+   "baslik": ".NET 11 security changes target the software supply chain",
+   "url": "https://www.helpnetsecurity.com/2026/11/12/net-11-security-changes/",
+   "ozet": "Microsoft has released .NET 11, a Standard Term Support (STS) release that will receive two years of support. .NET 10 is still the Long Term Support (LTS) option. The release covers C# 15, ASP.NET Core, .NET MAUI, and Windows development. Several of the changes affect software supply chain integrity",
    "grup": "Genel"
   },
   {
@@ -450,33 +738,6 @@
    "grup": "Genel"
   },
   {
-   "id": "7ba871700f25",
-   "tarih": "2026-11-11",
-   "kaynak": "SecurityWeek",
-   "baslik": "Asus, Zoom Release Security Patches",
-   "url": "https://www.securityweek.com/asus-zoom-release-security-patches/",
-   "ozet": "Attackers could exploit them for command execution, memory overwrites, and privilege escalation. The post Asus, Zoom Release Security Patches appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "79dab6d1859a",
-   "tarih": "2026-11-11",
-   "kaynak": "Help Net Security",
-   "baslik": "Red Hat OpenShift 5 brings autonomous troubleshooting to hybrid clouds",
-   "url": "https://www.helpnetsecurity.com/2026/11/11/red-hat-openshift-5/",
-   "ozet": "Red Hat has announced the general availability of Red Hat OpenShift 5, bringing built-in operational intelligence, zero trust security and a longer, predictable lifecycle to the hybrid cloud application platform powered by Kubernetes. Purpose-built to streamline complex operations across data center",
-   "grup": "Genel"
-  },
-  {
-   "id": "760f2d293125",
-   "tarih": "2026-11-11",
-   "kaynak": "GBHackers",
-   "baslik": "Criminal IP Launches New TI Feed App on Splunkbase for Automated Threat Detection",
-   "url": "https://gbhackers.com/criminal-ip-ti-feed-app-splunkbase/",
-   "ozet": "Torrance, USA, November 11th, 2026, CyberNewswire Criminal IP, the AI-powered threat intelligence and attack surface management platform developed by AI SPERA, has launched the Criminal IP TI Feed app for Splunk. Available through Splunkbase, the app automatically correlates Criminal IP threat intel",
-   "grup": "Genel"
-  },
-  {
    "id": "6efa2d9b4d0b",
    "tarih": "2026-11-11",
    "kaynak": "SecurityWeek",
@@ -484,24 +745,6 @@
    "url": "https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/",
    "ozet": "The massive drop comes after the company integrated frontier AI models into its product security testing. The post Fortinet Patches Nearly 100 Vulnerabilities appeared first on SecurityWeek.",
    "grup": "Fortinet"
-  },
-  {
-   "id": "6ef677aa3015",
-   "tarih": "2026-11-11",
-   "kaynak": "SecurityWeek",
-   "baslik": "Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices",
-   "url": "https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/",
-   "ozet": "The Series C round will fund international expansion and more autonomous features for the firm’s device security platform. The post Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "6d153e692de5",
-   "tarih": "2026-11-11",
-   "kaynak": "Help Net Security",
-   "baslik": "Kai extends Autonomous Defense Platform visibility to internet-facing assets",
-   "url": "https://www.helpnetsecurity.com/2026/11/11/kai-autonomous-defense-platform/",
-   "ozet": "Kai has announced External Attack Surface Management (EASM), now available on the Kai Autonomous Defense Platform. The company also launched Kai Labs, an expanded research team focused on the hardest open problems where AI meets security. Most exposure management programs only see inside, so they mi",
-   "grup": "Genel"
   },
   {
    "id": "6cc651115394",
@@ -513,42 +756,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "6c321513c19e",
-   "tarih": "2026-11-11",
-   "kaynak": "SecurityWeek",
-   "baslik": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
-   "url": "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
-   "ozet": "Intel and AMD disclose more than 200 vulnerabilities, including critical flaws in Intel TDX software and numerous AMD graphics bugs. The post Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "693679885746",
-   "tarih": "2026-11-11",
-   "kaynak": "BleepingComputer",
-   "baslik": "N-able releases security hotfixes for zero-day vulnerabilities",
-   "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
-   "ozet": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "65e85027ef25",
-   "tarih": "2026-11-11",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export Databricks Logs",
-   "url": "https://socprime.com/blog/how-to-export-databricks-logs/",
-   "ozet": "As with Snowflake, “Databricks logs” can mean security data you keep in Delta tables, or Databricks’ own audit log in the system.access.audit system table. The simplest export for both is a notebook cell. Query with Spark SQL, write the result as JSON to a Unity Catalog volume, then download it with",
-   "grup": "Genel"
-  },
-  {
-   "id": "63cbf25606a5",
-   "tarih": "2026-11-11",
-   "kaynak": "The Hacker News",
-   "baslik": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
-   "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
-   "ozet": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments. \"In several recently observed intrusions, Alibaba Cl",
-   "grup": "Genel"
-  },
-  {
    "id": "620e47917dd6",
    "tarih": "2026-11-11",
    "kaynak": "GBHackers",
@@ -556,24 +763,6 @@
    "url": "https://gbhackers.com/microsoft-outlook-zero-day-vulnerability/",
    "ozet": "Microsoft has patched an actively exploited Outlook zero-day that lets attackers steal Windows authentication information through a malicious message file. Tracked as CVE-2026-124194, the spoofing vulnerability was released on November 10, 2026. Microsoft, the assigning CNA, rates its maximum severi",
    "grup": "Microsoft"
-  },
-  {
-   "id": "61204f397b89",
-   "tarih": "2026-11-11",
-   "kaynak": "GBHackers",
-   "baslik": "AhsayCBS Hackers Plant Multiple Webshells and Secret Crypto Miners That Survive Security Patching",
-   "url": "https://gbhackers.com/ahsaycbs-server-exploitation/",
-   "ozet": "Attackers exploiting AhsayCBS backup servers deployed five webshell families, persistent cryptocurrency miners, tunneling utilities, and a custom Python implant across three servers in one organization. Huntress’s follow-up investigation covers intrusions between October 8 and October 11, 2026, reve",
-   "grup": "Genel"
-  },
-  {
-   "id": "60ccd3ca4d45",
-   "tarih": "2026-11-11",
-   "kaynak": "SecurityWeek",
-   "baslik": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
-   "url": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
-   "ozet": "Attackers could exploit the bugs to tamper with certificate entries, achieve remote code execution, and compromise hosts. The post Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "5c7d8f685bcc",
@@ -585,24 +774,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "4c32248b415f",
-   "tarih": "2026-11-11",
-   "kaynak": "BleepingComputer",
-   "baslik": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-   "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-   "ozet": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "496a173714ef",
-   "tarih": "2026-11-11",
-   "kaynak": "Help Net Security",
-   "baslik": "Obsidian expands AI agent security with runtime policy enforcement",
-   "url": "https://www.helpnetsecurity.com/2026/11/11/obsidian-security-runtime-policy-decision-engine/",
-   "ozet": "Obsidian Security has announced its Runtime Policy Decision Engine, giving security teams centralized control over AI agent actions before they run. Building on Obsidian’s extensive AI agent discovery and governance coverage, the engine uses context about who is behind an agent, its access and the t",
-   "grup": "Genel"
-  },
-  {
    "id": "474586429e7c",
    "tarih": "2026-11-11",
    "kaynak": "BleepingComputer",
@@ -610,15 +781,6 @@
    "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
    "ozet": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
    "grup": "Cisco"
-  },
-  {
-   "id": "4555dea14647",
-   "tarih": "2026-11-11",
-   "kaynak": "BleepingComputer",
-   "baslik": "Notion says Fireworks breach exposed customer AI chat transcripts",
-   "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-   "ozet": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
-   "grup": "Genel"
   },
   {
    "id": "44096b209ce3",
@@ -630,69 +792,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "3dfcf9840f4a",
-   "tarih": "2026-11-11",
-   "kaynak": "SecurityWeek",
-   "baslik": "ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure",
-   "url": "https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/",
-   "ozet": "Pre-Patch Tuesday advisories were published by VDE CERT, Phoenix Contact, Johnson Controls, and Hitachi Energy. The post ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "3d74aba68f12",
-   "tarih": "2026-11-11",
-   "kaynak": "SecurityWeek",
-   "baslik": "Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks",
-   "url": "https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/",
-   "ozet": "Created by Zerto and Kashya veterans, the startup has launched a platform designed to recover whole cloud applications. The post Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "38d7075a7968",
-   "tarih": "2026-11-11",
-   "kaynak": "Schneier on Security",
-   "baslik": "Three People Arrested for AI-Enhanced Impersonation Fraud",
-   "url": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html",
-   "ozet": "It&#8217;s hard to believe how lucrative this crime can be: According to a press release from the United States attorney’s office for the southern district of New York, three men ­ Jacob Soall, Sharon Hazan, and Guy Sheetrit ­ were arrested for using AI to alter and impersonate the voices and images",
-   "grup": "Genel"
-  },
-  {
-   "id": "34f63dbdf416",
-   "tarih": "2026-11-11",
-   "kaynak": "SecurityWeek",
-   "baslik": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
-   "url": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/",
-   "ozet": "The security defects could allow attackers to bypass authorization and gain root access to devices. The post Recently Patched Barracuda Vulnerabilities Exploited in Attacks appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "2b2ae1541d59",
-   "tarih": "2026-11-11",
-   "kaynak": "Help Net Security",
-   "baslik": "Nearly half of big firms shelve or close vulnerability findings they haven’t confirmed",
-   "url": "https://www.helpnetsecurity.com/2026/11/11/security-teams-vulnerability-backlog/",
-   "ozet": "Nearly half of security teams at organizations with 5,000 or more employees close or deprioritize vulnerability findings without fully verifying them, ProjectDiscovery found, and the reason they give is time. Here’s the catch. Among teams that skip full verification, 57% say at least three out of fo",
-   "grup": "Genel"
-  },
-  {
-   "id": "299abc81c1f0",
-   "tarih": "2026-11-11",
-   "kaynak": "GBHackers",
-   "baslik": "Railway Security Breach Exposes Customer API Keys, Database Passwords and Cloud Secrets",
-   "url": "https://gbhackers.com/railway-security-breach-exposes-customer-api-keys/",
-   "ozet": "Railway has reported a security incident after noticing unusual activity in systems that store customer environment variables. An unauthorized third party may have accessed encrypted variables and obtained decrypted content for some values, potentially exposing API keys, database passwords, and priv",
-   "grup": "Genel"
-  },
-  {
-   "id": "2998a3350188",
-   "tarih": "2026-11-11",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export Snowflake Logs",
-   "url": "https://socprime.com/blog/how-to-export-snowflake-logs/",
-   "ozet": "“Snowflake logs” means one of two things, and the export works the same for both. It can be security data your team stores in Snowflake tables. Or it can be Snowflake’s own audit trail, the SNOWFLAKE.ACCOUNT_USAGE views such as LOGIN_HISTORY and QUERY_HISTORY. For small pulls, run the query in SnowS",
-   "grup": "Genel"
-  },
-  {
    "id": "23df71dd6631",
    "tarih": "2026-11-11",
    "kaynak": "GBHackers",
@@ -700,42 +799,6 @@
    "url": "https://gbhackers.com/bluephishing-attack/",
    "ozet": "&#8220;BluePhishing,&#8221; a technique that extends OAuth consent phishing to Microsoft Entra&#8217;s AI agent model. The attacker needs only one consent click to create persistent agent identities inside a victim tenant. Proofpoint says this is a research-based proof of concept and it has not iden",
    "grup": "Microsoft"
-  },
-  {
-   "id": "22100d80fca3",
-   "tarih": "2026-11-11",
-   "kaynak": "Help Net Security",
-   "baslik": "Druva helps restore AI agents without rolling back entire environments",
-   "url": "https://www.helpnetsecurity.com/2026/11/11/druva-agent-recovery/",
-   "ozet": "Druva has announced Druva Agent Recovery, a new set of AI Resilience capabilities that keep the business running by quickly restoring AI agents when they are deleted or unexpectedly changed. Support begins with Microsoft Copilot Studio, Microsoft’s platform for building custom AI agents. Announcemen",
-   "grup": "Genel"
-  },
-  {
-   "id": "21b7ddf6e1b0",
-   "tarih": "2026-11-11",
-   "kaynak": "SecurityWeek",
-   "baslik": "Bay Raises $50 Million to Control What Enterprise AI Agents Can Do",
-   "url": "https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/",
-   "ozet": "Founded by three ex-IDF Unit 8200 intelligence officers, Bay is launched to provide a control plane for AI agents. The post Bay Raises $50 Million to Control What Enterprise AI Agents Can Do appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "2150f4f33e02",
-   "tarih": "2026-11-11",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "CISA sets operational priorities for partnerships, risk assessments and systemic action",
-   "url": "https://www.cybersecuritydive.com/news/cisa-priorities-memo-risks-partnerships/874381/",
-   "ozet": "An internal memo from CISA&rsquo;s acting chief instructs senior leaders to keep the new priorities in mind with every choice they make.",
-   "grup": "Genel"
-  },
-  {
-   "id": "209dcd10803d",
-   "tarih": "2026-11-11",
-   "kaynak": "SOC Prime",
-   "baslik": "How to Export Logs with Amazon Athena",
-   "url": "https://socprime.com/blog/how-to-export-logs-with-amazon-athena/",
-   "ozet": "Athena doesn’t store logs itself. It queries log files in S3, such as CloudTrail, VPC Flow Logs, load balancer and WAF logs, through tables you define. Normal query results are saved as CSV in your results bucket. To get JSON instead, wrap the query in UNLOAD &#8230; WITH (format = &#8216;JSON&#8217",
-   "grup": "Genel"
   },
   {
    "id": "15c0b59087ed",
@@ -754,15 +817,6 @@
    "url": "https://gbhackers.com/critical-fortinet-vulnerabilities/",
    "ozet": "Fortinet disclosed critical vulnerabilities in FortiManager, FortiAnalyzer, and FortiOS on November 10, 2026, including flaws that could let attackers execute code without logging in. The disclosures cover management APIs, device communication, routing, and specific high availability configurations.",
    "grup": "Fortinet"
-  },
-  {
-   "id": "14caa111eec6",
-   "tarih": "2026-11-11",
-   "kaynak": "The Hacker News",
-   "baslik": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-   "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-   "ozet": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant. Most of the open apps wer",
-   "grup": "Genel"
   },
   {
    "id": "eb8503f8804a",
