@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-12T22:06:15+00:00",
+ "guncelleme": "2026-11-13T01:48:05+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -69,6 +69,15 @@
    "baslik": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
    "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
    "ozet": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "faa5ecf22a84",
+   "tarih": "2026-11-12",
+   "kaynak": "Help Net Security",
+   "baslik": "Fake Zillow pages use ClickFix NetSupport RAT to target apartment hunters",
+   "url": "https://www.helpnetsecurity.com/2026/11/13/fake-zillow-clickfix-netsupport-rat/",
+   "ozet": "EfficientIP Research Labs traced a ClickFix campaign that used fake Zillow apartment-review pages to install NetSupport RAT on visitors’ Windows computers. Each page showed what looked like a routine verification check. Behind it, the page quietly copied a PowerShell command to the clipboard and wal",
    "grup": "Genel"
   },
   {
@@ -153,6 +162,15 @@
    "grup": "Genel"
   },
   {
+   "id": "dea6b10489f5",
+   "tarih": "2026-11-12",
+   "kaynak": "Help Net Security",
+   "baslik": "PostgreSQL security update fixes 52 vulnerabilities, ends support for PostgreSQL 14",
+   "url": "https://www.helpnetsecurity.com/2026/11/13/postgresql-security-update-november-2026/",
+   "ozet": "The PostgreSQL Global Development Group released PostgreSQL 18.7, 17.12, 16.16, 15.20 and 14.25 on November 12, fixing 52 security vulnerabilities and more than 140 other bugs. Most of those code execution bugs are memory errors or type confusion, where PostgreSQL handles a value as the wrong data t",
+   "grup": "Genel"
+  },
+  {
    "id": "daa356fef18a",
    "tarih": "2026-11-12",
    "kaynak": "The Hacker News",
@@ -231,6 +249,15 @@
    "baslik": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
    "url": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
    "ozet": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its memory, including responses intended for other connections. Fixed ver",
+   "grup": "Genel"
+  },
+  {
+   "id": "c2a33ef53db4",
+   "tarih": "2026-11-12",
+   "kaynak": "Help Net Security",
+   "baslik": "Google smart glasses privacy features cover wearers and the people around them",
+   "url": "https://www.helpnetsecurity.com/2026/11/13/google-smart-glasses-privacy-protections/",
+   "ozet": "Google has built its Gemini-powered intelligent eyewear to stop taking photos and video when someone covers or tampers with the outward-facing recording light. Shahram Izadi, Google&#8217;s VP and GM of XR, laid out that safeguard along with face redaction, limits on data handling, and app restricti",
    "grup": "Genel"
   },
   {
@@ -450,6 +477,15 @@
    "grup": "Microsoft"
   },
   {
+   "id": "674c4b85088a",
+   "tarih": "2026-11-12",
+   "kaynak": "BleepingComputer",
+   "baslik": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+   "ozet": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "62ff99ae778b",
    "tarih": "2026-11-12",
    "kaynak": "BleepingComputer",
@@ -567,6 +603,15 @@
    "grup": "Genel"
   },
   {
+   "id": "3b8d7732462b",
+   "tarih": "2026-11-12",
+   "kaynak": "BleepingComputer",
+   "baslik": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+   "ozet": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "39360acccba0",
    "tarih": "2026-11-12",
    "kaynak": "Dark Reading",
@@ -666,15 +711,6 @@
    "grup": "Genel"
   },
   {
-   "id": "22063e296f81",
-   "tarih": "2026-11-12",
-   "kaynak": "GBHackers",
-   "baslik": "Global Scam Networks Use AI, Deepfakes, and Crypto to Steal Billions From Victims, FATF Warns",
-   "url": "https://gbhackers.com/global-scam-networks/",
-   "ozet": "Global scam networks are using artificial intelligence, deepfakes, and cryptocurrency infrastructure to industrialize fraud, inflicting tens of billions of dollars in annual losses, the Financial Action Task Force warned in a report published November 5, 2026. The report, Combating End-to-End Illici",
-   "grup": "Genel"
-  },
-  {
    "id": "1acaa8e77a2e",
    "tarih": "2026-11-12",
    "kaynak": "The Hacker News",
@@ -682,42 +718,6 @@
    "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
    "ozet": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year. It abuses how clfs.sys creates companion fi",
    "grup": "Microsoft"
-  },
-  {
-   "id": "16b72427cf58",
-   "tarih": "2026-11-12",
-   "kaynak": "SecurityWeek",
-   "baslik": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
-   "url": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
-   "ozet": "The mod_http2 race condition, CVE-2026-119618, could let unauthenticated attackers execute code on servers with HTTP/2 enabled. The post Apache Patches Critical HTTP Server RCE Found by Anthropic, Google appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "14fd5bcee5cf",
-   "tarih": "2026-11-12",
-   "kaynak": "Help Net Security",
-   "baslik": "Operation Endgame malware takedown turns up over 6 million stolen logins",
-   "url": "https://www.helpnetsecurity.com/2026/11/12/europol-operation-endgame-malware-takedown/",
-   "ozet": "Police in nine countries, working with Europol, took down servers behind the Gootloader, CastleRAT and StealC malware operations this week and recovered more than 6 million credentials stolen from infected computers. Europol announced the action as the latest round of Operation Endgame, the internat",
-   "grup": "Genel"
-  },
-  {
-   "id": "116311b70214",
-   "tarih": "2026-11-12",
-   "kaynak": "SecurityWeek",
-   "baslik": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
-   "url": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
-   "ozet": "Google fixed 83 flaws with a new Chrome 157 release, and Mozilla addressed 99 bugs in Firefox 160. The post Chrome, Firefox Updates Patch Over 180 Vulnerabilities appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "0fd5862fb594",
-   "tarih": "2026-11-12",
-   "kaynak": "SecurityWeek",
-   "baslik": "Notion Customer Data Compromised in Fireworks AI Hack",
-   "url": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
-   "ozet": "The attackers accessed chat transcripts for fewer than 1% of Notion workspaces. Most transcripts were unattributable. The post Notion Customer Data Compromised in Fireworks AI Hack appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "0215fb6873ae",
