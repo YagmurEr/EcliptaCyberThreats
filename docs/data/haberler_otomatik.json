@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-14T01:25:49+00:00",
+ "guncelleme": "2026-11-14T10:20:50+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -53,6 +53,78 @@
   }
  ],
  "haberler": [
+  {
+   "id": "ac40538586b8",
+   "tarih": "2026-11-14",
+   "kaynak": "GBHackers",
+   "baslik": "Japan Hit by Record Cyberattack Surge as Hackers Use AI to Exploit Security Vulnerabilities",
+   "url": "https://gbhackers.com/japan-cyberattack-ai-security-vulnerabilities/",
+   "ozet": "Japan recorded 233 publicly disclosed security incidents in October 2026, approximately 2.4 times its previous monthly peak, as researchers uncovered AI-assisted exploitation targeting application backends. MM Research Institute estimated that incidents disclosed during October exposed or potentiall",
+   "grup": "Genel"
+  },
+  {
+   "id": "9cdb1de4d486",
+   "tarih": "2026-11-14",
+   "kaynak": "SecurityWeek",
+   "baslik": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+   "url": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+   "ozet": "Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update. The post No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "8d10a413f91c",
+   "tarih": "2026-11-14",
+   "kaynak": "GBHackers",
+   "baslik": "CISA Warns of Actively Exploited Check Point Zero-Day Vulnerability Allowing Attackers to Gain Root Access",
+   "url": "https://gbhackers.com/cisa-check-point-zero-day-vulnerability/",
+   "ozet": "CISA has reportedly added CVE-2026-123039, a Check Point Gaia OS permission flaw, to its Known Exploited Vulnerabilities catalog following active exploitation. The entry supplied for this report lists November 13, 2026, as the addition date and November 16 as the remediation deadline. Check Point ex",
+   "grup": "Check Point"
+  },
+  {
+   "id": "55609d1fcabd",
+   "tarih": "2026-11-14",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Use Falcon C2 Framework to Hijack Browsers and Steal Credentials From Government Agencies",
+   "url": "https://gbhackers.com/hackers-use-falcon-c2-framework/",
+   "ozet": "Hackers deployed Falcon, a Node.js command-and-control framework tracked as XG or Xiàng Gē, against government entities in one Middle Eastern country and four Southeast Asian countries between March and May 2026. Unit 42 identified targets spanning foreign affairs, defense, interior, and law enforce",
+   "grup": "Genel"
+  },
+  {
+   "id": "4e98df64695e",
+   "tarih": "2026-11-14",
+   "kaynak": "GBHackers",
+   "baslik": "BlackNevas Ransomware Attacks VMware ESXi Servers, Destroying Virtual Machines and Backup Infrastructure",
+   "url": "https://gbhackers.com/blacknevas-ransomware-attacks-vmware-esxi-servers/",
+   "ozet": "A newly disclosed intrusion in which the BlackNevas group destroyed an organization&#8217;s entire virtualization estate over 10 days. Kaspersky&#8217;s Global Emergency Response Team (GERT) documented the attackers wiped four ESXi hosts, every virtual machine on them, both vCenter Server Appliances",
+   "grup": "Genel"
+  },
+  {
+   "id": "366f0ec4ca67",
+   "tarih": "2026-11-14",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Use Stolen LLM API Keys to Power ARTEX AI Agents and Continue Credential Theft",
+   "url": "https://gbhackers.com/hackers-llm-api-keys-artex-ai-agents/",
+   "ozet": "Chinese-nexus threat actors used ARTEX, an open-source agentic penetration-testing framework, to steal large language model API credentials and feed them back into infrastructure powering further attacks. Amazon Threat Intelligence uncovered the financially motivated campaigns after its MadPot decoy",
+   "grup": "Genel"
+  },
+  {
+   "id": "340bdac42cc8",
+   "tarih": "2026-11-14",
+   "kaynak": "GBHackers",
+   "baslik": "Uber Hacked – Hackers Steal Drivers’ License Personal Data",
+   "url": "https://gbhackers.com/uber-hacked-hackers-steal-drivers-license-personal-data/",
+   "ozet": "Thousands of Uber drivers in the United States are being told that their personal and driver&#8217;s license information was stolen. The data was taken in an October breach at Fireworks AI, a third-party technology provider that held Uber records. Uber disclosed the incident in breach notices filed ",
+   "grup": "Genel"
+  },
+  {
+   "id": "21aea906d2a5",
+   "tarih": "2026-11-14",
+   "kaynak": "GBHackers",
+   "baslik": "FBI Warns Hackers Are Weaponizing ARTEX AI Framework to Launch Autonomous Cyberattacks Worldwide",
+   "url": "https://gbhackers.com/fbi-warns-artex-ai-framework/",
+   "ozet": "The FBI has issued FLASH-20261113-001, warning that hackers are weaponizing ARTEX, an autonomous penetration testing framework, to accelerate cyberattacks worldwide. Published November 13, the advisory describes operations observed since August 2026, spanning reconnaissance, exploitation, privilege ",
+   "grup": "Genel"
+  },
   {
    "id": "fff233faf327",
    "tarih": "2026-11-13",
@@ -675,15 +747,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "f5f5bc16fe70",
-   "tarih": "2026-11-12",
-   "kaynak": "Help Net Security",
-   "baslik": "CISOs say OT will survive a cyberattack, but their engineers aren’t so sure",
-   "url": "https://www.helpnetsecurity.com/2026/11/12/sans-industrial-cybersecurity-survey/",
-   "ozet": "Ask industrial security chiefs whether their plants would keep running through a full IT compromise, and every one who answered the SANS 2026 ICS/OT survey says yes. Thirty-eight percent expect to run indefinitely on islanded ICS/OT systems, and 62% expect to get by temporarily on manual controls. N",
-   "grup": "Genel"
-  },
-  {
    "id": "f394da5f2166",
    "tarih": "2026-11-12",
    "kaynak": "SecurityWeek",
@@ -693,33 +756,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "f3051c9e2932",
-   "tarih": "2026-11-12",
-   "kaynak": "Hackread",
-   "baslik": "How Beginner Creators Can Earn with the Temu Influencer Program This Black Friday",
-   "url": "https://hackread.com/temu-influencer-program-black-friday/",
-   "ozet": "Black Friday is a major shopping occasion, making it a timely opportunity for creators to share gift ideas,&#8230;",
-   "grup": "Genel"
-  },
-  {
-   "id": "f1a5b4bff7b5",
-   "tarih": "2026-11-12",
-   "kaynak": "The Hacker News",
-   "baslik": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
-   "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
-   "ozet": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that the incident involves a compromise of its infrastructure or a vulnerab",
-   "grup": "Genel"
-  },
-  {
-   "id": "ed7e0e5dc311",
-   "tarih": "2026-11-12",
-   "kaynak": "SOC Prime",
-   "baslik": "CVE-2026-119618: Critical Apache HTTP/2 Flaw Enables Remote Code Execution",
-   "url": "https://socprime.com/blog/cve-2026-119618-critical-apache-http-2-flaw-enables-remote-code-execution/",
-   "ozet": "Apache has released an urgent security update addressing CVE-2026-119618, a critical remote code execution vulnerability in the mod_http2 module of Apache HTTP Server. The flaw affects Apache HTTP Server versions 2.4.55 through 2.4.70 and can allow an unauthenticated remote attacker to corrupt heap ",
-   "grup": "Genel"
-  },
-  {
    "id": "ebd90ad03882",
    "tarih": "2026-11-12",
    "kaynak": "GBHackers",
@@ -727,33 +763,6 @@
    "url": "https://gbhackers.com/poc-exploit-released-for-critical-cisco-expressway-rce/",
    "ozet": "A public proof-of-concept exploit is now available for CVE-2026-76466, a critical flaw in Cisco Expressway that lets an unauthenticated attacker run commands as root. Cisco published its advisory on October 21, 2026, and the flaw carries a CVSS score of 9.8. Researcher Nicolas Krassas (dinosn) poste",
    "grup": "Cisco"
-  },
-  {
-   "id": "e9f16b1caffc",
-   "tarih": "2026-11-12",
-   "kaynak": "Dark Reading",
-   "baslik": "Getting Past the Post-Quantum Cryptography Discovery Phase",
-   "url": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
-   "ozet": "Most organizations haven't sorted out their cryptographic estate enough to even know where they'd start with post-quantum cryptography (PQC).",
-   "grup": "Genel"
-  },
-  {
-   "id": "e2a292dcdf9b",
-   "tarih": "2026-11-12",
-   "kaynak": "GBHackers",
-   "baslik": "Google Chrome Fixes 83 Security Flaws, Including 5 Critical Use-After-Free Vulnerabilities",
-   "url": "https://gbhackers.com/google-chrome-fixes-83-security-flaws/",
-   "ozet": "Google released a Chrome desktop security update that addresses 83 vulnerabilities, including five critical use-after-free flaws affecting ServiceWorker, CSS, Layout, Skia, and Accessibility. Published November 11, 2026, the release upgrades Windows and macOS installations to versions 157.0.8103.78/",
-   "grup": "Genel"
-  },
-  {
-   "id": "dea6b10489f5",
-   "tarih": "2026-11-12",
-   "kaynak": "Help Net Security",
-   "baslik": "PostgreSQL security update fixes 52 vulnerabilities, ends support for PostgreSQL 14",
-   "url": "https://www.helpnetsecurity.com/2026/11/13/postgresql-security-update-november-2026/",
-   "ozet": "The PostgreSQL Global Development Group released PostgreSQL 18.7, 17.12, 16.16, 15.20 and 14.25 on November 12, fixing 52 security vulnerabilities and more than 140 other bugs. Most of those code execution bugs are memory errors or type confusion, where PostgreSQL handles a value as the wrong data t",
-   "grup": "Genel"
   },
   {
    "id": "ad9757975fce",
