@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-14T10:20:50+00:00",
+ "guncelleme": "2026-11-14T15:46:51+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -54,6 +54,33 @@
  ],
  "haberler": [
   {
+   "id": "f694138aff43",
+   "tarih": "2026-11-14",
+   "kaynak": "SecurityWeek",
+   "baslik": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+   "url": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+   "ozet": "The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones. The post Apple Reveals How Secure Exclaves Shield Camera and Microphone Data appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "e253199b5be0",
+   "tarih": "2026-11-14",
+   "kaynak": "BleepingComputer",
+   "baslik": "US disrupts North Korean campaign behind $400 million crypto theft",
+   "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+   "ozet": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "b58e8e6c37ed",
+   "tarih": "2026-11-14",
+   "kaynak": "The Hacker News",
+   "baslik": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+   "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tra",
+   "grup": "Genel"
+  },
+  {
    "id": "ac40538586b8",
    "tarih": "2026-11-14",
    "kaynak": "GBHackers",
@@ -99,6 +126,15 @@
    "grup": "Genel"
   },
   {
+   "id": "3772cdf174b0",
+   "tarih": "2026-11-14",
+   "kaynak": "SecurityWeek",
+   "baslik": "Is AI Making Us Worse at Cybersecurity?",
+   "url": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+   "ozet": "Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there’s no playbook. The post Is AI Making Us Worse at Cybersecurity? appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "366f0ec4ca67",
    "tarih": "2026-11-14",
    "kaynak": "GBHackers",
@@ -114,6 +150,15 @@
    "baslik": "Uber Hacked – Hackers Steal Drivers’ License Personal Data",
    "url": "https://gbhackers.com/uber-hacked-hackers-steal-drivers-license-personal-data/",
    "ozet": "Thousands of Uber drivers in the United States are being told that their personal and driver&#8217;s license information was stolen. The data was taken in an October breach at Fireworks AI, a third-party technology provider that held Uber records. Uber disclosed the incident in breach notices filed ",
+   "grup": "Genel"
+  },
+  {
+   "id": "248c13d80c6f",
+   "tarih": "2026-11-14",
+   "kaynak": "Hackread",
+   "baslik": "The Security Jobs Growing Around Enterprise AI Agents",
+   "url": "https://hackread.com/security-jobs-growing-around-enterprise-ai-agents/",
+   "ozet": "Two years ago, most company AI use happened in a chat window. Today, AI assistants read shared mailboxes,&#8230;",
    "grup": "Genel"
   },
   {
@@ -675,24 +720,6 @@
    "grup": "Genel"
   },
   {
-   "id": "11d7cc16194d",
-   "tarih": "2026-11-13",
-   "kaynak": "SecurityWeek",
-   "baslik": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
-   "url": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
-   "ozet": "Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA Ground Stop Issued Due to &#8216;Extraordinary Circumstances&#8217; appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "1160767539d8",
-   "tarih": "2026-11-13",
-   "kaynak": "Help Net Security",
-   "baslik": "354 dark web vendors and buyers arrested in Operation TorNado",
-   "url": "https://www.helpnetsecurity.com/2026/11/13/europol-dark-web-arrests-cybercrime/",
-   "ozet": "Europol and police in 14 countries arrested 354 dark web vendors and buyers in Operation TorNado, which ran from May 2025 to October 2026. Investigators went after people who had traded on five marketplaces that were already offline: Archetyp, Bohemia, Nemesis, Kingdom and Tor2Door. Seized money (So",
-   "grup": "Genel"
-  },
-  {
    "id": "0b5efb819342",
    "tarih": "2026-11-13",
    "kaynak": "SecurityWeek",
@@ -709,33 +736,6 @@
    "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
    "ozet": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
    "grup": "Microsoft"
-  },
-  {
-   "id": "fac8887887ba",
-   "tarih": "2026-11-12",
-   "kaynak": "BleepingComputer",
-   "baslik": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-   "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-   "ozet": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "faa5ecf22a84",
-   "tarih": "2026-11-12",
-   "kaynak": "Help Net Security",
-   "baslik": "Fake Zillow pages use ClickFix NetSupport RAT to target apartment hunters",
-   "url": "https://www.helpnetsecurity.com/2026/11/13/fake-zillow-clickfix-netsupport-rat/",
-   "ozet": "EfficientIP Research Labs traced a ClickFix campaign that used fake Zillow apartment-review pages to install NetSupport RAT on visitors’ Windows computers. Each page showed what looked like a routine verification check. Behind it, the page quietly copied a PowerShell command to the clipboard and wal",
-   "grup": "Genel"
-  },
-  {
-   "id": "f7cf57082e20",
-   "tarih": "2026-11-12",
-   "kaynak": "The Hacker News",
-   "baslik": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
-   "url": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
-   "ozet": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on purpose. The Threat Research team at Material Security spotted the campaign and ha",
-   "grup": "Genel"
   },
   {
    "id": "f791dc642ff1",
