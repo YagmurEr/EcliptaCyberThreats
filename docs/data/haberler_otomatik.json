@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-15T00:59:41+00:00",
+ "guncelleme": "2026-11-15T10:48:12+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -53,6 +53,24 @@
   }
  ],
  "haberler": [
+  {
+   "id": "960f41318ea9",
+   "tarih": "2026-11-15",
+   "kaynak": "The Hacker News",
+   "baslik": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+   "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+   "ozet": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update",
+   "grup": "Genel"
+  },
+  {
+   "id": "8e707f9e30b1",
+   "tarih": "2026-11-15",
+   "kaynak": "Help Net Security",
+   "baslik": "Week in review: Secret stealer hits GitHub repos, Claude Code turned into remote-controlled implant",
+   "url": "https://www.helpnetsecurity.com/2026/11/15/week-in-review-secret-stealer-hits-github-repos-claude-code-turned-into-remote-controlled-implant/",
+   "ozet": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: What a security leader should tell the CEO about leaked credentials In this Help Net Security interview, Eric Fourrier, CEO of GitGuardian, talks about leaked credentials and personal liability for secu",
+   "grup": "Genel"
+  },
   {
    "id": "f694138aff43",
    "tarih": "2026-11-14",
@@ -693,15 +711,6 @@
    "grup": "Genel"
   },
   {
-   "id": "3187330056ee",
-   "tarih": "2026-11-13",
-   "kaynak": "GBHackers",
-   "baslik": "FBI Disrupts North Korean FaceStealer Attacks Linked to $400 Million in Crypto Theft",
-   "url": "https://gbhackers.com/fbi-disrupts-north-korean-facestealer-attacks/",
-   "ozet": "The U.S. Justice Department and the FBI have seized the cloud infrastructure behind &#8220;FaceStealer,&#8221; a North Korean social engineering scheme connected to over $400 million in cryptocurrency theft in the past 18 months. Announced on November 12, 2026, this action also addresses the separat",
-   "grup": "Genel"
-  },
-  {
    "id": "293c69c9ee5b",
    "tarih": "2026-11-13",
    "kaynak": "BleepingComputer",
@@ -709,15 +718,6 @@
    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
    "ozet": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
    "grup": "Microsoft"
-  },
-  {
-   "id": "26bc7212e5d9",
-   "tarih": "2026-11-13",
-   "kaynak": "Schneier on Security",
-   "baslik": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
-   "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
-   "ozet": "Climate change is the issue. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-   "grup": "Genel"
   },
   {
    "id": "0b5efb819342",
