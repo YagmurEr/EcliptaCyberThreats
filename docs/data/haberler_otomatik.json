@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-14T15:46:51+00:00",
+ "guncelleme": "2026-11-15T00:59:41+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -126,6 +126,15 @@
    "grup": "Genel"
   },
   {
+   "id": "403e4bdfaeb6",
+   "tarih": "2026-11-14",
+   "kaynak": "BleepingComputer",
+   "baslik": "Cursor confirms security breach led to malicious Claude Code extension",
+   "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+   "ozet": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "3772cdf174b0",
    "tarih": "2026-11-14",
    "kaynak": "SecurityWeek",
@@ -168,6 +177,15 @@
    "baslik": "FBI Warns Hackers Are Weaponizing ARTEX AI Framework to Launch Autonomous Cyberattacks Worldwide",
    "url": "https://gbhackers.com/fbi-warns-artex-ai-framework/",
    "ozet": "The FBI has issued FLASH-20261113-001, warning that hackers are weaponizing ARTEX, an autonomous penetration testing framework, to accelerate cyberattacks worldwide. Published November 13, the advisory describes operations observed since August 2026, spanning reconnaissance, exploitation, privilege ",
+   "grup": "Genel"
+  },
+  {
+   "id": "10621b32b80d",
+   "tarih": "2026-11-14",
+   "kaynak": "Schneier on Security",
+   "baslik": "Upcoming Speaking Engagements",
+   "url": "https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html",
+   "ozet": "This is a current list of where and when I am scheduled to speak: I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026. I’m speaking at QT Qonference 2026 in Toronto, Ontario, Canada, on Thursday, November 19, 2026. The list is maintained on this page.",
    "grup": "Genel"
   },
   {
@@ -699,24 +717,6 @@
    "baslik": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
    "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
    "ozet": "Climate change is the issue. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-   "grup": "Genel"
-  },
-  {
-   "id": "162be0ba5917",
-   "tarih": "2026-11-13",
-   "kaynak": "Help Net Security",
-   "baslik": "ChatGPT Wallet lets agents pay without seeing your card number",
-   "url": "https://www.helpnetsecurity.com/2026/11/13/openai-chatgpt-wallet/",
-   "ozet": "OpenAI began rolling out ChatGPT Wallet, which lets ChatGPT agents pay for purchases with a stand-in card number, so the user’s card details are not shared with the agent or the merchant. OpenAI built it with American Express, Mastercard, and Visa. It runs inside dots, where a user’s dot completes t",
-   "grup": "Genel"
-  },
-  {
-   "id": "121956c94603",
-   "tarih": "2026-11-13",
-   "kaynak": "Help Net Security",
-   "baslik": "Your pinned MCP server may not be as pinned as you think",
-   "url": "https://www.helpnetsecurity.com/2026/11/13/corelight-mcp-server-supply-chain/",
-   "ozet": "An MCP server configured to run one fixed release on an administrator&#8217;s workstation ran with 15 different sets of dependencies over five weeks, with its configuration untouched. James Lagermann, Director of Technical Alliances at Corelight, found the drift in his company&#8217;s lab. Twenty-th",
    "grup": "Genel"
   },
   {
