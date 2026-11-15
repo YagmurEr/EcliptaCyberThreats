@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-15T10:48:12+00:00",
+ "guncelleme": "2026-11-15T16:18:25+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -54,6 +54,24 @@
  ],
  "haberler": [
   {
+   "id": "c8b26857299e",
+   "tarih": "2026-11-15",
+   "kaynak": "SecurityWeek",
+   "baslik": "Pentagon Renames CDAO ‘Super Intelligence Office’",
+   "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+   "ozet": "The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications. The post Pentagon Renames CDAO ‘Super Intelligence Office’ appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "bbb8a6727085",
+   "tarih": "2026-11-15",
+   "kaynak": "BleepingComputer",
+   "baslik": "TSMC employee data breach linked to cloud provider",
+   "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+   "ozet": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "960f41318ea9",
    "tarih": "2026-11-15",
    "kaynak": "The Hacker News",
@@ -72,12 +90,30 @@
    "grup": "Genel"
   },
   {
+   "id": "04c1c102f5a7",
+   "tarih": "2026-11-15",
+   "kaynak": "The Hacker News",
+   "baslik": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+   "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+   "ozet": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' phot",
+   "grup": "Genel"
+  },
+  {
    "id": "f694138aff43",
    "tarih": "2026-11-14",
    "kaynak": "SecurityWeek",
    "baslik": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
    "url": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
    "ozet": "The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones. The post Apple Reveals How Secure Exclaves Shield Camera and Microphone Data appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "f316d41a09fe",
+   "tarih": "2026-11-14",
+   "kaynak": "SecurityWeek",
+   "baslik": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook",
+   "url": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
+   "ozet": "The directive protects smartphones as part of a person’s private sphere and requires “free and informed consent” for such access, the authority said. The post Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
@@ -672,42 +708,6 @@
    "baslik": "FBI Disrupts North Korean FaceStealer Scheme Behind $400M Crypto Theft",
    "url": "https://hackread.com/fbi-disrupts-north-korean-facestealer-crypto-theft/",
    "ozet": "The FaceStealer scheme used hijacked messaging accounts, fake video meetings and secretly recorded webcam footage to target cryptocurrency&#8230;",
-   "grup": "Genel"
-  },
-  {
-   "id": "4084f96e5a59",
-   "tarih": "2026-11-13",
-   "kaynak": "SecurityWeek",
-   "baslik": "Apify Confirms Customer Data Accessed in Cyberattack",
-   "url": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
-   "ozet": "The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data. The post Apify Confirms Customer Data Accessed in Cyberattack appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "404b30e4ac88",
-   "tarih": "2026-11-13",
-   "kaynak": "Help Net Security",
-   "baslik": "OpenAI’s Daybreak brings AI agents to security testing and vulnerability fixes",
-   "url": "https://www.helpnetsecurity.com/2026/11/13/openai-daybreak-vulnerability-remediation-red-team-defense-factory-agents/",
-   "ozet": "OpenAI is bringing AI agents into more of the software security process with Daybreak, pairing web application penetration testing with tools that investigate vulnerabilities and develop fixes. The two offerings, Red Team and Defense Factory, connect the work of finding security weaknesses with patc",
-   "grup": "Genel"
-  },
-  {
-   "id": "3ff055feac94",
-   "tarih": "2026-11-13",
-   "kaynak": "BleepingComputer",
-   "baslik": "Police arrest 354 suspects in dark web cybercrime crackdown",
-   "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
-   "ozet": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "355dbfe47115",
-   "tarih": "2026-11-13",
-   "kaynak": "Help Net Security",
-   "baslik": "Suspected North Korean IT workers reached onboarding at companies with open data",
-   "url": "https://www.helpnetsecurity.com/2026/11/13/north-korean-it-workers-onboarding/",
-   "ozet": "Material Security followed suspected North Korean fake IT workers through the hiring pipelines of organizations it monitors and counted 27 personas that reached onboarding over one year. At one company where a persona got that far in the past month, about 277,000 files containing Social Security num",
    "grup": "Genel"
   },
   {
