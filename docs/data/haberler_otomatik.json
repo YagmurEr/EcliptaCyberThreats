@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-15T16:18:25+00:00",
+ "guncelleme": "2026-11-16T00:58:56+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -87,6 +87,15 @@
    "baslik": "Week in review: Secret stealer hits GitHub repos, Claude Code turned into remote-controlled implant",
    "url": "https://www.helpnetsecurity.com/2026/11/15/week-in-review-secret-stealer-hits-github-repos-claude-code-turned-into-remote-controlled-implant/",
    "ozet": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: What a security leader should tell the CEO about leaked credentials In this Help Net Security interview, Eric Fourrier, CEO of GitGuardian, talks about leaked credentials and personal liability for secu",
+   "grup": "Genel"
+  },
+  {
+   "id": "4201db3ac682",
+   "tarih": "2026-11-15",
+   "kaynak": "BleepingComputer",
+   "baslik": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+   "ozet": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
    "grup": "Genel"
   },
   {
@@ -699,15 +708,6 @@
    "baslik": "Stolen webcam clips of 900+ victims feed North Korea’s $400 million fake Zoom scheme",
    "url": "https://www.helpnetsecurity.com/2026/11/13/fbi-north-korean-fake-zoom-calls/",
    "ozet": "North Korean state hackers have stolen more than $400 million in cryptocurrency over the past 18 months by pulling targets into fake Zoom and Teams calls filled with webcam footage of earlier victims. The FBI calls the scheme FaceStealer. It has seized more than 900 of those recordings, and on Novem",
-   "grup": "Genel"
-  },
-  {
-   "id": "40eafe7e31c0",
-   "tarih": "2026-11-13",
-   "kaynak": "Hackread",
-   "baslik": "FBI Disrupts North Korean FaceStealer Scheme Behind $400M Crypto Theft",
-   "url": "https://hackread.com/fbi-disrupts-north-korean-facestealer-crypto-theft/",
-   "ozet": "The FaceStealer scheme used hijacked messaging accounts, fake video meetings and secretly recorded webcam footage to target cryptocurrency&#8230;",
    "grup": "Genel"
   },
   {
