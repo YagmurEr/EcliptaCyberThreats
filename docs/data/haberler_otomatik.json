@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-16T19:32:22+00:00",
+ "guncelleme": "2026-11-17T03:47:08+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -54,6 +54,15 @@
  ],
  "haberler": [
   {
+   "id": "05b6417e274f",
+   "tarih": "2026-11-17",
+   "kaynak": "BleepingComputer",
+   "baslik": "Optimizely supply chain attack infects major brands' sites with malware",
+   "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
+   "ozet": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilitie",
+   "grup": "Genel"
+  },
+  {
    "id": "f9828b77234b",
    "tarih": "2026-11-16",
    "kaynak": "The Hacker News",
@@ -63,12 +72,30 @@
    "grup": "Microsoft"
   },
   {
+   "id": "f7229d91014f",
+   "tarih": "2026-11-16",
+   "kaynak": "BleepingComputer",
+   "baslik": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+   "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+   "ozet": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organi",
+   "grup": "Genel"
+  },
+  {
    "id": "f67825a82ae8",
    "tarih": "2026-11-16",
    "kaynak": "SecurityWeek",
    "baslik": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
    "url": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/",
    "ozet": "Tracked as CVE-2026-114713, the high-severity flaw allows attackers to execute commands with server/IRCOp privileges. The post Recent UnrealIRCd Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "f66e964ba9d3",
+   "tarih": "2026-11-16",
+   "kaynak": "BleepingComputer",
+   "baslik": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+   "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+   "ozet": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
    "grup": "Genel"
   },
   {
@@ -225,6 +252,15 @@
    "grup": "Genel"
   },
   {
+   "id": "9eb5d2604d33",
+   "tarih": "2026-11-16",
+   "kaynak": "Hackread",
+   "baslik": "Five Situations Where Crypto Sentiment Deserves a Closer Look",
+   "url": "https://hackread.com/five-situations-crypto-sentiment-closer-look/",
+   "ozet": "Learn when to check crypto fear and greed indexes, from Bitcoin crashes and rallies to FOMO, contrarian trades, and conflicting market signals and trends.",
+   "grup": "Genel"
+  },
+  {
    "id": "9d8b7182f62b",
    "tarih": "2026-11-16",
    "kaynak": "SecurityWeek",
@@ -243,6 +279,24 @@
    "grup": "Genel"
   },
   {
+   "id": "99636bab8a5a",
+   "tarih": "2026-11-16",
+   "kaynak": "Dark Reading",
+   "baslik": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
+   "url": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
+   "ozet": "One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next 14 months.",
+   "grup": "Genel"
+  },
+  {
+   "id": "9899fc2c80e3",
+   "tarih": "2026-11-16",
+   "kaynak": "Dark Reading",
+   "baslik": "Ransomware Attacks Increase Behind AI, But Payments Decline",
+   "url": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
+   "ozet": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
+   "grup": "Genel"
+  },
+  {
    "id": "9067dd5ebe1b",
    "tarih": "2026-11-16",
    "kaynak": "GBHackers",
@@ -258,6 +312,15 @@
    "baslik": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
    "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
    "ozet": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file named '7z.dll' into a temporary directory and ran it through rundll32.exe,\" Kasper",
+   "grup": "Genel"
+  },
+  {
+   "id": "8a7e088fe994",
+   "tarih": "2026-11-16",
+   "kaynak": "Hackread",
+   "baslik": "From Courtroom to Boardroom: How XRP has Become a Go-To Institutional Altcoin",
+   "url": "https://hackread.com/courtroom-boardroom-xrp-institutional-altcoin/",
+   "ozet": "XRP gains institutional interest as Ripple's SEC case ends, spot ETFs launch, and financial firms turn to the token for payments and treasury holdings.",
    "grup": "Genel"
   },
   {
@@ -360,6 +423,24 @@
    "grup": "Genel"
   },
   {
+   "id": "6fd5298e49ba",
+   "tarih": "2026-11-16",
+   "kaynak": "SecurityWeek",
+   "baslik": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
+   "url": "https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/",
+   "ozet": "Under the new rule, overseas data centers that serve companies in countries including China, Russia, Iran and Cuba are required to identify their end users. The post Trump Administration Moves to Block China From Indirect Access to American AI Technology appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "6cd4bc50c4fa",
+   "tarih": "2026-11-16",
+   "kaynak": "BleepingComputer",
+   "baslik": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+   "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+   "ozet": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "6cd44615cfe7",
    "tarih": "2026-11-16",
    "kaynak": "Help Net Security",
@@ -402,6 +483,15 @@
    "baslik": "Meta Fined €805 Million for Facebook Accessing Private Photos and Videos of 20 Million Android Users Without Consent",
    "url": "https://gbhackers.com/meta-fined-e805-million-for-facebook-accessing-private-photos/",
    "ozet": "Italy’s data protection authority has fined Meta Platforms Ireland Limited €805 million after finding that Facebook accessed photos, videos, and associated metadata on Android smartphones without specific, informed consent. The decision, announced on November 14, 2026, concerns approximately 20 mill",
+   "grup": "Genel"
+  },
+  {
+   "id": "60f99194645f",
+   "tarih": "2026-11-16",
+   "kaynak": "BleepingComputer",
+   "baslik": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+   "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+   "ozet": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
    "grup": "Genel"
   },
   {
@@ -591,96 +681,6 @@
    "baslik": "Criminal marketplace sells infostealer logs with AI-written profiles of their owners",
    "url": "https://www.helpnetsecurity.com/2026/11/16/ai-powered-infostealer-marketplace-victim-profiles/",
    "ozet": "A criminal marketplace advertised on cybercrime forums is selling data stolen from computers infected with infostealer malware, along with AI-written profiles of their owners, Hudson Rock has discovered. Marketplace advertisement (Source: Hudson Rock) Each profile describes who appears to own the ma",
-   "grup": "Genel"
-  },
-  {
-   "id": "017a77ed8a46",
-   "tarih": "2026-11-16",
-   "kaynak": "GBHackers",
-   "baslik": "Claude Code Extension Could Let AI Agents Access Files Outside Trusted Workspaces Through Symlinks",
-   "url": "https://gbhackers.com/claude-code-extension/",
-   "ozet": "Anthropic&#8217;s Claude Code extension for Visual Studio Code reportedly shows misleading file paths in its permission prompts. A researcher says this can lead users to approve file access outside their trusted workspace. Anthropic closed the report as informative and did not treat it as a vulnerab",
-   "grup": "Genel"
-  },
-  {
-   "id": "008f23bbc1ce",
-   "tarih": "2026-11-16",
-   "kaynak": "GBHackers",
-   "baslik": "AWS Confirms Major US-EAST-1 Outage Disrupted 11 Cloud Services Before Full Recovery",
-   "url": "https://gbhackers.com/aws-confirms-major-us-east-1-outage/",
-   "ozet": "Amazon Web Services confirmed that an operational incident disrupted 11 services in its US-EAST-1 region in Northern Virginia on November 15, 2026. Customers experienced authentication failures, sign-up errors, and network connectivity problems before engineers restored normal operations. AWS publis",
-   "grup": "Genel"
-  },
-  {
-   "id": "c8b26857299e",
-   "tarih": "2026-11-15",
-   "kaynak": "SecurityWeek",
-   "baslik": "Pentagon Renames CDAO ‘Super Intelligence Office’",
-   "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
-   "ozet": "The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications. The post Pentagon Renames CDAO ‘Super Intelligence Office’ appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "bbb8a6727085",
-   "tarih": "2026-11-15",
-   "kaynak": "BleepingComputer",
-   "baslik": "TSMC employee data breach linked to cloud provider",
-   "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-   "ozet": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "960f41318ea9",
-   "tarih": "2026-11-15",
-   "kaynak": "The Hacker News",
-   "baslik": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-   "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-   "ozet": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update",
-   "grup": "Genel"
-  },
-  {
-   "id": "8e707f9e30b1",
-   "tarih": "2026-11-15",
-   "kaynak": "Help Net Security",
-   "baslik": "Week in review: Secret stealer hits GitHub repos, Claude Code turned into remote-controlled implant",
-   "url": "https://www.helpnetsecurity.com/2026/11/15/week-in-review-secret-stealer-hits-github-repos-claude-code-turned-into-remote-controlled-implant/",
-   "ozet": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: What a security leader should tell the CEO about leaked credentials In this Help Net Security interview, Eric Fourrier, CEO of GitGuardian, talks about leaked credentials and personal liability for secu",
-   "grup": "Genel"
-  },
-  {
-   "id": "4201db3ac682",
-   "tarih": "2026-11-15",
-   "kaynak": "BleepingComputer",
-   "baslik": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-   "ozet": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "04c1c102f5a7",
-   "tarih": "2026-11-15",
-   "kaynak": "The Hacker News",
-   "baslik": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-   "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-   "ozet": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' phot",
-   "grup": "Genel"
-  },
-  {
-   "id": "f694138aff43",
-   "tarih": "2026-11-14",
-   "kaynak": "SecurityWeek",
-   "baslik": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
-   "url": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
-   "ozet": "The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones. The post Apple Reveals How Secure Exclaves Shield Camera and Microphone Data appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "f316d41a09fe",
-   "tarih": "2026-11-14",
-   "kaynak": "SecurityWeek",
-   "baslik": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook",
-   "url": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
-   "ozet": "The directive protects smartphones as part of a person’s private sphere and requires “free and informed consent” for such access, the authority said. The post Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
