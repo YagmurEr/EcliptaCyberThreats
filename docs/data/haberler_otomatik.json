@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-17T18:30:23+00:00",
+ "guncelleme": "2026-11-18T02:52:25+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -54,6 +54,15 @@
  ],
  "haberler": [
   {
+   "id": "19347567d0aa",
+   "tarih": "2026-11-18",
+   "kaynak": "SecurityWeek",
+   "baslik": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
+   "url": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
+   "ozet": "The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency. The post Classified Communications Network at the National Security Agency Goes Down, Defense Official Says appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "ff4ecbca8eac",
    "tarih": "2026-11-17",
    "kaynak": "SecurityWeek",
@@ -88,6 +97,15 @@
    "url": "https://hackread.com/fbi-artex-ai-tool-hackers-gain-privileged-access/",
    "ozet": "The FBI is warning about a new framework, ARTEX, which automates several stages of a cyberattack, from finding&#8230;",
    "grup": "Genel"
+  },
+  {
+   "id": "eb6f398a1d53",
+   "tarih": "2026-11-17",
+   "kaynak": "Hackread",
+   "baslik": "After Black October, OffSec Turns PHPH2Shell and Other New Vulnerabilities Into Hands-On Labs",
+   "url": "https://hackread.com/after-black-october-offsec-turns-phph2shell-and-other-new-vulnerabilities-into-hands-on-labs/",
+   "ozet": "New York City, United States, 17th November 2026, CyberNewswire",
+   "grup": "PHP"
   },
   {
    "id": "eb1264c3eeab",
@@ -126,6 +144,15 @@
    "grup": "Genel"
   },
   {
+   "id": "e7c273fee4ff",
+   "tarih": "2026-11-17",
+   "kaynak": "Dark Reading",
+   "baslik": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
+   "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
+   "ozet": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
+   "grup": "Genel"
+  },
+  {
    "id": "e5f38235f326",
    "tarih": "2026-11-17",
    "kaynak": "The Hacker News",
@@ -141,6 +168,15 @@
    "baslik": "Leaked Credentials Are an Enterprise Problem: GitGuardian Extends Its Good Samaritan Program to Security Teams",
    "url": "https://hackread.com/leaked-credentials-are-an-enterprise-problem-gitguardian-extends-its-good-samaritan-program-to-security-teams/",
    "ozet": "New York, USA, 17th November 2026, CyberNewswire",
+   "grup": "Genel"
+  },
+  {
+   "id": "ddec81ba80b1",
+   "tarih": "2026-11-17",
+   "kaynak": "BleepingComputer",
+   "baslik": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+   "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+   "ozet": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
    "grup": "Genel"
   },
   {
@@ -231,6 +267,15 @@
    "baslik": "ARTEX Detection: Hunting the AI Pentest Framework Turned Attack Platform",
    "url": "https://socprime.com/blog/artex-detection-hunting-the-ai-pentest-framework-turned-attack-platform/",
    "ozet": "Offensive AI is no longer a slide in a threat-landscape deck. It is sitting on attacker servers, wired to multiple LLM APIs, and probing production APIs at machine speed. ARTEX, an open-source agentic AI penetration testing framework developed in China, is the clearest example so far: a red-team too",
+   "grup": "Genel"
+  },
+  {
+   "id": "ba36bcaaae49",
+   "tarih": "2026-11-17",
+   "kaynak": "Dark Reading",
+   "baslik": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+   "url": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+   "ozet": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
    "grup": "Genel"
   },
   {
@@ -351,6 +396,15 @@
    "grup": "Genel"
   },
   {
+   "id": "8ab54bdc145d",
+   "tarih": "2026-11-17",
+   "kaynak": "Hackread",
+   "baslik": "Fast People Search Removal (2026): How to Opt Out & Remove Yourself",
+   "url": "https://hackread.com/fast-people-search-removal-2026-how-to-opt-out-remove/",
+   "ozet": "Anyone can type your name into FastPeopleSearch and see your age, your current address, your phone numbers, and&#8230;",
+   "grup": "Genel"
+  },
+  {
    "id": "867dfe7c9cd6",
    "tarih": "2026-11-17",
    "kaynak": "SecurityWeek",
@@ -367,6 +421,15 @@
    "url": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
    "ozet": "The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild. The post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days appeared first on SecurityWeek.",
    "grup": "Microsoft"
+  },
+  {
+   "id": "7a7b2eaa4aa9",
+   "tarih": "2026-11-17",
+   "kaynak": "The Hacker News",
+   "baslik": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+   "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+   "ozet": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK. The 11 vulnerabilitie",
+   "grup": "Genel"
   },
   {
    "id": "76496683beb3",
@@ -405,12 +468,30 @@
    "grup": "Genel"
   },
   {
+   "id": "6b76a35deee9",
+   "tarih": "2026-11-17",
+   "kaynak": "BleepingComputer",
+   "baslik": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+   "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+   "ozet": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "6b530aaeb2ca",
+   "tarih": "2026-11-17",
+   "kaynak": "The Hacker News",
+   "baslik": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+   "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+   "ozet": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researche",
+   "grup": "Genel"
+  },
+  {
    "id": "6b32b3a76586",
    "tarih": "2026-11-17",
    "kaynak": "BleepingComputer",
    "baslik": "Tor releases emergency update amid ongoing DDoS attack",
    "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-   "ozet": "[...]",
+   "ozet": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
    "grup": "Genel"
   },
   {
@@ -531,6 +612,15 @@
    "grup": "Genel"
   },
   {
+   "id": "46a6b0b05c4e",
+   "tarih": "2026-11-17",
+   "kaynak": "Dark Reading",
+   "baslik": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+   "url": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
+   "ozet": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
+   "grup": "Genel"
+  },
+  {
    "id": "3ee56378d3a5",
    "tarih": "2026-11-17",
    "kaynak": "GBHackers",
@@ -567,51 +657,6 @@
    "grup": "Genel"
   },
   {
-   "id": "3ad387c63ed5",
-   "tarih": "2026-11-17",
-   "kaynak": "BleepingComputer",
-   "baslik": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-   "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-   "ozet": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "389f46b9e9d9",
-   "tarih": "2026-11-17",
-   "kaynak": "SecurityWeek",
-   "baslik": "Access Dental Management Data Breach Impacts Over 340,000",
-   "url": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
-   "ozet": "Hackers breached Access Dental’s network and stole personal, health, and insurance information. The post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "3241c5d0e909",
-   "tarih": "2026-11-17",
-   "kaynak": "BleepingComputer",
-   "baslik": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-   "url": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-   "ozet": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "3131b7ab0fd8",
-   "tarih": "2026-11-17",
-   "kaynak": "Help Net Security",
-   "baslik": "AI security took more than one in three cybersecurity seed funding deals",
-   "url": "https://www.helpnetsecurity.com/2026/11/17/cybersecurity-seed-funding-deals/",
-   "ozet": "Seed deals for cybersecurity startups dipped slightly in the third quarter of 2026, the second decline in a row, while the wider U.S. venture market had one of its best quarters since 2021. Investment firm DataTribe tracked the split using PitchBook data on U.S. seed through Series E rounds, and sor",
-   "grup": "Genel"
-  },
-  {
-   "id": "307cec9c0f5d",
-   "tarih": "2026-11-17",
-   "kaynak": "GBHackers",
-   "baslik": "Hackers Deploy PerfectPioneer RAT and KUKURAT Backdoor to Steal Sensitive Government Data",
-   "url": "https://gbhackers.com/kukurat-backdoor-activity/",
-   "ozet": "A China-linked espionage group has spent nine months refining two custom remote access Trojans against Southeast Asian government networks. Palo Alto Networks&#8217; Unit 42 published its findings on November 16, 2026. The activity dates back to at least July 2025. Unit 42 tracks the actor as TGR-ST",
-   "grup": "Genel"
-  },
-  {
    "id": "1ef65dbe395d",
    "tarih": "2026-11-17",
    "kaynak": "The Hacker News",
@@ -630,24 +675,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "1c8229d7574e",
-   "tarih": "2026-11-17",
-   "kaynak": "GBHackers",
-   "baslik": "McDonald’s iOS App Flooded With Suspicious Push Notifications in Possible Cyberattack",
-   "url": "https://gbhackers.com/mcdonalds-ios-app-flooded-with-suspicious-push-notifications/",
-   "ozet": "McDonald’s mobile application reportedly delivered a wave of abnormal push notifications on November 17, 2026, raising concerns about possible abuse of its notification infrastructure. According to a post attributed to security researcher blackorbird, the activity began around 14:20 and mainly affec",
-   "grup": "Genel"
-  },
-  {
-   "id": "1ae5476a6eaf",
-   "tarih": "2026-11-17",
-   "kaynak": "Help Net Security",
-   "baslik": "Malware spread through Optimizely hits 178 organizations, including BBC, CNN and Zoom",
-   "url": "https://www.helpnetsecurity.com/2026/11/17/optimizely-vulnerability-malicious-javascript/",
-   "ozet": "An attacker exploited a vulnerability in Optimizely’s web experimentation platform to plant malicious JavaScript on its customers’ websites, the company has confirmed. Companies add Optimizely Web to their sites through a JavaScript snippet loaded from Optimizely’s servers. “Earlier today, Optimizel",
-   "grup": "Genel"
-  },
-  {
    "id": "148f7e8fc320",
    "tarih": "2026-11-17",
    "kaynak": "BleepingComputer",
@@ -655,24 +682,6 @@
    "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
    "ozet": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
    "grup": "Microsoft"
-  },
-  {
-   "id": "10eb36112f40",
-   "tarih": "2026-11-17",
-   "kaynak": "BleepingComputer",
-   "baslik": "Court clears brothers of $25 million Ethereum crypto heist charges",
-   "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-   "ozet": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "10614e04087a",
-   "tarih": "2026-11-17",
-   "kaynak": "Help Net Security",
-   "baslik": "AppGate Optimizer helps teams narrow access without disrupting users",
-   "url": "https://www.helpnetsecurity.com/2026/11/17/appgate-optimizer/",
-   "ozet": "AppGate has announced the general availability of AppGate Optimizer to help organizations reduce exposure from over-provisioned access, cut the time spent on manual access reviews and prove least privilege access to auditors. AppGate Optimizer analyzes how users access resources and recommends preci",
-   "grup": "Genel"
   },
   {
    "id": "f9828b77234b",
