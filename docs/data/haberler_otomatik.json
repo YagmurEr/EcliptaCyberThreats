@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-18T02:52:25+00:00",
+ "guncelleme": "2026-11-18T11:36:37+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -54,12 +54,300 @@
  ],
  "haberler": [
   {
+   "id": "fb5cecfd17b1",
+   "tarih": "2026-11-18",
+   "kaynak": "Help Net Security",
+   "baslik": "Ubuntu AI security patches are here, if you’re willing to test them yourself",
+   "url": "https://www.helpnetsecurity.com/2026/11/18/ubuntu-ai-security-patches-edge-archive/",
+   "ozet": "Canonical is letting Ubuntu Pro customers install security patches written by AI agents before its engineers finish reviewing and testing them. The patches come from Surge, a system Canonical built to fix known vulnerabilities in Ubuntu&#8217;s userspace software, meaning everything outside the oper",
+   "grup": "Genel"
+  },
+  {
+   "id": "f8cab37712c5",
+   "tarih": "2026-11-18",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Abuse Linux Cron Jobs to Maintain Persistent Malware Access on Firewalls and Switches",
+   "url": "https://gbhackers.com/linux-cron-jobs-exploitation/",
+   "ozet": "A Linux botnet targeting internet-facing edge devices can reinstall itself within five minutes if responders delete the malware but leave its scheduled job intact. The campaign highlights a blind spot for operators of Linux-based firewalls and switches: reviewing the vendor configuration does not sh",
+   "grup": "Genel"
+  },
+  {
+   "id": "f4051335340f",
+   "tarih": "2026-11-18",
+   "kaynak": "GBHackers",
+   "baslik": "Atlassian Releases November 2026 Security Updates Fixing 318 Vulnerabilities Across Enterprise Products",
+   "url": "https://gbhackers.com/atlassian-releases-november-2026-security-updates/",
+   "ozet": "Atlassian published its November 2026 Security Bulletin on November 17, documenting fixes for 318 vulnerability entries across Jira Software, Jira Service Management, Confluence, Bitbucket, Bamboo, Crowd, Fisheye, and Crucible. The fixes shipped in product releases over the preceding month. Atlassia",
+   "grup": "Genel"
+  },
+  {
+   "id": "ee9a23761ba0",
+   "tarih": "2026-11-18",
+   "kaynak": "The Hacker News",
+   "baslik": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+   "url": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+   "ozet": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise. Google's Mandiant and Threat Intelligence Group (GTIG) said it ",
+   "grup": "Genel"
+  },
+  {
+   "id": "dec5e7aedf99",
+   "tarih": "2026-11-18",
+   "kaynak": "GBHackers",
+   "baslik": "Tails 7.17.1 Released to Fix Critical uBlock Origin Vulnerability Affecting Tor Browser Users",
+   "url": "https://gbhackers.com/tails-7-17-1-released-to-fix-critical-ublock-origin-vulnerability/",
+   "ozet": "The Tails team released version 7.17.1 as an emergency update to address a critical vulnerability in uBlock Origin, the ad-blocking extension included with the Tor Browser on Tails. This update temporarily removes the extension to close a security loophole that could let a malicious website execute ",
+   "grup": "Genel"
+  },
+  {
+   "id": "c5f6c87fa0f7",
+   "tarih": "2026-11-18",
+   "kaynak": "SecurityWeek",
+   "baslik": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+   "url": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
+   "ozet": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "c1286bf528ca",
+   "tarih": "2026-11-18",
+   "kaynak": "Help Net Security",
+   "baslik": "BubbleLoader malware turns copies of WinRAR and Windows Media Player into carriers",
+   "url": "https://www.helpnetsecurity.com/2026/11/18/winrar-bubbleloader-malware/",
+   "ozet": "ReversingLabs has taken apart BubbleLoader, a loader that turns ordinary Windows programs into carriers for other malware. The attackers rewrite a handful of instructions at a program’s entry point, the spot where Windows begins running it, and add two PNG images that hold the hidden code. Known hos",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "aa9ca93e66e2",
+   "tarih": "2026-11-18",
+   "kaynak": "SecurityWeek",
+   "baslik": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
+   "url": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
+   "ozet": "Versions 1.26.1 and 1.26.2 of agent-framework on PyPI steal Azure, Azure DevOps, and GitHub Actions credentials when Python starts. The post Microsoft Agent Framework Releases Poisoned With Credential Stealer appeared first on SecurityWeek.",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "94321d4b37d6",
+   "tarih": "2026-11-18",
+   "kaynak": "SecurityWeek",
+   "baslik": "Critical Perforce Puppet RCE Exploited in Attacks",
+   "url": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/",
+   "ozet": "Tracked as CVE-2026-115731, it allows a client that holds any CA-signed agent certificate to execute code on the server. The post Critical Perforce Puppet RCE Exploited in Attacks appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "889fd7cae88e",
+   "tarih": "2026-11-18",
+   "kaynak": "Help Net Security",
+   "baslik": "Fraudsters feed the right face into identity checks through virtual cameras",
+   "url": "https://www.helpnetsecurity.com/2026/11/18/entrust-document-verification-fraud-report/",
+   "ozet": "Document fraud remains the largest attack category in Entrust’s The Professionalization of Fraud: 2027 Identity Fraud Report, with criminals combining physical counterfeits, digital manipulation and impersonation to target online services. The document fraud rate fell 19% year over year. Attacks cla",
+   "grup": "Genel"
+  },
+  {
+   "id": "73f99f24243e",
+   "tarih": "2026-11-18",
+   "kaynak": "Help Net Security",
+   "baslik": "TapMap: Free, open-source network map",
+   "url": "https://www.helpnetsecurity.com/2026/11/18/tapmap-network-map-open-source/",
+   "ozet": "TapMap is a free, open-source desktop app that plots a computer’s active network connections on an interactive world map. It scans open sockets, pulls out the remote IP addresses and looks each one up in a local GeoIP database. Then it draws the result in the browser, with the application behind eac",
+   "grup": "Genel"
+  },
+  {
+   "id": "6a28bbe6bdb0",
+   "tarih": "2026-11-18",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Turn AI Coding Agent Configuration Files Into Malware Execution and Propagation Channels",
+   "url": "https://gbhackers.com/ai-coding-agent/",
+   "ozet": "A malware campaign that uses compromised GitHub content to target developers using AI coding assistants. The malware can steal developer credentials, alter local agent configurations, and use stolen access to poison repositories that other developers may later open. The campaign exploits the trust c",
+   "grup": "Genel"
+  },
+  {
+   "id": "65d624000bfc",
+   "tarih": "2026-11-18",
+   "kaynak": "Help Net Security",
+   "baslik": "Once a scam ends the victim blaming begins",
+   "url": "https://www.helpnetsecurity.com/2026/11/18/nicola-fox-hamilton-victim-blaming-scams-phishing/",
+   "ozet": "Blaming people who fall for scams deepens the harm and teaches them to stay silent the next time, cyberpsychologist Dr. Nicola Fox Hamilton told the audience at IRISSCON 2026 in Dublin. Dr. Nicola Fox Hamilton, cyberpsychology researcher and lecturer in IADT, talked about the psychology behind phish",
+   "grup": "Genel"
+  },
+  {
+   "id": "5d3f62831d82",
+   "tarih": "2026-11-18",
+   "kaynak": "GBHackers",
+   "baslik": "NVIDIA GPU Driver Flaw Allows Attackers to Gain Root Access and Escape Containers",
+   "url": "https://gbhackers.com/nvidia-gpu-driver-flaw/",
+   "ozet": "A vulnerability in NVIDIA’s Linux GPU driver allows an unprivileged user to gain root access on the host and escape a container with access to the affected GPU device. Tracked as CVE-2026-47501 and dubbed ForgePtr, the flaw poses a particular risk to cloud providers that run workloads from multiple ",
+   "grup": "Genel"
+  },
+  {
+   "id": "594fa93fd955",
+   "tarih": "2026-11-18",
+   "kaynak": "Help Net Security",
+   "baslik": "Java4Shell OpenJDK flaw: Exploitation is tricky and hinges on specific CPUs (CVE-2026-114938)",
+   "url": "https://www.helpnetsecurity.com/2026/11/18/java4shell-openjdk-vulnerability-cve-2026-114938/",
+   "ozet": "CVE-2026-114938, a memory corruption flaw in Open Java Development Kit&#8217;s Base64 decoder, can allow unauthenticated attackers to run code on servers hosting widely used Java applications. Nicknamed &#8220;Java4Shell&#8221; by Calif, the company whose researchers found it, CVE-2026-114938 was fi",
+   "grup": "Genel"
+  },
+  {
+   "id": "4f4cc6f19074",
+   "tarih": "2026-11-18",
+   "kaynak": "BleepingComputer",
+   "baslik": "Apache warns of Roller RCE vulnerability exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+   "ozet": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "4ccf67b96d4a",
+   "tarih": "2026-11-18",
+   "kaynak": "BleepingComputer",
+   "baslik": "Microsoft announces Windows Server 2028 with hardened security",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+   "ozet": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "3ce2fb9bd070",
+   "tarih": "2026-11-18",
+   "kaynak": "GBHackers",
+   "baslik": "Japan’s Fugaku Supercomputer Hacked, Exposing Credentials and Personal Data of Up to 4,597 Users",
+   "url": "https://gbhackers.com/japans-fugaku-supercomputer-hacked-exposing-credentials/",
+   "ozet": "Japan’s RIKEN research institute suspended operations of its Fugaku supercomputer after an intruder breached its operational network, putting the personal information of up to 4,597 users at risk. In a November 16 incident notice, RIKEN said the data taken or potentially taken included account recor",
+   "grup": "Genel"
+  },
+  {
+   "id": "39bc320b0130",
+   "tarih": "2026-11-18",
+   "kaynak": "Hackread",
+   "baslik": "Java4Shell Flaw Lets Attackers Target Java Servers Without Logging In",
+   "url": "https://hackread.com/java4shell-flaw-run-code-java-servers-logging-in/",
+   "ozet": "Oracle patches Java4Shell (CVE-2026-114938), an OpenJDK flaw that can let attackers read server memory and run malicious code without any credentials.",
+   "grup": "Genel"
+  },
+  {
+   "id": "2aee2c1d61e2",
+   "tarih": "2026-11-18",
+   "kaynak": "Help Net Security",
+   "baslik": "Product showcase: iVerify Basic helps users check device security and improve privacy",
+   "url": "https://www.helpnetsecurity.com/2026/11/18/product-showcase-iverify-basic/",
+   "ozet": "iVerify Basic is a mobile security app for individuals who want to check their devices for signs of compromise and improve their security settings. It is available for iOS and Android, including tablets. Device security checks The Device tab puts scan controls and security status on one screen. User",
+   "grup": "Genel"
+  },
+  {
+   "id": "25f152a1b586",
+   "tarih": "2026-11-18",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
+   "url": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
+   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabilities (KEV) catalog, citing reports of active explo",
+   "grup": "Genel"
+  },
+  {
+   "id": "223101d57350",
+   "tarih": "2026-11-18",
+   "kaynak": "The Hacker News",
+   "baslik": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+   "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+   "ozet": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is present in Java 17.0.6 and later, and the vulnerable code runs o",
+   "grup": "Genel"
+  },
+  {
+   "id": "1e6a436a6be0",
+   "tarih": "2026-11-18",
+   "kaynak": "GBHackers",
+   "baslik": "11 Cloud Email Security (Microsoft 365 & Google): The 2026 Buyer’s Verdict Guide",
+   "url": "https://gbhackers.com/cloud-email-security-buyers-guide/",
+   "ozet": "Cloud email security is the lane that assumes your mail already lives in Microsoft 365 or Google Workspace and asks the sharper question: what gets past the native filters, and how fast can you pull it back after delivery? The API-native architecture OAuth in, no MX change, behavioral analysis of th",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "1df53018af16",
+   "tarih": "2026-11-18",
+   "kaynak": "The Hacker News",
+   "baslik": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+   "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+   "ozet": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on N",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "1db641aaef44",
+   "tarih": "2026-11-18",
+   "kaynak": "The Hacker News",
+   "baslik": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+   "url": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
+   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of out-of-bounds write that can lead to denial-of-ser",
+   "grup": "Genel"
+  },
+  {
    "id": "19347567d0aa",
    "tarih": "2026-11-18",
    "kaynak": "SecurityWeek",
    "baslik": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
    "url": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
    "ozet": "The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency. The post Classified Communications Network at the National Security Agency Goes Down, Defense Official Says appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "191a7e840317",
+   "tarih": "2026-11-18",
+   "kaynak": "SOC Prime",
+   "baslik": "CVE-2026-114938: Java4Shell Flaw Enables Pre-Auth RCE in Major Java Applications",
+   "url": "https://socprime.com/blog/cve-2026-114938-java4shell-flaw-enables-pre-auth-rce-in-major-java-applications/",
+   "ozet": "A newly disclosed vulnerability tracked as CVE-2026-114938 and dubbed Java4Shell exposes certain Java environments to memory corruption, sensitive data disclosure, service crashes, and potentially remote code execution. The flaw resides in OpenJDK’s hardware-accelerated Base64 decoder and can be tri",
+   "grup": "Genel"
+  },
+  {
+   "id": "1017d4efdbfb",
+   "tarih": "2026-11-18",
+   "kaynak": "GBHackers",
+   "baslik": "CyberStrikeAI Raises Security Concerns After 221 Tool Executions Without Human Oversight",
+   "url": "https://gbhackers.com/cyberstrikeai-security-risks/",
+   "ozet": "An exposed CyberStrikeAI workspace recorded 221 tool executions during a November 16, 2026, offensive testing session in which formal approval enforcement was turned off partway through. The session documents a loss of tool-level oversight, not an autonomous intrusion. The records identify neither t",
+   "grup": "Genel"
+  },
+  {
+   "id": "0fd4230eb73e",
+   "tarih": "2026-11-18",
+   "kaynak": "GBHackers",
+   "baslik": "Chinese APT Groups Shift From Financial Theft to Cyberespionage Against Global Banking Networks",
+   "url": "https://gbhackers.com/global-banking-networks/",
+   "ozet": "China-linked advanced persistent threat (APT) groups are targeting banks and fintech firms for economic intelligence and sensitive customer data. The findings highlight a contrast with state-backed bank robbery, not evidence that the same Chinese groups previously stole funds and have now changed ob",
+   "grup": "Genel"
+  },
+  {
+   "id": "0dd01d7b3913",
+   "tarih": "2026-11-18",
+   "kaynak": "SecurityWeek",
+   "baslik": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
+   "url": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
+   "ozet": "Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws. The post Oracle Patches 950 Vulnerabilities With November 2026 CSPU appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "0cbe3d559dbc",
+   "tarih": "2026-11-18",
+   "kaynak": "Help Net Security",
+   "baslik": "Deutsche Telekom IoT’s CEO on securing devices that run for 20 years",
+   "url": "https://www.helpnetsecurity.com/2026/11/18/christian-schwalbe-deutsche-telekom-iot-security/",
+   "ozet": "In this Help Net Security interview, Christian Schwalbe, CEO of Deutsche Telekom IoT, talks about the forgotten devices that create the most risk in IoT deployments. He explains what the EU Cyber Resilience Act means for manufacturers whose products stay in the field for 15 or 20 years, and how thre",
+   "grup": "Genel"
+  },
+  {
+   "id": "0b9d5e5b9b3f",
+   "tarih": "2026-11-18",
+   "kaynak": "GBHackers",
+   "baslik": "Mior Attack Breaks AMD SEV-SNP Security, Enabling Arbitrary Memory Access and Forged Attestation",
+   "url": "https://gbhackers.com/mior-attack-breaks-amd-sev-snp-security/",
+   "ozet": "Researchers have shown that a malicious cloud host can read and modify the memory of confidential virtual machines. They can also produce misleading attestation reports by exploiting a vulnerability in AMD Secure Encrypted Virtualization with Secure Nested Paging (SEV-SNP). This attack, known as Mio",
+   "grup": "Genel"
+  },
+  {
+   "id": "0ad69605a849",
+   "tarih": "2026-11-18",
+   "kaynak": "BleepingComputer",
+   "baslik": "British Scattered Spider hacker sentenced to 6 years in prison",
+   "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+   "ozet": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
    "grup": "Genel"
   },
   {
@@ -114,6 +402,15 @@
    "baslik": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
    "url": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
    "ozet": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "eac2a630777d",
+   "tarih": "2026-11-17",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "Critical flaw in ScreenConnect exploited to run malicious files on MSP technician accounts",
+   "url": "https://www.cybersecuritydive.com/news/critical-flaw-screenconnect-malicious-files-msp/874900/",
+   "ozet": "Almost 690,000 file transfer requests were made in less than a month, according to security researchers.",
    "grup": "Genel"
   },
   {
@@ -378,42 +675,6 @@
    "grup": "Genel"
   },
   {
-   "id": "8ee64f7ed9b5",
-   "tarih": "2026-11-17",
-   "kaynak": "SOC Prime",
-   "baslik": "Autonomous Cyberattacks: New Trends and How to Prepare for It",
-   "url": "https://socprime.com/blog/autonomous-cyberattacks-new-trends-and-how-to-prepare-for-it/",
-   "ozet": "For years, &#8220;AI-powered attacks&#8221; meant better phishing emails. That era is over. In late 2025, Anthropic disclosed a state-sponsored espionage campaign in which an AI agent ran an estimated 80–90% of the tactical work against roughly 30 targets, with humans stepping in only at a handful o",
-   "grup": "Genel"
-  },
-  {
-   "id": "8dd4fa1d7a8b",
-   "tarih": "2026-11-17",
-   "kaynak": "GBHackers",
-   "baslik": "Apple Tightens macOS 27.3 Security to Stop Apps From Accessing Sensitive Files Without Explicit Permission",
-   "url": "https://gbhackers.com/apple-tightens-macos-27-3-security/",
-   "ozet": "Apple is enhancing data permissions in macOS 27.3 beta 2 by introducing new controls that let users restrict applications to specific folders or apps instead of granting broad access. Announced on November 16, 2026, these changes aim to increase transparency around powerful permissions while preserv",
-   "grup": "Genel"
-  },
-  {
-   "id": "8ab54bdc145d",
-   "tarih": "2026-11-17",
-   "kaynak": "Hackread",
-   "baslik": "Fast People Search Removal (2026): How to Opt Out & Remove Yourself",
-   "url": "https://hackread.com/fast-people-search-removal-2026-how-to-opt-out-remove/",
-   "ozet": "Anyone can type your name into FastPeopleSearch and see your age, your current address, your phone numbers, and&#8230;",
-   "grup": "Genel"
-  },
-  {
-   "id": "867dfe7c9cd6",
-   "tarih": "2026-11-17",
-   "kaynak": "SecurityWeek",
-   "baslik": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
-   "url": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
-   "ozet": "Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm. The post Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
    "id": "7d141681ccc2",
    "tarih": "2026-11-17",
    "kaynak": "SecurityWeek",
@@ -421,96 +682,6 @@
    "url": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
    "ozet": "The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild. The post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days appeared first on SecurityWeek.",
    "grup": "Microsoft"
-  },
-  {
-   "id": "7a7b2eaa4aa9",
-   "tarih": "2026-11-17",
-   "kaynak": "The Hacker News",
-   "baslik": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-   "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-   "ozet": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK. The 11 vulnerabilitie",
-   "grup": "Genel"
-  },
-  {
-   "id": "76496683beb3",
-   "tarih": "2026-11-17",
-   "kaynak": "SecurityWeek",
-   "baslik": "Market Research Giant Ipsos Investigating Breach of Internal System",
-   "url": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
-   "ozet": "The company made the incident public on Monday, November 16, five days after filing a complaint with authorities. The post Market Research Giant Ipsos Investigating Breach of Internal System appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "72a83a928b94",
-   "tarih": "2026-11-17",
-   "kaynak": "GBHackers",
-   "baslik": "Hackers Use Malicious DLL and Fake PDF Files to Deliver PureLogs and PureRAT Payloads",
-   "url": "https://gbhackers.com/malicious-dll-payload/",
-   "ozet": "A shipment-themed ZIP archive is delivering a multistage malware chain that combines DLL side-loading, disguised utilities, and encrypted Python code to deploy payloads associated with PureLogs and PureRAT infrastructure. Unit 42 observed the activity on October 21, 2026, according to research notes",
-   "grup": "Genel"
-  },
-  {
-   "id": "6ea51a3b506a",
-   "tarih": "2026-11-17",
-   "kaynak": "GBHackers",
-   "baslik": "11 Cyber Asset Attack Surface Management (CAASM) Tools: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/caasm-tools-buyers-guide/",
-   "ozet": "The reason CAASM became a category is simple: every security product keeps its own asset list and none of them agree one laptop logged under three identities, a server your EDR reports but your scanner never saw, a cloud workload the CMDB never recorded. These tools consolidate those conflicting lis",
-   "grup": "Genel"
-  },
-  {
-   "id": "6cbee01da0cc",
-   "tarih": "2026-11-17",
-   "kaynak": "GBHackers",
-   "baslik": "OPTIMJACK Attack Injects Malicious JavaScript Into CNN, Zoom and Other Major Websites to Steal Data",
-   "url": "https://gbhackers.com/optimjack-attack/",
-   "ozet": "OPTIMJACK, a malicious JavaScript delivery campaign observed on CNN, Zoom, and other prominent websites through a third-party script layer. Detected on November 16, the activity reportedly involved code designed to replace cryptocurrency wallet addresses, collect payment details, and selectively del",
-   "grup": "Genel"
-  },
-  {
-   "id": "6b76a35deee9",
-   "tarih": "2026-11-17",
-   "kaynak": "BleepingComputer",
-   "baslik": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-   "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-   "ozet": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "6b530aaeb2ca",
-   "tarih": "2026-11-17",
-   "kaynak": "The Hacker News",
-   "baslik": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
-   "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-   "ozet": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researche",
-   "grup": "Genel"
-  },
-  {
-   "id": "6b32b3a76586",
-   "tarih": "2026-11-17",
-   "kaynak": "BleepingComputer",
-   "baslik": "Tor releases emergency update amid ongoing DDoS attack",
-   "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-   "ozet": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "6ad116b5c12b",
-   "tarih": "2026-11-17",
-   "kaynak": "SecurityWeek",
-   "baslik": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
-   "url": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
-   "ozet": "More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files. The post MSP ScreenConnect Servers Targeted in Month-Long Campaign appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "697ff91b9340",
-   "tarih": "2026-11-17",
-   "kaynak": "Help Net Security",
-   "baslik": "Linx Security extends identity governance to AI agent actions",
-   "url": "https://www.helpnetsecurity.com/2026/11/17/linx-security-agent-identity-control/",
-   "ozet": "Linx Security has announced four new capabilities that bring every agent under identity control, managed or unmanaged, in any gateway. Shadow AI Agent Detection finds the agents no one sanctioned. Agent Runtime Control decides every agent action in the gateway organizations already run. And for iden",
-   "grup": "Genel"
   },
   {
    "id": "67998ecdb580",
@@ -522,42 +693,6 @@
    "grup": "Linux Kernel"
   },
   {
-   "id": "669e38d056a0",
-   "tarih": "2026-11-17",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "Healthcare firms fail to monitor AI tools, even as shadow AI begins leading to breaches",
-   "url": "https://www.cybersecuritydive.com/news/healthcare-ai-cybersecurity-monitoring/874902/",
-   "ozet": "The industry is embracing new technology, but security teams are stretched too thin to monitor it all.",
-   "grup": "Genel"
-  },
-  {
-   "id": "6085ef54790f",
-   "tarih": "2026-11-17",
-   "kaynak": "The Hacker News",
-   "baslik": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-   "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-   "ozet": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicio",
-   "grup": "Genel"
-  },
-  {
-   "id": "605c9dd607d9",
-   "tarih": "2026-11-17",
-   "kaynak": "Help Net Security",
-   "baslik": "Airlock Digital blocks unauthorized AI agent actions at the endpoint",
-   "url": "https://www.helpnetsecurity.com/2026/11/17/airlock-digital-agentic-control/",
-   "ozet": "Airlock Digital has announced the availability of Agentic Control with the release of Airlock Digital v7.1. Agentic Control includes dedicated Agentic Steering capabilities for AI agents, allowing customers to extend their Deny by Default Application Control to this emerging technology. Airlock Digi",
-   "grup": "Genel"
-  },
-  {
-   "id": "5e9589308d1e",
-   "tarih": "2026-11-17",
-   "kaynak": "Help Net Security",
-   "baslik": "Anthropic vulnerability disclosure deadline drops to 30 days for serious bugs",
-   "url": "https://www.helpnetsecurity.com/2026/11/17/anthropic-vulnerability-disclosure-days/",
-   "ozet": "Anthropic will publicly disclose high- and critical-severity vulnerabilities it reports to vendors and open source maintainers after 30 days, down from 90. Every other bug it reports gets 45 days. The new deadlines cover reports sent on or after January 1, 2027, and reports already open on that date",
-   "grup": "Genel"
-  },
-  {
    "id": "5e43b1695ab6",
    "tarih": "2026-11-17",
    "kaynak": "The Hacker News",
@@ -565,96 +700,6 @@
    "url": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
    "ozet": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2). The activity has been codenamed Operation ShadowCloud",
    "grup": "Microsoft"
-  },
-  {
-   "id": "5dcd8962ed81",
-   "tarih": "2026-11-17",
-   "kaynak": "Help Net Security",
-   "baslik": "Cybersecurity jobs available right now: November 17, 2026",
-   "url": "https://www.helpnetsecurity.com/2026/11/17/cybersecurity-jobs-available-right-now-november-17-2026/",
-   "ozet": "Cybersecurity Architect Peraton &#124; USA &#124; On-site &#8211; View job details As a Cybersecurity Architect, you will integrate security into DevSecOps, implement and maintain security controls, and manage ATO packages in accordance with DoD, DAF and customer requirements. You will develop secur",
-   "grup": "Genel"
-  },
-  {
-   "id": "5a31f321e5e8",
-   "tarih": "2026-11-17",
-   "kaynak": "Help Net Security",
-   "baslik": "ConnectSecure brings adaptive AI testing to vulnerability management",
-   "url": "https://www.helpnetsecurity.com/2026/11/17/connectsecure-agentic-ai-penetration-testing/",
-   "ozet": "ConnectSecure has announced Agentic AI Penetration Testing, a new capability designed to help managed service providers (MSPs) and enterprise security teams better understand which vulnerabilities may be exploitable and require the most immediate attention. Security teams have greater visibility int",
-   "grup": "Genel"
-  },
-  {
-   "id": "50868e3a64c2",
-   "tarih": "2026-11-17",
-   "kaynak": "The Hacker News",
-   "baslik": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
-   "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
-   "ozet": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at least 178 organizations, including CNN, the BBC and Zoom, received the code yesterday",
-   "grup": "Genel"
-  },
-  {
-   "id": "50204565d4ff",
-   "tarih": "2026-11-17",
-   "kaynak": "BleepingComputer",
-   "baslik": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-   "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-   "ozet": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilitie",
-   "grup": "Genel"
-  },
-  {
-   "id": "46f2978c7d8e",
-   "tarih": "2026-11-17",
-   "kaynak": "Dark Reading",
-   "baslik": "Grok Bots Attempt to Access Corporate Data Without User Approval",
-   "url": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
-   "ozet": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner approval.",
-   "grup": "Genel"
-  },
-  {
-   "id": "46a6b0b05c4e",
-   "tarih": "2026-11-17",
-   "kaynak": "Dark Reading",
-   "baslik": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
-   "url": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
-   "ozet": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
-   "grup": "Genel"
-  },
-  {
-   "id": "3ee56378d3a5",
-   "tarih": "2026-11-17",
-   "kaynak": "GBHackers",
-   "baslik": "Hacker Behind Massive GTA 6 Leak Pleads Guilty to Breaching Rockstar Games",
-   "url": "https://gbhackers.com/hacker-behind-massive-gta-6-leak-pleads-guilty/",
-   "ozet": "Arion Kurtaj, the hacker responsible for the massive Grand Theft Auto 6 leak, has pleaded guilty to breaching Rockstar Games and attempting to extort the developer. The 21-year-old from Oxford admitted the offenses at Woolwich Crown Court on November 16, alongside other cybercrimes committed during ",
-   "grup": "Genel"
-  },
-  {
-   "id": "3e9cda91313c",
-   "tarih": "2026-11-17",
-   "kaynak": "Hackread",
-   "baslik": "2027 Cybersecurity Excellence Awards Launch With Six New AI Security Categories",
-   "url": "https://hackread.com/2027-cybersecurity-excellence-awards-launch-with-six-new-ai-security-categories/",
-   "ozet": "San Francisco, USA, 17th November 2026, CyberNewswire",
-   "grup": "Genel"
-  },
-  {
-   "id": "3c8f510583f9",
-   "tarih": "2026-11-17",
-   "kaynak": "GBHackers",
-   "baslik": "11 Attack Path Management Tools: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/attack-path-management-buyers-guide/",
-   "ozet": "Attack path management answers the question that reframes every remediation meeting: not “which vulnerabilities exist” but “which chain of them actually walks an attacker from a phished laptop to domain control.” The discipline splits into identity-path analyzers (who can reach what, through which p",
-   "grup": "Genel"
-  },
-  {
-   "id": "3c759e5dd9c5",
-   "tarih": "2026-11-17",
-   "kaynak": "GBHackers",
-   "baslik": "GitLab Patches 37 Security Vulnerabilities Affecting CI/CD Pipelines, GitLab Pages, and MCP Server",
-   "url": "https://gbhackers.com/gitlab-patches-37-security-vulnerabilities/",
-   "ozet": "GitLab released versions 19.5.6, 19.4.8, and 19.3.9 on November 16, 2026. These updates address 37 security vulnerabilities across both the Community Edition and the Enterprise Edition. The fixes include four high-severity issues, 24 medium-severity issues, and nine low-severity issues that affect d",
-   "grup": "Genel"
   },
   {
    "id": "1ef65dbe395d",
