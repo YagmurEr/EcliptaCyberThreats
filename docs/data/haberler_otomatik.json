@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-19T11:35:12+00:00",
+ "guncelleme": "2026-11-19T18:12:53+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -63,12 +63,39 @@
    "grup": "Microsoft"
   },
   {
+   "id": "fe0b2042982b",
+   "tarih": "2026-11-19",
+   "kaynak": "GBHackers",
+   "baslik": "Criminal IP Launches AITEM to Connect Asset Discovery with AI-Powered Exposure Management",
+   "url": "https://gbhackers.com/criminal-ip-launches-aitem-to-connect-asset-discovery-with-ai-powered-exposure-management/",
+   "ozet": "Torrance, California, USA, November 19th, 2026, CyberNewswire Criminal IP, a cyber threat intelligence platform developed by AI SPERA, officially launched Criminal IP AITEM (AI-Powered Threat Exposure Management) on November 18, 2026. An evolution of Criminal IP ASM, AITEM combines internet-facing a",
+   "grup": "Genel"
+  },
+  {
    "id": "fa104991146c",
    "tarih": "2026-11-19",
    "kaynak": "Hackread",
    "baslik": "29 Fake Bank Sites Caught Using the Same Contact Details to Steal Logins",
    "url": "https://hackread.com/29-fake-bank-sites-using-contact-details-steal-logins/",
    "ozet": "Researchers spot fake banks using identical routing numbers, support contacts and business listings to make fraudulent banking websites appear legitimate.",
+   "grup": "Genel"
+  },
+  {
+   "id": "f92f66411a81",
+   "tarih": "2026-11-19",
+   "kaynak": "The Hacker News",
+   "baslik": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+   "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+   "ozet": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The release of the patch follows an advance notice in which the project maintainers alerted users ",
+   "grup": "PHP"
+  },
+  {
+   "id": "f746e6688192",
+   "tarih": "2026-11-19",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Hide Malware Inside Cheap TV Boxes to Steal Home Internet Bandwidth and Generate Fake Ads",
+   "url": "https://gbhackers.com/malware-hidden-cheap-tv-boxes/",
+   "ozet": "BADBOX 3.0, an operation that turned inexpensive streaming boxes into hidden video ad players and residential proxies. At its peak, the campaign generated roughly 40 billion bid requests per day, accounting for more than 4% of connected TV (CTV) traffic observed by HUMAN’s platform. That was more th",
    "grup": "Genel"
   },
   {
@@ -99,6 +126,15 @@
    "grup": "Genel"
   },
   {
+   "id": "e8217d7fb170",
+   "tarih": "2026-11-19",
+   "kaynak": "Hackread",
+   "baslik": "Comparing Crypto Payment Processors for International Merchants",
+   "url": "https://hackread.com/crypto-payment-processors-international-merchants/",
+   "ozet": "Compare crypto payment processors for international merchants, including fees, settlement currencies, exchange rates, security and integration with online stores.",
+   "grup": "Genel"
+  },
+  {
    "id": "e45c5124b0ac",
    "tarih": "2026-11-19",
    "kaynak": "SecurityWeek",
@@ -117,6 +153,60 @@
    "grup": "PHP"
   },
   {
+   "id": "df5a560c1b8f",
+   "tarih": "2026-11-19",
+   "kaynak": "BleepingComputer",
+   "baslik": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+   "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+   "ozet": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "df1989b6d4e6",
+   "tarih": "2026-11-19",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Exploit AI-Powered ARTEX Tool to Identify Vulnerabilities in European Commission IT Systems",
+   "url": "https://gbhackers.com/hackers-exploit-ai-powered-artex-tool/",
+   "ozet": "Hackers used ARTEX, a publicly available AI-powered tool designed to identify vulnerabilities, in a cyber campaign targeting the European Commission. According to POLITICO’s Brussels Playbook, CERT-EU, the cybersecurity service for EU institutions, detected the activity earlier in November. The Comm",
+   "grup": "Genel"
+  },
+  {
+   "id": "de4f3f73b0da",
+   "tarih": "2026-11-19",
+   "kaynak": "GBHackers",
+   "baslik": "Synology Fixes Critical Security Flaws With CVSS Scores of 9.8 and 8.1 Across NAS Platforms",
+   "url": "https://gbhackers.com/synology-fixes-critical-security-flaws/",
+   "ozet": "Synology has announced two remotely exploitable vulnerabilities affecting DiskStation Manager (DSM) and BeeStation OS. Fixes for both DSM branches are scheduled for release by November 20, 2026. The notices, dated November 19, identify a critical OAuth API vulnerability (CVE-2026-120382) and an NGIN",
+   "grup": "Genel"
+  },
+  {
+   "id": "dcf0c6422c7c",
+   "tarih": "2026-11-19",
+   "kaynak": "Help Net Security",
+   "baslik": "Russian spies turn one cloud breach into a stepping stone for the next",
+   "url": "https://www.helpnetsecurity.com/2026/11/19/russian-spies-impersonation-cloud-breach/",
+   "ozet": "A Russian cyberespionage group is posing as employees of organizations it has already breached to phish new targets, Google Threat Intelligence Group (GTIG) found. Google tracks the group as COLD RELIC (also known as Star Blizzard, Callisto and Gossamer Bear), and the US Department of Justice has as",
+   "grup": "Genel"
+  },
+  {
+   "id": "d7156b706b0a",
+   "tarih": "2026-11-19",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "Critical remote code execution flaws found in Nginx web server",
+   "url": "https://www.cybersecuritydive.com/news/critical-remote-code-execution-flaws-nginx-web-server/875196/",
+   "ozet": "The flaws, including one that remained hidden for more than a decade, are difficult to exploit.",
+   "grup": "NGINX"
+  },
+  {
+   "id": "d4bbecc6cfa0",
+   "tarih": "2026-11-19",
+   "kaynak": "GBHackers",
+   "baslik": "Ubiquiti UniFi Access Vulnerabilities Enable Privilege Escalation and Unauthorized Command Execution",
+   "url": "https://gbhackers.com/ubiquiti-unifi-access-vulnerabilities/",
+   "ozet": "Ubiquiti has disclosed seven vulnerabilities in its UniFi Access Application that could let attackers escalate privileges, execute code as root on the host, or run unauthorized commands on certain managed devices. Security Advisory Bulletin 073, dated November 18, 2026, identifies versions 4.3.22 an",
+   "grup": "Genel"
+  },
+  {
    "id": "d4531eaedc4f",
    "tarih": "2026-11-19",
    "kaynak": "Help Net Security",
@@ -133,6 +223,15 @@
    "url": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
    "ozet": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC. \"These releases are part of PHP's regular four-week release cycle and wi",
    "grup": "PHP"
+  },
+  {
+   "id": "d02f8572d5f1",
+   "tarih": "2026-11-19",
+   "kaynak": "SecurityWeek",
+   "baslik": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
+   "url": "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
+   "ozet": "Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller. The post Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks appeared first on SecurityWeek.",
+   "grup": "Genel"
   },
   {
    "id": "ce554e89b404",
@@ -162,6 +261,15 @@
    "grup": "Genel"
   },
   {
+   "id": "c5e7bc1c4238",
+   "tarih": "2026-11-19",
+   "kaynak": "BleepingComputer",
+   "baslik": "PHP security updates fix 18 flaws, including critical RCE bugs",
+   "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+   "ozet": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
+   "grup": "PHP"
+  },
+  {
    "id": "bef0b390eb37",
    "tarih": "2026-11-19",
    "kaynak": "Help Net Security",
@@ -180,6 +288,24 @@
    "grup": "Microsoft"
   },
   {
+   "id": "bd53d182e5b7",
+   "tarih": "2026-11-19",
+   "kaynak": "Help Net Security",
+   "baslik": "Exploited Puppet flaw puts the server that configures your endpoint fleet at risk (CVE-2026-115731)",
+   "url": "https://www.helpnetsecurity.com/2026/11/19/puppet-enterprise-vulnerability-cve-2026-115731-exploited/",
+   "ozet": "Attackers are exploiting CVE-2026-115731, a critical remote code execution vulnerability in Perforce Puppet Enterprise, an enterprise solution used by IT teams to centralize and automatize endpoint management. Details about the in-the-wild attacks have yet to be made public, but the US Cybersecurity",
+   "grup": "Genel"
+  },
+  {
+   "id": "b7f6d70bce90",
+   "tarih": "2026-11-19",
+   "kaynak": "SecurityWeek",
+   "baslik": "StepSecurity Secures $20 Million to Expand Supply Chain Protection",
+   "url": "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/",
+   "ozet": "The company will use the funds to accelerate the development and distribution of its security platform. The post StepSecurity Secures $20 Million to Expand Supply Chain Protection appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "b63d4ac47a1b",
    "tarih": "2026-11-19",
    "kaynak": "GBHackers",
@@ -187,6 +313,24 @@
    "url": "https://gbhackers.com/nodelinkrat-targets-windows/",
    "ozet": "An attacker impersonating a senior aide in a South Korean National Assembly member’s office used a seminar honorarium to trick an attendee into opening a malicious Windows shortcut. The shortcut launched a multi-stage infection that retrieved commands from a public aNotepad page. The first email arr",
    "grup": "Microsoft"
+  },
+  {
+   "id": "abef5657ebf4",
+   "tarih": "2026-11-19",
+   "kaynak": "SecurityWeek",
+   "baslik": "Nvidia Responds to Gentlemen Ransomware Claim",
+   "url": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
+   "ozet": "Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim. The post Nvidia Responds to Gentlemen Ransomware Claim appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "aa09e38c305a",
+   "tarih": "2026-11-19",
+   "kaynak": "Hackread",
+   "baslik": "F5 Patches Two NGINX HTTP/2 Vulnerabilities, One Dating Back to 2015",
+   "url": "https://hackread.com/f5-patches-nginx-http-2-vulnerabilities-dating-2015/",
+   "ozet": "Two NGINX HTTP/2 vulnerabilities can let attackers run code without logging in. F5 has released fixes for affected versions of NGINX Open Source and NGINX Plus.",
+   "grup": "F5"
   },
   {
    "id": "9e60f0b7013b",
@@ -205,6 +349,42 @@
    "url": "https://gbhackers.com/critical-rce-vulnerabilities/",
    "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog on November 18, 2026, citing evidence of active exploitation. The fourth affects BerriAI’s LiteLLM proxy and also enables code execution, but carries a low",
    "grup": "Genel"
+  },
+  {
+   "id": "937f390d6b18",
+   "tarih": "2026-11-19",
+   "kaynak": "BleepingComputer",
+   "baslik": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+   "ozet": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "8ba163b7a11b",
+   "tarih": "2026-11-19",
+   "kaynak": "Hackread",
+   "baslik": "Criminal IP Launches AITEM to Connect Asset Discovery with AI-Powered Exposure Management",
+   "url": "https://hackread.com/criminal-ip-launches-aitem-to-connect-asset-discovery-with-ai-powered-exposure-management/",
+   "ozet": "Torrance, California, USA, 19th November 2026, CyberNewswire",
+   "grup": "Genel"
+  },
+  {
+   "id": "81864af9d83f",
+   "tarih": "2026-11-19",
+   "kaynak": "SOC Prime",
+   "baslik": "CVE-2026-123007: Critical NGINX2Root HTTP/2 Flaw Enables Remote Code Execution",
+   "url": "https://socprime.com/blog/cve-2026-123007-critical-nginx2root-http-2-flaw-enables-remote-code-execution/",
+   "ozet": "F5 has released emergency security updates addressing CVE-2026-123007, a critical memory-corruption vulnerability in NGINX that can allow an unauthenticated remote attacker to execute code on vulnerable web servers. Dubbed NGINX2Root, the flaw resides in NGINX’s HTTP/2 flow-control implementation an",
+   "grup": "NGINX"
+  },
+  {
+   "id": "7cc3b724b66a",
+   "tarih": "2026-11-19",
+   "kaynak": "BleepingComputer",
+   "baslik": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+   "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+   "ozet": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
+   "grup": "NGINX"
   },
   {
    "id": "7c22bd296cc9",
@@ -234,6 +414,24 @@
    "grup": "Genel"
   },
   {
+   "id": "785b7157b84f",
+   "tarih": "2026-11-19",
+   "kaynak": "GBHackers",
+   "baslik": "Russian-Speaking Hackers Steal US Bank, IRS and Social Security Login Credentials From Infected PCs",
+   "url": "https://gbhackers.com/credentials-stealing-malware/",
+   "ozet": "Russian-speaking hackers stole US banking and federal identity credentials from infected Windows PCs. The archives contained plaintext bank logins, decrypted password vaults, and authentication cookies. The investigation found no evidence that banks or federal agencies were breached. The attackers c",
+   "grup": "Genel"
+  },
+  {
+   "id": "75044bab3e73",
+   "tarih": "2026-11-19",
+   "kaynak": "BleepingComputer",
+   "baslik": "Five warning signs of ransomware breach before encryption or data theft",
+   "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+   "ozet": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [",
+   "grup": "Genel"
+  },
+  {
    "id": "72a234c62adc",
    "tarih": "2026-11-19",
    "kaynak": "GBHackers",
@@ -243,12 +441,39 @@
    "grup": "Genel"
   },
   {
+   "id": "7008c485fa38",
+   "tarih": "2026-11-19",
+   "kaynak": "The Hacker News",
+   "baslik": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+   "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+   "ozet": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter i",
+   "grup": "Genel"
+  },
+  {
+   "id": "6e1cc48f217d",
+   "tarih": "2026-11-19",
+   "kaynak": "The Hacker News",
+   "baslik": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+   "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+   "ozet": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the project rates the vulnerable configurations as uncommon.",
+   "grup": "Genel"
+  },
+  {
    "id": "6a5aef3ccc38",
    "tarih": "2026-11-19",
    "kaynak": "GBHackers",
    "baslik": "North Korea-Linked Hackers Hide Overlord RAT Server Addresses in Solana Blockchain Transactions",
    "url": "https://gbhackers.com/solana-blockchain-transactions/",
    "ozet": "A financially motivated Windows malware campaign that uses Solana transaction memos to conceal the command-and-control (C2) addresses of the Overlord remote access trojan. Talos disclosed the activity on November 18 and tracks the operators as UAT-12643. Its assessment that the group is aligned with",
+   "grup": "Genel"
+  },
+  {
+   "id": "6a0242c0723a",
+   "tarih": "2026-11-19",
+   "kaynak": "GBHackers",
+   "baslik": "N-able Confirms Security Breach in Mail Assure and SpamExperts Hosted Cloud, Credentials Potentially Exposed",
+   "url": "https://gbhackers.com/n-able-confirms-security-breach-in-mail-assure/",
+   "ozet": "N-able confirmed unauthorized access to one server in the cloud environment hosting Mail Assure and SpamExperts Hosted Cloud. The security incident disrupted administrative services across the Americas, Asia-Pacific, and Europe, but inbound and outbound email delivery and filtering continued to oper",
    "grup": "Genel"
   },
   {
@@ -270,6 +495,15 @@
    "grup": "Genel"
   },
   {
+   "id": "648f4746253c",
+   "tarih": "2026-11-19",
+   "kaynak": "The Hacker News",
+   "baslik": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+   "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+   "ozet": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server. Today's PHP ",
+   "grup": "PHP"
+  },
+  {
    "id": "6352ff872275",
    "tarih": "2026-11-19",
    "kaynak": "Schneier on Security",
@@ -288,12 +522,30 @@
    "grup": "Microsoft"
   },
   {
+   "id": "5e668a30271b",
+   "tarih": "2026-11-19",
+   "kaynak": "SecurityWeek",
+   "baslik": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
+   "url": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
+   "ozet": "Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement. The post Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release appeared first on SecurityWeek.",
+   "grup": "Cisco"
+  },
+  {
+   "id": "5b228a0fb7f0",
+   "tarih": "2026-11-19",
+   "kaynak": "Help Net Security",
+   "baslik": "PHP 8.6 is out, and here’s what changes for your code",
+   "url": "https://www.helpnetsecurity.com/2026/11/19/php-8-6-released/",
+   "ozet": "PHP 8.6 has been released. The new version adds partial function application, a Time\\Duration class, a polling API for event loops and a clamp() function. PHP 8.6 also changes defaults that existing apps could trip over. Sessions now start with session.use_strict_mode and session.cookie_httponly tur",
+   "grup": "PHP"
+  },
+  {
    "id": "59d3b792db48",
    "tarih": "2026-11-19",
    "kaynak": "Dark Reading",
    "baslik": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
    "url": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
-   "ozet": "Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top-5 most attacked countries globally.",
+   "ozet": "Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top 5 most-attacked countries globally.",
    "grup": "Genel"
   },
   {
@@ -315,6 +567,33 @@
    "grup": "Genel"
   },
   {
+   "id": "509cec87bb7f",
+   "tarih": "2026-11-19",
+   "kaynak": "Help Net Security",
+   "baslik": "Credential stealer slipped into Microsoft’s official Python agent framework",
+   "url": "https://www.helpnetsecurity.com/2026/11/19/microsoft-agent-framework-package-pypi-compromised/",
+   "ozet": "Two releases of Microsoft’s official agent-framework package on the Python Package Index (PyPI) carried code that steals cloud and CI/CD credentials from developers’ systems. Agent Framework is Microsoft’s open-source toolkit for building AI agents and running them in workflows. Three supply chain s",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "4fc5c33492cc",
+   "tarih": "2026-11-19",
+   "kaynak": "SecurityWeek",
+   "baslik": "The Governance Gap in Open-Weight AI and What to Do About It",
+   "url": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
+   "ozet": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight AI and What to Do About It appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "4f4f9e0dd0e0",
+   "tarih": "2026-11-19",
+   "kaynak": "Dark Reading",
+   "baslik": "Why Holiday Security Can't Wait for Black Friday",
+   "url": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
+   "ozet": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.",
+   "grup": "Genel"
+  },
+  {
    "id": "4c56a06821c6",
    "tarih": "2026-11-19",
    "kaynak": "Help Net Security",
@@ -324,6 +603,15 @@
    "grup": "SonicWall"
   },
   {
+   "id": "3f8d010b6fc3",
+   "tarih": "2026-11-19",
+   "kaynak": "SOC Prime",
+   "baslik": "CVE-2026-129448: Critical Apache Roller RCE Flaw Exploited in the Wild",
+   "url": "https://socprime.com/blog/cve-2026-129448-critical-apache-roller-rce-flaw-exploited-in-the-wild/",
+   "ozet": "Apache has disclosed a critical remote code execution vulnerability affecting Apache Roller, an open-source Java-based blogging and content management platform. Tracked as CVE-2026-129448, the flaw enables an unauthenticated remote attacker to send malicious data to Roller’s XML-RPC endpoint and tri",
+   "grup": "Genel"
+  },
+  {
    "id": "3d3c58459056",
    "tarih": "2026-11-19",
    "kaynak": "The Hacker News",
@@ -331,6 +619,33 @@
    "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
    "ozet": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL. The exploits, published yesterday, are the researcher's proofs o",
    "grup": "Genel"
+  },
+  {
+   "id": "3c9fd4e00765",
+   "tarih": "2026-11-19",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "‘What the hell is going on?’: Technology outages offer preview of US infrastructure’s messy, risky future",
+   "url": "https://www.cybersecuritydive.com/news/technology-outages-cyberattacks-ai-house-hearing/875148/",
+   "ozet": "As AI keeps finding serious software vulnerabilities, businesses will struggle to upgrade aging computer systems that weren&rsquo;t designed for the modern threat landscape.",
+   "grup": "Genel"
+  },
+  {
+   "id": "32c589cf4e73",
+   "tarih": "2026-11-19",
+   "kaynak": "SOC Prime",
+   "baslik": "CVE-2026-123633: Critical NGINX HTTP/2 Use-After-Free Flaw Enables RCE",
+   "url": "https://socprime.com/blog/cve-2026-123633-critical-nginx-http-2-use-after-free-flaw-enables-rce/",
+   "ozet": "A newly disclosed vulnerability tracked as CVE-2026-123633 exposes certain NGINX reverse-proxy deployments to unauthenticated denial-of-service attacks and potentially remote code execution. The flaw is a use-after-free condition in NGINX’s HTTP/2 processing that can be triggered when the server pro",
+   "grup": "NGINX"
+  },
+  {
+   "id": "3049d4149a83",
+   "tarih": "2026-11-19",
+   "kaynak": "SecurityWeek",
+   "baslik": "PHP Patches Seven Critical RCE Vulnerabilities",
+   "url": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
+   "ozet": "Successful exploitation could allow attackers to crash the worker process and execute code with the PHP worker’s privileges. The post PHP Patches Seven Critical RCE Vulnerabilities appeared first on SecurityWeek.",
+   "grup": "PHP"
   },
   {
    "id": "2d4b81c6de58",
@@ -376,6 +691,24 @@
    "url": "https://www.helpnetsecurity.com/2026/11/19/us-threat-disruption-center-scam-sextortion-funds/",
    "ozet": "Stopping victims’ money before it reaches foreign scam, cybercrime and sextortion networks is the goal of a new US unit launched by the Homeland Security Task Force (HSTF). The Threat Disruption Center is part of the HSTF’s National Coordination Center (NCC) in Fairfax, Virginia. The task force call",
    "grup": "Genel"
+  },
+  {
+   "id": "193208e89084",
+   "tarih": "2026-11-19",
+   "kaynak": "The Hacker News",
+   "baslik": "Everything Is a Web Application, Including Your Firewall",
+   "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+   "ozet": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both flaws let anyone execut",
+   "grup": "Genel"
+  },
+  {
+   "id": "1717d6a2f426",
+   "tarih": "2026-11-19",
+   "kaynak": "Hackread",
+   "baslik": "How to Swap Bitcoin to Ethereum on a Decentralized Exchange",
+   "url": "https://hackread.com/swap-bitcoin-ethereum-decentralized-exchange/",
+   "ozet": "Learn how to swap Bitcoin to Ethereum using THORChain, a cross-chain DEX that converts native BTC to ETH without wrapped tokens or an exchange account.",
+   "grup": "Microsoft"
   },
   {
    "id": "fb8b318a049e",
@@ -486,15 +819,6 @@
    "grup": "Genel"
   },
   {
-   "id": "c5f6c87fa0f7",
-   "tarih": "2026-11-18",
-   "kaynak": "SecurityWeek",
-   "baslik": "Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover",
-   "url": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
-   "ozet": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
    "id": "c1286bf528ca",
    "tarih": "2026-11-18",
    "kaynak": "Help Net Security",
@@ -502,33 +826,6 @@
    "url": "https://www.helpnetsecurity.com/2026/11/18/winrar-bubbleloader-malware/",
    "ozet": "ReversingLabs has taken apart BubbleLoader, a loader that turns ordinary Windows programs into carriers for other malware. The attackers rewrite a handful of instructions at a program’s entry point, the spot where Windows begins running it, and add two PNG images that hold the hidden code. Known hos",
    "grup": "Microsoft"
-  },
-  {
-   "id": "b326b8531a92",
-   "tarih": "2026-11-18",
-   "kaynak": "BleepingComputer",
-   "baslik": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-   "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-   "ozet": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "ae8a45c47c7a",
-   "tarih": "2026-11-18",
-   "kaynak": "Hackread",
-   "baslik": "Armornet Debuts AI Security for the Code and Vendors Companies Trust",
-   "url": "https://hackread.com/armornet-debuts-ai-security-for-the-code-and-vendors-companies-trust/",
-   "ozet": "Grand Rapids, Michigan, 18th November 2026, CyberNewswire",
-   "grup": "Genel"
-  },
-  {
-   "id": "ac7a12437b59",
-   "tarih": "2026-11-18",
-   "kaynak": "SecurityWeek",
-   "baslik": "Chrome 158 Patches 204 Vulnerabilities",
-   "url": "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/",
-   "ozet": "Google handed out $11,000 for five externally reported flaws but has yet to determine the amounts to be paid for 36 bugs. The post Chrome 158 Patches 204 Vulnerabilities appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "aa9ca93e66e2",
@@ -540,78 +837,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "9f639cd35360",
-   "tarih": "2026-11-18",
-   "kaynak": "BleepingComputer",
-   "baslik": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-   "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-   "ozet": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "9c40ff9a7698",
-   "tarih": "2026-11-18",
-   "kaynak": "The Hacker News",
-   "baslik": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-   "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-   "ozet": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in ",
-   "grup": "Genel"
-  },
-  {
-   "id": "98d24ce7e396",
-   "tarih": "2026-11-18",
-   "kaynak": "Hackread",
-   "baslik": "OX Security Launches OX Radar and Response Center to Show Companies Which Cyber Threats Actually Affect Them",
-   "url": "https://hackread.com/ox-security-launches-ox-radar-and-response-center-to-show-companies-which-cyber-threats-actually-affect-them/",
-   "ozet": "New York, United States, 18th November 2026, TechnologyWire",
-   "grup": "Genel"
-  },
-  {
-   "id": "94321d4b37d6",
-   "tarih": "2026-11-18",
-   "kaynak": "SecurityWeek",
-   "baslik": "Critical Perforce Puppet RCE Exploited in Attacks",
-   "url": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/",
-   "ozet": "Tracked as CVE-2026-115731, it allows a client that holds any CA-signed agent certificate to execute code on the server. The post Critical Perforce Puppet RCE Exploited in Attacks appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "8e8debc4b233",
-   "tarih": "2026-11-18",
-   "kaynak": "BleepingComputer",
-   "baslik": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-   "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-   "ozet": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification can help organizations prevent social engineering t",
-   "grup": "Genel"
-  },
-  {
-   "id": "889fd7cae88e",
-   "tarih": "2026-11-18",
-   "kaynak": "Help Net Security",
-   "baslik": "Fraudsters feed the right face into identity checks through virtual cameras",
-   "url": "https://www.helpnetsecurity.com/2026/11/18/entrust-document-verification-fraud-report/",
-   "ozet": "Document fraud remains the largest attack category in Entrust’s The Professionalization of Fraud: 2027 Identity Fraud Report, with criminals combining physical counterfeits, digital manipulation and impersonation to target online services. The document fraud rate fell 19% year over year. Attacks cla",
-   "grup": "Genel"
-  },
-  {
-   "id": "84415312a0a7",
-   "tarih": "2026-11-18",
-   "kaynak": "Dark Reading",
-   "baslik": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
-   "ozet": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
-   "grup": "Genel"
-  },
-  {
-   "id": "8368f9805644",
-   "tarih": "2026-11-18",
-   "kaynak": "Dark Reading",
-   "baslik": "Major Brazilian Signature Apps Enable RCE &amp; Fraud",
-   "url": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud",
-   "ozet": "Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it's often rife with RCE bugs.",
-   "grup": "Genel"
-  },
-  {
    "id": "74d12e442320",
    "tarih": "2026-11-18",
    "kaynak": "The Hacker News",
@@ -619,105 +844,6 @@
    "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
    "ozet": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That leaves short PINs open to guessing. In lab tests, the researchers found a four-digit Hello PIN on an AMD l",
    "grup": "Microsoft"
-  },
-  {
-   "id": "73f99f24243e",
-   "tarih": "2026-11-18",
-   "kaynak": "Help Net Security",
-   "baslik": "TapMap: Free, open-source network map",
-   "url": "https://www.helpnetsecurity.com/2026/11/18/tapmap-network-map-open-source/",
-   "ozet": "TapMap is a free, open-source desktop app that plots a computer’s active network connections on an interactive world map. It scans open sockets, pulls out the remote IP addresses and looks each one up in a local GeoIP database. Then it draws the result in the browser, with the application behind eac",
-   "grup": "Genel"
-  },
-  {
-   "id": "6e6d50da4195",
-   "tarih": "2026-11-18",
-   "kaynak": "Help Net Security",
-   "baslik": "Ransomware access brokers are moving their deals off public forums",
-   "url": "https://www.helpnetsecurity.com/2026/11/19/ransomware-access-brokers-cybercrime/",
-   "ozet": "Ransomware and extortion gangs claimed about 718 victims a month through October 2026, according to threat intelligence firm ZeroFox, up from roughly 573 a month in 2025. Between early 2025 and early 2026, public dark web listings selling access to hacked corporate networks fell from about 620 a qua",
-   "grup": "Genel"
-  },
-  {
-   "id": "6a28bbe6bdb0",
-   "tarih": "2026-11-18",
-   "kaynak": "GBHackers",
-   "baslik": "Hackers Turn AI Coding Agent Configuration Files Into Malware Execution and Propagation Channels",
-   "url": "https://gbhackers.com/ai-coding-agent/",
-   "ozet": "A malware campaign that uses compromised GitHub content to target developers using AI coding assistants. The malware can steal developer credentials, alter local agent configurations, and use stolen access to poison repositories that other developers may later open. The campaign exploits the trust c",
-   "grup": "Genel"
-  },
-  {
-   "id": "65d624000bfc",
-   "tarih": "2026-11-18",
-   "kaynak": "Help Net Security",
-   "baslik": "Once a scam ends the victim blaming begins",
-   "url": "https://www.helpnetsecurity.com/2026/11/18/nicola-fox-hamilton-victim-blaming-scams-phishing/",
-   "ozet": "Blaming people who fall for scams deepens the harm and teaches them to stay silent the next time, cyberpsychologist Dr. Nicola Fox Hamilton told the audience at IRISSCON 2026 in Dublin. Dr. Nicola Fox Hamilton, cyberpsychology researcher and lecturer in IADT, talked about the psychology behind phish",
-   "grup": "Genel"
-  },
-  {
-   "id": "649853d54fa1",
-   "tarih": "2026-11-18",
-   "kaynak": "GBHackers",
-   "baslik": "Hackers Abuse Linux eBPF Technology to Hide Malware Processes and Evade Detection",
-   "url": "https://gbhackers.com/linux-ebpf-technology/",
-   "ozet": "An eBPF rootkit that makes malware processes, selected file entries, and network sockets disappear from some Linux utilities without removing the underlying objects. In controlled tests, the rootkit hid a listener from /proc/net/tcp but not from ss, while Aqua’s Tracee runtime security tool flagged ",
-   "grup": "Genel"
-  },
-  {
-   "id": "63ab0fd18797",
-   "tarih": "2026-11-18",
-   "kaynak": "The Hacker News",
-   "baslik": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
-   "url": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
-   "ozet": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now down to a single day. Security testing has to keep up with both. AI pentesting ha",
-   "grup": "Genel"
-  },
-  {
-   "id": "5d3f62831d82",
-   "tarih": "2026-11-18",
-   "kaynak": "GBHackers",
-   "baslik": "NVIDIA GPU Driver Flaw Allows Attackers to Gain Root Access and Escape Containers",
-   "url": "https://gbhackers.com/nvidia-gpu-driver-flaw/",
-   "ozet": "A vulnerability in NVIDIA’s Linux GPU driver allows an unprivileged user to gain root access on the host and escape a container with access to the affected GPU device. Tracked as CVE-2026-47501 and dubbed ForgePtr, the flaw poses a particular risk to cloud providers that run workloads from multiple ",
-   "grup": "Genel"
-  },
-  {
-   "id": "594fa93fd955",
-   "tarih": "2026-11-18",
-   "kaynak": "Help Net Security",
-   "baslik": "Java4Shell OpenJDK flaw: Exploitation is tricky and hinges on specific CPUs (CVE-2026-114938)",
-   "url": "https://www.helpnetsecurity.com/2026/11/18/java4shell-openjdk-vulnerability-cve-2026-114938/",
-   "ozet": "CVE-2026-114938, a memory corruption flaw in Open Java Development Kit&#8217;s Base64 decoder, can allow unauthenticated attackers to run code on servers hosting widely used Java applications. Nicknamed &#8220;Java4Shell&#8221; by Calif, the company whose researchers found it, CVE-2026-114938 was fi",
-   "grup": "Genel"
-  },
-  {
-   "id": "57cf485fa921",
-   "tarih": "2026-11-18",
-   "kaynak": "BleepingComputer",
-   "baslik": "Dizigom illegal streaming service with 21M monthly visits shuts down",
-   "url": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
-   "ozet": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "55016e2da81b",
-   "tarih": "2026-11-18",
-   "kaynak": "The Hacker News",
-   "baslik": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-   "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
-   "ozet": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines. \"When attackers are exposed, the cheap response is to rotate,\" Bitdefender said in a technical report",
-   "grup": "Genel"
-  },
-  {
-   "id": "4f4cc6f19074",
-   "tarih": "2026-11-18",
-   "kaynak": "BleepingComputer",
-   "baslik": "Apache warns of Roller RCE vulnerability exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-   "ozet": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
-   "grup": "Genel"
   },
   {
    "id": "4d21e756021a",
