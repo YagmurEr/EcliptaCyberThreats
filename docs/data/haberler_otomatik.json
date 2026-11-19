@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-18T17:59:38+00:00",
+ "guncelleme": "2026-11-19T02:30:54+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -33,7 +33,8 @@
   },
   {
    "kaynak": "GBHackers",
-   "durum": "hata"
+   "durum": "ok",
+   "adet": 10
   },
   {
    "kaynak": "Cybersecurity Dive",
@@ -52,6 +53,24 @@
   }
  ],
  "haberler": [
+  {
+   "id": "c808af3473f2",
+   "tarih": "2026-11-19",
+   "kaynak": "Help Net Security",
+   "baslik": "Quantum position verification could lock remote hackers out, NIST shows",
+   "url": "https://www.helpnetsecurity.com/2026/11/19/nist-quantum-position-verification/",
+   "ozet": "Physicists at the National Institute of Standards and Technology have used entangled photons to confirm that a party was physically where it claimed to be. NIST physicist Krister Shalm and an international team ran a quantum position verification protocol inside a research building in Boulder, Color",
+   "grup": "Genel"
+  },
+  {
+   "id": "fb8b318a049e",
+   "tarih": "2026-11-18",
+   "kaynak": "The Hacker News",
+   "baslik": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+   "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+   "ozet": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. Fixed versions 1.",
+   "grup": "NGINX"
+  },
   {
    "id": "fb5cecfd17b1",
    "tarih": "2026-11-18",
@@ -86,6 +105,15 @@
    "baslik": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
    "url": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
    "ozet": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise. Google's Mandiant and Threat Intelligence Group (GTIG) said it ",
+   "grup": "Genel"
+  },
+  {
+   "id": "ede0adf4c578",
+   "tarih": "2026-11-18",
+   "kaynak": "BleepingComputer",
+   "baslik": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+   "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+   "ozet": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
    "grup": "Genel"
   },
   {
@@ -125,6 +153,15 @@
    "grup": "Genel"
   },
   {
+   "id": "cebfa689962e",
+   "tarih": "2026-11-18",
+   "kaynak": "Dark Reading",
+   "baslik": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
+   "url": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
+   "ozet": "New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work.",
+   "grup": "Genel"
+  },
+  {
    "id": "c9f8dc26d8d0",
    "tarih": "2026-11-18",
    "kaynak": "The Hacker News",
@@ -152,6 +189,15 @@
    "grup": "Microsoft"
   },
   {
+   "id": "b326b8531a92",
+   "tarih": "2026-11-18",
+   "kaynak": "BleepingComputer",
+   "baslik": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+   "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+   "ozet": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "ae8a45c47c7a",
    "tarih": "2026-11-18",
    "kaynak": "Hackread",
@@ -177,6 +223,24 @@
    "url": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
    "ozet": "Versions 1.26.1 and 1.26.2 of agent-framework on PyPI steal Azure, Azure DevOps, and GitHub Actions credentials when Python starts. The post Microsoft Agent Framework Releases Poisoned With Credential Stealer appeared first on SecurityWeek.",
    "grup": "Microsoft"
+  },
+  {
+   "id": "9f639cd35360",
+   "tarih": "2026-11-18",
+   "kaynak": "BleepingComputer",
+   "baslik": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+   "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+   "ozet": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "9c40ff9a7698",
+   "tarih": "2026-11-18",
+   "kaynak": "The Hacker News",
+   "baslik": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+   "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+   "ozet": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in ",
+   "grup": "Genel"
   },
   {
    "id": "98d24ce7e396",
@@ -215,6 +279,15 @@
    "grup": "Genel"
   },
   {
+   "id": "84415312a0a7",
+   "tarih": "2026-11-18",
+   "kaynak": "Dark Reading",
+   "baslik": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
+   "ozet": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
+   "grup": "Genel"
+  },
+  {
    "id": "8368f9805644",
    "tarih": "2026-11-18",
    "kaynak": "Dark Reading",
@@ -242,6 +315,15 @@
    "grup": "Genel"
   },
   {
+   "id": "6e6d50da4195",
+   "tarih": "2026-11-18",
+   "kaynak": "Help Net Security",
+   "baslik": "Ransomware access brokers are moving their deals off public forums",
+   "url": "https://www.helpnetsecurity.com/2026/11/19/ransomware-access-brokers-cybercrime/",
+   "ozet": "Ransomware and extortion gangs claimed about 718 victims a month through October 2026, according to threat intelligence firm ZeroFox, up from roughly 573 a month in 2025. Between early 2025 and early 2026, public dark web listings selling access to hacked corporate networks fell from about 620 a qua",
+   "grup": "Genel"
+  },
+  {
    "id": "6a28bbe6bdb0",
    "tarih": "2026-11-18",
    "kaynak": "GBHackers",
@@ -257,6 +339,15 @@
    "baslik": "Once a scam ends the victim blaming begins",
    "url": "https://www.helpnetsecurity.com/2026/11/18/nicola-fox-hamilton-victim-blaming-scams-phishing/",
    "ozet": "Blaming people who fall for scams deepens the harm and teaches them to stay silent the next time, cyberpsychologist Dr. Nicola Fox Hamilton told the audience at IRISSCON 2026 in Dublin. Dr. Nicola Fox Hamilton, cyberpsychology researcher and lecturer in IADT, talked about the psychology behind phish",
+   "grup": "Genel"
+  },
+  {
+   "id": "649853d54fa1",
+   "tarih": "2026-11-18",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Abuse Linux eBPF Technology to Hide Malware Processes and Evade Detection",
+   "url": "https://gbhackers.com/linux-ebpf-technology/",
+   "ozet": "An eBPF rootkit that makes malware processes, selected file entries, and network sockets disappear from some Linux utilities without removing the underlying objects. In controlled tests, the rootkit hid a listener from /proc/net/tcp but not from ss, while Aqua’s Tracee runtime security tool flagged ",
    "grup": "Genel"
   },
   {
@@ -368,6 +459,24 @@
    "grup": "Genel"
   },
   {
+   "id": "384f595b8a14",
+   "tarih": "2026-11-18",
+   "kaynak": "GBHackers",
+   "baslik": "SpyCloud’s 2027 Forecast: Attackers Will Exploit Trusted Access, From Hijacked Sessions to AI Agents",
+   "url": "https://gbhackers.com/spycloud-2027-cybersecurity-forecast-trusted-access-ai-agents/",
+   "ozet": "Austin, TX, USA, November 17th, 2026, CyberNewswire New predictions drawn from SpyCloud’s research teams and a survey of security professionals show why stolen sessions, API keys, and vendor connections will drive the most damaging attacks in 2027. SpyCloud, the leader in identity threat protection,",
+   "grup": "Genel"
+  },
+  {
+   "id": "36b11d0f96a4",
+   "tarih": "2026-11-18",
+   "kaynak": "Help Net Security",
+   "baslik": "Azure Linux 4 puts the OS behind Microsoft’s cloud services on your VMs at no extra license fee",
+   "url": "https://www.helpnetsecurity.com/2026/11/19/microsoft-azure-linux-4/",
+   "ozet": "Microsoft made Azure Linux 4 generally available. The company is offering its in-house Linux distribution as a general-purpose server OS for customer virtual machines and scale sets. Customers pay for the Azure compute underneath and no additional OS licensing fee. The same distribution already runs",
+   "grup": "Microsoft"
+  },
+  {
    "id": "2df0fcea5ad6",
    "tarih": "2026-11-18",
    "kaynak": "SecurityWeek",
@@ -404,6 +513,15 @@
    "grup": "Genel"
   },
   {
+   "id": "27e5f548c7a1",
+   "tarih": "2026-11-18",
+   "kaynak": "Dark Reading",
+   "baslik": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
+   "url": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
+   "ozet": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.",
+   "grup": "Genel"
+  },
+  {
    "id": "26ecd5240f46",
    "tarih": "2026-11-18",
    "kaynak": "Cybersecurity Dive",
@@ -419,6 +537,15 @@
    "baslik": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
    "url": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
    "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabilities (KEV) catalog, citing reports of active explo",
+   "grup": "Genel"
+  },
+  {
+   "id": "25bb79cb4fbc",
+   "tarih": "2026-11-18",
+   "kaynak": "GBHackers",
+   "baslik": "2027 Cybersecurity Excellence Awards Launch With Six New AI Security Categories",
+   "url": "https://gbhackers.com/2027-cybersecurity-excellence-awards/",
+   "ozet": "San Francisco, USA, November 17th, 2026, CyberNewswire Global awards program invites nominations across more than 100 cybersecurity categories, with early-bird pricing through Cyber Monday. The Cybersecurity Excellence Awards, presented by Cybersecurity Insiders, announced the official launch of its",
    "grup": "Genel"
   },
   {
@@ -476,6 +603,42 @@
    "grup": "Genel"
   },
   {
+   "id": "163259fd497b",
+   "tarih": "2026-11-18",
+   "kaynak": "GBHackers",
+   "baslik": "After Black October, OffSec Turns PHPH2Shell and Other New Vulnerabilities Into Hands-On Labs",
+   "url": "https://gbhackers.com/offsec-php2shell-black-october-hands-on-labs/",
+   "ozet": "New York City, United States, November 18th, 2026, CyberNewswire OffSec built 14 labs on real CVEs in two weeks. Its Level 20 offer takes $550 off Learn One for learners ready to train against threats like these. OffSec, the world&#8217;s leading provider of hands-on cybersecurity training and certi",
+   "grup": "PHP"
+  },
+  {
+   "id": "11aa6bef2bfb",
+   "tarih": "2026-11-18",
+   "kaynak": "The Hacker News",
+   "baslik": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+   "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+   "ozet": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes t",
+   "grup": "F5"
+  },
+  {
+   "id": "11a0acbe7b37",
+   "tarih": "2026-11-18",
+   "kaynak": "GBHackers",
+   "baslik": "Armornet Debuts AI Security for the Code and Vendors Companies Trust",
+   "url": "https://gbhackers.com/armornet-ai-software-supply-chain-vendor-security/",
+   "ozet": "Grand Rapids, Michigan, November 18th, 2026, CyberNewswire Startup shows teams the vendors they rely on, keeps a live risk score on each one and secures the software supply chain from end to end Armornet, an AI cybersecurity company, is accepting teams into the private alpha of its platform, which g",
+   "grup": "Genel"
+  },
+  {
+   "id": "10904c682869",
+   "tarih": "2026-11-18",
+   "kaynak": "GBHackers",
+   "baslik": "GitHub and Microsoft Launch AI Security Initiative to Protect Six Major Open Source Projects",
+   "url": "https://gbhackers.com/github-and-microsoft-launch-ai-security-initiative/",
+   "ozet": "GitHub and Microsoft disclosed on November 17 that an AI-assisted security pilot helped maintainers fix 55 vulnerabilities across six widely used open-source projects. The companies narrowed thousands of potential issues to 99 verified reports, all submitted privately with suggested fixes. As of Nov",
+   "grup": "Microsoft"
+  },
+  {
    "id": "1017d4efdbfb",
    "tarih": "2026-11-18",
    "kaynak": "GBHackers",
@@ -500,6 +663,15 @@
    "baslik": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
    "url": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
    "ozet": "Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws. The post Oracle Patches 950 Vulnerabilities With November 2026 CSPU appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "0d17af1bcf82",
+   "tarih": "2026-11-18",
+   "kaynak": "GBHackers",
+   "baslik": "Google Chrome 158 Released With 204 Security Fixes, Including 6 Critical Vulnerabilities",
+   "url": "https://gbhackers.com/google-chrome-158-released-with-204-security-fixes/",
+   "ozet": "Google released Chrome 158 to the desktop Stable channel on November 17, 2026, with 204 security fixes, including six critical vulnerabilities. The patched builds are 158.0.8127.36 for Linux and 158.0.8127.36 or 158.0.8127.37 for Windows and macOS. In its Stable channel advisory, Google said the upd",
    "grup": "Genel"
   },
   {
@@ -539,42 +711,6 @@
    "grup": "Genel"
   },
   {
-   "id": "ff4ecbca8eac",
-   "tarih": "2026-11-17",
-   "kaynak": "SecurityWeek",
-   "baslik": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
-   "url": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
-   "ozet": "Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed. The post Fandango Warns Ticket Buyers of Payment Card Data Exposure appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "feecdcdafff4",
-   "tarih": "2026-11-17",
-   "kaynak": "Help Net Security",
-   "baslik": "40% of organizations struggle to retrace AI agents’ actions",
-   "url": "https://www.helpnetsecurity.com/2026/11/17/palo-alto-networks-ai-cloud-security-risks-report/",
-   "ozet": "99% of organizations use AI agents to perform autonomous or semiautonomous actions in development pipelines, according to Palo Alto Networks’ State of Cloud Security Report 2026. Meanwhile, 82% say AI-driven development has increased the volume of updates to cloud infrastructure. Release pressure le",
-   "grup": "Genel"
-  },
-  {
-   "id": "f61744a14eda",
-   "tarih": "2026-11-17",
-   "kaynak": "Schneier on Security",
-   "baslik": "Formal Verification of the Signal Protocol Using AI",
-   "url": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
-   "ozet": "This seems like a good thing: Google Deepmind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees­a landmark development for the widely used cryptography and AI itself. Conducted as a sort of proof-of-concept proje",
-   "grup": "Genel"
-  },
-  {
-   "id": "f479cb5dcfaa",
-   "tarih": "2026-11-17",
-   "kaynak": "Hackread",
-   "baslik": "FBI Says ARTEX AI Tool Helped Hackers Gain Privileged Access in Under 3 Hours",
-   "url": "https://hackread.com/fbi-artex-ai-tool-hackers-gain-privileged-access/",
-   "ozet": "The FBI is warning about a new framework, ARTEX, which automates several stages of a cyberattack, from finding&#8230;",
-   "grup": "Genel"
-  },
-  {
    "id": "eb6f398a1d53",
    "tarih": "2026-11-17",
    "kaynak": "Hackread",
@@ -582,96 +718,6 @@
    "url": "https://hackread.com/after-black-october-offsec-turns-phph2shell-and-other-new-vulnerabilities-into-hands-on-labs/",
    "ozet": "New York City, United States, 17th November 2026, CyberNewswire",
    "grup": "PHP"
-  },
-  {
-   "id": "eb1264c3eeab",
-   "tarih": "2026-11-17",
-   "kaynak": "SecurityWeek",
-   "baslik": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
-   "url": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
-   "ozet": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "eac2a630777d",
-   "tarih": "2026-11-17",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "Critical flaw in ScreenConnect exploited to run malicious files on MSP technician accounts",
-   "url": "https://www.cybersecuritydive.com/news/critical-flaw-screenconnect-malicious-files-msp/874900/",
-   "ozet": "Almost 690,000 file transfer requests were made in less than a month, according to security researchers.",
-   "grup": "Genel"
-  },
-  {
-   "id": "eaafbd85704e",
-   "tarih": "2026-11-17",
-   "kaynak": "Hackread",
-   "baslik": "Optimizely Hack Serves Malware Through Scripts Used by 178 Organisations",
-   "url": "https://hackread.com/optimizely-hack-malware-scripts-178-organisations/",
-   "ozet": "Hackers abused Optimizely scripts used by 178 organisations to target site visitors with card-stealing malware, crypto theft and&#8230;",
-   "grup": "Genel"
-  },
-  {
-   "id": "e8da1f8ea110",
-   "tarih": "2026-11-17",
-   "kaynak": "GBHackers",
-   "baslik": "Mozilla Releases Firefox 160 Security Update Fixing 99 Vulnerabilities, Including Sandbox Escape Flaws",
-   "url": "https://gbhackers.com/mozilla-releases-firefox-160-security-update/",
-   "ozet": "Mozilla has released Firefox 160 with fixes for 99 security vulnerabilities. Mozilla announced the update on November 10, 2026, as part of Mozilla Foundation Security Advisory 2026-125, which rates its overall impact as high. The advisory lists 57 high-severity flaws, 24 moderate and 18 low. Most of",
-   "grup": "Genel"
-  },
-  {
-   "id": "e821f480db77",
-   "tarih": "2026-11-17",
-   "kaynak": "Help Net Security",
-   "baslik": "Google finds AI agent writing and launching exploits with no human in the loop",
-   "url": "https://www.helpnetsecurity.com/2026/11/17/ai-powered-cyberattacks-gtig-report/",
-   "ozet": "Threat actors have started letting AI agents carry out whole stages of live intrusions, and at least one operation no longer needs a human to turn a newly released patch into a working attack, Google Threat Intelligence Group (GTIG) and Mandiant revealed. LLM maturity timeline (Source: Google) “Whil",
-   "grup": "Genel"
-  },
-  {
-   "id": "e7c273fee4ff",
-   "tarih": "2026-11-17",
-   "kaynak": "Dark Reading",
-   "baslik": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach",
-   "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
-   "ozet": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
-   "grup": "Genel"
-  },
-  {
-   "id": "e5f38235f326",
-   "tarih": "2026-11-17",
-   "kaynak": "The Hacker News",
-   "baslik": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
-   "url": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
-   "ozet": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later. The company said additional activity targeting on-premises environments ",
-   "grup": "Genel"
-  },
-  {
-   "id": "de602d50e6ee",
-   "tarih": "2026-11-17",
-   "kaynak": "Hackread",
-   "baslik": "Leaked Credentials Are an Enterprise Problem: GitGuardian Extends Its Good Samaritan Program to Security Teams",
-   "url": "https://hackread.com/leaked-credentials-are-an-enterprise-problem-gitguardian-extends-its-good-samaritan-program-to-security-teams/",
-   "ozet": "New York, USA, 17th November 2026, CyberNewswire",
-   "grup": "Genel"
-  },
-  {
-   "id": "ddec81ba80b1",
-   "tarih": "2026-11-17",
-   "kaynak": "BleepingComputer",
-   "baslik": "Cloud keys leaked in Docker Hub images are stolen within seconds",
-   "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-   "ozet": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "d8ca9cff94be",
-   "tarih": "2026-11-17",
-   "kaynak": "SecurityWeek",
-   "baslik": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
-   "url": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
-   "ozet": "Led by NEA and supported by existing investors, the funding brings the company’s valuation to $1 billion. The post Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "d367a0c12488",
