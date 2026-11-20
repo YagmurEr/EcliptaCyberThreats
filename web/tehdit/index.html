@@ -120,6 +120,7 @@ html, body { margin: 0; background: #0E3049; color: #E2E8F0; }
 .kv-auto { font-size: 11px; font-weight: 600; color: var(--e-muted); background: rgba(255,255,255,0.08); padding: 3px 8px; border-radius: 6px; }
 @media (max-width: 640px) { .kv-hide-n { display: none; } .kv-search { margin-left: 0; width: 100%; min-width: 0; } .kv-big { font-size: 36px; } }
 
+.kv-feed { margin-top: 12px !important; font-size: 13px !important; } .kv-feed a { color: #E2E8F0; text-decoration: underline; }
 .kv-hero-sub { margin: 6px 0 0; font-size: 15px; line-height: 1.5; color: #94A3B8; max-width: 52rem; }
 </style>
 </head>
@@ -146,6 +147,7 @@ html, body { margin: 0; background: #0E3049; color: #E2E8F0; }
     <p class="kv-hero-sub">Ağ ve güvenlik platformlarında aktif istismar edilen zafiyetler, siber güvenlik haberleri ve KVKK veri ihlali bildirimleri</p>
     <p id="kv-takeaway"><span class="kv-sk">Veriler yükleniyor…</span></p>
     <div class="kv-meta" id="kv-meta"></div>
+    <p class="kv-feed"><a href="https://YagmurEr.github.io/EcliptaCyberThreats/rss.xml" target="_blank" rel="noopener noreferrer" type="application/rss+xml">RSS ile takip et</a> · <a href="https://github.com/YagmurEr/EcliptaCyberThreats/blob/main/API.md" target="_blank" rel="noopener noreferrer">Açık veri API</a></p>
   </header>
 
   <section>
@@ -246,6 +248,24 @@ html, body { margin: 0; background: #0E3049; color: #E2E8F0; }
   const EK_RENK = { 'Türkiye': '#9F1239', 'Genel': '#64748B' };
   const S_RENK = { 'Fidye yazılımı': '#C8372D', 'Veri işleyen sistemine yetkisiz erişim': '#E8863A', 'Üçüncü taraf yazılım kütüphanesi zafiyeti': '#B4611F', 'Sosyal mühendislik / oltalama': '#7C5CBF', 'Kendi sistemine yetkisiz erişim': '#0E3049', 'Sunucuya siber saldırı': '#1F6FB2' };
   const V_RENK = { 'Kimlik': '#0E3049', 'İletişim': '#00B4D8', 'İşlem güvenliği': '#C8372D', 'Finans': '#E8863A', 'Lokasyon': '#2E9E6B', 'Müşteri işlem': '#7C5CBF', 'Özlük': '#1F6FB2', 'Mesleki deneyim': '#A0522D', 'Görsel ve işitsel kayıtlar': '#9F1239' };
+  // Resmî üretici güvenlik duyurusu dizinleri; CVE'ye özel eşleşme iddiası taşımaz.
+  const ADVISORY = Object.freeze({
+    'Fortinet': 'https://fortiguard.fortinet.com/psirt',
+    'Cisco': 'https://sec.cloudapps.cisco.com/security/center/publicationListing.x',
+    'Microsoft': 'https://msrc.microsoft.com/update-guide',
+    'WordPress': 'https://wordpress.org/news/category/security/',
+    'Linux Kernel': 'https://www.kernel.org/',
+    'PHP': 'https://www.php.net/security',
+    'F5': 'https://my.f5.com/manage/s/article/K41942608',
+    'NGINX': 'https://nginx.org/en/security_advisories.html',
+    'SonicWall': 'https://psirt.global.sonicwall.com/vuln-list',
+    'Juniper': 'https://supportportal.juniper.net/s/knowledge',
+    'Aruba': 'https://support.hpe.com/',
+    'Huawei': 'https://www.huawei.com/en/psirt/security-advisories',
+    'Check Point': 'https://www.checkpoint.com/defense/advisories/'
+  });
+  const cveLink = id => /^CVE-\d{4}-\d{4,}$/i.test(String(id)) ? link(id, 'https://nvd.nist.gov/vuln/detail/' + id) : el('span', null, id || '—');
+  const advisoryLink = grup => ADVISORY[grup] ? link(grup, ADVISORY[grup]) : el('span', null, grup || '—');
   const SVG_NS = 'http://www.w3.org/2000/svg';
   const nf = new Intl.NumberFormat('tr-TR');
   const $ = id => document.getElementById(id);
@@ -398,7 +418,7 @@ html, body { margin: 0; background: #0E3049; color: #E2E8F0; }
     for (const r of rows) {
       const tr = tb.insertRow();
       const hucre = (v, cls) => { const td = tr.insertCell(); td.textContent = v; if (cls) td.className = cls; return td; };
-      hucre(r.cveID); const g = hucre(r.grup); g.style.color = renk(r.grup); g.style.fontWeight = '700';
+      hucre('').appendChild(cveLink(r.cveID)); const g = hucre(''); g.appendChild(advisoryLink(r.grup)); g.style.color = renk(r.grup); g.style.fontWeight = '700';
       hucre(r.urun, 'kv-hide-n'); const e = hucre(yuzde(r.epssYuzde)); e.style.fontWeight = '700'; if (r.epssYuzde >= 10) e.classList.add('kv-r');
       hucre(r.cvss == null ? '—' : yuzde(r.cvss)); hucre(r.eklenme, 'kv-hide-n');
       const gec = r.sonTarih < ref; hucre(gec ? 'Son tarih geçti' : 'Süre devam ediyor', gec ? 'kv-r' : null);
@@ -519,7 +539,9 @@ html, body { margin: 0; background: #0E3049; color: #E2E8F0; }
       const tr = tb.insertRow();
       for (const [k, cls] of [['cveID'], ['grup'], ['urun'], ['zafiyet', 'kv-hide-n'], ['eklenme'], ['sonTarih', 'kv-hide-n'], ['cvss'], ['epssYuzde'], ['fidye']]) {
         const td = tr.insertCell(); const v = r[k];
-        td.textContent = v == null ? '—' : (typeof v === 'number' ? yuzde(v) : v);
+        if (k === 'cveID') td.appendChild(cveLink(v));
+        else if (k === 'grup') td.appendChild(advisoryLink(v));
+        else td.textContent = v == null ? '—' : (typeof v === 'number' ? yuzde(v) : v);
         if (cls) td.className = cls;
         if ((k === 'fidye' && v === 'Biliniyor') || (k === 'epssYuzde' && v >= 10)) td.classList.add('kv-r');
       }
