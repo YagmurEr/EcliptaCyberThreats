@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-20T02:16:29+00:00",
+ "guncelleme": "2026-11-20T11:31:35+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -33,8 +33,7 @@
   },
   {
    "kaynak": "GBHackers",
-   "durum": "ok",
-   "adet": 10
+   "durum": "hata"
   },
   {
    "kaynak": "Cybersecurity Dive",
@@ -54,12 +53,174 @@
  ],
  "haberler": [
   {
+   "id": "fa700a4eb8ce",
+   "tarih": "2026-11-20",
+   "kaynak": "The Hacker News",
+   "baslik": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+   "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+   "ozet": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine. The method was posted yesterday by a researcher wh",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "f5b6ed0f978c",
+   "tarih": "2026-11-20",
+   "kaynak": "SecurityWeek",
+   "baslik": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
+   "url": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
+   "ozet": "Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE). The post Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "e9069e703ad1",
+   "tarih": "2026-11-20",
+   "kaynak": "Help Net Security",
+   "baslik": "European Commission confirms AI-generated cyberattack disrupted its systems",
+   "url": "https://www.helpnetsecurity.com/2026/11/20/european-commission-ai-generated-cyberattack-publicly-available-tool/",
+   "ozet": "The European Commission has confirmed it was hit by a cyberattack that misused a publicly available AI tool and forced the institution to take several of its applications offline. Commission spokesperson Thomas Regnier gave the confirmation at Thursday&#8217;s midday press briefing in Brussels. Poli",
+   "grup": "Genel"
+  },
+  {
+   "id": "dc6901c8a6d8",
+   "tarih": "2026-11-20",
+   "kaynak": "The Hacker News",
+   "baslik": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+   "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+   "ozet": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authe",
+   "grup": "Genel"
+  },
+  {
+   "id": "c9ddefa65f50",
+   "tarih": "2026-11-20",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+   "ozet": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activity involves the exploitation of CVE-2026-76466 (CVSS score: 9.8), a vulnerabili",
+   "grup": "Cisco"
+  },
+  {
    "id": "c5e24a06d395",
    "tarih": "2026-11-20",
    "kaynak": "BleepingComputer",
    "baslik": "VMware patches vCenter zero-day exploited in attacks since September",
    "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
    "ozet": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "ba74506a96ac",
+   "tarih": "2026-11-20",
+   "kaynak": "The Hacker News",
+   "baslik": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+   "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+   "ozet": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through sepa",
+   "grup": "Genel"
+  },
+  {
+   "id": "b6dced9e8be0",
+   "tarih": "2026-11-20",
+   "kaynak": "The Hacker News",
+   "baslik": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+   "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+   "ozet": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. \"Attackers now use automation and AI to find and exploit unsupported edge devices fas",
+   "grup": "SonicWall"
+  },
+  {
+   "id": "9d409aafac36",
+   "tarih": "2026-11-20",
+   "kaynak": "Help Net Security",
+   "baslik": "It’s time to retire vanity security dashboards",
+   "url": "https://www.helpnetsecurity.com/2026/11/20/security-dashboards-tips-video/",
+   "ozet": "In this Help Net Security video, Abdul Khadir Mahamed, OT Security Architect at Estée Lauder Companies, explains why security teams should retire vanity dashboards in IT and OT environments. He walks through an example from a manufacturing site, where the same approved maintenance work triggers the ",
+   "grup": "Genel"
+  },
+  {
+   "id": "8b38735d044e",
+   "tarih": "2026-11-20",
+   "kaynak": "Help Net Security",
+   "baslik": "Your AI red team may be finding the same prompt injection thousands of times",
+   "url": "https://www.helpnetsecurity.com/2026/11/20/ai-prompt-injection-red-team/",
+   "ozet": "AI agents retrained on a bigger pile of prompt injection attacks came out easier to hijack in three of four tests run by researchers at the University of Waterloo, Zhejiang University and KTH Royal Institute of Technology. The automated red-teaming tool that found more working attacks produced the w",
+   "grup": "Genel"
+  },
+  {
+   "id": "6a744f24eada",
+   "tarih": "2026-11-20",
+   "kaynak": "BleepingComputer",
+   "baslik": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+   "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+   "ozet": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
+   "grup": "F5"
+  },
+  {
+   "id": "5cdfc826b45c",
+   "tarih": "2026-11-20",
+   "kaynak": "Help Net Security",
+   "baslik": "Most CIOs and CISOs expect to contain attacks, though few can reach their gear right away",
+   "url": "https://www.helpnetsecurity.com/2026/11/20/network-outage-recovery-resilience/",
+   "ozet": "Most organizations can’t quickly get secure management access to their own critical network infrastructure once the primary network goes down. Opengear surveyed 514 CIOs and CISOs and only a small share said they could get that access immediately or close to it. That gap bites hardest during a ranso",
+   "grup": "Genel"
+  },
+  {
+   "id": "384152c9138d",
+   "tarih": "2026-11-20",
+   "kaynak": "Hackread",
+   "baslik": "JPMorgan Chase, Visa and Mastercard confirm vendor incidents after n0n leak claims",
+   "url": "https://hackread.com/jpmorgan-chase-visa-mastercard-vendor-incidents-n0n-leak/",
+   "ozet": "Hackread counted over 27,000 email addresses in files n0n posted, while JPMorgan Chase, Visa and Mastercard acknowledged third-party vendor incidents.",
+   "grup": "Genel"
+  },
+  {
+   "id": "2be32b97a1a6",
+   "tarih": "2026-11-20",
+   "kaynak": "SecurityWeek",
+   "baslik": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+   "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
+   "ozet": "The Commission took certain services offline to contain the incident, but it has no evidence of a data breach. The post European Commission Confirms AI-Assisted Cyberattack Disrupted Services appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "28d85bc28999",
+   "tarih": "2026-11-20",
+   "kaynak": "Help Net Security",
+   "baslik": "265,000 Oyster photocard customers’ data exposed in Transport for London breach",
+   "url": "https://www.helpnetsecurity.com/2026/11/20/transport-for-london-oyster-photocard-data-breach/",
+   "ozet": "Account details belonging to some 265,000 Oyster photocard holders may have been compromised in a breach of the photocard website, Transport for London (TfL) has warned. They include children with Zip cards and Londoners with the 60+ London Oyster photocard. TfL says it spotted suspicious activity o",
+   "grup": "Genel"
+  },
+  {
+   "id": "1842d6db44a6",
+   "tarih": "2026-11-20",
+   "kaynak": "SecurityWeek",
+   "baslik": "N-able Blames Service Disruption on Cyberattack",
+   "url": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
+   "ozet": "The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft. The post N-able Blames Service Disruption on Cyberattack appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "09d3f14eaae7",
+   "tarih": "2026-11-20",
+   "kaynak": "BleepingComputer",
+   "baslik": "Windows 11 KB5132057 update released with 28 changes and fixes",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+   "ozet": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "09866cb18e2f",
+   "tarih": "2026-11-20",
+   "kaynak": "Help Net Security",
+   "baslik": "AI agent API security hasn’t caught up with agents already running in production",
+   "url": "https://www.helpnetsecurity.com/2026/11/20/ai-agent-api-security-production/",
+   "ozet": "Postman asked nearly 9,000 developers, architects and executives how they’re handling AI agents, and the answers tell a familiar story. Companies put the new thing to work first and left the question of who holds the keys for later. A quarter of the organizations that answered already have agents ca",
+   "grup": "Genel"
+  },
+  {
+   "id": "009f6643a854",
+   "tarih": "2026-11-20",
+   "kaynak": "SecurityWeek",
+   "baslik": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
+   "url": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
+   "ozet": "The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers. The post JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
@@ -120,7 +281,7 @@
    "id": "ef3cecb6fd50",
    "tarih": "2026-11-19",
    "kaynak": "The Hacker News",
-   "baslik": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+   "baslik": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
    "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
    "ozet": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine. \"We are aware of PoCs that prove some of them can be use",
    "grup": "Genel"
@@ -516,7 +677,7 @@
    "id": "7008c485fa38",
    "tarih": "2026-11-19",
    "kaynak": "The Hacker News",
-   "baslik": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+   "baslik": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
    "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
    "ozet": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter i",
    "grup": "Genel"
@@ -648,24 +809,6 @@
    "grup": "Genel"
   },
   {
-   "id": "53e4a59238e8",
-   "tarih": "2026-11-19",
-   "kaynak": "The Hacker News",
-   "baslik": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-   "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-   "ozet": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get peo",
-   "grup": "Genel"
-  },
-  {
-   "id": "5128ef422750",
-   "tarih": "2026-11-19",
-   "kaynak": "SecurityWeek",
-   "baslik": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
-   "url": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/",
-   "ozet": "The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and sovereign clouds. The post Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
    "id": "509cec87bb7f",
    "tarih": "2026-11-19",
    "kaynak": "Help Net Security",
@@ -675,33 +818,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "507f9b79c239",
-   "tarih": "2026-11-19",
-   "kaynak": "Help Net Security",
-   "baslik": "Android developer verification will reach every install source, with a side door for power users",
-   "url": "https://www.helpnetsecurity.com/2026/11/20/android-developer-verification-power-users/",
-   "ozet": "Google will extend Android developer verification to every country starting in January 2027, a check that already applies at participating app stores in four countries. Developers who have not verified their identity with Google and registered their apps will see those apps lose the normal install e",
-   "grup": "Genel"
-  },
-  {
-   "id": "4fc5c33492cc",
-   "tarih": "2026-11-19",
-   "kaynak": "SecurityWeek",
-   "baslik": "The Governance Gap in Open-Weight AI and What to Do About It",
-   "url": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
-   "ozet": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight AI and What to Do About It appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "4f4f9e0dd0e0",
-   "tarih": "2026-11-19",
-   "kaynak": "Dark Reading",
-   "baslik": "Why Holiday Security Can't Wait for Black Friday",
-   "url": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
-   "ozet": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.",
-   "grup": "Genel"
-  },
-  {
    "id": "4c56a06821c6",
    "tarih": "2026-11-19",
    "kaynak": "Help Net Security",
@@ -709,42 +825,6 @@
    "url": "https://www.helpnetsecurity.com/2026/11/19/sonicwall-gen-6-firewalls-reach-end-of-support/",
    "ozet": "SonicWall is urging customers still running Gen 6 firewalls to replace them immediately and to stop using them at the internet edge. All Gen 6 and Gen 6.5 appliances running SonicOS 6.x have now reached end of support. That means no more firmware updates or security patches, &#8220;regardless of sev",
    "grup": "SonicWall"
-  },
-  {
-   "id": "3f8d010b6fc3",
-   "tarih": "2026-11-19",
-   "kaynak": "SOC Prime",
-   "baslik": "CVE-2026-129448: Critical Apache Roller RCE Flaw Exploited in the Wild",
-   "url": "https://socprime.com/blog/cve-2026-129448-critical-apache-roller-rce-flaw-exploited-in-the-wild/",
-   "ozet": "Apache has disclosed a critical remote code execution vulnerability affecting Apache Roller, an open-source Java-based blogging and content management platform. Tracked as CVE-2026-129448, the flaw enables an unauthenticated remote attacker to send malicious data to Roller’s XML-RPC endpoint and tri",
-   "grup": "Genel"
-  },
-  {
-   "id": "3d3c58459056",
-   "tarih": "2026-11-19",
-   "kaynak": "The Hacker News",
-   "baslik": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-   "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-   "ozet": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL. The exploits, published yesterday, are the researcher's proofs o",
-   "grup": "Genel"
-  },
-  {
-   "id": "3c9fd4e00765",
-   "tarih": "2026-11-19",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "‘What the hell is going on?’: Technology outages offer preview of US infrastructure’s messy, risky future",
-   "url": "https://www.cybersecuritydive.com/news/technology-outages-cyberattacks-ai-house-hearing/875148/",
-   "ozet": "As AI keeps finding serious software vulnerabilities, businesses will struggle to upgrade aging computer systems that weren&rsquo;t designed for the modern threat landscape.",
-   "grup": "Genel"
-  },
-  {
-   "id": "3797ecb529a5",
-   "tarih": "2026-11-19",
-   "kaynak": "BleepingComputer",
-   "baslik": "ASUS warns of critical hard-coded key flaw in Control Center Express",
-   "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
-   "ozet": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
-   "grup": "Genel"
   },
   {
    "id": "32c589cf4e73",
@@ -765,24 +845,6 @@
    "grup": "PHP"
   },
   {
-   "id": "2d4b81c6de58",
-   "tarih": "2026-11-19",
-   "kaynak": "GBHackers",
-   "baslik": "Apache Roller Vulnerability Allows Remote Code Execution Through Unsafe XML-RPC Deserialization",
-   "url": "https://gbhackers.com/apache-roller-vulnerability-2/",
-   "ozet": "The Apache Software Foundation has disclosed an actively exploited vulnerability in Apache Roller that lets remote attackers execute arbitrary code without logging in. Tracked as CVE-2026-129448, the flaw affects versions 4.0.0 through 6.1.4 and carries a CVSS 3.1 score of 9.8 out of 10. Apache’s No",
-   "grup": "Genel"
-  },
-  {
-   "id": "2aa6fa29c77a",
-   "tarih": "2026-11-19",
-   "kaynak": "SecurityWeek",
-   "baslik": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
-   "url": "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/",
-   "ozet": "The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation. The post Splunk Patches Nearly 140 Flaws Across Three Core Products appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
    "id": "1fc34cf6486a",
    "tarih": "2026-11-19",
    "kaynak": "BleepingComputer",
@@ -790,24 +852,6 @@
    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
    "ozet": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
    "grup": "Microsoft"
-  },
-  {
-   "id": "1bcc132f92bd",
-   "tarih": "2026-11-19",
-   "kaynak": "Help Net Security",
-   "baslik": "AI agents inherit employee access, and nobody’s watching how they use it",
-   "url": "https://www.helpnetsecurity.com/2026/11/19/ai-agents-employee-credentials-nudge-security-report/",
-   "ozet": "AI agents that employees build inside project trackers, CRMs and automation tools often run on the credentials of the person who created them and carry that person’s access to company data, according to Nudge Security. Source: Nudge Security The AI Adoption in Practice 2026 report draws on anonymize",
-   "grup": "Genel"
-  },
-  {
-   "id": "1b4d43f7260d",
-   "tarih": "2026-11-19",
-   "kaynak": "Help Net Security",
-   "baslik": "US enlists private firms to cut scammers off from victims’ cash",
-   "url": "https://www.helpnetsecurity.com/2026/11/19/us-threat-disruption-center-scam-sextortion-funds/",
-   "ozet": "Stopping victims’ money before it reaches foreign scam, cybercrime and sextortion networks is the goal of a new US unit launched by the Homeland Security Task Force (HSTF). The Threat Disruption Center is part of the HSTF’s National Coordination Center (NCC) in Fairfax, Virginia. The task force call",
-   "grup": "Genel"
   },
   {
    "id": "1717d6a2f426",
