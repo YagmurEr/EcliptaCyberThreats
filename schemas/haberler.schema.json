@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Siber Gündem haberler",
+  "type": "object",
+  "required": [
+    "guncelleme",
+    "kaynakDurumu",
+    "haberler"
+  ],
+  "properties": {
+    "guncelleme": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "kaynakDurumu": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "kaynak",
+          "durum"
+        ],
+        "properties": {
+          "kaynak": {
+            "type": "string"
+          },
+          "durum": {
+            "enum": [
+              "ok",
+              "hata"
+            ]
+          }
+        }
+      }
+    },
+    "haberler": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "tarih",
+          "kaynak",
+          "baslik",
+          "url",
+          "grup"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "tarih": {
+            "type": "string",
+            "format": "date"
+          },
+          "kaynak": {
+            "type": "string"
+          },
+          "baslik": {
+            "type": "string",
+            "minLength": 1
+          },
+          "url": {
+            "type": "string",
+            "pattern": "^https://"
+          },
+          "grup": {
+            "type": "string",
+            "minLength": 1
+          },
+          "ozet": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "additionalProperties": true
+}
