@@ -1,0 +1,98 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Siber Gündem KEV",
+  "type": "object",
+  "required": [
+    "guncelleme",
+    "toplam",
+    "gruplar",
+    "aylik",
+    "kayitlar"
+  ],
+  "properties": {
+    "guncelleme": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "toplam": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "gruplar": {
+      "type": "array"
+    },
+    "aylik": {
+      "type": "array"
+    },
+    "kayitlar": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "cveID",
+          "grup",
+          "uretici",
+          "urun",
+          "zafiyet",
+          "eklenme",
+          "sonTarih",
+          "epssYuzde",
+          "epssYuzdelik",
+          "cvss"
+        ],
+        "properties": {
+          "cveID": {
+            "type": "string",
+            "pattern": "^CVE-[0-9]{4}-[0-9]{4,}$"
+          },
+          "grup": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uretici": {
+            "type": "string"
+          },
+          "urun": {
+            "type": "string"
+          },
+          "zafiyet": {
+            "type": "string"
+          },
+          "eklenme": {
+            "type": "string",
+            "format": "date"
+          },
+          "sonTarih": {
+            "type": "string",
+            "format": "date"
+          },
+          "epssYuzde": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0,
+            "maximum": 100
+          },
+          "epssYuzdelik": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0,
+            "maximum": 100
+          },
+          "cvss": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0,
+            "maximum": 10
+          }
+        }
+      }
+    }
+  },
+  "additionalProperties": true
+}
