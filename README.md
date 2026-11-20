@@ -9,3 +9,7 @@ eclipta.tr/SiberGundem sayfasının veri kaynağıdır. Kurulum ve güncelleme r
 - `web/tehdit/index.html` — eclipta.tr/SiberGundem/ klasörüne bir kez yüklenecek sayfa
 
 Kaynak verilerin lisans ve kullanım koşulları ilgili kuruluşlara aittir (CISA, FIRST, CVE Program). Haber akışında yalnızca başlık, bağlantı ve tarih saklanır.
+
+## İlgili Eclipta projeleri
+
+KOBİ'ler için değerlendirme aracımız [SiberKOBİ'ye göz atın](https://kobi.eclipta.tr/siberkobi).
