@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-19T18:12:53+00:00",
+ "guncelleme": "2026-11-20T02:16:29+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -53,6 +53,15 @@
   }
  ],
  "haberler": [
+  {
+   "id": "c5e24a06d395",
+   "tarih": "2026-11-20",
+   "kaynak": "BleepingComputer",
+   "baslik": "VMware patches vCenter zero-day exploited in attacks since September",
+   "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+   "ozet": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+   "grup": "Genel"
+  },
   {
    "id": "fe0ec5775a62",
    "tarih": "2026-11-19",
@@ -153,12 +162,30 @@
    "grup": "PHP"
   },
   {
+   "id": "dfb731a44487",
+   "tarih": "2026-11-19",
+   "kaynak": "Dark Reading",
+   "baslik": "Navigating Vulnerability Hysteria in the AI Era",
+   "url": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
+   "ozet": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and growing warning fatigue.",
+   "grup": "Genel"
+  },
+  {
    "id": "df5a560c1b8f",
    "tarih": "2026-11-19",
    "kaynak": "BleepingComputer",
    "baslik": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
    "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
    "ozet": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "df29d71aedcb",
+   "tarih": "2026-11-19",
+   "kaynak": "BleepingComputer",
+   "baslik": "Hackers steal data of 1.6 million SBC Medical Group customers",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+   "ozet": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
    "grup": "Genel"
   },
   {
@@ -297,6 +324,15 @@
    "grup": "Genel"
   },
   {
+   "id": "bd2996802132",
+   "tarih": "2026-11-19",
+   "kaynak": "SecurityWeek",
+   "baslik": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
+   "url": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
+   "ozet": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "b7f6d70bce90",
    "tarih": "2026-11-19",
    "kaynak": "SecurityWeek",
@@ -315,6 +351,15 @@
    "grup": "Microsoft"
   },
   {
+   "id": "b16e39aca475",
+   "tarih": "2026-11-19",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "Chinese espionage group targets critical flaw in VMware vCenter",
+   "url": "https://www.cybersecuritydive.com/news/chinese-espionage-zero-day-flaw-vmware-vcenter/875273/",
+   "ozet": "The attacks stem from a zero-day Armory Castle previously exploited in BeyondTrust Remote Support, which it used as an initial access point for follow-on activity.",
+   "grup": "Genel"
+  },
+  {
    "id": "abef5657ebf4",
    "tarih": "2026-11-19",
    "kaynak": "SecurityWeek",
@@ -331,6 +376,24 @@
    "url": "https://hackread.com/f5-patches-nginx-http-2-vulnerabilities-dating-2015/",
    "ozet": "Two NGINX HTTP/2 vulnerabilities can let attackers run code without logging in. F5 has released fixes for affected versions of NGINX Open Source and NGINX Plus.",
    "grup": "F5"
+  },
+  {
+   "id": "a818db1e5065",
+   "tarih": "2026-11-19",
+   "kaynak": "Help Net Security",
+   "baslik": "NGINX2Root: F5 patches five critical NGINX vulnerabilities",
+   "url": "https://www.helpnetsecurity.com/2026/11/19/nginx2root-nginx-vulnerabilities/",
+   "ozet": "F5 has patched five critical vulnerabilities in NGINX, the world&#8217;s most widely used open-source web server, that can allow remote code execution under certain conditions. Dubbed &#8220;NGINX2Root&#8221; by Xint researchers, two of the bunch (CVE-2026-123633 and CVE-2026-123007) were also indep",
+   "grup": "F5"
+  },
+  {
+   "id": "a712b28d93da",
+   "tarih": "2026-11-19",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "Trump’s CISA director pick ducks questions about budget, staffing, priorities",
+   "url": "https://www.cybersecuritydive.com/news/cisa-nominee-michael-losapio-confirmation-hearing/875197/",
+   "ozet": "Michael LoSapio, a Palantir executive, also denied that the U.S. Capitol was attacked on Jan. 6, 2021.",
+   "grup": "Genel"
   },
   {
    "id": "9e60f0b7013b",
@@ -376,6 +439,15 @@
    "url": "https://socprime.com/blog/cve-2026-123007-critical-nginx2root-http-2-flaw-enables-remote-code-execution/",
    "ozet": "F5 has released emergency security updates addressing CVE-2026-123007, a critical memory-corruption vulnerability in NGINX that can allow an unauthenticated remote attacker to execute code on vulnerable web servers. Dubbed NGINX2Root, the flaw resides in NGINX’s HTTP/2 flow-control implementation an",
    "grup": "NGINX"
+  },
+  {
+   "id": "7cf301393d67",
+   "tarih": "2026-11-19",
+   "kaynak": "Dark Reading",
+   "baslik": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+   "url": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
+   "ozet": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
+   "grup": "PHP"
   },
   {
    "id": "7cc3b724b66a",
@@ -477,6 +549,15 @@
    "grup": "Genel"
   },
   {
+   "id": "67df130650e4",
+   "tarih": "2026-11-19",
+   "kaynak": "Hackread",
+   "baslik": "Why Most Apps Don’t Scale (and How to Fix Them)",
+   "url": "https://hackread.com/why-most-apps-do-not-scale-how-to-fix-them/",
+   "ozet": "Most of what gets called a scaling problem has nothing to do with traffic. My text scanning app&#8230;",
+   "grup": "Genel"
+  },
+  {
    "id": "67bd4903999a",
    "tarih": "2026-11-19",
    "kaynak": "GBHackers",
@@ -531,6 +612,15 @@
    "grup": "Cisco"
   },
   {
+   "id": "5e65458c080e",
+   "tarih": "2026-11-19",
+   "kaynak": "Dark Reading",
+   "baslik": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
+   "url": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+   "ozet": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
+   "grup": "Genel"
+  },
+  {
    "id": "5b228a0fb7f0",
    "tarih": "2026-11-19",
    "kaynak": "Help Net Security",
@@ -558,6 +648,15 @@
    "grup": "Genel"
   },
   {
+   "id": "53e4a59238e8",
+   "tarih": "2026-11-19",
+   "kaynak": "The Hacker News",
+   "baslik": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+   "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+   "ozet": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get peo",
+   "grup": "Genel"
+  },
+  {
    "id": "5128ef422750",
    "tarih": "2026-11-19",
    "kaynak": "SecurityWeek",
@@ -574,6 +673,15 @@
    "url": "https://www.helpnetsecurity.com/2026/11/19/microsoft-agent-framework-package-pypi-compromised/",
    "ozet": "Two releases of Microsoft’s official agent-framework package on the Python Package Index (PyPI) carried code that steals cloud and CI/CD credentials from developers’ systems. Agent Framework is Microsoft’s open-source toolkit for building AI agents and running them in workflows. Three supply chain s",
    "grup": "Microsoft"
+  },
+  {
+   "id": "507f9b79c239",
+   "tarih": "2026-11-19",
+   "kaynak": "Help Net Security",
+   "baslik": "Android developer verification will reach every install source, with a side door for power users",
+   "url": "https://www.helpnetsecurity.com/2026/11/20/android-developer-verification-power-users/",
+   "ozet": "Google will extend Android developer verification to every country starting in January 2027, a check that already applies at participating app stores in four countries. Developers who have not verified their identity with Google and registered their apps will see those apps lose the normal install e",
+   "grup": "Genel"
   },
   {
    "id": "4fc5c33492cc",
@@ -627,6 +735,15 @@
    "baslik": "‘What the hell is going on?’: Technology outages offer preview of US infrastructure’s messy, risky future",
    "url": "https://www.cybersecuritydive.com/news/technology-outages-cyberattacks-ai-house-hearing/875148/",
    "ozet": "As AI keeps finding serious software vulnerabilities, businesses will struggle to upgrade aging computer systems that weren&rsquo;t designed for the modern threat landscape.",
+   "grup": "Genel"
+  },
+  {
+   "id": "3797ecb529a5",
+   "tarih": "2026-11-19",
+   "kaynak": "BleepingComputer",
+   "baslik": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+   "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+   "ozet": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
    "grup": "Genel"
   },
   {
@@ -693,15 +810,6 @@
    "grup": "Genel"
   },
   {
-   "id": "193208e89084",
-   "tarih": "2026-11-19",
-   "kaynak": "The Hacker News",
-   "baslik": "Everything Is a Web Application, Including Your Firewall",
-   "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-   "ozet": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both flaws let anyone execut",
-   "grup": "Genel"
-  },
-  {
    "id": "1717d6a2f426",
    "tarih": "2026-11-19",
    "kaynak": "Hackread",
@@ -720,69 +828,6 @@
    "grup": "NGINX"
   },
   {
-   "id": "fb5cecfd17b1",
-   "tarih": "2026-11-18",
-   "kaynak": "Help Net Security",
-   "baslik": "Ubuntu AI security patches are here, if you’re willing to test them yourself",
-   "url": "https://www.helpnetsecurity.com/2026/11/18/ubuntu-ai-security-patches-edge-archive/",
-   "ozet": "Canonical is letting Ubuntu Pro customers install security patches written by AI agents before its engineers finish reviewing and testing them. The patches come from Surge, a system Canonical built to fix known vulnerabilities in Ubuntu&#8217;s userspace software, meaning everything outside the oper",
-   "grup": "Genel"
-  },
-  {
-   "id": "f8cab37712c5",
-   "tarih": "2026-11-18",
-   "kaynak": "GBHackers",
-   "baslik": "Hackers Abuse Linux Cron Jobs to Maintain Persistent Malware Access on Firewalls and Switches",
-   "url": "https://gbhackers.com/linux-cron-jobs-exploitation/",
-   "ozet": "A Linux botnet targeting internet-facing edge devices can reinstall itself within five minutes if responders delete the malware but leave its scheduled job intact. The campaign highlights a blind spot for operators of Linux-based firewalls and switches: reviewing the vendor configuration does not sh",
-   "grup": "Genel"
-  },
-  {
-   "id": "f4051335340f",
-   "tarih": "2026-11-18",
-   "kaynak": "GBHackers",
-   "baslik": "Atlassian Releases November 2026 Security Updates Fixing 318 Vulnerabilities Across Enterprise Products",
-   "url": "https://gbhackers.com/atlassian-releases-november-2026-security-updates/",
-   "ozet": "Atlassian published its November 2026 Security Bulletin on November 17, documenting fixes for 318 vulnerability entries across Jira Software, Jira Service Management, Confluence, Bitbucket, Bamboo, Crowd, Fisheye, and Crucible. The fixes shipped in product releases over the preceding month. Atlassia",
-   "grup": "Genel"
-  },
-  {
-   "id": "ee9a23761ba0",
-   "tarih": "2026-11-18",
-   "kaynak": "The Hacker News",
-   "baslik": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
-   "url": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
-   "ozet": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise. Google's Mandiant and Threat Intelligence Group (GTIG) said it ",
-   "grup": "Genel"
-  },
-  {
-   "id": "ede0adf4c578",
-   "tarih": "2026-11-18",
-   "kaynak": "BleepingComputer",
-   "baslik": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-   "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
-   "ozet": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "dfcd48a830ee",
-   "tarih": "2026-11-18",
-   "kaynak": "SecurityWeek",
-   "baslik": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
-   "url": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
-   "ozet": "Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization. The post Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "dec5e7aedf99",
-   "tarih": "2026-11-18",
-   "kaynak": "GBHackers",
-   "baslik": "Tails 7.17.1 Released to Fix Critical uBlock Origin Vulnerability Affecting Tor Browser Users",
-   "url": "https://gbhackers.com/tails-7-17-1-released-to-fix-critical-ublock-origin-vulnerability/",
-   "ozet": "The Tails team released version 7.17.1 as an emergency update to address a critical vulnerability in uBlock Origin, the ad-blocking extension included with the Tor Browser on Tails. This update temporarily removes the extension to close a security loophole that could let a malicious website execute ",
-   "grup": "Genel"
-  },
-  {
    "id": "ddb3ea43dd74",
    "tarih": "2026-11-18",
    "kaynak": "SecurityWeek",
@@ -790,33 +835,6 @@
    "url": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
    "ozet": "Four blue team agents and the Recon Agent are now generally available, while integrations and vulnerability shielding are in preview. The post Microsoft Takes Perception Agentic Security Platform Out of Preview appeared first on SecurityWeek.",
    "grup": "Microsoft"
-  },
-  {
-   "id": "d4ae36431dd3",
-   "tarih": "2026-11-18",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "Energy giant Equinor investigates cyberattack impacting IT systems",
-   "url": "https://www.cybersecuritydive.com/news/energy-equinor-investigates-cyberattack/875035/",
-   "ozet": "The Norway-based oil and gas giant said production capabilities were not disrupted, but it has no immediate timetable for full recovery.",
-   "grup": "Genel"
-  },
-  {
-   "id": "cebfa689962e",
-   "tarih": "2026-11-18",
-   "kaynak": "Dark Reading",
-   "baslik": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
-   "url": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
-   "ozet": "New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work.",
-   "grup": "Genel"
-  },
-  {
-   "id": "c9f8dc26d8d0",
-   "tarih": "2026-11-18",
-   "kaynak": "The Hacker News",
-   "baslik": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-   "url": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-   "ozet": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure day. AI pentesting vendors aren't interchangeable. Most look convincing in a demo.",
-   "grup": "Genel"
   },
   {
    "id": "c1286bf528ca",
