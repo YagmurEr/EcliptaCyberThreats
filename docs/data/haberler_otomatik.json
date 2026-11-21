@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-21T10:57:21+00:00",
+ "guncelleme": "2026-11-21T16:45:02+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -63,6 +63,15 @@
    "grup": "F5"
   },
   {
+   "id": "efef5bd50b96",
+   "tarih": "2026-11-21",
+   "kaynak": "BleepingComputer",
+   "baslik": "FBI reportedly hacked again, this time targeting nationwide police database",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+   "ozet": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "e308213d4198",
    "tarih": "2026-11-21",
    "kaynak": "Hackread",
@@ -108,6 +117,24 @@
    "grup": "Genel"
   },
   {
+   "id": "761885e6c02d",
+   "tarih": "2026-11-21",
+   "kaynak": "The Hacker News",
+   "baslik": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+   "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+   "ozet": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions. The b",
+   "grup": "Genel"
+  },
+  {
+   "id": "6231e48f3bee",
+   "tarih": "2026-11-21",
+   "kaynak": "SecurityWeek",
+   "baslik": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+   "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+   "ozet": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers&#8217; AI Agents Exploited Medical Software Zero-Day appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "60c08ca6e74c",
    "tarih": "2026-11-21",
    "kaynak": "GBHackers",
@@ -117,12 +144,48 @@
    "grup": "Genel"
   },
   {
+   "id": "4b6021947b3e",
+   "tarih": "2026-11-21",
+   "kaynak": "BleepingComputer",
+   "baslik": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+   "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+   "ozet": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "4265baf9dd06",
+   "tarih": "2026-11-21",
+   "kaynak": "Hackread",
+   "baslik": "Hackers Using Email Bombing Before Posing as IT Support on Microsoft Teams",
+   "url": "https://hackread.com/hackers-email-bombing-it-support-microsoft-teams/",
+   "ozet": "Fortra warns of an email bombing campaign where hackers flood work inboxes, then pose as IT support on&#8230;",
+   "grup": "Microsoft"
+  },
+  {
    "id": "23d5ed6b43ab",
    "tarih": "2026-11-21",
    "kaynak": "GBHackers",
    "baslik": "North Korean IT Workers Create Fake Construction Company and Use AI Deepfakes to Target U.S. Businesses",
    "url": "https://gbhackers.com/north-korean-fake-construction-company-ai-deepfakes/",
    "ozet": "A suspected North Korean remote worker used a fake Virginia construction company and an apparent real-time AI face swap to pursue contracts with U.S. businesses. The company, The Great House, advertised residential and commercial construction and engineering services from Lynchburg. Silent Push asse",
+   "grup": "Genel"
+  },
+  {
+   "id": "16765aea3bd9",
+   "tarih": "2026-11-21",
+   "kaynak": "The Hacker News",
+   "baslik": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+   "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+   "ozet": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account to write files outside",
+   "grup": "Genel"
+  },
+  {
+   "id": "0ad755f2681c",
+   "tarih": "2026-11-21",
+   "kaynak": "The Hacker News",
+   "baslik": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+   "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+   "ozet": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials Muse stores for the user's connected accounts. The work was a l",
    "grup": "Genel"
   },
   {
@@ -684,51 +747,6 @@
    "grup": "PHP"
   },
   {
-   "id": "f746e6688192",
-   "tarih": "2026-11-19",
-   "kaynak": "GBHackers",
-   "baslik": "Hackers Hide Malware Inside Cheap TV Boxes to Steal Home Internet Bandwidth and Generate Fake Ads",
-   "url": "https://gbhackers.com/malware-hidden-cheap-tv-boxes/",
-   "ozet": "BADBOX 3.0, an operation that turned inexpensive streaming boxes into hidden video ad players and residential proxies. At its peak, the campaign generated roughly 40 billion bid requests per day, accounting for more than 4% of connected TV (CTV) traffic observed by HUMAN’s platform. That was more th",
-   "grup": "Genel"
-  },
-  {
-   "id": "f26a40aa350a",
-   "tarih": "2026-11-19",
-   "kaynak": "Help Net Security",
-   "baslik": "Palo Alto Networks to acquire Applied Compute for $4.5 billion",
-   "url": "https://www.helpnetsecurity.com/2026/11/19/palo-alto-networks-acquires-applied-compute/",
-   "ozet": "Palo Alto Networks will acquire Applied Compute, a platform for post-training and inference of open-weight AI models. The all-stock transaction is valued at $4.5 billion, subject to adjustments. The acquisition will bring Applied Compute&#8217;s platform and world-class AI research team to Palo Alto",
-   "grup": "Genel"
-  },
-  {
-   "id": "ef3cecb6fd50",
-   "tarih": "2026-11-19",
-   "kaynak": "The Hacker News",
-   "baslik": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
-   "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-   "ozet": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine. \"We are aware of PoCs that prove some of them can be use",
-   "grup": "Genel"
-  },
-  {
-   "id": "ef1efe3fe2fb",
-   "tarih": "2026-11-19",
-   "kaynak": "Help Net Security",
-   "baslik": "GTA 6 scams are after your Google password, money, and crypto wallet",
-   "url": "https://www.helpnetsecurity.com/2026/11/19/gta-6-scams-threats/",
-   "ozet": "Scammers are using the GTA 6 launch to steal Google passwords, sell game keys that may never arrive, and get players to connect crypto wallets. Stefan Dasic, a senior malware research engineer at Malwarebytes, tracked the lures. They range from fake giveaways to a phone app that mostly serves ads. T",
-   "grup": "Genel"
-  },
-  {
-   "id": "e8217d7fb170",
-   "tarih": "2026-11-19",
-   "kaynak": "Hackread",
-   "baslik": "Comparing Crypto Payment Processors for International Merchants",
-   "url": "https://hackread.com/crypto-payment-processors-international-merchants/",
-   "ozet": "Compare crypto payment processors for international merchants, including fees, settlement currencies, exchange rates, security and integration with online stores.",
-   "grup": "Genel"
-  },
-  {
    "id": "e45c5124b0ac",
    "tarih": "2026-11-19",
    "kaynak": "SecurityWeek",
@@ -745,15 +763,6 @@
    "url": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/",
    "ozet": "Affecting the session upload progress, CVE-2026-115560 was publicly disclosed two days after PHP2Shell patches landed. The post PHP Readies Critical Security Updates to Patch Another RCE Flaw appeared first on SecurityWeek.",
    "grup": "PHP"
-  },
-  {
-   "id": "dfb731a44487",
-   "tarih": "2026-11-19",
-   "kaynak": "Dark Reading",
-   "baslik": "Navigating Vulnerability Hysteria in the AI Era",
-   "url": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
-   "ozet": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and growing warning fatigue.",
-   "grup": "Genel"
   },
   {
    "id": "d7156b706b0a",
