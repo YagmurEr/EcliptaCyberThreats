@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-20T17:45:12+00:00",
+ "guncelleme": "2026-11-21T02:10:11+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -153,6 +153,15 @@
    "grup": "Genel"
   },
   {
+   "id": "d20cb913632d",
+   "tarih": "2026-11-20",
+   "kaynak": "Schneier on Security",
+   "baslik": "Friday Squid Blogging: The Largest Squid Ever Filmed",
+   "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
+   "ozet": "This is the story of the largest squid ever filmed, in December 2006 near Japan&#8217;s Ogasawara Islands. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
+   "grup": "Genel"
+  },
+  {
    "id": "c9ddefa65f50",
    "tarih": "2026-11-20",
    "kaynak": "The Hacker News",
@@ -207,6 +216,15 @@
    "grup": "Genel"
   },
   {
+   "id": "b8c678e393d4",
+   "tarih": "2026-11-20",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "FCC to propose regulations for Cyber Trust Mark IoT labeling program",
+   "url": "https://www.cybersecuritydive.com/news/fcc-cyber-trust-mark-internet-of-things-regulation-proposal/875328/",
+   "ozet": "The commission hopes the program will encourage device manufacturers to prioritize cybersecurity.",
+   "grup": "Genel"
+  },
+  {
    "id": "b81d8b853f32",
    "tarih": "2026-11-20",
    "kaynak": "SOC Prime",
@@ -252,6 +270,15 @@
    "grup": "Genel"
   },
   {
+   "id": "a9aa37ceddf1",
+   "tarih": "2026-11-20",
+   "kaynak": "Dark Reading",
+   "baslik": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+   "ozet": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
+   "grup": "Genel"
+  },
+  {
    "id": "9dbbebdeb6a3",
    "tarih": "2026-11-20",
    "kaynak": "The Hacker News",
@@ -279,12 +306,30 @@
    "grup": "Genel"
   },
   {
+   "id": "95e1986b820d",
+   "tarih": "2026-11-20",
+   "kaynak": "Dark Reading",
+   "baslik": "In Security, Words Matter as Much as Tools, Maybe More",
+   "url": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+   "ozet": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
+   "grup": "Genel"
+  },
+  {
    "id": "9410623fdc68",
    "tarih": "2026-11-20",
    "kaynak": "GBHackers",
    "baslik": "12 Zero Trust Security Platforms: The 2026 Buyer’s Verdict Guide",
    "url": "https://gbhackers.com/zero-trust-platforms-buyers-guide/",
    "ozet": "Zero trust is an architecture, not a product you can buy off the shelf “never trust, always verify, assume breach” so vendors arrive at it from different pillars: identity, network, device or data. No one platform ships the full architecture; you build it from a lead pillar plus a set of integration",
+   "grup": "Genel"
+  },
+  {
+   "id": "931f9a9053df",
+   "tarih": "2026-11-20",
+   "kaynak": "Hackread",
+   "baslik": "4 Best XRP Lending Platforms Compared by Security, LTV, and Speed",
+   "url": "https://hackread.com/xrp-lending-platforms-compared-security-ltv-speed/",
+   "ozet": "Compare four XRP lending platforms by security, LTV, interest rates, funding speed and collateral risks, including CoinRabbit, Arch, Nexo and Coinbase.",
    "grup": "Genel"
   },
   {
@@ -303,6 +348,24 @@
    "baslik": "Your AI red team may be finding the same prompt injection thousands of times",
    "url": "https://www.helpnetsecurity.com/2026/11/20/ai-prompt-injection-red-team/",
    "ozet": "AI agents retrained on a bigger pile of prompt injection attacks came out easier to hijack in three of four tests run by researchers at the University of Waterloo, Zhejiang University and KTH Royal Institute of Technology. The automated red-teaming tool that found more working attacks produced the w",
+   "grup": "Genel"
+  },
+  {
+   "id": "6cc616c5c6e7",
+   "tarih": "2026-11-20",
+   "kaynak": "The Hacker News",
+   "baslik": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+   "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+   "ozet": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs",
+   "grup": "Genel"
+  },
+  {
+   "id": "6c623452a14a",
+   "tarih": "2026-11-20",
+   "kaynak": "BleepingComputer",
+   "baslik": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+   "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+   "ozet": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
    "grup": "Genel"
   },
   {
@@ -375,6 +438,15 @@
    "baslik": "SBC Medical Group Data Breach Impacts Over 2 Million",
    "url": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
    "ozet": "Threat actors accessed databases containing customer information associated with clinics in Japan. The post SBC Medical Group Data Breach Impacts Over 2 Million appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "35aed7f27fbb",
+   "tarih": "2026-11-20",
+   "kaynak": "Dark Reading",
+   "baslik": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+   "url": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+   "ozet": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.",
    "grup": "Genel"
   },
   {
@@ -666,15 +738,6 @@
    "grup": "Genel"
   },
   {
-   "id": "d4531eaedc4f",
-   "tarih": "2026-11-19",
-   "kaynak": "Help Net Security",
-   "baslik": "Ukraine arrests key members of ransomware gang that extorted $40.5 million posing as IT support",
-   "url": "https://www.helpnetsecurity.com/2026/11/19/ukraine-ransomware-gang-arrests-fake-it-support-calls/",
-   "ozet": "Four key members of a ransomware group that took more than $40.5 million from at least 28 companies have been detained in Ukraine. The group’s members posed as IT support staff on phone calls to break into corporate networks, according to Ukraine’s National Police. The arrests followed an investigat",
-   "grup": "Genel"
-  },
-  {
    "id": "d1202d3392a4",
    "tarih": "2026-11-19",
    "kaynak": "The Hacker News",
@@ -682,42 +745,6 @@
    "url": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
    "ozet": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC. \"These releases are part of PHP's regular four-week release cycle and wi",
    "grup": "PHP"
-  },
-  {
-   "id": "d02f8572d5f1",
-   "tarih": "2026-11-19",
-   "kaynak": "SecurityWeek",
-   "baslik": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
-   "url": "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
-   "ozet": "Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller. The post Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "ce554e89b404",
-   "tarih": "2026-11-19",
-   "kaynak": "SecurityWeek",
-   "baslik": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories",
-   "url": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
-   "ozet": "GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact. The post Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "c9361390966b",
-   "tarih": "2026-11-19",
-   "kaynak": "GBHackers",
-   "baslik": "11 Security Awareness Training Platforms: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/security-awareness-training-buyers-guide/",
-   "ozet": "People remain the starting point for most breaches, and training is the only control that fixes that yet annual-video compliance theater accomplishes nothing. The platforms worth buying track behavior rather than completions: realistic simulations, per-person risk scoring, and content people don’t d",
-   "grup": "Genel"
-  },
-  {
-   "id": "c808af3473f2",
-   "tarih": "2026-11-19",
-   "kaynak": "Help Net Security",
-   "baslik": "Quantum position verification could lock remote hackers out, NIST shows",
-   "url": "https://www.helpnetsecurity.com/2026/11/19/nist-quantum-position-verification/",
-   "ozet": "Physicists at the National Institute of Standards and Technology have used entangled photons to confirm that a party was physically where it claimed to be. NIST physicist Krister Shalm and an international team ran a quantum position verification protocol inside a research building in Boulder, Color",
-   "grup": "Genel"
   },
   {
    "id": "c5e7bc1c4238",
@@ -729,15 +756,6 @@
    "grup": "PHP"
   },
   {
-   "id": "bef0b390eb37",
-   "tarih": "2026-11-19",
-   "kaynak": "Help Net Security",
-   "baslik": "BackBox Linux 10 brings new hacking tools and Ubuntu 26.04 support",
-   "url": "https://www.helpnetsecurity.com/2026/11/19/backbox-linux-10-penetration-testing/",
-   "ozet": "BackBox Linux is a free, open source penetration testing distribution made by BackBox, a non-profit community project that keeps its own repositories of ethical hacking tools. On November 19 the project released version 10, codenamed Resolute Raccoon. It’s built for compatibility with Ubuntu 26.04 L",
-   "grup": "Genel"
-  },
-  {
    "id": "be4e4f6ef6a7",
    "tarih": "2026-11-19",
    "kaynak": "Help Net Security",
@@ -745,24 +763,6 @@
    "url": "https://www.helpnetsecurity.com/2026/11/19/rubrik-configuration-resilience-for-microsoft-365/",
    "ozet": "Rubrik announced Configuration Resilience for Microsoft 365, a new offering that protects the key settings governing Microsoft applications such as Microsoft 365, Purview and Defender, and rolls back changes to them with a single action. By continuously safeguarding Microsoft 365 configurations, Rub",
    "grup": "Microsoft"
-  },
-  {
-   "id": "bd53d182e5b7",
-   "tarih": "2026-11-19",
-   "kaynak": "Help Net Security",
-   "baslik": "Exploited Puppet flaw puts the server that configures your endpoint fleet at risk (CVE-2026-115731)",
-   "url": "https://www.helpnetsecurity.com/2026/11/19/puppet-enterprise-vulnerability-cve-2026-115731-exploited/",
-   "ozet": "Attackers are exploiting CVE-2026-115731, a critical remote code execution vulnerability in Perforce Puppet Enterprise, an enterprise solution used by IT teams to centralize and automatize endpoint management. Details about the in-the-wild attacks have yet to be made public, but the US Cybersecurity",
-   "grup": "Genel"
-  },
-  {
-   "id": "bd2996802132",
-   "tarih": "2026-11-19",
-   "kaynak": "SecurityWeek",
-   "baslik": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
-   "url": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
-   "ozet": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "b63d4ac47a1b",
@@ -813,7 +813,7 @@
    "id": "7cf301393d67",
    "tarih": "2026-11-19",
    "kaynak": "Dark Reading",
-   "baslik": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+   "baslik": "Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style",
    "url": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
    "ozet": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
    "grup": "PHP"
