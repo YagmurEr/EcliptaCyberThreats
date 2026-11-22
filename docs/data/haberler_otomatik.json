@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-22T11:17:37+00:00",
+ "guncelleme": "2026-11-22T17:06:09+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -72,12 +72,30 @@
    "grup": "Genel"
   },
   {
+   "id": "855a50efe0f3",
+   "tarih": "2026-11-22",
+   "kaynak": "BleepingComputer",
+   "baslik": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+   "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+   "ozet": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "78074d39dfa2",
    "tarih": "2026-11-22",
    "kaynak": "The Hacker News",
    "baslik": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
    "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
    "ozet": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt",
+   "grup": "Genel"
+  },
+  {
+   "id": "2361e0929a29",
+   "tarih": "2026-11-22",
+   "kaynak": "BleepingComputer",
+   "baslik": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+   "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+   "ozet": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
    "grup": "Genel"
   },
   {
@@ -699,24 +717,6 @@
    "baslik": "265,000 Oyster photocard customers’ data exposed in Transport for London breach",
    "url": "https://www.helpnetsecurity.com/2026/11/20/transport-for-london-oyster-photocard-data-breach/",
    "ozet": "Account details belonging to some 265,000 Oyster photocard holders may have been compromised in a breach of the photocard website, Transport for London (TfL) has warned. They include children with Zip cards and Londoners with the 60+ London Oyster photocard. TfL says it spotted suspicious activity o",
-   "grup": "Genel"
-  },
-  {
-   "id": "1ff15c65eeb0",
-   "tarih": "2026-11-20",
-   "kaynak": "SOC Prime",
-   "baslik": "CVE-2026-132825: Ruby2Shell Heap Overflow Can Lead to Remote Code Execution",
-   "url": "https://socprime.com/blog/cve-2026-132825-ruby2shell-heap-overflow-can-lead-to-remote-code-execution/",
-   "ozet": "Ruby maintainers have released security updates addressing CVE-2026-132825, a memory-corruption vulnerability dubbed Ruby2Shell that affects string case conversion in the Ruby interpreter. The issue is a one-byte heap-based buffer overflow that can be triggered when Ruby changes the case of speciall",
-   "grup": "Genel"
-  },
-  {
-   "id": "19cca4f1450a",
-   "tarih": "2026-11-20",
-   "kaynak": "BleepingComputer",
-   "baslik": "Still tracking company passwords in spreadsheets? You’re flying blind.",
-   "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
-   "ozet": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure",
    "grup": "Genel"
   },
   {
