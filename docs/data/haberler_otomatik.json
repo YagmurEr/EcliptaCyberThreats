@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-21T16:45:02+00:00",
+ "guncelleme": "2026-11-22T01:13:25+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -54,6 +54,15 @@
  ],
  "haberler": [
   {
+   "id": "aeb7ef21f8ed",
+   "tarih": "2026-11-22",
+   "kaynak": "SecurityWeek",
+   "baslik": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+   "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+   "ozet": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "f289d191c361",
    "tarih": "2026-11-21",
    "kaynak": "GBHackers",
@@ -96,6 +105,15 @@
    "baslik": "Critical Apache Tomcat Security Flaw Enables Unauthorized Nodes to Join Protected Server Clusters",
    "url": "https://gbhackers.com/critical-apache-tomcat-security-flaw/",
    "ozet": "The Apache Software Foundation disclosed a critical peer authentication bypass in Apache Tomcat that allows an unauthenticated node to join a cluster secured with TLS 1.3 and a pre-shared key (PSK). Tracked as CVE-2026-133325, the defect affects Tomcat 11.0.28 through 11.0.29, 10.1.62, and 9.0.124. ",
+   "grup": "Genel"
+  },
+  {
+   "id": "9f2af01a2aa9",
+   "tarih": "2026-11-21",
+   "kaynak": "BleepingComputer",
+   "baslik": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+   "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+   "ozet": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
    "grup": "Genel"
   },
   {
@@ -169,6 +187,15 @@
    "url": "https://gbhackers.com/north-korean-fake-construction-company-ai-deepfakes/",
    "ozet": "A suspected North Korean remote worker used a fake Virginia construction company and an apparent real-time AI face swap to pursue contracts with U.S. businesses. The company, The Great House, advertised residential and commercial construction and engineering services from Lynchburg. Silent Push asse",
    "grup": "Genel"
+  },
+  {
+   "id": "1e1dbef95d66",
+   "tarih": "2026-11-21",
+   "kaynak": "BleepingComputer",
+   "baslik": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+   "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+   "ozet": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+   "grup": "Microsoft"
   },
   {
    "id": "16765aea3bd9",
@@ -718,24 +745,6 @@
    "url": "https://gbhackers.com/oauth-tokens-theft/",
    "ozet": "Attackers are using genuine Microsoft sign-in pages to hijack Microsoft 365 accounts without collecting passwords on counterfeit login forms. Once a victim approves the request, Microsoft issues OAuth tokens to the attacker-controlled client, granting access within the permissions authorized. One em",
    "grup": "Microsoft"
-  },
-  {
-   "id": "fe0b2042982b",
-   "tarih": "2026-11-19",
-   "kaynak": "GBHackers",
-   "baslik": "Criminal IP Launches AITEM to Connect Asset Discovery with AI-Powered Exposure Management",
-   "url": "https://gbhackers.com/criminal-ip-launches-aitem-to-connect-asset-discovery-with-ai-powered-exposure-management/",
-   "ozet": "Torrance, California, USA, November 19th, 2026, CyberNewswire Criminal IP, a cyber threat intelligence platform developed by AI SPERA, officially launched Criminal IP AITEM (AI-Powered Threat Exposure Management) on November 18, 2026. An evolution of Criminal IP ASM, AITEM combines internet-facing a",
-   "grup": "Genel"
-  },
-  {
-   "id": "fa104991146c",
-   "tarih": "2026-11-19",
-   "kaynak": "Hackread",
-   "baslik": "29 Fake Bank Sites Caught Using the Same Contact Details to Steal Logins",
-   "url": "https://hackread.com/29-fake-bank-sites-using-contact-details-steal-logins/",
-   "ozet": "Researchers spot fake banks using identical routing numbers, support contacts and business listings to make fraudulent banking websites appear legitimate.",
-   "grup": "Genel"
   },
   {
    "id": "f92f66411a81",
@@ -3075,15 +3084,6 @@
    "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
    "ozet": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper authentication vulne",
    "grup": "Microsoft"
-  },
-  {
-   "id": "9f1a89778920",
-   "tarih": "2026-10-07",
-   "kaynak": "The Hacker News",
-   "baslik": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
-   "url": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
-   "ozet": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN) gateways. \"The camp",
-   "grup": "Fortinet"
   }
  ]
 }
