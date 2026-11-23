@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-23T01:38:30+00:00",
+ "guncelleme": "2026-11-23T12:30:30+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -54,12 +54,309 @@
  ],
  "haberler": [
   {
+   "id": "f8665cc5b1ef",
+   "tarih": "2026-11-23",
+   "kaynak": "BleepingComputer",
+   "baslik": "Call center operator gets 8 years for helping scam 30,000 Americans",
+   "url": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
+   "ozet": "A Peruvian call center operator was sentenced to eight years in prison for stealing millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "f62ca0879191",
+   "tarih": "2026-11-23",
+   "kaynak": "Help Net Security",
+   "baslik": "Xalgorix: Open-source AI penetration testing tool",
+   "url": "https://www.helpnetsecurity.com/2026/11/23/xalgorix-ai-penetration-testing-tool/",
+   "ozet": "Xalgorix, an open-source AI penetration testing tool, checks its work before it reports anything. When its main agent finds a bug, a second agent has to exploit that bug again. If the second agent can’t prove the bug is real or rule it out, Xalgorix keeps the finding and flags it for a person to rev",
+   "grup": "Genel"
+  },
+  {
+   "id": "f38047c31632",
+   "tarih": "2026-11-23",
+   "kaynak": "Help Net Security",
+   "baslik": "Yes, but securely: A cancer institute’s answer to shadow IT in research",
+   "url": "https://www.helpnetsecurity.com/2026/11/23/rocco-saviano-istituto-nazionale-tumori-int-hospital-microsegmentation/",
+   "ozet": "In this interview with Help Net Security, Rocco Saviano, Director of Digital Transformation, Istituto Nazionale Tumori (INT), talks about keeping a cancer hospital running while protecting it from cyberattacks. He explains what happens when a nurse can’t open a chemotherapy plan, how INT works with ",
+   "grup": "Genel"
+  },
+  {
+   "id": "e5628202eea6",
+   "tarih": "2026-11-23",
+   "kaynak": "Help Net Security",
+   "baslik": "Infected TV boxes in BADBOX 3.0 rent out their owners’ home internet",
+   "url": "https://www.helpnetsecurity.com/2026/11/23/badbox-3-0-ad-fraud-operation/",
+   "ozet": "HUMAN&#8217;s Satori Threat Intelligence and Research Team has disrupted BADBOX 3.0, an operation run mainly from infected low-cost TV boxes that generated roughly 40 billion ad bid requests a day at its peak. That was more than 4% of all connected TV (CTV) traffic HUMAN observed and more than three",
+   "grup": "Genel"
+  },
+  {
+   "id": "d77f865b12d3",
+   "tarih": "2026-11-23",
+   "kaynak": "Help Net Security",
+   "baslik": "Cisco Expressway vulnerability exploited to breach internal networks (CVE-2026-76466)",
+   "url": "https://www.helpnetsecurity.com/2026/11/23/cisco-expressway-vulnerability-exploited-cve-2026-76466/",
+   "ozet": "Attackers have been spotted exploiting a critical vulnerability (CVE-2026-76466) in Cisco Expressway gateways to breach organizations, Russian security company F6 revealed late last week. The US Cybersecurity and Infrastructure Security Agency added the flaw to its Known Exploited Vulnerabilities ca",
+   "grup": "Cisco"
+  },
+  {
+   "id": "d0dd2916cf58",
+   "tarih": "2026-11-23",
+   "kaynak": "BleepingComputer",
+   "baslik": "Microsoft confirms Windows printing issues affecting Forcepoint users",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
+   "ozet": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "cb9de11e8def",
+   "tarih": "2026-11-23",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Exploit Cisco Expressway CVE-2026-76466 After Public PoC Release to Gain Root Privileges",
+   "url": "https://gbhackers.com/hackers-exploit-cisco-expressway-cve-2026-76466/",
+   "ozet": "Threat actors have begun exploiting a critical Cisco Expressway flaw, CVE-2026-76466, shortly after a public proof-of-concept (PoC) exploit appeared. The attackers gained root-level remote command execution on internet-facing devices. F6&#8217;s Cyber Defense Center investigated the first observed c",
+   "grup": "Cisco"
+  },
+  {
+   "id": "c412b57f8a94",
+   "tarih": "2026-11-23",
+   "kaynak": "SecurityWeek",
+   "baslik": "BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted",
+   "url": "https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/",
+   "ozet": "Backdoors on low-cost consumer devices served modules for ad fraud and for turning devices into residential proxies. The post BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "c1ce3a85d2b0",
+   "tarih": "2026-11-23",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "Stop asking whether AI can run an entire attack",
+   "url": "https://www.cybersecuritydive.com/spons/stop-asking-whether-ai-can-run-an-entire-attack/875150/",
+   "ozet": "The question for security leaders is where AI gives adversaries enough leverage to change the cost, speed, or scale of an intrusion.",
+   "grup": "Genel"
+  },
+  {
+   "id": "bc11c30f893a",
+   "tarih": "2026-11-23",
+   "kaynak": "SecurityWeek",
+   "baslik": "SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks",
+   "url": "https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/",
+   "ozet": "Threat actors could exploit them to leak or modify server information and to execute commands as root. The post SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks appeared first on SecurityWeek.",
+   "grup": "Cisco"
+  },
+  {
+   "id": "ba19b7d316ae",
+   "tarih": "2026-11-23",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Actively Exploit Critical ASP.NET Vulnerability to Execute Remote Code and Compromise Web Servers",
+   "url": "https://gbhackers.com/hackers-actively-exploit-critical-asp-net-vulnerability/",
+   "ozet": "A serious vulnerability in a long-abandoned ASP.NET security library is currently being exploited. This flaw allows unauthorized attackers to take control of IIS web servers with a single HTTP request. The issue is tracked as CVE-2026-131914 (MNDT-2026-0048) and involves an insecure deserialization ",
+   "grup": "Genel"
+  },
+  {
+   "id": "b5dfe10bacf0",
+   "tarih": "2026-11-23",
+   "kaynak": "GBHackers",
+   "baslik": "Samsung Securities Hit by Cyberattack, Exposing Personal Data of Over 8,000 Customers",
+   "url": "https://gbhackers.com/samsung-securities-hit-by-cyberattack/",
+   "ozet": "Samsung Securities disclosed on Nov. 23 that a cyberattack exposed personal information belonging to 8,241 customers. The South Korean brokerage detected unauthorized access on Saturday, Nov. 21, in the Voice of Customer (VOC) system, a section of its website where customers submit inquiries and fee",
+   "grup": "Genel"
+  },
+  {
+   "id": "ade3122cc9bd",
+   "tarih": "2026-11-23",
+   "kaynak": "Help Net Security",
+   "baslik": "Open-source AI pentesting framework Cairn keeps turning up in real-world attacks",
+   "url": "https://www.helpnetsecurity.com/2026/11/23/cairn-ai-agents-autonomous-attacks/",
+   "ozet": "Autonomous AI agents run by a Chinese-nexus threat actor spent nearly a full day failing to break into university servers, then found and exploited a zero-day in an open-source medical imaging AI application and gained a foothold. The agents ran on Cairn, an open-source AI penetration testing framew",
+   "grup": "Genel"
+  },
+  {
+   "id": "a10e1a26ae7d",
+   "tarih": "2026-11-23",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Exploit GL.iNet Cloud Security Flaw to Infect Routers and KVM Devices With Malware",
+   "url": "https://gbhackers.com/hackers-exploit-gl-inet-cloud-security-flaw/",
+   "ozet": "GL.iNet reported that an unauthorized party exploited a vulnerability in its cloud remote management services, allowing them to install malware on certain routers and keyboard, video, and mouse (KVM) devices. The company discovered the flaw on November 20, 2026. In an update on November 23, GL.iNet ",
+   "grup": "Genel"
+  },
+  {
    "id": "9b531e94180b",
    "tarih": "2026-11-23",
    "kaynak": "Help Net Security",
    "baslik": "Google’s semantic governance policies can block an AI agent’s tool call before it runs",
    "url": "https://www.helpnetsecurity.com/2026/11/23/google-semantic-governance-policies/",
    "ozet": "Google lets enterprises put a checkpoint in front of an AI agent&#8216;s actions. Semantic governance policies, in Preview on the Gemini platform, look at each tool call the agent&#8217;s model proposes and block it before it runs if the call doesn&#8217;t match the user&#8217;s request or breaks a ",
+   "grup": "Genel"
+  },
+  {
+   "id": "80927b607c9d",
+   "tarih": "2026-11-23",
+   "kaynak": "The Hacker News",
+   "baslik": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+   "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+   "ozet": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country. This unsanctioned activity has resulted in unauthorized financial t",
+   "grup": "Genel"
+  },
+  {
+   "id": "7bd1425b489b",
+   "tarih": "2026-11-23",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "AI and post-quantum security: Why the future of cyber resilience depends on both",
+   "url": "https://www.cybersecuritydive.com/spons/ai-and-post-quantum-security-why-the-future-of-cyber-resilience-depends-on/874716/",
+   "ozet": "AI and PQC are competing for enterprise budgets. Discover why they belong on the same roadmap, and how they are essential to future-proofing enterprise security.",
+   "grup": "Genel"
+  },
+  {
+   "id": "791422e9c323",
+   "tarih": "2026-11-23",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
+   "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+   "ozet": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today. The company identified and fixed the flaw on Friday and ",
+   "grup": "Genel"
+  },
+  {
+   "id": "710e26685963",
+   "tarih": "2026-11-23",
+   "kaynak": "SecurityWeek",
+   "baslik": "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal",
+   "url": "https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/",
+   "ozet": "CrowdStrike expects the combined company to have more than $10 billion in annual recurring revenue. The post CrowdStrike to Acquire Zscaler in $43.9 Billion Deal appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "708dbfd388db",
+   "tarih": "2026-11-23",
+   "kaynak": "Help Net Security",
+   "baslik": "COBIT 7 adds AI risk scenarios to ISACA’s governance framework",
+   "url": "https://www.helpnetsecurity.com/2026/11/23/isaca-cobit-7-released/",
+   "ozet": "To help organizations strengthen how they govern information and technology, ISACA has released COBIT 7, the latest version of its globally recognized framework for information and technology (I&#038;T) governance. COBIT 7 brings together trusted guidance, an intuitive digital platform, customizable",
+   "grup": "Genel"
+  },
+  {
+   "id": "6f9719bdbf88",
+   "tarih": "2026-11-23",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Use Malicious Ads to Exploit iPhones and Steal Passwords, Messages, and Crypto Wallets",
+   "url": "https://gbhackers.com/hackers-use-malicious-ads-to-exploit-iphones-and-steal-passwords/",
+   "ozet": "A malvertising operation dubbed MoldyRoost is buying online ads to compromise vulnerable iPhones and steal saved passwords, private messages, and cryptocurrency wallet recovery phrases. According to Confiant’s MoldyRoost investigation, loading the landing page after tapping an ad can trigger the att",
+   "grup": "Genel"
+  },
+  {
+   "id": "6f784865c53c",
+   "tarih": "2026-11-23",
+   "kaynak": "Help Net Security",
+   "baslik": "Signal blocks AI assistants from peeking at your private messages",
+   "url": "https://www.helpnetsecurity.com/2026/11/23/signal-blocks-ai-assistants-screenshots/",
+   "ozet": "Signal, the encrypted messaging app, is restricting AI assistants built into mobile operating systems from capturing the content of users&#8217; conversations. The protections target Siri AI on iOS 27 and AI assistants on supported Android devices, including Google&#8217;s Gemini. These assistants c",
+   "grup": "Genel"
+  },
+  {
+   "id": "6971a11ad2bd",
+   "tarih": "2026-11-23",
+   "kaynak": "Help Net Security",
+   "baslik": "Black Friday scams started earlier this year without the usual red flags",
+   "url": "https://www.helpnetsecurity.com/2026/11/23/black-friday-scams-doppel-report/",
+   "ozet": "This year’s fake Black Friday deals started appearing on September 1, more than a month earlier than last year, and most of them don’t mention the holiday or use a lookalike address, according to Doppel. The company describes the lure most shoppers are likely to meet this season as “a post in a Face",
+   "grup": "Genel"
+  },
+  {
+   "id": "6855f59cc29b",
+   "tarih": "2026-11-23",
+   "kaynak": "GBHackers",
+   "baslik": "Fake Claude AI Downloads Could Let Hackers Steal Your Passwords and Crypto Wallets",
+   "url": "https://gbhackers.com/fake-claude-ai-downloads/",
+   "ozet": "A fake &#8220;Claude Opus 5 Free Desktop&#8221; app is spreading RevStealer, a Windows infostealer built to take credentials, browser sessions, and cryptocurrency wallet data. Morphisec Threat Labs published its analysis on August 31, and the lure exploits demand for free access to AI tools. There i",
+   "grup": "Genel"
+  },
+  {
+   "id": "5d81d8091009",
+   "tarih": "2026-11-23",
+   "kaynak": "BleepingComputer",
+   "baslik": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+   "ozet": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+   "grup": "Cisco"
+  },
+  {
+   "id": "4644dfa7456a",
+   "tarih": "2026-11-23",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Hide 13 ClickFix Injections and 7 Malicious Loaders on Compromised WordPress Site",
+   "url": "https://gbhackers.com/13-clickfix-injections/",
+   "ozet": "Threat researchers discovered 13 ClickFix injections from three distinct kits and 7 additional malicious loaders on a single compromised WordPress website, revealing overlapping deployments that deliberately and accidentally disrupted one another. Five confirmed ClickFix injections retrieved their n",
+   "grup": "WordPress"
+  },
+  {
+   "id": "3fa80d099254",
+   "tarih": "2026-11-23",
+   "kaynak": "GBHackers",
+   "baslik": "CISA Warns Hackers Are Actively Exploiting Cisco, VMware, SAP, and Apache Vulnerabilities",
+   "url": "https://gbhackers.com/cisa-warns-hackers-are-actively-exploiting/",
+   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added four vulnerabilities affecting Cisco Expressway, VMware vCenter, SAP NetWeaver, and Apache Roller to its Known Exploited Vulnerabilities (KEV) Catalog on November 20, 2026. The agency cited evidence of active exploitation for all",
+   "grup": "Cisco"
+  },
+  {
+   "id": "31afdc96e80b",
+   "tarih": "2026-11-23",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+   "ozet": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914, carries a CVSS scor",
+   "grup": "Genel"
+  },
+  {
+   "id": "3079d3f88389",
+   "tarih": "2026-11-23",
+   "kaynak": "GBHackers",
+   "baslik": "Critical Palo Alto Networks PAN-OS Flaws Allow Unauthenticated Attackers to Execute Code Remotely",
+   "url": "https://gbhackers.com/critical-palo-alto-networks-pan-os-flaws/",
+   "ozet": "Palo Alto Networks has disclosed two critical NGINX vulnerabilities that could let unauthenticated attackers remotely execute arbitrary code or crash worker processes on affected PAN-OS and Panorama deployments. The flaws, tracked as CVE-2026-123633 and CVE-2026-123007, affect specific releases in t",
+   "grup": "Genel"
+  },
+  {
+   "id": "2a48f9c8ed41",
+   "tarih": "2026-11-23",
+   "kaynak": "Schneier on Security",
+   "baslik": "Humans Have Rights. Machines Do Not.",
+   "url": "https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html",
+   "ozet": "This essay originally appeared in Tech Policy Press. Last year, Character.AI asked a federal court in Florida to dismiss a wrongful-death suit, brought by the mother of a fourteen-year-old boy who had killed himself after months of conversation with its chatbot. The company made two arguments. One, ",
+   "grup": "Genel"
+  },
+  {
+   "id": "1e1c6072e5e3",
+   "tarih": "2026-11-23",
+   "kaynak": "Help Net Security",
+   "baslik": "Attackers exploited Microsoft Entra Connect Health flaw to access tenant data",
+   "url": "https://www.helpnetsecurity.com/2026/11/23/microsoft-entra-connect-health-vulnerability-tenant-data/",
+   "ozet": "Attackers exploited a vulnerability in the Microsoft Entra Connect Health API to read the technical contact email addresses and configuration details of Entra tenants, the company warned affected organizations. Microsoft Entra Connect Health is a cloud-based monitoring service that gives administrat",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "17e792aba6bb",
+   "tarih": "2026-11-23",
+   "kaynak": "SecurityWeek",
+   "baslik": "AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos",
+   "url": "https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/",
+   "ozet": "Dragos uncovered undetected intrusions at three AI inference providers using nearly two million prompts sent to AI services. The post AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "15d217fd1a9b",
+   "tarih": "2026-11-23",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Could Control Linux Cloud Servers Using Vmcloudoor Backdoor Disguised as Trusted Agents",
+   "url": "https://gbhackers.com/vmcloudoor-backdoor/",
+   "ozet": "A newly discovered Linux implant, Vmcloudoor, infects virtual machines on Chinese cloud platforms, mainly Alibaba Cloud, and also targets Tencent and Huawei. Researchers have only the helper module, which still shows the main capabilities. A second module, &#8220;Core&#8221;, is meant to execute com",
+   "grup": "Genel"
+  },
+  {
+   "id": "0038e7269e47",
+   "tarih": "2026-11-23",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "Rethinking enterprise security in the age of AI and quantum",
+   "url": "https://www.cybersecuritydive.com/spons/rethinking-enterprise-security-in-the-age-of-ai-and-quantum/874843/",
+   "ozet": "Explore the five critical shifts explaining why organizations must act now to establish AI accountability and prepare for post-quantum security.",
    "grup": "Genel"
   },
   {
@@ -195,6 +492,15 @@
    "baslik": "Critical Apache Tomcat Security Flaw Enables Unauthorized Nodes to Join Protected Server Clusters",
    "url": "https://gbhackers.com/critical-apache-tomcat-security-flaw/",
    "ozet": "The Apache Software Foundation disclosed a critical peer authentication bypass in Apache Tomcat that allows an unauthenticated node to join a cluster secured with TLS 1.3 and a pre-shared key (PSK). Tracked as CVE-2026-133325, the defect affects Tomcat 11.0.28 through 11.0.29, 10.1.62, and 9.0.124. ",
+   "grup": "Genel"
+  },
+  {
+   "id": "a03f51601e71",
+   "tarih": "2026-11-21",
+   "kaynak": "Dark Reading",
+   "baslik": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
+   "url": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
+   "ozet": "Identity, runtime and development controls are converging as enterprises are tasked with keeping agents within their assigned tasks. But vendors' approaches vary, so CISOs face a choice.",
    "grup": "Genel"
   },
   {
@@ -432,15 +738,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "d20cb913632d",
-   "tarih": "2026-11-20",
-   "kaynak": "Schneier on Security",
-   "baslik": "Friday Squid Blogging: The Largest Squid Ever Filmed",
-   "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
-   "ozet": "This is the story of the largest squid ever filmed, in December 2006 near Japan&#8217;s Ogasawara Islands. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-   "grup": "Genel"
-  },
-  {
    "id": "c9ddefa65f50",
    "tarih": "2026-11-20",
    "kaynak": "The Hacker News",
@@ -448,69 +745,6 @@
    "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
    "ozet": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activity involves the exploitation of CVE-2026-76466 (CVSS score: 9.8), a vulnerabili",
    "grup": "Cisco"
-  },
-  {
-   "id": "c8b12dd5a990",
-   "tarih": "2026-11-20",
-   "kaynak": "GBHackers",
-   "baslik": "Meta’s Muse AI Agent Accesses Private Signal Messages Without Users’ Knowledge",
-   "url": "https://gbhackers.com/metas-muse-ai-agent-accesses-private-signal-messages/",
-   "ozet": "Meta’s Muse AI agent surfaced a private Signal conversation without a user asking it to, raising questions about what consumer AI agents can read through device permissions. A Meta employee said Muse unexpectedly reminded her to reply to a message from her sister, even though she did not recall gran",
-   "grup": "Genel"
-  },
-  {
-   "id": "c85ee54b43ab",
-   "tarih": "2026-11-20",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "JPMorgan, Visa confirm customer data taken in third-party vendor hacks",
-   "url": "https://www.cybersecuritydive.com/news/jpmorgan-visa-customer-data-leaked-third-party-hacks/875333/",
-   "ozet": "The companies said the breaches were not related to a recent string of tech disruptions.",
-   "grup": "Genel"
-  },
-  {
-   "id": "c5e24a06d395",
-   "tarih": "2026-11-20",
-   "kaynak": "BleepingComputer",
-   "baslik": "VMware patches vCenter zero-day exploited in attacks since September",
-   "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-   "ozet": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "bbc19bb6f991",
-   "tarih": "2026-11-20",
-   "kaynak": "BleepingComputer",
-   "baslik": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
-   "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
-   "ozet": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "ba74506a96ac",
-   "tarih": "2026-11-20",
-   "kaynak": "The Hacker News",
-   "baslik": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
-   "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
-   "ozet": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through sepa",
-   "grup": "Genel"
-  },
-  {
-   "id": "b8c678e393d4",
-   "tarih": "2026-11-20",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "FCC to propose regulations for Cyber Trust Mark IoT labeling program",
-   "url": "https://www.cybersecuritydive.com/news/fcc-cyber-trust-mark-internet-of-things-regulation-proposal/875328/",
-   "ozet": "The commission hopes the program will encourage device manufacturers to prioritize cybersecurity.",
-   "grup": "Genel"
-  },
-  {
-   "id": "b81d8b853f32",
-   "tarih": "2026-11-20",
-   "kaynak": "SOC Prime",
-   "baslik": "CVE-2026-123890: Critical VMware vCenter Zero-Day Exploited by China-Linked Hackers",
-   "url": "https://socprime.com/blog/cve-2026-123890-critical-vmware-vcenter-zero-day-exploited-by-china-linked-hackers/",
-   "ozet": "Broadcom has released emergency security updates addressing CVE-2026-123890, a critical authentication bypass vulnerability in VMware vCenter Server that was exploited as a zero-day by a suspected China-nexus cyberespionage actor. The flaw resides in the VMware Directory Service and carries a CVSS 3",
-   "grup": "Genel"
   },
   {
    "id": "b6dced9e8be0",
@@ -522,15 +756,6 @@
    "grup": "SonicWall"
   },
   {
-   "id": "b4d165a3ec28",
-   "tarih": "2026-11-20",
-   "kaynak": "Schneier on Security",
-   "baslik": "Opening a 400-Year-Old Cryptex",
-   "url": "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html",
-   "ozet": "Researchers used CT scanning technology to recover the code and open a 400-year-old cryptex padlock. You can buy a USB-drive cryptex.",
-   "grup": "Genel"
-  },
-  {
    "id": "b3421e897efe",
    "tarih": "2026-11-20",
    "kaynak": "GBHackers",
@@ -540,78 +765,6 @@
    "grup": "NGINX"
   },
   {
-   "id": "b3099b7219af",
-   "tarih": "2026-11-20",
-   "kaynak": "SecurityWeek",
-   "baslik": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
-   "url": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
-   "ozet": "Tracked as CVE-2026-23871, the vulnerability was found by WhatsApp’s security team, and it may have been used to make scam messages more credible. The post WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "a9aa37ceddf1",
-   "tarih": "2026-11-20",
-   "kaynak": "Dark Reading",
-   "baslik": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
-   "ozet": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
-   "grup": "Genel"
-  },
-  {
-   "id": "9dbbebdeb6a3",
-   "tarih": "2026-11-20",
-   "kaynak": "The Hacker News",
-   "baslik": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-   "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
-   "ozet": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the threat in late October 202",
-   "grup": "Genel"
-  },
-  {
-   "id": "9d409aafac36",
-   "tarih": "2026-11-20",
-   "kaynak": "Help Net Security",
-   "baslik": "It’s time to retire vanity security dashboards",
-   "url": "https://www.helpnetsecurity.com/2026/11/20/security-dashboards-tips-video/",
-   "ozet": "In this Help Net Security video, Abdul Khadir Mahamed, OT Security Architect at Estée Lauder Companies, explains why security teams should retire vanity dashboards in IT and OT environments. He walks through an example from a manufacturing site, where the same approved maintenance work triggers the ",
-   "grup": "Genel"
-  },
-  {
-   "id": "9657e9feb791",
-   "tarih": "2026-11-20",
-   "kaynak": "GBHackers",
-   "baslik": "12 ZTNA Solutions: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/ztna-buyers-guide/",
-   "ozet": "ZTNA swaps the VPN’s blanket trust get on the network and you can reach the lot for per-session access to individual apps, verified against identity and device posture every time. But the “ZTNA” label stretches from a pillar inside a full SASE fabric all the way down to a featherweight VPN swap for ",
-   "grup": "Genel"
-  },
-  {
-   "id": "95e1986b820d",
-   "tarih": "2026-11-20",
-   "kaynak": "Dark Reading",
-   "baslik": "In Security, Words Matter as Much as Tools, Maybe More",
-   "url": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
-   "ozet": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
-   "grup": "Genel"
-  },
-  {
-   "id": "9410623fdc68",
-   "tarih": "2026-11-20",
-   "kaynak": "GBHackers",
-   "baslik": "12 Zero Trust Security Platforms: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/zero-trust-platforms-buyers-guide/",
-   "ozet": "Zero trust is an architecture, not a product you can buy off the shelf “never trust, always verify, assume breach” so vendors arrive at it from different pillars: identity, network, device or data. No one platform ships the full architecture; you build it from a lead pillar plus a set of integration",
-   "grup": "Genel"
-  },
-  {
-   "id": "931f9a9053df",
-   "tarih": "2026-11-20",
-   "kaynak": "Hackread",
-   "baslik": "4 Best XRP Lending Platforms Compared by Security, LTV, and Speed",
-   "url": "https://hackread.com/xrp-lending-platforms-compared-security-ltv-speed/",
-   "ozet": "Compare four XRP lending platforms by security, LTV, interest rates, funding speed and collateral risks, including CoinRabbit, Arch, Nexo and Coinbase.",
-   "grup": "Genel"
-  },
-  {
    "id": "93192667d013",
    "tarih": "2026-11-20",
    "kaynak": "GBHackers",
@@ -619,33 +772,6 @@
    "url": "https://gbhackers.com/new-windows-11-zero-day-vulnerability/",
    "ozet": "A security researcher using the handle MSNightmare has disclosed a FastUnlock vulnerability. This reported Windows 11 vulnerability could let someone with physical access to a locked device bypass the sign-in screen and execute code without entering the user’s credentials. The issue reportedly invol",
    "grup": "Microsoft"
-  },
-  {
-   "id": "8b38735d044e",
-   "tarih": "2026-11-20",
-   "kaynak": "Help Net Security",
-   "baslik": "Your AI red team may be finding the same prompt injection thousands of times",
-   "url": "https://www.helpnetsecurity.com/2026/11/20/ai-prompt-injection-red-team/",
-   "ozet": "AI agents retrained on a bigger pile of prompt injection attacks came out easier to hijack in three of four tests run by researchers at the University of Waterloo, Zhejiang University and KTH Royal Institute of Technology. The automated red-teaming tool that found more working attacks produced the w",
-   "grup": "Genel"
-  },
-  {
-   "id": "6cc616c5c6e7",
-   "tarih": "2026-11-20",
-   "kaynak": "The Hacker News",
-   "baslik": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-   "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-   "ozet": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of incomplete validation of exte",
-   "grup": "Genel"
-  },
-  {
-   "id": "6c623452a14a",
-   "tarih": "2026-11-20",
-   "kaynak": "BleepingComputer",
-   "baslik": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-   "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-   "ozet": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
-   "grup": "Genel"
   },
   {
    "id": "6a744f24eada",
@@ -673,60 +799,6 @@
    "url": "https://gbhackers.com/african-stock-exchange-credential-theft/",
    "ozet": "Symantec researchers say attackers probably used an AI-written toolkit to hunt for credentials at an African stock exchange. They ran 41 PowerShell modules in 3 minutes 12 seconds, from 08:44 to 08:47 UTC, under a webshell on an IIS server. The modules tested credentials, a reused bearer token and A",
    "grup": "Microsoft"
-  },
-  {
-   "id": "5cdfc826b45c",
-   "tarih": "2026-11-20",
-   "kaynak": "Help Net Security",
-   "baslik": "Most CIOs and CISOs expect to contain attacks, though few can reach their gear right away",
-   "url": "https://www.helpnetsecurity.com/2026/11/20/network-outage-recovery-resilience/",
-   "ozet": "Most organizations can’t quickly get secure management access to their own critical network infrastructure once the primary network goes down. Opengear surveyed 514 CIOs and CISOs and only a small share said they could get that access immediately or close to it. That gap bites hardest during a ranso",
-   "grup": "Genel"
-  },
-  {
-   "id": "5b364ed36dab",
-   "tarih": "2026-11-20",
-   "kaynak": "SecurityWeek",
-   "baslik": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday",
-   "url": "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/",
-   "ozet": "Experts commented on whether AI-accelerated patching played a role, the need for tested rollback plans, and the fragility of interconnected systems. The post Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "56d6acf1943f",
-   "tarih": "2026-11-20",
-   "kaynak": "Help Net Security",
-   "baslik": "VMware vCenter zero-day exploited for months before patch (CVE-2026-123890)",
-   "url": "https://www.helpnetsecurity.com/2026/11/20/vmware-vcenter-zero-day-cve-2026-123890-exploited/",
-   "ozet": "A suspected China-nexus espionage group tracked as Armory Castle (formerly UNC5221) has been exploiting a VMware vCenter zero-day since at least early September, more than two months before Broadcom released a fix, Google Threat Intelligence Group (GTIG) revealed. The vulnerability (CVE-2026-123890)",
-   "grup": "Genel"
-  },
-  {
-   "id": "384152c9138d",
-   "tarih": "2026-11-20",
-   "kaynak": "Hackread",
-   "baslik": "JPMorgan Chase, Visa and Mastercard confirm vendor incidents after n0n leak claims",
-   "url": "https://hackread.com/jpmorgan-chase-visa-mastercard-vendor-incidents-n0n-leak/",
-   "ozet": "Hackread counted over 27,000 email addresses in files n0n posted, while JPMorgan Chase, Visa and Mastercard acknowledged third-party vendor incidents.",
-   "grup": "Genel"
-  },
-  {
-   "id": "3827cbac510e",
-   "tarih": "2026-11-20",
-   "kaynak": "SecurityWeek",
-   "baslik": "SBC Medical Group Data Breach Impacts Over 2 Million",
-   "url": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
-   "ozet": "Threat actors accessed databases containing customer information associated with clinics in Japan. The post SBC Medical Group Data Breach Impacts Over 2 Million appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "35aed7f27fbb",
-   "tarih": "2026-11-20",
-   "kaynak": "Dark Reading",
-   "baslik": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
-   "url": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
-   "ozet": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.",
-   "grup": "Genel"
   },
   {
    "id": "12c55d817a1d",
