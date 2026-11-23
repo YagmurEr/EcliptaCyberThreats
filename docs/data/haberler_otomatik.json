@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-22T17:06:09+00:00",
+ "guncelleme": "2026-11-23T01:38:30+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -54,6 +54,33 @@
  ],
  "haberler": [
   {
+   "id": "9b531e94180b",
+   "tarih": "2026-11-23",
+   "kaynak": "Help Net Security",
+   "baslik": "Google’s semantic governance policies can block an AI agent’s tool call before it runs",
+   "url": "https://www.helpnetsecurity.com/2026/11/23/google-semantic-governance-policies/",
+   "ozet": "Google lets enterprises put a checkpoint in front of an AI agent&#8216;s actions. Semantic governance policies, in Preview on the Gemini platform, look at each tool call the agent&#8217;s model proposes and block it before it runs if the call doesn&#8217;t match the user&#8217;s request or breaks a ",
+   "grup": "Genel"
+  },
+  {
+   "id": "e84afceb005f",
+   "tarih": "2026-11-22",
+   "kaynak": "BleepingComputer",
+   "baslik": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+   "ozet": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "d9d2b8e73102",
+   "tarih": "2026-11-22",
+   "kaynak": "Help Net Security",
+   "baslik": "Debian 13.8 bundles kernel and Chromium security fixes with a 122-package bugfix list",
+   "url": "https://www.helpnetsecurity.com/2026/11/23/debian-13-8-released/",
+   "ozet": "The Debian project released Debian 13.8, the eighth update to its stable &#8220;trixie&#8221; series. It mainly carries security fixes, plus corrections for a few serious bugs, and it bundles advisories Debian had already published separately. If you run trixie, here is what to check. The security t",
+   "grup": "Genel"
+  },
+  {
    "id": "cee6ea3378f2",
    "tarih": "2026-11-22",
    "kaynak": "Help Net Security",
@@ -69,6 +96,15 @@
    "baslik": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
    "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
    "ozet": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "9cc2aecfef6c",
+   "tarih": "2026-11-22",
+   "kaynak": "Hackread",
+   "baslik": "When Executive Impersonation Spreads Across Multiple Platforms",
+   "url": "https://hackread.com/executive-impersonation-across-platforms/",
+   "ozet": "Learn why executive impersonation can span fake accounts, cloned websites and copied identity material and why a coordinated assessment matters.",
    "grup": "Genel"
   },
   {
@@ -387,6 +423,15 @@
    "grup": "Genel"
   },
   {
+   "id": "d5ce378b68b4",
+   "tarih": "2026-11-20",
+   "kaynak": "Dark Reading",
+   "baslik": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
+   "url": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
+   "ozet": "Microsoft announces new AI agent security tools and transparency standards to protect enterprise systems at its Ignite technical conference.",
+   "grup": "Microsoft"
+  },
+  {
    "id": "d20cb913632d",
    "tarih": "2026-11-20",
    "kaynak": "Schneier on Security",
@@ -681,42 +726,6 @@
    "baslik": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
    "url": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
    "ozet": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.",
-   "grup": "Genel"
-  },
-  {
-   "id": "34df10bbf41a",
-   "tarih": "2026-11-20",
-   "kaynak": "GBHackers",
-   "baslik": "Palo Alto Networks Warns of Critical Java RCE Vulnerability Affecting Multiple Security Products",
-   "url": "https://gbhackers.com/palo-alto-networks-warns-of-critical-java-rce-vulnerability/",
-   "ozet": "Palo Alto Networks has warned that a critical Java vulnerability, tracked as CVE-2026-114938, affects multiple Idira security products and could allow unauthenticated remote code execution (RCE). The company assigned the flaw a CVSS 4.0 base score of 9.2 but rated the urgency of its suggested respon",
-   "grup": "Genel"
-  },
-  {
-   "id": "2e817c9d0d50",
-   "tarih": "2026-11-20",
-   "kaynak": "GBHackers",
-   "baslik": "JPMorgan Chase Confirms Cyberattack on Third-Party Vendors, Customer Data Potentially Exposed",
-   "url": "https://gbhackers.com/jpmorgan-chase-confirms-cyberattack/",
-   "ozet": "JPMorgan Chase confirmed that third-party vendors providing services to the firm were targeted in a cyberattack that may have exposed some customers’ names and email addresses. In a statement published on X, the bank said its preliminary investigation indicated that attackers accessed certain market",
-   "grup": "Genel"
-  },
-  {
-   "id": "2be32b97a1a6",
-   "tarih": "2026-11-20",
-   "kaynak": "SecurityWeek",
-   "baslik": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
-   "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
-   "ozet": "The Commission took certain services offline to contain the incident, but it has no evidence of a data breach. The post European Commission Confirms AI-Assisted Cyberattack Disrupted Services appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "28d85bc28999",
-   "tarih": "2026-11-20",
-   "kaynak": "Help Net Security",
-   "baslik": "265,000 Oyster photocard customers’ data exposed in Transport for London breach",
-   "url": "https://www.helpnetsecurity.com/2026/11/20/transport-for-london-oyster-photocard-data-breach/",
-   "ozet": "Account details belonging to some 265,000 Oyster photocard holders may have been compromised in a breach of the photocard website, Transport for London (TfL) has warned. They include children with Zip cards and Londoners with the 60+ London Oyster photocard. TfL says it spotted suspicious activity o",
    "grup": "Genel"
   },
   {
