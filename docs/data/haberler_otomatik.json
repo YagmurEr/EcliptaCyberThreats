@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-24T13:38:26+00:00",
+ "guncelleme": "2026-11-24T20:07:18+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -54,12 +54,39 @@
  ],
  "haberler": [
   {
+   "id": "ff43e152311a",
+   "tarih": "2026-11-24",
+   "kaynak": "Hackread",
+   "baslik": "Free vs. Paid Security Tools: Where Free Options Fall Short",
+   "url": "https://hackread.com/free-vs-paid-security-tools-free-options-fall-short/",
+   "ozet": "Compare free and paid cybersecurity tools for small businesses with a look at where free options fall short on monitoring, investigation and response.",
+   "grup": "Genel"
+  },
+  {
    "id": "f3a43b39549f",
    "tarih": "2026-11-24",
    "kaynak": "SecurityWeek",
    "baslik": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
    "url": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/",
    "ozet": "Hackers stole personal information from the company’s customer portal and supplier relationship management platform. The post 1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "ecb734b1dc1c",
+   "tarih": "2026-11-24",
+   "kaynak": "Help Net Security",
+   "baslik": "Astelia blocks attack paths to vulnerabilities without waiting for patches",
+   "url": "https://www.helpnetsecurity.com/2026/11/24/astelia-autonomous-network-mitigation/",
+   "ozet": "Astelia has announced autonomous network mitigation, a new capability that defends against AI-driven exploits by blocking attack paths to reachable vulnerabilities at the network level. Organizations can now eliminate the 1% of vulnerabilities attackers can reach without waiting for a patch. The mit",
+   "grup": "Genel"
+  },
+  {
+   "id": "e977cb91a2ba",
+   "tarih": "2026-11-24",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "Federal agencies missing opportunities to help protect food sector from cyber threats, GAO says",
+   "url": "https://www.cybersecuritydive.com/news/food-agriculture-cybersecurity-usda-fda-gao-report/875596/",
+   "ozet": "The U.S. Department of Agriculture and the Food and Drug Administration said they lacked the resources and staff to fulfill all of their infrastructure protection responsibilities.",
    "grup": "Genel"
   },
   {
@@ -90,6 +117,24 @@
    "grup": "Genel"
   },
   {
+   "id": "db22ce6bdf49",
+   "tarih": "2026-11-24",
+   "kaynak": "The Hacker News",
+   "baslik": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+   "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+   "ozet": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as CVE-2026-123903, is rated 9.8 out of 10.0 on the CVSS",
+   "grup": "Genel"
+  },
+  {
+   "id": "db125410d093",
+   "tarih": "2026-11-24",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "AI-enabled campaign targets Check Point Security Management servers",
+   "url": "https://www.cybersecuritydive.com/news/ai-enabled-campaign-targets-check-point-security-management-servers/875622/",
+   "ozet": "At least 22 organizations were compromised in the attacks, which involved the exploitation of critical vulnerabilities.",
+   "grup": "Check Point"
+  },
+  {
    "id": "d305226424f3",
    "tarih": "2026-11-24",
    "kaynak": "Help Net Security",
@@ -99,12 +144,30 @@
    "grup": "Genel"
   },
   {
+   "id": "d2294fb10fbb",
+   "tarih": "2026-11-24",
+   "kaynak": "SecurityWeek",
+   "baslik": "European Commission Uncovers Data Breach in Cyberattack Investigation",
+   "url": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/",
+   "ozet": "Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October. The post European Commission Uncovers Data Breach in Cyberattack Investigation appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "d0b87a53ea57",
    "tarih": "2026-11-24",
    "kaynak": "Help Net Security",
    "baslik": "Claude Ship gives AI a seat on both sides of code review",
    "url": "https://www.helpnetsecurity.com/2026/11/24/anthropic-claude-ship-beta/",
    "ozet": "Anthropic launched Claude Ship in beta, a suite of agents that reviews pull requests, fixes issues and approves changes permitted by a team&#8217;s policy. Teams decide where it runs and which changes require human approval. Anthropic said Claude writes most of the code on its Claude Code team. With",
+   "grup": "Genel"
+  },
+  {
+   "id": "cad292c7e46b",
+   "tarih": "2026-11-24",
+   "kaynak": "BleepingComputer",
+   "baslik": "European Commission confirms data theft in EU Academy breach",
+   "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+   "ozet": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
    "grup": "Genel"
   },
   {
@@ -159,6 +222,24 @@
    "baslik": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
    "url": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
    "ozet": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC research. That's a significant opportunity as manual ",
+   "grup": "Genel"
+  },
+  {
+   "id": "adb18ca6aea0",
+   "tarih": "2026-11-24",
+   "kaynak": "BleepingComputer",
+   "baslik": "Radware discloses breach exposing customer cloud access keys",
+   "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+   "ozet": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "a903b208e0b0",
+   "tarih": "2026-11-24",
+   "kaynak": "BleepingComputer",
+   "baslik": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+   "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+   "ozet": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve software ",
    "grup": "Genel"
   },
   {
@@ -288,12 +369,30 @@
    "grup": "Genel"
   },
   {
+   "id": "6b48789d1147",
+   "tarih": "2026-11-24",
+   "kaynak": "The Hacker News",
+   "baslik": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+   "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+   "ozet": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for comman",
+   "grup": "Genel"
+  },
+  {
    "id": "63f0776ef9f5",
    "tarih": "2026-11-24",
    "kaynak": "GBHackers",
    "baslik": "New Android Camera Attack Lets Hackers Eavesdrop on Speech Without Microphone Access",
    "url": "https://gbhackers.com/new-android-camera-attack/",
    "ozet": "Security researchers have demonstrated that an Android app with camera permission can recover parts of speech played through a phone’s built-in loudspeaker without accessing the microphone. The attack, dubbed CAMEAR, uses motion data exposed by Android’s Camera2 interface rather than video frames or",
+   "grup": "Genel"
+  },
+  {
+   "id": "63399c74702a",
+   "tarih": "2026-11-24",
+   "kaynak": "BleepingComputer",
+   "baslik": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+   "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+   "ozet": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
    "grup": "Genel"
   },
   {
@@ -315,12 +414,57 @@
    "grup": "Genel"
   },
   {
+   "id": "5fb0c92e3a3a",
+   "tarih": "2026-11-24",
+   "kaynak": "Help Net Security",
+   "baslik": "Cloudera helps enterprises deploy sovereign AI without proprietary lock-in",
+   "url": "https://www.helpnetsecurity.com/2026/11/24/cloudera-digital-sovereignty/",
+   "ozet": "Cloudera has announced Cloudera for Digital Sovereignty, a solution and partner ecosystem designed to give organizations jurisdictional, operational, and technical control across their data, cloud, and AI lifecycle. Bringing together Cloudera Anywhere Cloud, Cloudera’s Open Data Lakehouse and Unifie",
+   "grup": "Genel"
+  },
+  {
+   "id": "5f76ac4f7ca9",
+   "tarih": "2026-11-24",
+   "kaynak": "BleepingComputer",
+   "baslik": "Turnitin discloses cyberattack affecting customer-facing systems",
+   "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+   "ozet": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "5e84d271f3fa",
+   "tarih": "2026-11-24",
+   "kaynak": "SecurityWeek",
+   "baslik": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
+   "url": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
+   "ozet": "The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts. The post VMware Updates Patch Critical ESX, vCenter Vulnerabilities appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "5ba708d91b20",
+   "tarih": "2026-11-24",
+   "kaynak": "BleepingComputer",
+   "baslik": "Hackers compromise Check Point Servers in 22 organizations",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+   "ozet": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
+   "grup": "Check Point"
+  },
+  {
    "id": "58a256ab2b93",
    "tarih": "2026-11-24",
    "kaynak": "GBHackers",
    "baslik": "12 Digital Risk Protection (DRP) Solutions: The 2026 Buyer’s Verdict Guide",
    "url": "https://gbhackers.com/digital-risk-protection-buyers-guide/",
    "ozet": "Digital risk protection keeps watch over everything about your organisation that sits beyond the perimeter look-alike domains, leaked data, spoofed social accounts, exposed assets, brand abuse and, crucially, acts on it. The question that defines the category isn’t how wide the monitoring reaches, b",
+   "grup": "Genel"
+  },
+  {
+   "id": "549ce3660e94",
+   "tarih": "2026-11-24",
+   "kaynak": "Hackread",
+   "baslik": "Researchers Disrupt Massive BADBOX 3.0 Ad Fraud and Proxy Botnet",
+   "url": "https://hackread.com/badbox-3-0-ad-fraud-botnet-disrupted-android-tv-boxes/",
+   "ozet": "HUMAN disrupted BADBOX 3.0, an Android botnet that generated about 40 billion ad bid requests per day at its peak and sold access to home connections.",
    "grup": "Genel"
   },
   {
@@ -333,12 +477,39 @@
    "grup": "Genel"
   },
   {
+   "id": "230a967c24e6",
+   "tarih": "2026-11-24",
+   "kaynak": "BleepingComputer",
+   "baslik": "McDonald's Japan data breach exposes customer location information",
+   "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+   "ozet": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "22bf6552c322",
+   "tarih": "2026-11-24",
+   "kaynak": "SecurityWeek",
+   "baslik": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
+   "url": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/",
+   "ozet": "The attacks were launched from 99 IP addresses and targeted organizations across multiple industries and countries. The post Check Point Security Management Servers Hacked in AI-Assisted Campaign appeared first on SecurityWeek.",
+   "grup": "Check Point"
+  },
+  {
    "id": "20534b25c7da",
    "tarih": "2026-11-24",
    "kaynak": "SecurityWeek",
    "baslik": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
    "url": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
    "ozet": "The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations. The post Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "1f75de46df51",
+   "tarih": "2026-11-24",
+   "kaynak": "BleepingComputer",
+   "baslik": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+   "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+   "ozet": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
    "grup": "Genel"
   },
   {
@@ -375,6 +546,15 @@
    "baslik": "Ransomware gangs keep multiplying, even as fewer victims pay",
    "url": "https://www.helpnetsecurity.com/2026/11/24/check-point-ransomware-attacks-q3-2026-report/",
    "ozet": "Ransomware groups listed 2,830 victims on data leak sites in the third quarter of 2026, the highest quarterly total on record, according to Check Point Research&#8217;s State of Ransomware Q3 2026 report. July accounted for 964 victims, August for 1,042 and September for 824. &#8220;The scale of act",
+   "grup": "Genel"
+  },
+  {
+   "id": "0c4445d4ccaf",
+   "tarih": "2026-11-24",
+   "kaynak": "The Hacker News",
+   "baslik": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+   "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+   "ozet": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vi",
    "grup": "Genel"
   },
   {
@@ -549,33 +729,6 @@
    "grup": "Genel"
   },
   {
-   "id": "c2b5194d2500",
-   "tarih": "2026-11-23",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "US intelligence chief gets additional role as acting national cyber director",
-   "url": "https://www.cybersecuritydive.com/news/national-cyber-director-acting-jay-clayton/875499/",
-   "ozet": "The White House previously tapped Pentagon CIO Kirsten Davies to temporarily lead the office, but now it&rsquo;s hoping the Senate will confirm her to the permanent position.",
-   "grup": "Genel"
-  },
-  {
-   "id": "c1ce3a85d2b0",
-   "tarih": "2026-11-23",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "Stop asking whether AI can run an entire attack",
-   "url": "https://www.cybersecuritydive.com/spons/stop-asking-whether-ai-can-run-an-entire-attack/875150/",
-   "ozet": "The question for security leaders is where AI gives adversaries enough leverage to change the cost, speed, or scale of an intrusion.",
-   "grup": "Genel"
-  },
-  {
-   "id": "c01f8c41d8fc",
-   "tarih": "2026-11-23",
-   "kaynak": "Dark Reading",
-   "baslik": "US Cyber Director Pick Signals Shift Toward Expertise",
-   "url": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
-   "ozet": "Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising geopolitical tensions.",
-   "grup": "Genel"
-  },
-  {
    "id": "bc11c30f893a",
    "tarih": "2026-11-23",
    "kaynak": "SecurityWeek",
@@ -583,132 +736,6 @@
    "url": "https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/",
    "ozet": "Threat actors could exploit them to leak or modify server information and to execute commands as root. The post SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks appeared first on SecurityWeek.",
    "grup": "Cisco"
-  },
-  {
-   "id": "ba19b7d316ae",
-   "tarih": "2026-11-23",
-   "kaynak": "GBHackers",
-   "baslik": "Hackers Actively Exploit Critical ASP.NET Vulnerability to Execute Remote Code and Compromise Web Servers",
-   "url": "https://gbhackers.com/hackers-actively-exploit-critical-asp-net-vulnerability/",
-   "ozet": "A serious vulnerability in a long-abandoned ASP.NET security library is currently being exploited. This flaw allows unauthorized attackers to take control of IIS web servers with a single HTTP request. The issue is tracked as CVE-2026-131914 (MNDT-2026-0048) and involves an insecure deserialization ",
-   "grup": "Genel"
-  },
-  {
-   "id": "b5dfe10bacf0",
-   "tarih": "2026-11-23",
-   "kaynak": "GBHackers",
-   "baslik": "Samsung Securities Hit by Cyberattack, Exposing Personal Data of Over 8,000 Customers",
-   "url": "https://gbhackers.com/samsung-securities-hit-by-cyberattack/",
-   "ozet": "Samsung Securities disclosed on Nov. 23 that a cyberattack exposed personal information belonging to 8,241 customers. The South Korean brokerage detected unauthorized access on Saturday, Nov. 21, in the Voice of Customer (VOC) system, a section of its website where customers submit inquiries and fee",
-   "grup": "Genel"
-  },
-  {
-   "id": "ade3122cc9bd",
-   "tarih": "2026-11-23",
-   "kaynak": "Help Net Security",
-   "baslik": "Open-source AI pentesting framework Cairn keeps turning up in real-world attacks",
-   "url": "https://www.helpnetsecurity.com/2026/11/23/cairn-ai-agents-autonomous-attacks/",
-   "ozet": "Autonomous AI agents run by a Chinese-nexus threat actor spent nearly a full day failing to break into university servers, then found and exploited a zero-day in an open-source medical imaging AI application and gained a foothold. The agents ran on Cairn, an open-source AI penetration testing framew",
-   "grup": "Genel"
-  },
-  {
-   "id": "adc0fa1468e4",
-   "tarih": "2026-11-23",
-   "kaynak": "Dark Reading",
-   "baslik": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal",
-   "url": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
-   "ozet": "CrowdStrike's $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI agents.",
-   "grup": "Genel"
-  },
-  {
-   "id": "ad3d2932dda1",
-   "tarih": "2026-11-23",
-   "kaynak": "BleepingComputer",
-   "baslik": "OpenRouter drops AI providers over leaked prompts and secrets",
-   "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
-   "ozet": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "a4213b5ac4cf",
-   "tarih": "2026-11-23",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "Water utilities in 26 states getting free cybersecurity help",
-   "url": "https://www.cybersecuritydive.com/news/water-cybersecurity-watch-center-initial-support/875486/",
-   "ozet": "Rural water utilities are some of the nation&rsquo;s most vulnerable critical infrastructure operators. A new group is helping them access resources.",
-   "grup": "Genel"
-  },
-  {
-   "id": "a10e1a26ae7d",
-   "tarih": "2026-11-23",
-   "kaynak": "GBHackers",
-   "baslik": "Hackers Exploit GL.iNet Cloud Security Flaw to Infect Routers and KVM Devices With Malware",
-   "url": "https://gbhackers.com/hackers-exploit-gl-inet-cloud-security-flaw/",
-   "ozet": "GL.iNet reported that an unauthorized party exploited a vulnerability in its cloud remote management services, allowing them to install malware on certain routers and keyboard, video, and mouse (KVM) devices. The company discovered the flaw on November 20, 2026. In an update on November 23, GL.iNet ",
-   "grup": "Genel"
-  },
-  {
-   "id": "9be28c5a4525",
-   "tarih": "2026-11-23",
-   "kaynak": "Hackread",
-   "baslik": "How to Use Camera Tracking to Make Your Videos More Dynamic",
-   "url": "https://hackread.com/how-to-use-camera-tracking-make-videos-dynamic/",
-   "ozet": "Discover ways to use camera tracking to bring more life and activity into your videos. Get hands-on methods for adding movement, effects, and dimension to your videos.",
-   "grup": "Genel"
-  },
-  {
-   "id": "9b531e94180b",
-   "tarih": "2026-11-23",
-   "kaynak": "Help Net Security",
-   "baslik": "Google’s semantic governance policies can block an AI agent’s tool call before it runs",
-   "url": "https://www.helpnetsecurity.com/2026/11/23/google-semantic-governance-policies/",
-   "ozet": "Google lets enterprises put a checkpoint in front of an AI agent&#8216;s actions. Semantic governance policies, in Preview on the Gemini platform, look at each tool call the agent&#8217;s model proposes and block it before it runs if the call doesn&#8217;t match the user&#8217;s request or breaks a ",
-   "grup": "Genel"
-  },
-  {
-   "id": "851d3d22fd3b",
-   "tarih": "2026-11-23",
-   "kaynak": "SecurityWeek",
-   "baslik": "GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw",
-   "url": "https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/",
-   "ozet": "Attackers abused a flaw in the GoodCloud remote management service to push malware to devices, and cleaning them requires new firmware. The post GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "80927b607c9d",
-   "tarih": "2026-11-23",
-   "kaynak": "The Hacker News",
-   "baslik": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
-   "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
-   "ozet": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country. This unsanctioned activity has resulted in unauthorized financial t",
-   "grup": "Genel"
-  },
-  {
-   "id": "7bd1425b489b",
-   "tarih": "2026-11-23",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "AI and post-quantum security: Why the future of cyber resilience depends on both",
-   "url": "https://www.cybersecuritydive.com/spons/ai-and-post-quantum-security-why-the-future-of-cyber-resilience-depends-on/874716/",
-   "ozet": "AI and PQC are competing for enterprise budgets. Discover why they belong on the same roadmap, and how they are essential to future-proofing enterprise security.",
-   "grup": "Genel"
-  },
-  {
-   "id": "791422e9c323",
-   "tarih": "2026-11-23",
-   "kaynak": "The Hacker News",
-   "baslik": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
-   "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
-   "ozet": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today. The company identified and fixed the flaw on Friday and ",
-   "grup": "Genel"
-  },
-  {
-   "id": "7833426c3137",
-   "tarih": "2026-11-23",
-   "kaynak": "GBHackers",
-   "baslik": "Weekly Cybersecurity Newsletter – Top 50 Biggest Cybersecurity Stories of the Week",
-   "url": "https://gbhackers.com/weekly-cybersecurity-newsletter-november-16-20-2026/",
-   "ozet": "JPMorgan &#38; KPMG Breaches, ARTEX AI Hits EU Commission, Fugaku Supercomputer Hacked, Windows 11 Zero-Day, Ruby2Shell &#38; NGINX2ROOT RCE &#38; More&#160; Welcome to this week&#8217;s edition of the GBHackers cybersecurity newsletter your weekly cybersecurity bulletin covering the 50 most importa",
-   "grup": "Genel"
   },
   {
    "id": "5d81d8091009",
