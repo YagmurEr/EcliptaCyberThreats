@@ -1,7 +1,29 @@
 {
- "guncelleme": "2026-10-23T10:00:00Z",
- "aciklama": "CISA KEV kataloğu dışında kalan veya KEV'e geç eklenen, izlenen markalarda aktif istismar edilen ya da PoC yayımlanan kritik zafiyetler.",
+ "guncelleme": "2026-11-25T18:36:27Z",
+ "aciklama": "CISA KEV kataloğu dışında kalan veya KEV'e geç eklenen; izlenen markalarda aktif istismar edilen, PoC yayımlanan ya da doğrulanmış kritik tedarik zinciri riski oluşturan zafiyetler.",
  "kayitlar": [
+  {
+   "cveID": "CVE-2026-135202",
+   "marka": "WordPress",
+   "urun": "WP connect eklentileri (6 eklenti)",
+   "cvss": 9.8,
+   "durum": "kritik_yama",
+   "kevDurumu": "yok",
+   "ilkIstismar": null,
+   "kevTarih": null,
+   "kevBosluk": null,
+   "ozet": "WP connect tarafından yayımlanan altı WordPress eklentisinin etkilenen sürümlerinde yerleşik arka kapı bulunuyor. Eklentiler her istekte uzak komut-kontrol sunucusundan kod alıp çalıştırabiliyor; WordPress.org eklentileri kapattı ve yamalı sürüm bulunmuyor. Etkilenen eklentileri kaldırın ve tam kötü amaçlı yazılım taraması yapın.",
+   "kaynaklar": [
+    {
+     "ad": "Wordfence",
+     "url": "https://www.wordfence.com/threat-intel/vulnerabilities/id/2bda1d59-0524-40ee-9427-2d31470780f9?source=cve"
+    },
+    {
+     "ad": "CVE kaydı",
+     "url": "https://www.cve.org/CVERecord?id=CVE-2026-135202"
+    }
+   ]
+  },
   {
    "cveID": "CVE-2026-85097",
    "marka": "WordPress",
