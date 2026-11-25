@@ -66,5 +66,4 @@ RSS başlıkları kamuya açık kaynaklardan derlenir. Haberlerin asıl içeriğ
 - CVSS: ilgili kaynaklardan elde edilen metrikler.
 - KVKK: resmî Kurum ilanları ve açıklamada belirtilen derlemeler.
 - İstatistikler bir siber risk değerlendirmesinin yerine geçmez.
-- USOM: resmî [USOM zafiyet sayfası](https://www.usom.gov.tr/zafiyet) API tabanlı erişimi işaret ediyor; veri sözleşmesi, erişim koşulları, yetkilendirme ve CVE eşlemesi doğrulanmadan otomatik veri toplama eklenmedi.
 - JSON erişimi herkese açık olmakla birlikte, kaynakların telif ve yeniden dağıtım koşulları ayrıca geçerlidir.
