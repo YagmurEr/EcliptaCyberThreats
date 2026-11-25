@@ -1,11 +1,11 @@
-# Claude Code için kurulum talimatı — eclipta.tr/SiberGundem
+# Claude Code için kurulum talimatı — eclipta.tr/sibergundem
 
 Bu dosyayı Claude Code'a vererek kurulumu yaptırabilirsiniz:
 > "CLAUDE_CODE_KURULUM.md dosyasındaki adımları uygula."
 
 ## Mimari
 - **Veri (bu depo):** GitHub Actions her gün KEV + EPSS + CVSS ve RSS haberlerini çeker, `docs/data/*.json` olarak depoya işler. GitHub Pages bu klasörü `https://<kullanici>.github.io/tehdit-veri/data/` adresinden yayınlar.
-- **Sayfa (eclipta.tr):** `web/tehdit/index.html (SiberGündem sayfası)` bir kez `eclipta.tr/SiberGundem/` klasörüne yüklenir; her açılışta veriyi GitHub Pages'ten okur.
+- **Sayfa (eclipta.tr):** Canlı arayüzün kanonik kaynağı Eclipta kurumsal site projesidir ve `/sibergundem` yolunda yayınlanır. `web/tehdit/index.html` yalnızca eski bağımsız dağıtım şablonudur.
 
 ## Adımlar (Claude Code)
 1. `gh auth status` ile GitHub oturumunu doğrula. Oturum yoksa kullanıcıdan `gh auth login` çalıştırmasını iste; parola veya erişim anahtarı **isteme**.
@@ -31,7 +31,7 @@ Bu dosyayı Claude Code'a vererek kurulumu yaptırabilirsiniz:
    `haberler_otomatik.json` içindeki `kaynakDurumu` alanında hata veren RSS kaynağı varsa kullanıcıya bildir.
 8. Birkaç dakika sonra `https://KULLANICI.github.io/tehdit-veri/data/kev.json` adresinin açıldığını doğrula.
 9. Kullanıcıya şunları hatırlat:
-   - `web/tehdit/index.html (SiberGündem sayfası)` dosyasını FTP ile `eclipta.tr/SiberGundem/index.html` olarak yüklemesi.
+   - Eski şablonu kullanmanız gerekiyorsa `web/tehdit/index.html` dosyasını yalnızca `eclipta.tr/sibergundem/index.html` yoluna yükleyin; canlı kurumsal site için bu adımı uygulamayın.
    - Sitede Content-Security-Policy varsa `connect-src` yönergesine `https://KULLANICI.github.io` eklemesi.
    - Sayfayı menüye ve sitemap'e eklemesi.
 

@@ -9,7 +9,7 @@ from xml.etree import ElementTree as ET
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 DATA = ROOT / "docs" / "data"
-SITE = "https://eclipta.tr/SiberGundem/"
+SITE = "https://eclipta.tr/sibergundem"
 FEED = "https://YagmurEr.github.io/EcliptaCyberThreats/rss.xml"
 MAX_ITEMS = 60
 

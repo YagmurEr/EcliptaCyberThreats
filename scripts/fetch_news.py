@@ -22,7 +22,7 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 DATA = ROOT / "docs" / "data"
 IZLEME = json.loads((ROOT / "config" / "izleme.json").read_text(encoding="utf-8"))
 KAYNAK = json.loads((ROOT / "config" / "kaynaklar.json").read_text(encoding="utf-8"))
-HEADERS = {"User-Agent": "eclipta-tehdit-veri/1.0 (+https://eclipta.tr/SiberGundem)"}
+HEADERS = {"User-Agent": "eclipta-tehdit-veri/1.0 (+https://eclipta.tr/sibergundem)"}
 ATOM = "{http://www.w3.org/2005/Atom}"
 MAX_BOYUT = 5 * 1024 * 1024
 

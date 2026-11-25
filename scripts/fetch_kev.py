@@ -25,7 +25,7 @@ CFG = json.loads((ROOT / "config" / "izleme.json").read_text(encoding="utf-8"))
 KEV_URL = "https://raw.githubusercontent.com/cisagov/kev-data/develop/known_exploited_vulnerabilities.json"
 EPSS_URL = "https://raw.githubusercontent.com/empiricalsec/epss_scores/main/{y}/epss_scores-{d}.csv.gz"
 CVE_URL = "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/{y}/{grp}/{cve}.json"
-HEADERS = {"User-Agent": "eclipta-tehdit-veri/1.0 (+https://eclipta.tr/SiberGundem)"}
+HEADERS = {"User-Agent": "eclipta-tehdit-veri/1.0 (+https://eclipta.tr/sibergundem)"}
 CVE_RE = re.compile(r"^CVE-(\d{4})-(\d{4,})$")
 
 
