@@ -8,6 +8,10 @@ eclipta.tr/SiberGundem sayfasının veri kaynağıdır. Kurulum ve güncelleme r
 - `config/` — izlenen markalar ve haber kaynakları
 - `web/tehdit/index.html` — eclipta.tr/SiberGundem/ klasörüne bir kez yüklenecek sayfa
 
-Kaynak verilerin lisans ve kullanım koşulları ilgili kuruluşlara aittir (CISA, FIRST, CVE Program). Haber akışında yalnızca başlık, bağlantı ve tarih saklanır.
+## Lisans
+
+Bu depodaki Eclipta tarafından yazılmış kod, yapılandırma ve dokümantasyon [MIT License](LICENSE) ile lisanslanmıştır.
+
+`docs/data/` altındaki çıktılar; CISA KEV, FIRST EPSS ve CVE Programı gibi üçüncü taraf kaynaklardan türetilir. Bu kaynakların kendi lisansları ve kullanım koşulları geçerlidir; bu depo, onlara ilişkin ek bir lisans vermez. Haber akışında yalnızca başlık, bağlantı ve tarih saklanır.
 
 
