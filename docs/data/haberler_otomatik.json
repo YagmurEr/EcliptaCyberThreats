@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-24T20:07:18+00:00",
+ "guncelleme": "2026-11-25T04:08:43+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -225,6 +225,15 @@
    "grup": "Genel"
   },
   {
+   "id": "ae79bb5847a5",
+   "tarih": "2026-11-24",
+   "kaynak": "SecurityWeek",
+   "baslik": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+   "url": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
+   "ozet": "It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "adb18ca6aea0",
    "tarih": "2026-11-24",
    "kaynak": "BleepingComputer",
@@ -315,6 +324,15 @@
    "grup": "Genel"
   },
   {
+   "id": "7f8f5938b05b",
+   "tarih": "2026-11-24",
+   "kaynak": "Dark Reading",
+   "baslik": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
+   "url": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
+   "ozet": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders.",
+   "grup": "Genel"
+  },
+  {
    "id": "7b3ad046b366",
    "tarih": "2026-11-24",
    "kaynak": "GBHackers",
@@ -369,12 +387,30 @@
    "grup": "Genel"
   },
   {
+   "id": "6c270107d398",
+   "tarih": "2026-11-24",
+   "kaynak": "BleepingComputer",
+   "baslik": "Rackspace shuts down Spot cloud platform after security breach",
+   "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+   "ozet": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "6b48789d1147",
    "tarih": "2026-11-24",
    "kaynak": "The Hacker News",
    "baslik": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
    "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
    "ozet": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for comman",
+   "grup": "Genel"
+  },
+  {
+   "id": "6a6218931c47",
+   "tarih": "2026-11-24",
+   "kaynak": "Dark Reading",
+   "baslik": "Satellites Have a Ground-Level Cybersecurity Problem",
+   "url": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
+   "ozet": "Weaknesses in the ground-based infrastructure supporting satellite services are becoming more consequential as a new space race gathers pace.",
    "grup": "Genel"
   },
   {
@@ -468,6 +504,15 @@
    "grup": "Genel"
   },
   {
+   "id": "3b8d0a7e0d03",
+   "tarih": "2026-11-24",
+   "kaynak": "Dark Reading",
+   "baslik": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+   "url": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+   "ozet": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
+   "grup": "Genel"
+  },
+  {
    "id": "389c7e58bfc2",
    "tarih": "2026-11-24",
    "kaynak": "Help Net Security",
@@ -522,6 +567,24 @@
    "grup": "Genel"
   },
   {
+   "id": "1e590e449d20",
+   "tarih": "2026-11-24",
+   "kaynak": "Hackread",
+   "baslik": "Researchers Take Over Five US Treasury Subdomains for About $3 Each",
+   "url": "https://hackread.com/researchers-take-over-5-us-treasury-subdomains/",
+   "ozet": "Old DNS records let Intruder researchers take over five US Treasury subdomains via reassigned AWS IP addresses. No government data theft was reported.",
+   "grup": "Genel"
+  },
+  {
+   "id": "1b8584804032",
+   "tarih": "2026-11-24",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "OpenAI, Cisco debut tool that lets AI agents safely block vulnerability exploitation",
+   "url": "https://www.cybersecuritydive.com/news/ai-vulnerability-openai-cisco-shirudo-linux/875644/",
+   "ozet": "The new framework can provide temporary protection while organizations test patches.",
+   "grup": "Cisco"
+  },
+  {
    "id": "15b8b568346d",
    "tarih": "2026-11-24",
    "kaynak": "SecurityWeek",
@@ -555,6 +618,15 @@
    "baslik": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
    "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
    "ozet": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vi",
+   "grup": "Genel"
+  },
+  {
+   "id": "0bc0f9692115",
+   "tarih": "2026-11-24",
+   "kaynak": "BleepingComputer",
+   "baslik": "New Inception extortion gang launches large-scale vishing campaign",
+   "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+   "ozet": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
    "grup": "Genel"
   },
   {
@@ -621,33 +693,6 @@
    "grup": "Genel"
   },
   {
-   "id": "f1397973b7c6",
-   "tarih": "2026-11-23",
-   "kaynak": "BleepingComputer",
-   "baslik": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-   "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-   "ozet": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "ed11d95a721b",
-   "tarih": "2026-11-23",
-   "kaynak": "SecurityWeek",
-   "baslik": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
-   "url": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
-   "ozet": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "e5628202eea6",
-   "tarih": "2026-11-23",
-   "kaynak": "Help Net Security",
-   "baslik": "Infected TV boxes in BADBOX 3.0 rent out their owners’ home internet",
-   "url": "https://www.helpnetsecurity.com/2026/11/23/badbox-3-0-ad-fraud-operation/",
-   "ozet": "HUMAN&#8217;s Satori Threat Intelligence and Research Team has disrupted BADBOX 3.0, an operation run mainly from infected low-cost TV boxes that generated roughly 40 billion ad bid requests a day at its peak. That was more than 4% of all connected TV (CTV) traffic HUMAN observed and more than three",
-   "grup": "Genel"
-  },
-  {
    "id": "e101d52cda4a",
    "tarih": "2026-11-23",
    "kaynak": "SecurityWeek",
@@ -657,15 +702,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "d8e398b71e38",
-   "tarih": "2026-11-23",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "CrowdStrike to acquire Zscaler for $43.9 billion amid turbulent threat environment",
-   "url": "https://www.cybersecuritydive.com/news/crowdstrike-acquire-zscaler-439-billion-turbulent-threat/875477/",
-   "ozet": "The companies have partnered for years, but now will provide even stronger competition to compete for consolidated security customers.",
-   "grup": "Genel"
-  },
-  {
    "id": "d77f865b12d3",
    "tarih": "2026-11-23",
    "kaynak": "Help Net Security",
@@ -673,15 +709,6 @@
    "url": "https://www.helpnetsecurity.com/2026/11/23/cisco-expressway-vulnerability-exploited-cve-2026-76466/",
    "ozet": "Attackers have been spotted exploiting a critical vulnerability (CVE-2026-76466) in Cisco Expressway gateways to breach organizations, Russian security company F6 revealed late last week. The US Cybersecurity and Infrastructure Security Agency added the flaw to its Known Exploited Vulnerabilities ca",
    "grup": "Cisco"
-  },
-  {
-   "id": "d2c86d32d331",
-   "tarih": "2026-11-23",
-   "kaynak": "GBHackers",
-   "baslik": "CrowdStrike Acquires Zscaler in $43.9 Billion Deal to Combine Endpoint and Network Security",
-   "url": "https://gbhackers.com/crowdstrike-acquires-zscaler-in-43-9-billion-deal/",
-   "ozet": "CrowdStrike has agreed to acquire Zscaler in an all-stock transaction valued at approximately $43.9 billion, bringing together two distinct security layers, software that monitors endpoints and cloud workloads, and a cloud service that inspects their connections. The companies announced the definiti",
-   "grup": "Genel"
   },
   {
    "id": "d0dd2916cf58",
@@ -702,15 +729,6 @@
    "grup": "Cisco"
   },
   {
-   "id": "cb673b121b80",
-   "tarih": "2026-11-23",
-   "kaynak": "The Hacker News",
-   "baslik": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
-   "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
-   "ozet": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting binary-parser versions",
-   "grup": "Genel"
-  },
-  {
    "id": "ca0d1bdeb307",
    "tarih": "2026-11-23",
    "kaynak": "The Hacker News",
@@ -718,15 +736,6 @@
    "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
    "ozet": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open. This week's stories show how quickly a small opening can ",
    "grup": "NGINX"
-  },
-  {
-   "id": "c412b57f8a94",
-   "tarih": "2026-11-23",
-   "kaynak": "SecurityWeek",
-   "baslik": "BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted",
-   "url": "https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/",
-   "ozet": "Backdoors on low-cost consumer devices served modules for ad fraud and for turning devices into residential proxies. The post BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "bc11c30f893a",
