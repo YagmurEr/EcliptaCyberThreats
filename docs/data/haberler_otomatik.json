@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-25T12:48:28+00:00",
+ "guncelleme": "2026-11-25T19:05:04+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -62,6 +62,24 @@
    "grup": "Genel"
   },
   {
+   "id": "e13089d7b52c",
+   "tarih": "2026-11-25",
+   "kaynak": "SecurityWeek",
+   "baslik": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
+   "url": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
+   "ozet": "An account tied to ShinyHunters announced the group’s return, as Okta spots possible links between Inception and ShinyHunters hackers. The post ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "d69aa4764b0e",
+   "tarih": "2026-11-25",
+   "kaynak": "Help Net Security",
+   "baslik": "Critical Drupal installer flaw under active attack (CVE-2026-132165)",
+   "url": "https://www.helpnetsecurity.com/2026/11/25/drupal-installer-rce-cve-2026-132165-exploited/",
+   "ozet": "Attackers have been exploiting CVE-2026-132165, a flaw that lets them take over unpatched Drupal sites without logging in, since at least November 19, the Drupal Security Team has warned. Drupal is a free and open-source web content management system used by government agencies, universities, media ",
+   "grup": "Genel"
+  },
+  {
    "id": "d52cc031d711",
    "tarih": "2026-11-25",
    "kaynak": "The Hacker News",
@@ -89,6 +107,15 @@
    "grup": "Genel"
   },
   {
+   "id": "cc24de6d6f59",
+   "tarih": "2026-11-25",
+   "kaynak": "Help Net Security",
+   "baslik": "Shufti Fraud Hub exposes suspicious links between seemingly legitimate accounts",
+   "url": "https://www.helpnetsecurity.com/2026/11/25/shufti-fraud-hub/",
+   "ozet": "Shufti has announced the launch of its Fraud Hub, a connected fraud intelligence layer designed to detect suspicious verification attempts, identify coordinated fraud networks and monitor emerging risks across the user lifecycle. Shufti Fraud Hub connects identity, device, biometric, and behavioural",
+   "grup": "Genel"
+  },
+  {
    "id": "be8229fa8688",
    "tarih": "2026-11-25",
    "kaynak": "The Hacker News",
@@ -107,12 +134,39 @@
    "grup": "Microsoft"
   },
   {
+   "id": "bb4d635f16b7",
+   "tarih": "2026-11-25",
+   "kaynak": "SecurityWeek",
+   "baslik": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident",
+   "url": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
+   "ozet": "FinCEN has extended deadlines for filers affected by the disruptions while it is investigating the incident. The post US Treasury&#8217;s FinCEN Disconnects Systems Following Cyber Incident appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "b2ec86257c9b",
+   "tarih": "2026-11-25",
+   "kaynak": "SecurityWeek",
+   "baslik": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
+   "url": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
+   "ozet": "Attackers are probing GeoServer instances for two high-severity flaws that can be chained with other bugs for unauthenticated RCE. The post Two Newly Disclosed GeoServer Vulnerabilities Under Attack appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "acb83eb85e45",
    "tarih": "2026-11-25",
    "kaynak": "Help Net Security",
    "baslik": "Credential harvesting goes from fringe activity to major exploitation trend",
    "url": "https://www.helpnetsecurity.com/2026/11/25/vulncheck-credential-harvesting-exploitat-records/",
    "ozet": "Requests to steal credentials made up 13% of all vulnerability exploitation recorded between January and November 2026. Their monthly share climbed from about 1% in January to between 25% and 35% in September and October, data from VulnCheck&#8217;s canary network shows. The company tracked 694 expl",
+   "grup": "Genel"
+  },
+  {
+   "id": "a3b682ce2592",
+   "tarih": "2026-11-25",
+   "kaynak": "BleepingComputer",
+   "baslik": "More Pentests Without More Pentesters: Where AI Safely Helps",
+   "url": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+   "ozet": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagements, and keep sensitive client data within their own infrastructure. [...]",
    "grup": "Genel"
   },
   {
@@ -125,12 +179,30 @@
    "grup": "Genel"
   },
   {
+   "id": "97df8d954787",
+   "tarih": "2026-11-25",
+   "kaynak": "BleepingComputer",
+   "baslik": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "961cd313ea29",
    "tarih": "2026-11-25",
    "kaynak": "Help Net Security",
    "baslik": "Exploited: Abandoned Idunno.AntiCsrf library opens legacy ASP.NET apps to RCE (CVE-2026-131914)",
    "url": "https://www.helpnetsecurity.com/2026/11/25/idunno-anticsrf-rce-cve-2026-131914-exploited/",
    "ozet": "The US Cybersecurity and Infrastructure Security Agency added three new vulnerabilities to its Known Exploited Vulnerabilities catalog: CVE-2026-132224, an Optimizely Web Experimentation vulnerability attackers leveraged to plant malicious JavaScript on high-profile websites; a Drupal core remote co",
+   "grup": "Genel"
+  },
+  {
+   "id": "92db407f26f0",
+   "tarih": "2026-11-25",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+   "ozet": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-120705 (CVSS score: 8.6) - An arbitrary file read vulnerability that could enabl",
    "grup": "Genel"
   },
   {
@@ -143,12 +215,39 @@
    "grup": "Genel"
   },
   {
+   "id": "8ffaffb6da45",
+   "tarih": "2026-11-25",
+   "kaynak": "Hackread",
+   "baslik": "AI Can Write Code. Engineers Still Have to Decide What Ships",
+   "url": "https://hackread.com/ai-writes-code-engineers-decide-what-ships/",
+   "ozet": "Senior roles drove most of the rebound in software job postings. See why employers value engineers who can review, test, and verify AI-generated code.",
+   "grup": "Genel"
+  },
+  {
+   "id": "851806c24f2d",
+   "tarih": "2026-11-25",
+   "kaynak": "The Hacker News",
+   "baslik": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+   "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+   "ozet": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution, it has taken some systems offline. The bureau collects suspici",
+   "grup": "Genel"
+  },
+  {
    "id": "7d08c2d9b473",
    "tarih": "2026-11-25",
    "kaynak": "SecurityWeek",
    "baslik": "Plagiarism Checker Turnitin Investigating Cyberattack",
    "url": "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/",
    "ozet": "The edtech company says the systems are fully operational and safe to use while it investigates the incident. The post Plagiarism Checker Turnitin Investigating Cyberattack appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "7c0a30093497",
+   "tarih": "2026-11-25",
+   "kaynak": "Dark Reading",
+   "baslik": "Latin America Sees Cyberattacks on Ports, Pipelines &amp; Manufacturing",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
+   "ozet": "From the Port of Santos in Brazil to a pipeline in Argentina, cyberattacks are increasingly affecting industrial systems throughout the region.",
    "grup": "Genel"
   },
   {
@@ -179,6 +278,24 @@
    "grup": "Genel"
   },
   {
+   "id": "75d3be5138a9",
+   "tarih": "2026-11-25",
+   "kaynak": "Dark Reading",
+   "baslik": "Attackers Target .NET Developers With Poisoned Job Assessments",
+   "url": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
+   "ozet": "Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines.",
+   "grup": "Genel"
+  },
+  {
+   "id": "718495461e01",
+   "tarih": "2026-11-25",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "Microsoft remediates Azure flaw following attacks against Norwegian energy giants",
+   "url": "https://www.cybersecuritydive.com/news/microsoft-remediates-azure-flaw-following-attacks-against-norwegian-energy/875755/",
+   "ozet": "Microsoft released a security update, but still recommends customers rotate credentials and secrets.",
+   "grup": "Microsoft"
+  },
+  {
    "id": "6a8ceb0f7d1b",
    "tarih": "2026-11-25",
    "kaynak": "The Hacker News",
@@ -197,12 +314,57 @@
    "grup": "Genel"
   },
   {
+   "id": "5d8223f882df",
+   "tarih": "2026-11-25",
+   "kaynak": "BleepingComputer",
+   "baslik": "InfraTrust warns of exploited supply chain flaws in network appliances",
+   "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+   "ozet": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by the vendors themselves. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "5b24808f2ee5",
+   "tarih": "2026-11-25",
+   "kaynak": "Hackread",
+   "baslik": "FBI Helps Free Over 2,200 Trafficking Victims in Global Scam Crackdown",
+   "url": "https://hackread.com/fbi-helps-free-trafficking-victims-global-scam-crackdown/",
+   "ozet": "US prosecutors took action against over 800 defendants in more than 400 fraud cases. The FBI reported restraining nearly $17 billion in illicit funds.",
+   "grup": "Genel"
+  },
+  {
+   "id": "5aac1dca0d01",
+   "tarih": "2026-11-25",
+   "kaynak": "SecurityWeek",
+   "baslik": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
+   "url": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
+   "ozet": "Matthew Martin is Chief Information Security and Privacy Officer at Western Carolina University. The post Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "57a9de6dd641",
    "tarih": "2026-11-25",
    "kaynak": "Dark Reading",
    "baslik": "Cyber Insurers See New Divide: AI Defense 'Haves' &amp; 'Have Nots'",
    "url": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
    "ozet": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model unsustainable.",
+   "grup": "Genel"
+  },
+  {
+   "id": "5265d3f089df",
+   "tarih": "2026-11-25",
+   "kaynak": "Dark Reading",
+   "baslik": "It's a Bot World. We're Just Living in It",
+   "url": "https://www.darkreading.com/cyber-risk/bot-world-just-living",
+   "ozet": "Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally.",
+   "grup": "Genel"
+  },
+  {
+   "id": "4b26c81a4516",
+   "tarih": "2026-11-25",
+   "kaynak": "Cybersecurity Dive",
+   "baslik": "Infrastructure security alliance tells CEOs to prioritize assets, test response and recovery",
+   "url": "https://www.cybersecuritydive.com/news/alliance-critical-infrastructure-guidance-cybersecurity-ai/875741/",
+   "ozet": "Recent technology outages offer a preview of a chaotic future. Executives can act now to minimize risks, a trade group for infrastructure operators said.",
    "grup": "Genel"
   },
   {
@@ -230,6 +392,15 @@
    "baslik": "Hackers reportedly breached CIA intelligence analysis system",
    "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
    "ozet": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "3996e2590401",
+   "tarih": "2026-11-25",
+   "kaynak": "SOC Prime",
+   "baslik": "CVE-2026-123903: Critical VMware vCenter Authentication Bypass Requires Urgent Patching",
+   "url": "https://socprime.com/blog/cve-2026-123903-critical-vmware-vcenter-authentication-bypass-requires-urgent-patching/",
+   "ozet": "Broadcom has released security updates addressing CVE-2026-123903, a critical authentication bypass vulnerability affecting VMware vCenter Server. The flaw resides in VMware Directory Service, or vmdir, and carries a CVSS 3.1 score of 9.8, Critical. A remote attacker with network access to a vulnera",
    "grup": "Genel"
   },
   {
@@ -266,6 +437,15 @@
    "baslik": "Bots exploited leaked AWS key from Docker image in under 8 seconds",
    "url": "https://www.helpnetsecurity.com/2026/11/25/docker-aws-key-exposure-bots/",
    "ozet": "A cloud access key left inside a newly published Docker image can be found and used by bots in less than eight seconds, Billy Tsouvalas and Nick Nikiforakis of Stony Brook University discovered after planting 300 decoy images on public container registries. Docker images are packaged copies of softw",
+   "grup": "Genel"
+  },
+  {
+   "id": "03450c5110ab",
+   "tarih": "2026-11-25",
+   "kaynak": "SOC Prime",
+   "baslik": "Higher Order Sigma Rules (HOSR): Turning Sigma Alerts into ATT&CK-Mapped Attack Chains",
+   "url": "https://socprime.com/blog/higher-order-sigma-rules-hosr-turning-sigma-alerts-into-attck-mapped-attack-chains/",
+   "ozet": "Higher Order Sigma Rules (HOSR) are correlation rules that sit one level above standard Sigma detections. Instead of matching a single log event, a Higher Order Sigma rule links the Sigma rules that fire on one host into an attack chain mapped to MITRE ATT&#38;CK. Most SOC teams already run hundreds",
    "grup": "Genel"
   },
   {
@@ -485,24 +665,6 @@
    "grup": "Genel"
   },
   {
-   "id": "a6bb52fbde79",
-   "tarih": "2026-11-24",
-   "kaynak": "GBHackers",
-   "baslik": "Hackers Use AI Agents to Hijack Kubernetes Clusters and Steal Sensitive Cloud Credentials",
-   "url": "https://gbhackers.com/kubernetes-clusters-hijacking/",
-   "ozet": "Hackers are using AI offensive agents to compromise Kubernetes clusters, harvest cloud credentials, and exploit trust relationships across development infrastructure. Investigations describe opportunistic campaigns and targeted intrusions in which automated agents connect stolen identities, excessiv",
-   "grup": "Genel"
-  },
-  {
-   "id": "a6ac99d677c5",
-   "tarih": "2026-11-24",
-   "kaynak": "SecurityWeek",
-   "baslik": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
-   "url": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/",
-   "ozet": "EFS helps zero-retention customers spot Claude misuse spread across many requests while keeping conversation data in their own cloud. The post Anthropic Expands Enterprise Safeguards for Detecting AI Misuse appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
    "id": "a0a25e5ec068",
    "tarih": "2026-11-24",
    "kaynak": "The Hacker News",
@@ -530,69 +692,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "9087cd001e68",
-   "tarih": "2026-11-24",
-   "kaynak": "GBHackers",
-   "baslik": "12 Brand Protection & Anti-Impersonation Tools: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/brand-protection-buyers-guide/",
-   "ozet": "“Brand protection” splits into two very different jobs depending on who’s at the table. Security teams picture spoofed domains, credential-harvesting pages and impersonated executives that burn customers and staff. Legal and ecommerce teams picture knock-off goods, unauthorised resellers and tradema",
-   "grup": "Genel"
-  },
-  {
-   "id": "8f5a53624574",
-   "tarih": "2026-11-24",
-   "kaynak": "Help Net Security",
-   "baslik": "GlobeTopper faces up to $2.5 million in lost revenue after hackers steal $70,000 in gift cards",
-   "url": "https://www.helpnetsecurity.com/2026/11/24/globetopper-breach-gift-cards/",
-   "ozet": "Hackers breached GlobeTopper, a B2B digital gift card and top-up platform, and stole API credentials belonging to some of its business customers, while gift cards worth about $70,000 were redeemed without authorization. According to a filing with the U.S. Securities and Exchange Commission (SEC), pa",
-   "grup": "Genel"
-  },
-  {
-   "id": "887479947b9c",
-   "tarih": "2026-11-24",
-   "kaynak": "Help Net Security",
-   "baslik": "ShinyHunters-linked crew resurfaces on new leak site",
-   "url": "https://www.helpnetsecurity.com/2026/11/24/shinyhunters-inception-leak-site-okta/",
-   "ozet": "The ShinyHunters leak site went dark in September, but a crew that supplied it with victims seems to have found a new home under the &#8220;Inception&#8221; name, Okta&#8217;s threat intelligence team has discovered. Okta tracks the crew as O-UNC-053, a cluster that has been running social engineeri",
-   "grup": "Genel"
-  },
-  {
-   "id": "7f8f5938b05b",
-   "tarih": "2026-11-24",
-   "kaynak": "Dark Reading",
-   "baslik": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
-   "url": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
-   "ozet": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders.",
-   "grup": "Genel"
-  },
-  {
-   "id": "7b3ad046b366",
-   "tarih": "2026-11-24",
-   "kaynak": "GBHackers",
-   "baslik": "AI-Powered Hackers Deploy Stealthy ZQAgent Malware to Keep Control of Compromised Linux Servers",
-   "url": "https://gbhackers.com/zqagent-malware-attack/",
-   "ozet": "An LLM-driven intrusion tool has deployed a persistent Linux backdoor, which is unusual for this class of attack. LLM-driven intrusions have mostly been fast, noisy smash-and-grab operations. They rarely leave footholds beyond staged credentials, so defenders can usually contain them by isolating th",
-   "grup": "Genel"
-  },
-  {
-   "id": "78138acb2d0a",
-   "tarih": "2026-11-24",
-   "kaynak": "Help Net Security",
-   "baslik": "GTA 6 hacker sentenced to seven years and released the same day",
-   "url": "https://www.helpnetsecurity.com/2026/11/24/gta-vi-hacker-sentenced-seven-years-released-on-licence/",
-   "ozet": "The Lapsus$ member who leaked footage of Grand Theft Auto VI (GTA 6) was sentenced to seven years in prison on Monday and released from custody on licence the same day, City of London Police announced. Arion Kurtaj, 21, formerly of Oxfordshire, pleaded guilty to six charges, including fraud and comp",
-   "grup": "Genel"
-  },
-  {
-   "id": "73f5feebcae4",
-   "tarih": "2026-11-24",
-   "kaynak": "GBHackers",
-   "baslik": "12 Dark Web Monitoring Services: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/dark-web-monitoring-buyers-guide/",
-   "ozet": "Dark web monitoring is only as good as two things: how deep the collection reaches into closed forums, Telegram channels, and criminal marketplaces, and whether the alerts are actionable intelligence or noise about data already everywhere. This verdict guide judges twelve services, declaring each on",
-   "grup": "Genel"
-  },
-  {
    "id": "70ffa0cfd81d",
    "tarih": "2026-11-24",
    "kaynak": "SecurityWeek",
@@ -600,96 +699,6 @@
    "url": "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/",
    "ozet": "OpenAI and Cisco’s Shirudo uses AI-generated shields to block Linux exploits while patches are prepared, but it’s not yet production-ready. The post OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems appeared first on SecurityWeek.",
    "grup": "Cisco"
-  },
-  {
-   "id": "708c30f6621b",
-   "tarih": "2026-11-24",
-   "kaynak": "GBHackers",
-   "baslik": "12 Fraud Detection Software: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/fraud-detection-buyers-guide/",
-   "ozet": "Fraud detection is a tightrope with a knife’s edge: too slack and the losses pile up, too strict and you turn away good customers and choke your revenue. This guide weighs twelve platforms and names each one’s vertical, because ecommerce chargebacks, payments and fintech, identity fraud and new-acco",
-   "grup": "Genel"
-  },
-  {
-   "id": "6c8bb09a4f96",
-   "tarih": "2026-11-24",
-   "kaynak": "SOC Prime",
-   "baslik": "CVE-2026-134401: Critical Google Chrome Flaw Can Enable Code Execution Outside the Sandbox",
-   "url": "https://socprime.com/blog/cve-2026-134401-critical-google-chrome-flaw-can-enable-code-execution-outside-the-sandbox/",
-   "ozet": "Google has released an emergency security update addressing CVE-2026-134401, a Critical vulnerability in Google Chrome that could allow a remote attacker to execute arbitrary code outside the browser sandbox after a victim loads a specially crafted HTML page. The vulnerability is caused by improper ",
-   "grup": "Genel"
-  },
-  {
-   "id": "6c270107d398",
-   "tarih": "2026-11-24",
-   "kaynak": "BleepingComputer",
-   "baslik": "Rackspace shuts down Spot cloud platform after security breach",
-   "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-   "ozet": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "6b48789d1147",
-   "tarih": "2026-11-24",
-   "kaynak": "The Hacker News",
-   "baslik": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-   "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
-   "ozet": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for comman",
-   "grup": "Genel"
-  },
-  {
-   "id": "6a6218931c47",
-   "tarih": "2026-11-24",
-   "kaynak": "Dark Reading",
-   "baslik": "Satellites Have a Ground-Level Cybersecurity Problem",
-   "url": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
-   "ozet": "Weaknesses in the ground-based infrastructure supporting satellite services are becoming more consequential as a new space race gathers pace.",
-   "grup": "Genel"
-  },
-  {
-   "id": "63f0776ef9f5",
-   "tarih": "2026-11-24",
-   "kaynak": "GBHackers",
-   "baslik": "New Android Camera Attack Lets Hackers Eavesdrop on Speech Without Microphone Access",
-   "url": "https://gbhackers.com/new-android-camera-attack/",
-   "ozet": "Security researchers have demonstrated that an Android app with camera permission can recover parts of speech played through a phone’s built-in loudspeaker without accessing the microphone. The attack, dubbed CAMEAR, uses motion data exposed by Android’s Camera2 interface rather than video frames or",
-   "grup": "Genel"
-  },
-  {
-   "id": "63399c74702a",
-   "tarih": "2026-11-24",
-   "kaynak": "BleepingComputer",
-   "baslik": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
-   "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
-   "ozet": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "6085ef54790f",
-   "tarih": "2026-11-24",
-   "kaynak": "The Hacker News",
-   "baslik": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-   "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-   "ozet": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicio",
-   "grup": "Genel"
-  },
-  {
-   "id": "602d63e2c253",
-   "tarih": "2026-11-24",
-   "kaynak": "Hackread",
-   "baslik": "UK Retailer Next Discloses Cyber Incident at Online Supplier",
-   "url": "https://hackread.com/uk-retailer-next-cyber-incident-online-supplier/",
-   "ozet": "UK retailer Next says an online supplier cyber incident exposed its company information. It found no evidence that customer personal data was exposed.",
-   "grup": "Genel"
-  },
-  {
-   "id": "5fb0c92e3a3a",
-   "tarih": "2026-11-24",
-   "kaynak": "Help Net Security",
-   "baslik": "Cloudera helps enterprises deploy sovereign AI without proprietary lock-in",
-   "url": "https://www.helpnetsecurity.com/2026/11/24/cloudera-digital-sovereignty/",
-   "ozet": "Cloudera has announced Cloudera for Digital Sovereignty, a solution and partner ecosystem designed to give organizations jurisdictional, operational, and technical control across their data, cloud, and AI lifecycle. Bringing together Cloudera Anywhere Cloud, Cloudera’s Open Data Lakehouse and Unifie",
-   "grup": "Genel"
   },
   {
    "id": "5ba708d91b20",
