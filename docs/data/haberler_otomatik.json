@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-26T12:26:28+00:00",
+ "guncelleme": "2026-11-26T18:57:59+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -63,6 +63,33 @@
    "grup": "Genel"
   },
   {
+   "id": "f6f801d23557",
+   "tarih": "2026-11-26",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Infect 5,600 Devices With Stealthy Malware That Hides Remote-Control Commands in Normal Traffic",
+   "url": "https://gbhackers.com/stealthy-malware-campaign/",
+   "ozet": "A new variant of the Cling botnet has infected about 5,600 devices. It hides its command-and-control (C&#38;C) traffic inside ordinary STUN exchanges, which makes it hard to spot. China&#8217;s CNCERT reported the spread in November 2026. The botnet mainly targets Linux servers and IoT devices. STUN",
+   "grup": "Genel"
+  },
+  {
+   "id": "f5eee8a53f92",
+   "tarih": "2026-11-26",
+   "kaynak": "The Hacker News",
+   "baslik": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+   "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+   "ozet": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides in a small utils package or in conftest.py,\" SafeDep said in a report published ",
+   "grup": "Genel"
+  },
+  {
+   "id": "f15e463bcbac",
+   "tarih": "2026-11-26",
+   "kaynak": "Hackread",
+   "baslik": "Facebook Ads for Fake Wallpapers Spread SYS010 Malware on Windows",
+   "url": "https://hackread.com/facebook-ads-fake-wallpapers-sys010-malware-windows/",
+   "ozet": "Fake animated wallpaper ads on Facebook are being used to spread malware that targets Meta business accounts, steals&#8230;",
+   "grup": "Microsoft"
+  },
+  {
    "id": "ecfd160b2eed",
    "tarih": "2026-11-26",
    "kaynak": "Hackread",
@@ -97,6 +124,15 @@
    "url": "https://www.helpnetsecurity.com/2026/11/26/google-ai-agent-security-requirements/",
    "ozet": "Google has announced security controls across Google Workspace and Google Cloud to address the risks associated with autonomous AI agents accessing enterprise data, executing tasks, and interacting with cloud infrastructure. The measures include dedicated agent identities, human approval controls fo",
    "grup": "Genel"
+  },
+  {
+   "id": "bb9d1e6ae562",
+   "tarih": "2026-11-26",
+   "kaynak": "SecurityWeek",
+   "baslik": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+   "url": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
+   "ozet": "Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart Conductor Flaw Exploited in Attacks appeared first on SecurityWeek.",
+   "grup": "Juniper"
   },
   {
    "id": "bb379b79e74f",
@@ -180,6 +216,15 @@
    "grup": "Genel"
   },
   {
+   "id": "8399c78e0a54",
+   "tarih": "2026-11-26",
+   "kaynak": "SecurityWeek",
+   "baslik": "FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’",
+   "url": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/",
+   "ozet": "FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information. The post FIFA Says It Has Been Victim of a Cyberattack Accessing &#8216;Personal and Business Information&#8217; appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
    "id": "82568982e7fb",
    "tarih": "2026-11-26",
    "kaynak": "Hackread",
@@ -234,6 +279,15 @@
    "grup": "Genel"
   },
   {
+   "id": "42756c94ced7",
+   "tarih": "2026-11-26",
+   "kaynak": "BleepingComputer",
+   "baslik": "Fake paid expert interviews impersonate brands to steal Google logins",
+   "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+   "ozet": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "420627cd7e6f",
    "tarih": "2026-11-26",
    "kaynak": "The Hacker News",
@@ -258,6 +312,15 @@
    "baslik": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
    "url": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
    "ozet": "Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap. The post Drupal Installer Patch Left a Gap Attackers Are Already Exploiting appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "348583b5cbc9",
+   "tarih": "2026-11-26",
+   "kaynak": "GBHackers",
+   "baslik": "The Anatomy of Tag Leakage: How Pixels, Session Replays, and Trackers Bypass Standard Banners",
+   "url": "https://gbhackers.com/the-anatomy-of-tag-leakage-how-pixels-session-replays-and-trackers-bypass-standard-banners/",
+   "ozet": "A consent banner is a preference requirement. It writes a cookie or localStorage key recording the visitor&#8217;s choice for any code that decides to read it. Nothing in the banner stops a script tag from executing or a request from leaving the browser. Tag leakage is the gap between those two thin",
    "grup": "Genel"
   },
   {
@@ -297,12 +360,30 @@
    "grup": "Juniper"
   },
   {
+   "id": "1c0fdc3979bb",
+   "tarih": "2026-11-26",
+   "kaynak": "BleepingComputer",
+   "baslik": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+   "url": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+   "ozet": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "1ae6d6364cd2",
    "tarih": "2026-11-26",
    "kaynak": "GBHackers",
    "baslik": "OpenAI AI Agents Bypass Security Restrictions to Access Australian Government Systems",
    "url": "https://gbhackers.com/openai-ai-agents/",
    "ozet": "OpenAI models under internal training escaped their sandboxes in June 2026 and reached Australian government systems. Talos&#8217;s analysis of the swarm&#8217;s public traces shows how multi-agent systems improvise when blocked, and those behaviors are now appearing in real attack frameworks. OpenA",
+   "grup": "Genel"
+  },
+  {
+   "id": "17ea7e9dd6a3",
+   "tarih": "2026-11-26",
+   "kaynak": "BleepingComputer",
+   "baslik": "Remus malware steals Gmail messages via fake Google Sheets extension",
+   "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+   "ozet": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
    "grup": "Genel"
   },
   {
@@ -321,6 +402,15 @@
    "baslik": "1Password Data Breach – Hackers Compromise GitHub Account to Steal Customer Data and Source Code",
    "url": "https://gbhackers.com/1password-data-breach-hackers-compromise-github-account/",
    "ozet": "1Password announced that an attacker had compromised a corporate GitHub account belonging to an employee. The attacker copied source code from private repositories and stole account information from some customers. However, 1Password confirmed that the attacker did not access or obtain customer vaul",
+   "grup": "Genel"
+  },
+  {
+   "id": "04fe40120dba",
+   "tarih": "2026-11-26",
+   "kaynak": "Help Net Security",
+   "baslik": "Preinstalled Keenadu malware turns up on 220,000+ Android devices",
+   "url": "https://www.helpnetsecurity.com/2026/11/26/keenadu-malware-android-devices/",
+   "ozet": "A new Android phone can come out of the box with malware already in its firmware, and the number of such devices detected each month has grown more than 2.5 times over the past year, according to Kaspersky. Keenadu, one of the two families behind most of these infections, landed on more than 220,000",
    "grup": "Genel"
   },
   {
@@ -600,78 +690,6 @@
    "baslik": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
    "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
    "ozet": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "5d8223f882df",
-   "tarih": "2026-11-25",
-   "kaynak": "BleepingComputer",
-   "baslik": "InfraTrust warns of exploited supply chain flaws in network appliances",
-   "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
-   "ozet": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by the vendors themselves. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "5b24808f2ee5",
-   "tarih": "2026-11-25",
-   "kaynak": "Hackread",
-   "baslik": "FBI Helps Free Over 2,200 Trafficking Victims in Global Scam Crackdown",
-   "url": "https://hackread.com/fbi-helps-free-trafficking-victims-global-scam-crackdown/",
-   "ozet": "US prosecutors took action against over 800 defendants in more than 400 fraud cases. The FBI reported restraining nearly $17 billion in illicit funds.",
-   "grup": "Genel"
-  },
-  {
-   "id": "5aac1dca0d01",
-   "tarih": "2026-11-25",
-   "kaynak": "SecurityWeek",
-   "baslik": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
-   "url": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
-   "ozet": "Matthew Martin is Chief Information Security and Privacy Officer at Western Carolina University. The post Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "57a9de6dd641",
-   "tarih": "2026-11-25",
-   "kaynak": "Dark Reading",
-   "baslik": "Cyber Insurers See New Divide: AI Defense 'Haves' &amp; 'Have Nots'",
-   "url": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
-   "ozet": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model unsustainable.",
-   "grup": "Genel"
-  },
-  {
-   "id": "5265d3f089df",
-   "tarih": "2026-11-25",
-   "kaynak": "Dark Reading",
-   "baslik": "It's a Bot World. We're Just Living in It",
-   "url": "https://www.darkreading.com/cyber-risk/bot-world-just-living",
-   "ozet": "Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally.",
-   "grup": "Genel"
-  },
-  {
-   "id": "50a53afadcff",
-   "tarih": "2026-11-25",
-   "kaynak": "BleepingComputer",
-   "baslik": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
-   "ozet": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "4b26c81a4516",
-   "tarih": "2026-11-25",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "Infrastructure security alliance tells CEOs to prioritize assets, test response and recovery",
-   "url": "https://www.cybersecuritydive.com/news/alliance-critical-infrastructure-guidance-cybersecurity-ai/875741/",
-   "ozet": "Recent technology outages offer a preview of a chaotic future. Executives can act now to minimize risks, a trade group for infrastructure operators said.",
-   "grup": "Genel"
-  },
-  {
-   "id": "45c257ac25c8",
-   "tarih": "2026-11-25",
-   "kaynak": "SecurityWeek",
-   "baslik": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
-   "url": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/",
-   "ozet": "Attackers can exploit CVE-2026-131914 to achieve remote code execution via a single web request containing specially crafted data. The post Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library appeared first on SecurityWeek.",
    "grup": "Genel"
   },
   {
