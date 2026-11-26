@@ -481,6 +481,39 @@
       "url": "https://www.kvkk.gov.tr/Icerik/9094/kamuoyu-duyurusu-veri-ihlali-bildirimi-bursa-ticaret-ve-sanayi-odasi",
       "veriKategorileri": "Kimlik; İletişim; Müşteri işlem; İşlem güvenliği",
       "veriDetay": "Üye firma ve şahıslara ait kimlik, iletişim, üyelik ve tahsilat kayıtları dışarı aktarıldı."
+    },
+    {
+      "id": "k55", "tarih": "2026-11-25", "veriSorumlusu": "Kıraç Turizm Taşımacılık ve Ticaret Limited Şirketi", "sektor": "Turizm", "tur": "Fidye yazılımı", "etkilenen": null, "etkilenenNot": "Sayı açıklanmadı", "karar": "2026/2583", "url": "https://www.kvkk.gov.tr/Icerik/9136/kamuoyu-duyurusu-veri-ihlali-bildirimi-kirac-turizm-tasimacilik-ve-ticaret-limited-sirketi", "veriKategorileri": "Kimlik; İletişim; Lokasyon; Özlük; Hukuki işlem; Görsel ve işitsel kayıtlar; özel nitelikli veriler", "veriDetay": "Fidye yazılımı saldırısında dosyalar şifrelendi; çalışanlar, müşteriler ve potansiyel müşteriler etkilenmiş olabilir."
+    },
+    {
+      "id": "k56", "tarih": "2026-11-25", "veriSorumlusu": "Merck Sharp Dohme İlaçları Limited Şirketi", "sektor": "İlaç / klinik araştırma", "tur": "Yedekleme dosyalarına yetkisiz erişim", "etkilenen": 106, "etkilenenNot": "80 katılımcı ve 26 araştırmacı/saha personeli", "karar": "2026/2530", "url": "https://www.kvkk.gov.tr/Icerik/9137/kamuoyu-duyurusu-veri-ihlali-bildirimi-merck-sharp-dohme-ilaclari-limited-sirketi", "veriKategorileri": "Kimlik; İletişim; Mesleki deneyim; Sağlık", "veriDetay": "Klinik araştırmaların yedekleme dosyalarına erişildi; katılımcı verileri kodlanmış durumdaydı."
+    },
+    {
+      "id": "k57", "tarih": "2026-11-25", "veriSorumlusu": "GDS Eğitim Danışmanlık ve Teknoloji AŞ", "sektor": "Eğitim teknolojileri", "tur": "Bulut veritabanı erişim kuralı hatası", "etkilenen": 2950, "etkilenenNot": "2.950 kişi", "karar": "2026/2532", "url": "https://www.kvkk.gov.tr/Icerik/9138/kamuoyu-duyurusu-veri-ihlali-bildirimi-gds-egitim-danismanlik-ve-teknoloji-as", "veriKategorileri": "Kimlik; İletişim; Müşteri işlem; Günlük kayıtları; yapay zeka asistanı konuşmaları", "veriDetay": "Goddess uygulamasının dışa açık arayüzü kimlik doğrulaması olmadan sorgulanabildi; kayıtlar görüntülendi."
+    },
+    {
+      "id": "k58", "tarih": "2026-11-25", "veriSorumlusu": "Velux Çatı Pencereleri Ticaret Limited Şirketi", "sektor": "Yapı malzemeleri", "tur": "Üçüncü taraf CMS bileşeni zafiyeti", "etkilenen": 1240, "etkilenenNot": "1.240 kişi", "karar": "2026/2582", "url": "https://www.kvkk.gov.tr/Icerik/9139/kamuoyu-duyurusu-veri-ihlali-bildirimi-velux-cati-pencereleri-ticaret-limited-sirketi", "veriKategorileri": "İletişim", "veriDetay": "Kurumsal CMS yazılımındaki harici bileşen açığının istismar edildiği değerlendirildi."
+    },
+    {
+      "id": "k59", "tarih": "2026-11-25", "veriSorumlusu": "Ata Turizm İşletmecilik Taşımacılık Madencilik Kuyumculuk Sanayi ve Dış Ticaret AŞ", "sektor": "Turizm", "tur": "Fidye yazılımı", "etkilenen": null, "etkilenenNot": "Sayı açıklanmadı", "karar": "2026/2585", "url": "https://www.kvkk.gov.tr/Icerik/9140/kamuoyu-duyurusu-veri-ihlali-bildirimi-ata-turizm-isletmecilik-tasimacilik-madencilik-kuyumculuk-sanayi-ve-dis-ticaret-as", "veriKategorileri": "İnceleme sürüyor", "veriDetay": "Fidye yazılımı saldırısında veriler şifrelendi; etkilenen kişi ve veri kategorileri için tespit çalışması sürüyor."
+    },
+    {
+      "id": "k60", "tarih": "2026-11-25", "veriSorumlusu": "Dorak Turizm ve Gayrimenkul Yatırımları Holding AŞ", "sektor": "Turizm", "tur": "Fidye yazılımı", "etkilenen": null, "etkilenenNot": "Sayı açıklanmadı", "karar": "2026/2586", "url": "https://www.kvkk.gov.tr/Icerik/9141/kamuoyu-duyurusu-veri-ihlali-bildirimi-dorak-turizm-ve-gayrimenkul-yatirimlari-holding-as", "veriKategorileri": "İnceleme sürüyor", "veriDetay": "Fidye yazılımı saldırısında veriler şifrelendi; etkilenen kişi ve veri kategorileri için tespit çalışması sürüyor."
+    },
+    {
+      "id": "k61", "tarih": "2026-11-25", "veriSorumlusu": "Yeditepe Üniversitesi", "sektor": "Eğitim", "tur": "İnternete açık POS bileşeni zafiyeti", "etkilenen": null, "etkilenenNot": "Sayı açıklanmadı", "karar": "2026/2584", "url": "https://www.kvkk.gov.tr/Icerik/9142/kamuoyu-duyurusu-veri-ihlali-bildirimi-yeditepe-universitesi", "veriKategorileri": "Kimlik; İletişim; Özlük; İşlem güvenliği; Finans; Sağlık; özel nitelikli veriler", "veriDetay": "İnternete açık POS uygulamasının arka plan bileşenindeki açıklık nedeniyle çalışan ve öğrenci verileri etkilenmiş olabilir."
+    },
+    {
+      "id": "k62", "tarih": "2026-11-25", "veriSorumlusu": "Temeltaş Proje Geliştirme İnşaat Sanayi ve Ticaret AŞ", "sektor": "İnşaat", "tur": "Oltalama ve zararlı yazılım", "etkilenen": null, "etkilenenNot": "Sayı açıklanmadı", "karar": "2026/2534", "url": "https://www.kvkk.gov.tr/Icerik/9143/kamuoyu-duyurusu-veri-ihlali-bildirimi-temeltas-proje-gelistirme-insaat-sanayi-ve-ticaret-as", "veriKategorileri": "Kimlik; İletişim; Özlük; Finans; Müşteri/tedarikçi işlem; İşlem güvenliği", "veriDetay": "Oltalama e-postasıyla indirilen zararlı yazılım, cihaz ve tarayıcıda kayıtlı erişim bilgilerini hedef aldı."
+    },
+    {
+      "id": "k63", "tarih": "2026-11-25", "veriSorumlusu": "İnteraktif Kredi Danışmanlık AŞ", "sektor": "Finans / kredi danışmanlığı", "tur": "Ele geçirilmiş kullanıcı bilgileriyle yetkisiz erişim", "etkilenen": 769779, "etkilenenNot": "769.779 kişi", "karar": "2026/2535", "url": "https://www.kvkk.gov.tr/Icerik/9144/kamuoyu-duyurusu-veri-ihlali-bildirimi-interaktif-kredi-danismanlik-as", "veriKategorileri": "Kimlik; İletişim; Mesleki deneyim; Finans", "veriDetay": "ICRM satış paneline ele geçirilmiş yönetici giriş bilgileriyle VPN üzerinden erişildi; müşteri kayıtları görüntülendi."
+    },
+    {
+      "id": "k64", "tarih": "2026-11-25", "veriSorumlusu": "Cleverbridge GmbH", "sektor": "E-ticaret / ödeme", "tur": "İnternet sunucularına yetkisiz erişim", "etkilenen": 136347, "etkilenenNot": "136.347 kişi", "karar": "2026/2590", "url": "https://www.kvkk.gov.tr/Icerik/9145/kamuoyu-duyurusu-veri-ihlali-bildirimi-cleverbridge-gmbh", "veriKategorileri": "Kimlik; İletişim; Finans", "veriDetay": "Üç internet sunucusuna erişim sağlandı; saklanan ödeme kartı verileri ile adres ve e-posta bilgileri okundu."
+    },
+    {
+      "id": "k65", "tarih": "2026-11-25", "veriSorumlusu": "World Triathlon (Union Internationale de Triathlon)", "sektor": "Spor federasyonu", "tur": "Raporlama platformuna yetkisiz erişim", "etkilenen": 1673, "etkilenenNot": "Türkiye'den 1.673 kişi", "karar": "2026/2529", "url": "https://www.kvkk.gov.tr/Icerik/9146/kamuoyu-duyurusu-veri-ihlali-bildirimi-world-triathlon-union-internationale-de-triathlon", "veriKategorileri": "Kimlik; İletişim; Lokasyon; İşlem güvenliği; Sağlık; Görsel kayıtlar", "veriDetay": "Metabase raporlama platformuna erişildi; gizli yönetici hesapları oluşturuldu ve veritabanı tabloları dışa aktarıldı."
     }
   ]
 }
