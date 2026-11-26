@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-26T03:30:40+00:00",
+ "guncelleme": "2026-11-26T12:26:28+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -33,7 +33,8 @@
   },
   {
    "kaynak": "GBHackers",
-   "durum": "hata"
+   "durum": "ok",
+   "adet": 10
   },
   {
    "kaynak": "Cybersecurity Dive",
@@ -52,6 +53,276 @@
   }
  ],
  "haberler": [
+  {
+   "id": "ff4fab61fdec",
+   "tarih": "2026-11-26",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Actively Exploit Critical Drupal Vulnerability to Take Over Websites",
+   "url": "https://gbhackers.com/hackers-actively-exploit-critical-drupal-vulnerability/",
+   "ozet": "Hackers are actively exploiting CVE-2026-136716, a Drupal core access bypass that allows unauthenticated attackers to take over vulnerable websites. The Drupal Security Team confirmed exploitation in its November 25 security advisory, rating the flaw 21 out of 25 on its severity scale. Some producti",
+   "grup": "Genel"
+  },
+  {
+   "id": "ecfd160b2eed",
+   "tarih": "2026-11-26",
+   "kaynak": "Hackread",
+   "baslik": "Hackers used Hugging Face’s AI site builder to create fake Microsoft login pages",
+   "url": "https://hackread.com/hackers-hugging-face-ai-site-builder-fake-microsoft-login-pages/",
+   "ozet": "Researchers found 42 phishing pages on Hugging Face Spaces, 29 built via its DeepSite AI app. The pages impersonated Microsoft, PayPal and 26 other brands.",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "e51dcba7db60",
+   "tarih": "2026-11-26",
+   "kaynak": "Help Net Security",
+   "baslik": "More than 4,400 malicious domains are waiting for holiday shoppers",
+   "url": "https://www.helpnetsecurity.com/2026/11/26/fortinet-holiday-shopping-cyber-threats-report/",
+   "ozet": "Cybercriminals are positioned to exploit the holiday shopping season through fraudulent storefronts, retailer impersonation, payment fraud and account takeover attacks, according to FortiGuard Labs&#8217; Holiday Season Cyber Threats Report 2026. Researchers identified more than 24,000 newly registe",
+   "grup": "Genel"
+  },
+  {
+   "id": "dd168b1ec489",
+   "tarih": "2026-11-26",
+   "kaynak": "Dark Reading",
+   "baslik": "Cyprus Becomes Espionage Target for Iranian Hackers",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
+   "ozet": "A previously undocumented Iranian threat group called &quot;Volant Manticore&quot; is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran.",
+   "grup": "Genel"
+  },
+  {
+   "id": "d03a4b25546f",
+   "tarih": "2026-11-26",
+   "kaynak": "Help Net Security",
+   "baslik": "Google mandates MCP or CLI access for Workspace AI agents starting February 2027",
+   "url": "https://www.helpnetsecurity.com/2026/11/26/google-ai-agent-security-requirements/",
+   "ozet": "Google has announced security controls across Google Workspace and Google Cloud to address the risks associated with autonomous AI agents accessing enterprise data, executing tasks, and interacting with cloud infrastructure. The measures include dedicated agent identities, human approval controls fo",
+   "grup": "Genel"
+  },
+  {
+   "id": "bb379b79e74f",
+   "tarih": "2026-11-26",
+   "kaynak": "Help Net Security",
+   "baslik": "Proxmox 9.3 adds production snapshots for SAN-backed VMs",
+   "url": "https://www.helpnetsecurity.com/2026/11/26/proxmox-9-3-adds-production-snapshots-for-san-backed-vms/",
+   "ozet": "Proxmox Virtual Environment 9.3 adds production support for snapshots on shared LVM storage over iSCSI and Fibre Channel SANs. The open-source virtualization platform also gives each guest an identity that survives migration, backup and restore. If your VMs sit on a SAN, you can now snapshot them be",
+   "grup": "Genel"
+  },
+  {
+   "id": "aa96116a13ef",
+   "tarih": "2026-11-26",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Poison GitHub Pull Requests With Malware That Can Steal Developer Passwords",
+   "url": "https://gbhackers.com/github-pull-requests/",
+   "ozet": "A threat actor used rewritten commits in open GitHub pull requests to deliver the PolinRider credential-stealing loader. It targeted AsyncAPI Generator, CircuitVerse and Open Food Facts. None of the account&#8217;s 145 merged pull requests carries the loader, but CircuitVerse&#8217;s CI ran it and p",
+   "grup": "Genel"
+  },
+  {
+   "id": "9fef03c442c0",
+   "tarih": "2026-11-26",
+   "kaynak": "Help Net Security",
+   "baslik": "Data recovery firm co-founder accused of cashing in on ransomware victims",
+   "url": "https://www.helpnetsecurity.com/2026/11/26/ransomware-recovery-fraud-florida-firm-co-founder-charged/",
+   "ozet": "The co-founder of a Florida data recovery firm has been indicted on charges that he secretly paid ransomware gangs while telling victims his company never did. Juan Ricardo Palacio Escobar, a 52-year-old Colombian national, was arrested in Las Vegas on October 22 and has been charged by a federal gr",
+   "grup": "Genel"
+  },
+  {
+   "id": "98bf0c432201",
+   "tarih": "2026-11-26",
+   "kaynak": "The Hacker News",
+   "baslik": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+   "url": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+   "ozet": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket security researcher K",
+   "grup": "Genel"
+  },
+  {
+   "id": "98404916e851",
+   "tarih": "2026-11-26",
+   "kaynak": "Help Net Security",
+   "baslik": "US agency tracking money laundering is latest casualty in string of federal breaches",
+   "url": "https://www.helpnetsecurity.com/2026/11/26/fincen-breach-systems-offline/",
+   "ozet": "An intrusion at the US Treasury&#8217;s Financial Crimes Enforcement Network (FinCEN) has forced the agency to take some systems offline and extend reporting deadlines for financial institutions. The bureau serves as the US government&#8217;s financial intelligence unit, collecting suspicious activi",
+   "grup": "Genel"
+  },
+  {
+   "id": "934844eca98d",
+   "tarih": "2026-11-26",
+   "kaynak": "GBHackers",
+   "baslik": "Windows NTLM Security Update Causes Authentication Failures in Third-Party Apps and Devices",
+   "url": "https://gbhackers.com/windows-ntlm-security-update-causes-authentication-failures/",
+   "ozet": "Microsoft has confirmed that Windows security updates released on or after November 10, 2026, can cause authentication failures in some third-party applications and devices that rely on NT LAN Manager (NTLM). Affected products can include authentication proxy servers, single sign-on (SSO) solutions,",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "8dbafbcd911f",
+   "tarih": "2026-11-26",
+   "kaynak": "GBHackers",
+   "baslik": "Critical GeoServer Vulnerability Chain Lets Hackers Execute Remote Commands Without Authentication",
+   "url": "https://gbhackers.com/critical-geoserver-vulnerability-chain/",
+   "ozet": "Five vulnerabilities in GeoServer, an open-source server for publishing geospatial data, can be chained to execute operating system commands without valid credentials. Security researcher CryptoCat demonstrated the chain on a default Linux installation, while watchTowr reported seeing attempts to ex",
+   "grup": "Genel"
+  },
+  {
+   "id": "84f25e464074",
+   "tarih": "2026-11-26",
+   "kaynak": "SecurityWeek",
+   "baslik": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+   "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+   "ozet": "Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign. The post Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "84ce059e91ed",
+   "tarih": "2026-11-26",
+   "kaynak": "SecurityWeek",
+   "baslik": "1Password Breach Exposes Customer Data, Internal Source Code",
+   "url": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
+   "ozet": "A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed. The post 1Password Breach Exposes Customer Data, Internal Source Code appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "82568982e7fb",
+   "tarih": "2026-11-26",
+   "kaynak": "Hackread",
+   "baslik": "905,672 Characters Under Black Rectangles: Why a Qualified Signature Can’t Vouch for a GDPR Export",
+   "url": "https://hackread.com/905672-characters-qualified-signature-gdpr-export/",
+   "ozet": "A signed GDPR export left 905,672 characters readable beneath black boxes, showing why a valid PDF signature cannot verify redactions or completeness.",
+   "grup": "Genel"
+  },
+  {
+   "id": "76caee4c618a",
+   "tarih": "2026-11-26",
+   "kaynak": "GBHackers",
+   "baslik": "FIFA Confirms Data Breach After Hackers Steal Personal and Business Information",
+   "url": "https://gbhackers.com/fifa-confirms-data-breach/",
+   "ozet": "FIFA confirmed that attackers gained unauthorized access to a “limited set of personal and business information.” At the same time, Spain’s LaLiga disclosed a separate intrusion that exposed personal data belonging to users of its digital fan services and those of several clubs. The disclosures poin",
+   "grup": "Genel"
+  },
+  {
+   "id": "69311314e850",
+   "tarih": "2026-11-26",
+   "kaynak": "Help Net Security",
+   "baslik": "1Password breached through hijacked employee GitHub account, customer names and emails stolen",
+   "url": "https://www.helpnetsecurity.com/2026/11/26/1password-breach-github-customer-records/",
+   "ozet": "An attacker who got into a 1Password employee’s corporate GitHub account went on to copy account records for some of the company’s users and source code from private repositories, the password manager maker disclosed on Wednesday. “1Password identified a security incident involving some of our backe",
+   "grup": "Genel"
+  },
+  {
+   "id": "516d8b374594",
+   "tarih": "2026-11-26",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Use Suspected SEO Poisoning to Lure Users Into Downloading Gh0stRAT Malware",
+   "url": "https://gbhackers.com/seo-poisoning-campaign-2/",
+   "ozet": "A Gh0stRAT campaign that hides behind a working copy of the OhSoft oCam screen recorder. Researchers link the activity to Silver Fox and suspect SEO poisoning as the delivery method. Endpoint detection and response (EDR) stopped the infection roughly 90 seconds after the installer launched. In mid-S",
+   "grup": "Genel"
+  },
+  {
+   "id": "4defc6085564",
+   "tarih": "2026-11-26",
+   "kaynak": "Help Net Security",
+   "baslik": "People are willing to pay to vanish from search results",
+   "url": "https://www.helpnetsecurity.com/2026/11/26/incogni-online-privacy-concerns-report/",
+   "ozet": "More than half of U.S. adults would like to see a log of everyone who has searched for their name online. In a survey of 1,008 adults by Incogni, 53% said they would like that record to cover the past five years, and 55% said they would pay to have their personal information permanently removed from",
+   "grup": "Genel"
+  },
+  {
+   "id": "457c08cf27ea",
+   "tarih": "2026-11-26",
+   "kaynak": "The Hacker News",
+   "baslik": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+   "url": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+   "ozet": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to C",
+   "grup": "Genel"
+  },
+  {
+   "id": "420627cd7e6f",
+   "tarih": "2026-11-26",
+   "kaynak": "The Hacker News",
+   "baslik": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+   "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+   "ozet": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we took immediate steps t",
+   "grup": "Genel"
+  },
+  {
+   "id": "3980562478a3",
+   "tarih": "2026-11-26",
+   "kaynak": "Help Net Security",
+   "baslik": "Black Friday cybersecurity deals 2026: Stay safe, spend less",
+   "url": "https://www.helpnetsecurity.com/2026/11/26/black-friday-2026-cybersecurity-deals/",
+   "ozet": "Black Friday is here again, and for once your inbox full of &#8220;limited time offer&#8221; emails might be worth opening. Every year, security vendors join the sales rush with discounts on the tools we rely on every day. Below you&#8217;ll find some great Black Friday 2026 cybersecurity deals. Gra",
+   "grup": "Genel"
+  },
+  {
+   "id": "37e152d36e89",
+   "tarih": "2026-11-26",
+   "kaynak": "SecurityWeek",
+   "baslik": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
+   "url": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
+   "ozet": "Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap. The post Drupal Installer Patch Left a Gap Attackers Are Already Exploiting appeared first on SecurityWeek.",
+   "grup": "Genel"
+  },
+  {
+   "id": "2e2bda06ff3d",
+   "tarih": "2026-11-26",
+   "kaynak": "GBHackers",
+   "baslik": "Critical Danfoss Refrigeration Controller Vulnerability Could Let Hackers Execute Arbitrary Code Remotely",
+   "url": "https://gbhackers.com/critical-danfoss-refrigeration-controller-vulnerability/",
+   "ozet": "A critical vulnerability in Danfoss AK-SM 8xxA Series refrigeration controllers could allow remote attackers to execute arbitrary code without logging in. The flaw, tracked as CVE-2026-129713, affects software version 5.4.0 and earlier. In its November 24, 2026, industrial control systems advisory, ",
+   "grup": "Genel"
+  },
+  {
+   "id": "27c41b73faa5",
+   "tarih": "2026-11-26",
+   "kaynak": "The Hacker News",
+   "baslik": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+   "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+   "ozet": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about. At Push Security, we measure this as breakthrough rate: The share of ",
+   "grup": "Genel"
+  },
+  {
+   "id": "23ec231ca044",
+   "tarih": "2026-11-26",
+   "kaynak": "BleepingComputer",
+   "baslik": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+   "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+   "ozet": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "1d57aa7ac03a",
+   "tarih": "2026-11-26",
+   "kaynak": "The Hacker News",
+   "baslik": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week. The Mitel MiCollab vulnerabilities are listed below - CVE",
+   "grup": "Juniper"
+  },
+  {
+   "id": "1ae6d6364cd2",
+   "tarih": "2026-11-26",
+   "kaynak": "GBHackers",
+   "baslik": "OpenAI AI Agents Bypass Security Restrictions to Access Australian Government Systems",
+   "url": "https://gbhackers.com/openai-ai-agents/",
+   "ozet": "OpenAI models under internal training escaped their sandboxes in June 2026 and reached Australian government systems. Talos&#8217;s analysis of the swarm&#8217;s public traces shows how multi-agent systems improvise when blocked, and those behaviors are now appearing in real attack frameworks. OpenA",
+   "grup": "Genel"
+  },
+  {
+   "id": "11e3e2773755",
+   "tarih": "2026-11-26",
+   "kaynak": "GBHackers",
+   "baslik": "CISA Warns of 10 Actively Exploited Vulnerabilities in Juniper, Mitel, Danfoss, and Vates Products",
+   "url": "https://gbhackers.com/cisa-warns-of-10-actively-exploited-vulnerabilities/",
+   "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added 10 vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog on November 25, 2026, citing evidence of in-the-wild exploitation. The CISA alert covers five flaws in Mitel MiCollab, three in the Danfoss AK-SM 800A Series",
+   "grup": "Juniper"
+  },
+  {
+   "id": "08987355a286",
+   "tarih": "2026-11-26",
+   "kaynak": "GBHackers",
+   "baslik": "1Password Data Breach – Hackers Compromise GitHub Account to Steal Customer Data and Source Code",
+   "url": "https://gbhackers.com/1password-data-breach-hackers-compromise-github-account/",
+   "ozet": "1Password announced that an attacker had compromised a corporate GitHub account belonging to an employee. The attacker copied source code from private repositories and stole account information from some customers. However, 1Password confirmed that the attacker did not access or obtain customer vaul",
+   "grup": "Genel"
+  },
   {
    "id": "f44f10d640ae",
    "tarih": "2026-11-25",
@@ -404,96 +675,6 @@
    "grup": "Genel"
   },
   {
-   "id": "42f113e756b5",
-   "tarih": "2026-11-25",
-   "kaynak": "Hackread",
-   "baslik": "Open database exposed 2 billion credential records, including session tokens",
-   "url": "https://hackread.com/database-exposed-credential-records-session-tokens/",
-   "ozet": "Cybersecurity researcher Jeremiah Fowler found an open database with roughly 2 billion records, including passwords, browser cookies and session tokens. Access was restricted.",
-   "grup": "Genel"
-  },
-  {
-   "id": "3bc6f96dec95",
-   "tarih": "2026-11-25",
-   "kaynak": "BleepingComputer",
-   "baslik": "Hackers reportedly breached CIA intelligence analysis system",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-   "ozet": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "3996e2590401",
-   "tarih": "2026-11-25",
-   "kaynak": "SOC Prime",
-   "baslik": "CVE-2026-123903: Critical VMware vCenter Authentication Bypass Requires Urgent Patching",
-   "url": "https://socprime.com/blog/cve-2026-123903-critical-vmware-vcenter-authentication-bypass-requires-urgent-patching/",
-   "ozet": "Broadcom has released security updates addressing CVE-2026-123903, a critical authentication bypass vulnerability affecting VMware vCenter Server. The flaw resides in VMware Directory Service, or vmdir, and carries a CVSS 3.1 score of 9.8, Critical. A remote attacker with network access to a vulnera",
-   "grup": "Genel"
-  },
-  {
-   "id": "3885183f3278",
-   "tarih": "2026-11-25",
-   "kaynak": "The Hacker News",
-   "baslik": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
-   "url": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
-   "ozet": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday. Abdulrahman Alfozan, a 35-year-old Saudi national, was arrested on October",
-   "grup": "Genel"
-  },
-  {
-   "id": "1dcff8c3a6af",
-   "tarih": "2026-11-25",
-   "kaynak": "Help Net Security",
-   "baslik": "gputaskman: Open-source task manager for GPUs",
-   "url": "https://www.helpnetsecurity.com/2026/11/25/gputaskman-open-source-gpu-task-manager/",
-   "ozet": "gputaskman is an open-source task manager for GPUs that runs in a terminal on Windows, Linux, WSL, and Apple Silicon Macs. It shows which process is holding a machine&#8217;s GPU memory, how busy each process keeps the card, and which AI model sits behind the numbers, where it can find evidence for ",
-   "grup": "Genel"
-  },
-  {
-   "id": "1a0018bfd634",
-   "tarih": "2026-11-25",
-   "kaynak": "Hackread",
-   "baslik": "1Password Says Hacker Copied Customer Account Data, Vaults Unaffected",
-   "url": "https://hackread.com/1password-attacker-copied-customer-account-data-vaults/",
-   "ozet": "1Password says an attacker copied names, emails and some recovery tokens after accessing a staff GitHub account. Customer vaults were left unaffected.",
-   "grup": "Genel"
-  },
-  {
-   "id": "0b94ce10b8ce",
-   "tarih": "2026-11-25",
-   "kaynak": "Help Net Security",
-   "baslik": "Holiday scam losses force some victims to cut back on essentials",
-   "url": "https://www.helpnetsecurity.com/2026/11/25/mcafee-holiday-shopping-scams-report/",
-   "ozet": "The proportion of Americans who say they have fallen victim to a holiday shopping scam has nearly doubled since last year, according to new research from McAfee. Forty-two percent say they have fallen for one, up from 22% in 2025. Confidence in spotting scams drops Shoppers are less confident in the",
-   "grup": "Genel"
-  },
-  {
-   "id": "0462a0093895",
-   "tarih": "2026-11-25",
-   "kaynak": "Help Net Security",
-   "baslik": "Bots exploited leaked AWS key from Docker image in under 8 seconds",
-   "url": "https://www.helpnetsecurity.com/2026/11/25/docker-aws-key-exposure-bots/",
-   "ozet": "A cloud access key left inside a newly published Docker image can be found and used by bots in less than eight seconds, Billy Tsouvalas and Nick Nikiforakis of Stony Brook University discovered after planting 300 decoy images on public container registries. Docker images are packaged copies of softw",
-   "grup": "Genel"
-  },
-  {
-   "id": "03450c5110ab",
-   "tarih": "2026-11-25",
-   "kaynak": "SOC Prime",
-   "baslik": "Higher Order Sigma Rules (HOSR): Turning Sigma Alerts into ATT&CK-Mapped Attack Chains",
-   "url": "https://socprime.com/blog/higher-order-sigma-rules-hosr-turning-sigma-alerts-into-attck-mapped-attack-chains/",
-   "ozet": "Higher Order Sigma Rules (HOSR) are correlation rules that sit one level above standard Sigma detections. Instead of matching a single log event, a Higher Order Sigma rule links the Sigma rules that fire on one host into an attack chain mapped to MITRE ATT&#38;CK. Most SOC teams already run hundreds",
-   "grup": "Genel"
-  },
-  {
-   "id": "033d307e115d",
-   "tarih": "2026-11-25",
-   "kaynak": "Help Net Security",
-   "baslik": "Security+ builds the foundation. SSCP proves you can execute",
-   "url": "https://www.helpnetsecurity.com/2026/11/25/isc2-systems-security-certified-practitioner-sscp-certification/",
-   "ozet": "Cybersecurity knowledge and operational readiness: why both matter Consider this threat scenario: Systems go down, alerts escalate, response windows shrink. In today’s high-stakes world, cybersecurity professionals need more than theoretical knowledge — they need operational readiness. For many prac",
-   "grup": "Genel"
-  },
-  {
    "id": "00f16364aca5",
    "tarih": "2026-11-25",
    "kaynak": "BleepingComputer",
@@ -503,78 +684,6 @@
    "grup": "Microsoft"
   },
   {
-   "id": "ff43e152311a",
-   "tarih": "2026-11-24",
-   "kaynak": "Hackread",
-   "baslik": "Free vs. Paid Security Tools: Where Free Options Fall Short",
-   "url": "https://hackread.com/free-vs-paid-security-tools-free-options-fall-short/",
-   "ozet": "Compare free and paid cybersecurity tools for small businesses with a look at where free options fall short on monitoring, investigation and response.",
-   "grup": "Genel"
-  },
-  {
-   "id": "f3a43b39549f",
-   "tarih": "2026-11-24",
-   "kaynak": "SecurityWeek",
-   "baslik": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
-   "url": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/",
-   "ozet": "Hackers stole personal information from the company’s customer portal and supplier relationship management platform. The post 1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "ecb734b1dc1c",
-   "tarih": "2026-11-24",
-   "kaynak": "Help Net Security",
-   "baslik": "Astelia blocks attack paths to vulnerabilities without waiting for patches",
-   "url": "https://www.helpnetsecurity.com/2026/11/24/astelia-autonomous-network-mitigation/",
-   "ozet": "Astelia has announced autonomous network mitigation, a new capability that defends against AI-driven exploits by blocking attack paths to reachable vulnerabilities at the network level. Organizations can now eliminate the 1% of vulnerabilities attackers can reach without waiting for a patch. The mit",
-   "grup": "Genel"
-  },
-  {
-   "id": "e977cb91a2ba",
-   "tarih": "2026-11-24",
-   "kaynak": "Cybersecurity Dive",
-   "baslik": "Federal agencies missing opportunities to help protect food sector from cyber threats, GAO says",
-   "url": "https://www.cybersecuritydive.com/news/food-agriculture-cybersecurity-usda-fda-gao-report/875596/",
-   "ozet": "The U.S. Department of Agriculture and the Food and Drug Administration said they lacked the resources and staff to fulfill all of their infrastructure protection responsibilities.",
-   "grup": "Genel"
-  },
-  {
-   "id": "e94ac3e9d520",
-   "tarih": "2026-11-24",
-   "kaynak": "BleepingComputer",
-   "baslik": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-   "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-   "ozet": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "e8d3f5081412",
-   "tarih": "2026-11-24",
-   "kaynak": "GBHackers",
-   "baslik": "12 Post-Quantum / Quantum-Safe Cryptography Solutions: The 2026 Buyer’s Verdict Guide",
-   "url": "https://gbhackers.com/post-quantum-cryptography-buyers-guide/",
-   "ozet": "What drives post-quantum cryptography isn’t a machine that’s already here it’s “harvest now, decrypt later”: attackers hoovering up encrypted data today to crack open the moment a cryptographically useful quantum computer shows up. Now that NIST’s PQC standards are locked, the job has moved from res",
-   "grup": "Genel"
-  },
-  {
-   "id": "e84b2adae5c8",
-   "tarih": "2026-11-24",
-   "kaynak": "GBHackers",
-   "baslik": "Hackers Could Suddenly Apply Trailer Brakes at Highway Speeds Through Bluetooth Vulnerability",
-   "url": "https://gbhackers.com/bluetooth-vulnerability/",
-   "ozet": "Researchers have found that anyone within Bluetooth range of an unpatched Elecbrakes trailer brake controller can apply the trailer&#8217;s brakes with any force. The attacker needs no pairing, PIN or authentication. The flaw is tracked as CVE-2026-96805 and scored CVSS 9.6 (Critical). They decompil",
-   "grup": "Genel"
-  },
-  {
-   "id": "db22ce6bdf49",
-   "tarih": "2026-11-24",
-   "kaynak": "The Hacker News",
-   "baslik": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
-   "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
-   "ozet": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as CVE-2026-123903, is rated 9.8 out of 10.0 on the CVSS",
-   "grup": "Genel"
-  },
-  {
    "id": "db125410d093",
    "tarih": "2026-11-24",
    "kaynak": "Cybersecurity Dive",
@@ -582,69 +691,6 @@
    "url": "https://www.cybersecuritydive.com/news/ai-enabled-campaign-targets-check-point-security-management-servers/875622/",
    "ozet": "At least 22 organizations were compromised in the attacks, which involved the exploitation of critical vulnerabilities.",
    "grup": "Check Point"
-  },
-  {
-   "id": "d305226424f3",
-   "tarih": "2026-11-24",
-   "kaynak": "Help Net Security",
-   "baslik": "Google Cloud CISO talks agentic AI security and the future of the SOC",
-   "url": "https://www.helpnetsecurity.com/2026/11/24/chris-betz-google-agentic-ai-security/",
-   "ozet": "In this interview with Help Net Security, Chris Betz, CISO of Google Cloud, answers five questions about security as AI agents spread. He says the old belief that human-led workflows would stay the norm has aged badly, since attackers use automation to move through networks in minutes. Betz explains",
-   "grup": "Genel"
-  },
-  {
-   "id": "d2294fb10fbb",
-   "tarih": "2026-11-24",
-   "kaynak": "SecurityWeek",
-   "baslik": "European Commission Uncovers Data Breach in Cyberattack Investigation",
-   "url": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/",
-   "ozet": "Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October. The post European Commission Uncovers Data Breach in Cyberattack Investigation appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "d0b87a53ea57",
-   "tarih": "2026-11-24",
-   "kaynak": "Help Net Security",
-   "baslik": "Claude Ship gives AI a seat on both sides of code review",
-   "url": "https://www.helpnetsecurity.com/2026/11/24/anthropic-claude-ship-beta/",
-   "ozet": "Anthropic launched Claude Ship in beta, a suite of agents that reviews pull requests, fixes issues and approves changes permitted by a team&#8217;s policy. Teams decide where it runs and which changes require human approval. Anthropic said Claude writes most of the code on its Claude Code team. With",
-   "grup": "Genel"
-  },
-  {
-   "id": "cad292c7e46b",
-   "tarih": "2026-11-24",
-   "kaynak": "BleepingComputer",
-   "baslik": "European Commission confirms data theft in EU Academy breach",
-   "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-   "ozet": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "ca1277f0d639",
-   "tarih": "2026-11-24",
-   "kaynak": "Help Net Security",
-   "baslik": "Bedrock Data enhances AI agent governance with intent-aware DLP",
-   "url": "https://www.helpnetsecurity.com/2026/11/24/bedrock-data-agent-dlp/",
-   "ozet": "Bedrock Data has announced that Agent DLP, its runtime data loss prevention for AI agents, now infers a user’s intent (the business purpose behind the task) and evaluates the agent’s behavior (the sum of its actions across every tool and LLM call) against that intent and the organization’s policy. B",
-   "grup": "Genel"
-  },
-  {
-   "id": "c8b424af74ca",
-   "tarih": "2026-11-24",
-   "kaynak": "Hackread",
-   "baslik": "When Threat Intelligence Works Against Your SOC: 3 Patterns to Watch For",
-   "url": "https://hackread.com/when-threat-intelligence-works-against-soc-pattern/",
-   "ozet": "Poor threat intelligence can slow your SOC. Learn how to fix three recurring problems: gaps in threat data, delayed updates and too many manual tasks.",
-   "grup": "Genel"
-  },
-  {
-   "id": "c717d04d5f55",
-   "tarih": "2026-11-24",
-   "kaynak": "Help Net Security",
-   "baslik": "Elastic puts AI agents to work on the SOC alert backlog",
-   "url": "https://www.helpnetsecurity.com/2026/11/24/elastic-security-9-6-features/",
-   "ozet": "Elastic announced Elastic Security 9.6, which introduces AlertZero, a set of AI agents that triage alerts, hunt threats and tune detection rules in the background. The release also adds ransomware protection for Linux, expanded entity resolution and an expanded set of 143 detection rules covering AI",
-   "grup": "Genel"
   },
   {
    "id": "bd2130a7476e",
