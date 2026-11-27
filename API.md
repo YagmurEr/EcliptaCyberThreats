@@ -8,7 +8,7 @@ Temel adres: `https://YagmurEr.github.io/EcliptaCyberThreats/data/`
 
 | Dosya | İçerik | Temel alanlar |
 | --- | --- | --- |
-| [kev.json](https://YagmurEr.github.io/EcliptaCyberThreats/data/kev.json) | İzlenen üreticilerin CISA KEV kayıtları, EPSS ve CVSS zenginleştirmesi | `guncelleme`, `katalogTarih`, `epssTarih`, `gruplar[]`, `kayitlar[]`, `aylik[]` |
+| [kev.json](https://YagmurEr.github.io/EcliptaCyberThreats/data/kev.json) | CISA KEV kataloğunun tamamı, üretici kartı eşleşmesi, EPSS ve CVSS zenginleştirmesi | `guncelleme`, `katalogTarih`, `epssTarih`, `toplam`, `izlenenToplam`, `gruplar[]`, `kayitlar[]`, `aylik[]` |
 | [aktif_istismar.json](https://YagmurEr.github.io/EcliptaCyberThreats/data/aktif_istismar.json) | Derlenmiş aktif istismar verileri | Şema için güncel JSON dosyasına bakın |
 | [kvkk_bildirim.json](https://YagmurEr.github.io/EcliptaCyberThreats/data/kvkk_bildirim.json) | KVKK veri ihlali bildirimleri | `aciklama`, `bildirimler[]` |
 | [kvkk_ilan.json](https://YagmurEr.github.io/EcliptaCyberThreats/data/kvkk_ilan.json) | İlan günleri ve özetler | `ilanlar[]` |
@@ -18,7 +18,7 @@ Temel adres: `https://YagmurEr.github.io/EcliptaCyberThreats/data/`
 
 ## Örnek alanlar
 
-`kev.json > kayitlar[]`: `cveID`, `grup`, `uretici`, `urun`, `zafiyet`, `eklenme`, `sonTarih`, `fidye`, `epssYuzde`, `epssYuzdelik`, `cvss`.
+`kev.json > kayitlar[]`: `cveID`, `grup`, `uretici`, `urun`, `zafiyet`, `eklenme`, `sonTarih`, `fidye`, `epssYuzde`, `epssYuzdelik`, `cvss`. `grup`, yalnızca kayıt tanımlı bir üretici kartıyla eşleştiğinde doludur; diğer üreticilerde `null` olur. `kayitlar[]` genel liste olarak CISA kataloğunun tamamını kapsar.
 
 `kvkk_bildirim.json > bildirimler[]`: `id`, `tarih`, `veriSorumlusu`, `sektor`, `tur`, `etkilenen`, `etkilenenNot`, `veriKategorileri`, `veriDetay`, `karar`, `url`.
 

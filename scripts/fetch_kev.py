@@ -4,9 +4,10 @@
 Kaynaklar (hepsi herkese açık, kimlik doğrulama gerektirmez):
   - CISA KEV: github.com/cisagov/kev-data
   - EPSS (FIRST, günlük): github.com/empiricalsec/epss_scores
-  - CVSS: github.com/CVEProject/cvelistV5 (yalnızca izlenen kayıtlar, önbellekli)
+  - CVSS: github.com/CVEProject/cvelistV5 (tüm KEV kayıtları, önbellekli)
 """
 import csv
+import concurrent.futures
 import datetime as dt
 import gzip
 import io
@@ -27,6 +28,7 @@ EPSS_URL = "https://raw.githubusercontent.com/empiricalsec/epss_scores/main/{y}/
 CVE_URL = "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/{y}/{grp}/{cve}.json"
 HEADERS = {"User-Agent": "eclipta-tehdit-veri/1.0 (+https://eclipta.tr/sibergundem)"}
 CVE_RE = re.compile(r"^CVE-(\d{4})-(\d{4,})$")
+CVSS_WORKERS = 12
 
 
 def get(url, timeout=60, tries=3):
@@ -103,38 +105,44 @@ def cvss_cek(cve):
     return v4
 
 
+def kayit_olustur(kayit):
+    """CISA kaydını arayüz şemasına dönüştürür; kart eşleşmesi yoksa grup null kalır."""
+    return {"cveID": kayit["cveID"], "grup": grup_bul(kayit), "uretici": kayit["vendorProject"].strip(), "urun": kayit["product"].strip(), "zafiyet": kayit["vulnerabilityName"].strip(), "eklenme": kayit["dateAdded"], "sonTarih": kayit["dueDate"], "fidye": "Biliniyor" if kayit.get("knownRansomwareCampaignUse") == "Known" else "Bilinmiyor"}
+
+
+def cvss_onbellegini_tamamla(kayitlar, onbellek):
+    """Eksik CVSS değerlerini sınırlı paralellikle tamamlar; bulunamayanlar null kalır."""
+    eksik = [k["cveID"] for k in kayitlar if k["cveID"] not in onbellek]
+    if not eksik:
+        return onbellek
+    with concurrent.futures.ThreadPoolExecutor(max_workers=CVSS_WORKERS) as havuz:
+        for cve, skor in zip(eksik, havuz.map(cvss_cek, eksik)):
+            if skor is not None:
+                onbellek[cve] = skor
+    return onbellek
+
+
 def main():
     kev = json.loads(get(KEV_URL))
     tum = kev["vulnerabilities"]
     ref = max(k["dateAdded"] for k in tum)
 
-    izlenen = []
-    for k in tum:
-        g = grup_bul(k)
-        if g:
-            izlenen.append({
-                "cveID": k["cveID"], "grup": g, "uretici": k["vendorProject"].strip(), "urun": k["product"].strip(),
-                "zafiyet": k["vulnerabilityName"].strip(), "eklenme": k["dateAdded"], "sonTarih": k["dueDate"],
-                "fidye": "Biliniyor" if k.get("knownRansomwareCampaignUse") == "Known" else "Bilinmiyor",
-            })
+    kayitlar = [kayit_olustur(k) for k in tum]
+    izlenen = [k for k in kayitlar if k["grup"] is not None]
 
-    epss_tarih, epss = epss_yukle({k["cveID"] for k in izlenen})
+    epss_tarih, epss = epss_yukle({k["cveID"] for k in kayitlar})
 
     onbellek_yolu = DATA / "cvss_onbellek.json"
     onbellek = json.loads(onbellek_yolu.read_text(encoding="utf-8")) if onbellek_yolu.exists() else {}
-    eksik = [k["cveID"] for k in izlenen if k["cveID"] not in onbellek]
-    for cve in eksik:
-        skor = cvss_cek(cve)
-        if skor is not None:
-            onbellek[cve] = skor
+    onbellek = cvss_onbellegini_tamamla(kayitlar, onbellek)
     onbellek_yolu.write_text(json.dumps(onbellek, ensure_ascii=False, sort_keys=True), encoding="utf-8")
 
-    for k in izlenen:
+    for k in kayitlar:
         e = epss.get(k["cveID"])
         k["epssYuzde"] = round(e[0] * 100, 1) if e else None
         k["epssYuzdelik"] = round(e[1] * 100, 1) if e else None
         k["cvss"] = onbellek.get(k["cveID"])
-    izlenen.sort(key=lambda k: (k["eklenme"], k["cveID"]), reverse=True)
+    kayitlar.sort(key=lambda k: (k["eklenme"], k["cveID"]), reverse=True)
 
     # Son 24 ay: tüm katalog ve izlenen kayıtlar
     y, m = int(ref[:4]), int(ref[5:7])
@@ -156,13 +164,14 @@ def main():
         "katalogTarih": ref,
         "epssTarih": epss_tarih,
         "toplam": len(tum),
+        "izlenenToplam": len(izlenen),
         "gruplar": [{"ad": g["ad"], "renk": g["renk"], "altBaslik": g.get("altBaslik", "")} for g in CFG["gruplar"]],
         "aylik": aylik,
-        "kayitlar": izlenen,
+        "kayitlar": kayitlar,
     }
     (DATA / "kev.json").write_text(json.dumps(cikti, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    print(f"KEV {cikti['katalogSurum']}: {len(tum)} kayıt, {len(izlenen)} izlenen; EPSS {epss_tarih}; "
-          f"CVSS eksik {sum(1 for k in izlenen if k['cvss'] is None)}")
+    print(f"KEV {cikti['katalogSurum']}: {len(kayitlar)} kayıt, {len(izlenen)} izlenen; EPSS {epss_tarih}; "
+          f"CVSS eksik {sum(1 for k in kayitlar if k['cvss'] is None)}; EPSS eksik {sum(1 for k in kayitlar if k['epssYuzde'] is None)}")
 
 
 if __name__ == "__main__":
