@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-27T12:11:27+00:00",
+ "guncelleme": "2026-11-27T18:54:19+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -43,8 +43,7 @@
   },
   {
    "kaynak": "Hackread",
-   "durum": "ok",
-   "adet": 10
+   "durum": "hata"
   },
   {
    "kaynak": "SOC Prime",
@@ -53,6 +52,24 @@
   }
  ],
  "haberler": [
+  {
+   "id": "f3610c714630",
+   "tarih": "2026-11-27",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Hide Malware as Google Sheets to Secretly Read Your Gmail Messages",
+   "url": "https://gbhackers.com/secret-gmail-access/",
+   "ozet": "Remus Stealer&#8217;s operators are advertising a way to open a victim&#8217;s Gmail inbox directly from a stolen-device record. They claim access survives password changes and session revocation. The evidence points to a mailbox-access workflow built into an infostealer service. It does not show a ",
+   "grup": "Genel"
+  },
+  {
+   "id": "f01224df1f54",
+   "tarih": "2026-11-27",
+   "kaynak": "The Hacker News",
+   "baslik": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+   "url": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+   "ozet": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military agreements. The previously undocumented incursion set, detailed by SOCRadar, has b",
+   "grup": "Genel"
+  },
   {
    "id": "e1ccd20a1f2e",
    "tarih": "2026-11-27",
@@ -171,12 +188,57 @@
    "grup": "Genel"
   },
   {
+   "id": "975d13cf6e53",
+   "tarih": "2026-11-27",
+   "kaynak": "Help Net Security",
+   "baslik": "FIFA hacked, cybercriminals claim access to sensitive internal records",
+   "url": "https://www.helpnetsecurity.com/2026/11/27/fifa-cyberattack-data-leak/",
+   "ozet": "Cybercriminals broke into FIFA’s systems and gained access to “a limited set of personal and business information,” world football’s governing body confirmed on Thursday. &#8220;FIFA is working closely with the relevant authorities, including law enforcement,&#8221; the Zurich-based football governi",
+   "grup": "Genel"
+  },
+  {
+   "id": "96edb4ed0f1c",
+   "tarih": "2026-11-27",
+   "kaynak": "BleepingComputer",
+   "baslik": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+   "url": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+   "ozet": "Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls, and resource lifecycle automation can help reduce these risks. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "92e8db8bf23b",
+   "tarih": "2026-11-27",
+   "kaynak": "SOC Prime",
+   "baslik": "CVE-2026-132165: Drupal Fail2Install RCE Exploited in the Wild",
+   "url": "https://socprime.com/blog/cve-2026-132165-drupal-fail2install-rce-exploited-in-the-wild/",
+   "ozet": "Drupal administrators are facing an actively exploited vulnerability tracked as CVE-2026-132165, also known as Fail2Install, that can allow an unauthenticated attacker to force a live Drupal website back into its installation workflow. Under specific conditions, this can lead to complete site takeov",
+   "grup": "Genel"
+  },
+  {
+   "id": "8b62149719af",
+   "tarih": "2026-11-27",
+   "kaynak": "BleepingComputer",
+   "baslik": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+   "url": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+   "ozet": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]",
+   "grup": "Genel"
+  },
+  {
    "id": "88cfbdc8f04a",
    "tarih": "2026-11-27",
    "kaynak": "GBHackers",
    "baslik": "Standard Chartered’s Crypto Unit Zodia Custody Hit by Data Breach, Exposing Client and Employee Information",
    "url": "https://gbhackers.com/standard-chartereds-crypto-unit-zodia-custody-hit-by-data-breach/",
    "ozet": "Standard Chartered’s cryptocurrency custody unit, Zodia Custody, disclosed a security breach that exposed information about some institutional clients and employees. Chief Executive Richard Clark told Reuters on November 26 that the company had found no unauthorized transactions in its investigation",
+   "grup": "Genel"
+  },
+  {
+   "id": "814d32c90295",
+   "tarih": "2026-11-27",
+   "kaynak": "BleepingComputer",
+   "baslik": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+   "url": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+   "ozet": "Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft protection, and personal data removal services. [...]",
    "grup": "Genel"
   },
   {
@@ -204,6 +266,15 @@
    "baslik": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
    "url": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
    "ozet": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution. The proof-of-concept (PoC) exploit, which has yet to be assigned a CVE identifier, has been tracked as 4HTTP2SHELL and 4HTTP2ROOT. \"I fo",
+   "grup": "Genel"
+  },
+  {
+   "id": "6ef685cbe66d",
+   "tarih": "2026-11-27",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Use Fake Facebook Ads to Spread Malware That Steals Business Accounts and Emails",
+   "url": "https://gbhackers.com/fake-facebook-ads/",
+   "ozet": "Cybercriminals are buying the same Meta ad inventory that legitimate brands use. They use it to push the SYS01 infostealer, which targets Facebook Business accounts and turns each stolen account into funding for the next wave of ads. Thousands of ads were observed, and individual ads reached tens of",
    "grup": "Genel"
   },
   {
@@ -252,6 +323,24 @@
    "grup": "Genel"
   },
   {
+   "id": "4895aa5a5bc0",
+   "tarih": "2026-11-27",
+   "kaynak": "The Hacker News",
+   "baslik": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+   "url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+   "ozet": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to eSentire, begins with a redirection to a bogus site for a sniping tool (\"snipp.code",
+   "grup": "Microsoft"
+  },
+  {
+   "id": "47ba8e3fb16d",
+   "tarih": "2026-11-27",
+   "kaynak": "Dark Reading",
+   "baslik": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+   "url": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
+   "ozet": "The security startup consolidates four legacy security tools into an autonomous platform that uses context-aware AI to trace sensitive data lineage, analyze user intent, and automatically remediate threats across enterprise environments.",
+   "grup": "Genel"
+  },
+  {
    "id": "4528fc9f776c",
    "tarih": "2026-11-27",
    "kaynak": "GBHackers",
@@ -288,6 +377,15 @@
    "grup": "Genel"
   },
   {
+   "id": "3b8d0a7e0d03",
+   "tarih": "2026-11-27",
+   "kaynak": "Dark Reading",
+   "baslik": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+   "url": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+   "ozet": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
+   "grup": "Genel"
+  },
+  {
    "id": "34ba075e7282",
    "tarih": "2026-11-27",
    "kaynak": "BleepingComputer",
@@ -303,6 +401,15 @@
    "baslik": "Drupal warns of new site takeover flaw exploited in attacks",
    "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
    "ozet": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
+   "grup": "Genel"
+  },
+  {
+   "id": "2778b393e634",
+   "tarih": "2026-11-27",
+   "kaynak": "BleepingComputer",
+   "baslik": "US Air Force cloud platform reportedly hacked in latest federal breach",
+   "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+   "ozet": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]",
    "grup": "Genel"
   },
   {
@@ -549,87 +656,6 @@
    "grup": "Genel"
   },
   {
-   "id": "516d8b374594",
-   "tarih": "2026-11-26",
-   "kaynak": "GBHackers",
-   "baslik": "Hackers Use Suspected SEO Poisoning to Lure Users Into Downloading Gh0stRAT Malware",
-   "url": "https://gbhackers.com/seo-poisoning-campaign-2/",
-   "ozet": "A Gh0stRAT campaign that hides behind a working copy of the OhSoft oCam screen recorder. Researchers link the activity to Silver Fox and suspect SEO poisoning as the delivery method. Endpoint detection and response (EDR) stopped the infection roughly 90 seconds after the installer launched. In mid-S",
-   "grup": "Genel"
-  },
-  {
-   "id": "4defc6085564",
-   "tarih": "2026-11-26",
-   "kaynak": "Help Net Security",
-   "baslik": "People are willing to pay to vanish from search results",
-   "url": "https://www.helpnetsecurity.com/2026/11/26/incogni-online-privacy-concerns-report/",
-   "ozet": "More than half of U.S. adults would like to see a log of everyone who has searched for their name online. In a survey of 1,008 adults by Incogni, 53% said they would like that record to cover the past five years, and 55% said they would pay to have their personal information permanently removed from",
-   "grup": "Genel"
-  },
-  {
-   "id": "457c08cf27ea",
-   "tarih": "2026-11-26",
-   "kaynak": "The Hacker News",
-   "baslik": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
-   "url": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
-   "ozet": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to C",
-   "grup": "Genel"
-  },
-  {
-   "id": "42756c94ced7",
-   "tarih": "2026-11-26",
-   "kaynak": "BleepingComputer",
-   "baslik": "Fake paid expert interviews impersonate brands to steal Google logins",
-   "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
-   "ozet": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]",
-   "grup": "Genel"
-  },
-  {
-   "id": "420627cd7e6f",
-   "tarih": "2026-11-26",
-   "kaynak": "The Hacker News",
-   "baslik": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
-   "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
-   "ozet": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we took immediate steps t",
-   "grup": "Genel"
-  },
-  {
-   "id": "3980562478a3",
-   "tarih": "2026-11-26",
-   "kaynak": "Help Net Security",
-   "baslik": "Black Friday cybersecurity deals 2026: Stay safe, spend less",
-   "url": "https://www.helpnetsecurity.com/2026/11/26/black-friday-2026-cybersecurity-deals/",
-   "ozet": "Black Friday is here again, and for once your inbox full of &#8220;limited time offer&#8221; emails might be worth opening. Every year, security vendors join the sales rush with discounts on the tools we rely on every day. Below you&#8217;ll find some great Black Friday 2026 cybersecurity deals. Gra",
-   "grup": "Genel"
-  },
-  {
-   "id": "37e152d36e89",
-   "tarih": "2026-11-26",
-   "kaynak": "SecurityWeek",
-   "baslik": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
-   "url": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
-   "ozet": "Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap. The post Drupal Installer Patch Left a Gap Attackers Are Already Exploiting appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "348583b5cbc9",
-   "tarih": "2026-11-26",
-   "kaynak": "GBHackers",
-   "baslik": "The Anatomy of Tag Leakage: How Pixels, Session Replays, and Trackers Bypass Standard Banners",
-   "url": "https://gbhackers.com/the-anatomy-of-tag-leakage-how-pixels-session-replays-and-trackers-bypass-standard-banners/",
-   "ozet": "A consent banner is a preference requirement. It writes a cookie or localStorage key recording the visitor&#8217;s choice for any code that decides to read it. Nothing in the banner stops a script tag from executing or a request from leaving the browser. Tag leakage is the gap between those two thin",
-   "grup": "Genel"
-  },
-  {
-   "id": "2e2bda06ff3d",
-   "tarih": "2026-11-26",
-   "kaynak": "GBHackers",
-   "baslik": "Critical Danfoss Refrigeration Controller Vulnerability Could Let Hackers Execute Arbitrary Code Remotely",
-   "url": "https://gbhackers.com/critical-danfoss-refrigeration-controller-vulnerability/",
-   "ozet": "A critical vulnerability in Danfoss AK-SM 8xxA Series refrigeration controllers could allow remote attackers to execute arbitrary code without logging in. The flaw, tracked as CVE-2026-129713, affects software version 5.4.0 and earlier. In its November 24, 2026, industrial control systems advisory, ",
-   "grup": "Genel"
-  },
-  {
    "id": "2cde4a64c5de",
    "tarih": "2026-11-26",
    "kaynak": "The Hacker News",
@@ -637,15 +663,6 @@
    "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
    "ozet": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what it does. Checking whether software works as expected only tel",
    "grup": "NGINX"
-  },
-  {
-   "id": "27c41b73faa5",
-   "tarih": "2026-11-26",
-   "kaynak": "The Hacker News",
-   "baslik": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
-   "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
-   "ozet": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about. At Push Security, we measure this as breakthrough rate: The share of ",
-   "grup": "Genel"
   },
   {
    "id": "23ec231ca044",
@@ -664,15 +681,6 @@
    "url": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
    "ozet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week. The Mitel MiCollab vulnerabilities are listed below - CVE",
    "grup": "Juniper"
-  },
-  {
-   "id": "1c0fdc3979bb",
-   "tarih": "2026-11-26",
-   "kaynak": "BleepingComputer",
-   "baslik": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
-   "url": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
-   "ozet": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
-   "grup": "Genel"
   },
   {
    "id": "11e3e2773755",
