@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-28T03:16:40+00:00",
+ "guncelleme": "2026-11-28T11:41:18+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -52,6 +52,69 @@
   }
  ],
  "haberler": [
+  {
+   "id": "f9e1d6fceb90",
+   "tarih": "2026-11-28",
+   "kaynak": "GBHackers",
+   "baslik": "Hackers Set Freezer Controls to 100°C, Then Lock Technicians Out of the System",
+   "url": "https://gbhackers.com/hackers-set-freezer-controls-to-100c/",
+   "ozet": "Attackers compromised the remote cold-chain management platform of Salamerija Alpija, a meat-processing plant run by the Tolmin Agricultural Cooperative in Slovenia. They pushed freezer chamber setpoints to 100°C. The intrusion was disclosed on November 26, 2026, and is the latest in a run of attack",
+   "grup": "Genel"
+  },
+  {
+   "id": "ed56aac972a3",
+   "tarih": "2026-11-28",
+   "kaynak": "The Hacker News",
+   "baslik": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+   "url": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+   "ozet": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting pCloud Pass occurred, which was promptly contained by the pCloud team,\" the Swiss company said in respo",
+   "grup": "Genel"
+  },
+  {
+   "id": "ce3b56fdd428",
+   "tarih": "2026-11-28",
+   "kaynak": "GBHackers",
+   "baslik": "Boston Scientific Data Breach – Hackers Steal Personal Information via Voice Phishing Attack",
+   "url": "https://gbhackers.com/boston-scientific-data-breach/",
+   "ozet": "Boston Scientific has confirmed that a voice phishing (vishing) intrusion exposed personal and medical-related data from its cloud-based IT business applications. The medical technology company began sending breach notices to individuals across multiple U.S. states after it filed a sample notificati",
+   "grup": "Genel"
+  },
+  {
+   "id": "ac07f1de7a56",
+   "tarih": "2026-11-28",
+   "kaynak": "GBHackers",
+   "baslik": "pCloud Pass Hit by Cyberattack, Exposing User Emails and Triggering Suspicious Login Alerts",
+   "url": "https://gbhackers.com/pcloud-pass-hit-by-cyberattack/",
+   "ozet": "pCloud has confirmed a cyberattack on its pCloud Pass password manager service. The attack exposed a small number of user email addresses and produced automated &#8220;You connected a new device&#8221; alerts. The company says it contained the incident quickly. It says the attack was limited to pClo",
+   "grup": "Genel"
+  },
+  {
+   "id": "4fef04fc5252",
+   "tarih": "2026-11-28",
+   "kaynak": "GBHackers",
+   "baslik": "Telegram Warns iPhone Users of Widespread Cyberattacks Exploiting Outdated iOS Versions",
+   "url": "https://gbhackers.com/telegram-warns-iphone-users-cyberattacks/",
+   "ozet": "Telegram pushed an in-app notice on November 27 telling iPhone users on outdated iOS builds. The message warns that obsolete releases carry unpatched memory-corruption defects that expose accounts and data. It directs users to Settings, General, Software Update to install the latest release. The wor",
+   "grup": "Genel"
+  },
+  {
+   "id": "47bf7b206252",
+   "tarih": "2026-11-28",
+   "kaynak": "GBHackers",
+   "baslik": "12-Year-Old Linux Kernel Flaw Allows Hackers to Take Over Servers Without Passwords",
+   "url": "https://gbhackers.com/12-year-old-linux-kernel-flaw/",
+   "ozet": "A pre-authentication heap overflow in the Linux kernel&#8217;s in-kernel NFS server, nfsd, went undetected for 12 years. Tracked as CVE-2026-99362 and dubbed NFS2ROOT, it carries a CVSS 3.1 score of 9.8. A single unauthenticated TCP connection to port 2049 corrupts kernel memory and ends in a root s",
+   "grup": "Linux Kernel"
+  },
+  {
+   "id": "247568075277",
+   "tarih": "2026-11-28",
+   "kaynak": "GBHackers",
+   "baslik": "Hong Kong’s Octopus Payment System Hit by Cyberattack, Exposing Data of Nearly 30,000 Customers and Merchants",
+   "url": "https://gbhackers.com/hong-kongs-octopus-payment-system-cyberattack/",
+   "ozet": "Octopus Cards Limited, the Hong Kong smart-card and payments operator, has confirmed a cyberattack that exfiltrated personal data tied to about 7,500 individual customers and contact records for roughly 22,000 merchants. The company detected the intrusion on Friday morning and immediately activated ",
+   "grup": "Genel"
+  },
   {
    "id": "f3610c714630",
    "tarih": "2026-11-27",
@@ -593,33 +656,6 @@
    "grup": "Genel"
   },
   {
-   "id": "9fef03c442c0",
-   "tarih": "2026-11-26",
-   "kaynak": "Help Net Security",
-   "baslik": "Data recovery firm co-founder accused of cashing in on ransomware victims",
-   "url": "https://www.helpnetsecurity.com/2026/11/26/ransomware-recovery-fraud-florida-firm-co-founder-charged/",
-   "ozet": "The co-founder of a Florida data recovery firm has been indicted on charges that he secretly paid ransomware gangs while telling victims his company never did. Juan Ricardo Palacio Escobar, a 52-year-old Colombian national, was arrested in Las Vegas on October 22 and has been charged by a federal gr",
-   "grup": "Genel"
-  },
-  {
-   "id": "98bf0c432201",
-   "tarih": "2026-11-26",
-   "kaynak": "The Hacker News",
-   "baslik": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
-   "url": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
-   "ozet": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket security researcher K",
-   "grup": "Genel"
-  },
-  {
-   "id": "98404916e851",
-   "tarih": "2026-11-26",
-   "kaynak": "Help Net Security",
-   "baslik": "US agency tracking money laundering is latest casualty in string of federal breaches",
-   "url": "https://www.helpnetsecurity.com/2026/11/26/fincen-breach-systems-offline/",
-   "ozet": "An intrusion at the US Treasury&#8217;s Financial Crimes Enforcement Network (FinCEN) has forced the agency to take some systems offline and extend reporting deadlines for financial institutions. The bureau serves as the US government&#8217;s financial intelligence unit, collecting suspicious activi",
-   "grup": "Genel"
-  },
-  {
    "id": "934844eca98d",
    "tarih": "2026-11-26",
    "kaynak": "GBHackers",
@@ -627,33 +663,6 @@
    "url": "https://gbhackers.com/windows-ntlm-security-update-causes-authentication-failures/",
    "ozet": "Microsoft has confirmed that Windows security updates released on or after November 10, 2026, can cause authentication failures in some third-party applications and devices that rely on NT LAN Manager (NTLM). Affected products can include authentication proxy servers, single sign-on (SSO) solutions,",
    "grup": "Microsoft"
-  },
-  {
-   "id": "8dbafbcd911f",
-   "tarih": "2026-11-26",
-   "kaynak": "GBHackers",
-   "baslik": "Critical GeoServer Vulnerability Chain Lets Hackers Execute Remote Commands Without Authentication",
-   "url": "https://gbhackers.com/critical-geoserver-vulnerability-chain/",
-   "ozet": "Five vulnerabilities in GeoServer, an open-source server for publishing geospatial data, can be chained to execute operating system commands without valid credentials. Security researcher CryptoCat demonstrated the chain on a default Linux installation, while watchTowr reported seeing attempts to ex",
-   "grup": "Genel"
-  },
-  {
-   "id": "84f25e464074",
-   "tarih": "2026-11-26",
-   "kaynak": "SecurityWeek",
-   "baslik": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
-   "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
-   "ozet": "Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign. The post Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks appeared first on SecurityWeek.",
-   "grup": "Genel"
-  },
-  {
-   "id": "84ce059e91ed",
-   "tarih": "2026-11-26",
-   "kaynak": "SecurityWeek",
-   "baslik": "1Password Breach Exposes Customer Data, Internal Source Code",
-   "url": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
-   "ozet": "A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed. The post 1Password Breach Exposes Customer Data, Internal Source Code appeared first on SecurityWeek.",
-   "grup": "Genel"
   },
   {
    "id": "2cde4a64c5de",
