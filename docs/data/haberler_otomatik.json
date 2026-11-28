@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-28T11:41:18+00:00",
+ "guncelleme": "2026-11-28T17:29:44+00:00",
  "kaynakDurumu": [
   {
    "kaynak": "BleepingComputer",
@@ -43,7 +43,8 @@
   },
   {
    "kaynak": "Hackread",
-   "durum": "hata"
+   "durum": "ok",
+   "adet": 10
   },
   {
    "kaynak": "SOC Prime",
@@ -105,6 +106,15 @@
    "url": "https://gbhackers.com/12-year-old-linux-kernel-flaw/",
    "ozet": "A pre-authentication heap overflow in the Linux kernel&#8217;s in-kernel NFS server, nfsd, went undetected for 12 years. Tracked as CVE-2026-99362 and dubbed NFS2ROOT, it carries a CVSS 3.1 score of 9.8. A single unauthenticated TCP connection to port 2049 corrupts kernel memory and ends in a root s",
    "grup": "Linux Kernel"
+  },
+  {
+   "id": "2607e0272e79",
+   "tarih": "2026-11-28",
+   "kaynak": "BleepingComputer",
+   "baslik": "Q-Dir and DesktopOK Windows utilities compromised to push Python RAT",
+   "url": "https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/",
+   "ozet": "Official distribution channels for the Q-Dir and DesktopOK Windows utilities were compromised to deliver trojanized installers containing Python-based remote access malware. [...]",
+   "grup": "Microsoft"
   },
   {
    "id": "247568075277",
